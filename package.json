@@ -1,0 +1,30 @@
+{
+  "name": "mypertaminabot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app/index.js",
+  "scripts": {
+    "start": "npx tsc && node ./app/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dickymuliafiqri/MyPertaminaBot.git"
+  },
+  "author": "Dicky Mulia Fiqri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dickymuliafiqri/MyPertaminaBot/issues"
+  },
+  "homepage": "https://github.com/dickymuliafiqri/MyPertaminaBot#readme",
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  },
+  "dependencies": {
+    "@types/node": "^22.7.4",
+    "axios": "^1.7.7",
+    "google-auth-library": "^9.14.1",
+    "google-spreadsheet": "^4.1.4",
+    "grammy": "^1.30.0"
+  }
+}
