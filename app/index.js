@@ -13,13 +13,14 @@ const database_1 = require("./modules/database");
 const pertamina_1 = require("./modules/pertamina");
 (() => __awaiter(void 0, void 0, void 0, function* () {
     var _a, _b, _c, _d;
-    let transactionLimit = 10;
+    let userLimit = 10;
     const db = new database_1.Database();
     yield db.doc.loadInfo();
     for (let i = 0; i < db.doc.sheetCount - 1; i++) {
-        if (transactionLimit <= 0)
-            break;
         const sheet = db.doc.sheetsByIndex[i];
+        let transactionLimit = 3;
+        if (userLimit <= 0)
+            break;
         // Check user on local temp data
         let user = db.getUserLocalData(sheet.title);
         if (user) {
@@ -55,6 +56,7 @@ const pertamina_1 = require("./modules/pertamina");
         });
         if (isTokenValid && stock > 0) {
             console.log(`\n[+] Using ${sheet.title} credential...`);
+            userLimit -= 1;
             let maxColumnIndex = 0;
             for (const row of rows) {
                 const rawData = row["_rawData"];
@@ -69,7 +71,7 @@ const pertamina_1 = require("./modules/pertamina");
                         const nik = parseInt(rawData[0].replaceAll(" ", "")).toString();
                         console.log(`[+] Processing ${nik}...`);
                         const transaction = yield pertamina.transaction(nik);
-                        const cellA1Notation = (rawData.length + 9).toString(36).toUpperCase() + row["_rowNumber"];
+                        const cellA1Notation = (rawData.length + 1 + 9).toString(36).toUpperCase() + row["_rowNumber"];
                         const cell = sheet.getCell(row["_rowNumber"] - 1, rawData.length);
                         if (transaction.success) {
                             console.log(`[+] Transaction success!`);
@@ -84,14 +86,15 @@ const pertamina_1 = require("./modules/pertamina");
                             console.log(`[-] Error occured: ${transaction.message}`);
                             cell.value = 0;
                         }
-                        console.log(`[+] Saving changes to Google Sheets...`);
-                        yield sheet.saveUpdatedCells();
-                        console.log(`[+] Changes saved on ${cellA1Notation}!`);
-                        console.log(`[+] Done!`);
-                        break;
+                        console.log(`[+] Data update on ${cellA1Notation}!`);
+                        if (transactionLimit <= 0)
+                            break;
                     }
                 }
             }
+            console.log(`[+] Saving changes to Google Sheets...`);
+            yield sheet.saveUpdatedCells();
+            console.log(`[+] Done!`);
         }
     }
 }))();

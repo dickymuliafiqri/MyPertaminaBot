@@ -4,14 +4,15 @@ import { sleep } from "./modules/helper";
 import { Pertamina } from "./modules/pertamina";
 
 (async () => {
-  let transactionLimit = 10;
+  let userLimit = 10;
   const db = new Database();
   await db.doc.loadInfo();
 
   for (let i = 0; i < db.doc.sheetCount - 1; i++) {
-    if (transactionLimit <= 0) break;
-
     const sheet = db.doc.sheetsByIndex[i];
+    let transactionLimit = 3;
+
+    if (userLimit <= 0) break;
 
     // Check user on local temp data
     let user = db.getUserLocalData(sheet.title);
@@ -52,6 +53,7 @@ import { Pertamina } from "./modules/pertamina";
 
     if (isTokenValid && stock > 0) {
       console.log(`\n[+] Using ${sheet.title} credential...`);
+      userLimit -= 1;
 
       let maxColumnIndex = 0;
       for (const row of rows) {
@@ -68,7 +70,7 @@ import { Pertamina } from "./modules/pertamina";
 
             console.log(`[+] Processing ${nik}...`);
             const transaction = await pertamina.transaction(nik);
-            const cellA1Notation = (rawData.length + 9).toString(36).toUpperCase() + row["_rowNumber"];
+            const cellA1Notation = (rawData.length + 1 + 9).toString(36).toUpperCase() + row["_rowNumber"];
             const cell = sheet.getCell(row["_rowNumber"] - 1, rawData.length);
 
             if (transaction.success) {
@@ -83,14 +85,16 @@ import { Pertamina } from "./modules/pertamina";
               cell.value = 0;
             }
 
-            console.log(`[+] Saving changes to Google Sheets...`);
-            await sheet.saveUpdatedCells();
-            console.log(`[+] Changes saved on ${cellA1Notation}!`);
-            console.log(`[+] Done!`);
-            break;
+            console.log(`[+] Data update on ${cellA1Notation}!`);
+
+            if (transactionLimit <= 0) break;
           }
         }
       }
+
+      console.log(`[+] Saving changes to Google Sheets...`);
+      await sheet.saveUpdatedCells();
+      console.log(`[+] Done!`);
     }
   }
 })();
