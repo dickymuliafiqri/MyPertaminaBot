@@ -100,6 +100,13 @@ class Pertamina {
                 let buyQuantity = customerType.name == "Usaha Mikro" ? 3 : 1;
                 if (customerType.name == "Usaha Mikro" && product.data.stockAvailable < 3)
                     buyQuantity = product.data.stockAvailable;
+                if (buyQuantity <= 0) {
+                    return {
+                        success: false,
+                        message: "Out of stock",
+                        code: 400,
+                    };
+                }
                 const payload = {
                     products: [
                         {

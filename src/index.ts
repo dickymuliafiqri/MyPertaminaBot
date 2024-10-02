@@ -31,6 +31,7 @@ import { Pertamina } from "./modules/pertamina";
       await sheet.loadCells();
     } catch (e: any) {
       console.log(e.response);
+      continue;
     }
 
     if (!rows) continue;
@@ -55,41 +56,67 @@ import { Pertamina } from "./modules/pertamina";
       console.log(`\n[+] Using ${sheet.title} credential...`);
       userLimit -= 1;
 
+      let loopLimit = 2;
       let maxColumnIndex = 0;
+      let addColumnIndex = 0;
       for (const row of rows) {
         const rawData = row["_rawData"];
         if (maxColumnIndex < rawData.length) maxColumnIndex = rawData.length;
       }
 
-      for (const row of rows) {
-        const rawData = row["_rawData"];
-        if (!isNaN(rawData[0]?.replaceAll(" ", "")) && rawData[rawData.length - 1] != "End") {
-          if (rawData.length < maxColumnIndex) {
-            // Process data
-            const nik = parseInt(rawData[0].replaceAll(" ", "")).toString();
+      while (loopLimit > 0) {
+        maxColumnIndex = maxColumnIndex + addColumnIndex;
+        for (const row of rows) {
+          if (transactionLimit <= 0) break;
+          const rawData = row["_rawData"];
 
-            console.log(`[+] Processing ${nik}...`);
-            const transaction = await pertamina.transaction(nik);
-            const cellA1Notation = (rawData.length + 1 + 9).toString(36).toUpperCase() + row["_rowNumber"];
-            const cell = sheet.getCell(row["_rowNumber"] - 1, rawData.length);
+          if (!isNaN(rawData[0]?.replaceAll(" ", "")) && rawData[rawData.length - 1] != "End") {
+            if (rawData.length < maxColumnIndex) {
+              // Process data
+              const nik = parseInt(rawData[0].replaceAll(" ", "")).toString();
+              const cellA1Notation = (rawData.length + 1 + 9).toString(36).toUpperCase() + row["_rowNumber"];
+              const cell = sheet.getCell(row["_rowNumber"] - 1, rawData.length);
+              const transactionRecord = rawData.filter(
+                (t: string) => parseInt(t) <= 3 && parseInt(t) > 0
+              ) as Array<string>;
 
-            if (transaction.success) {
-              console.log(`[+] Transaction success!`);
-              cell.value = transaction.payload.products[0].quantity;
+              if (transactionRecord.length > 2) {
+                console.log(`[+] Buy limit reached for ${nik}!`);
+                cell.value = "End";
+                continue;
+              }
+
+              console.log(`[+] Processing ${nik}...`);
+              const transaction = await pertamina.transaction(nik);
+
+              if (transaction.success) {
+                console.log(`[+] Transaction success!`);
+                cell.value = transaction.payload.products[0].quantity;
+              } else if (transaction.code == 404) {
+                console.log(`[-] Found bad NIK, deleting...`);
+                await row.delete();
+              } else if (transaction.message == "Transaksi melebihi kuota subsidi") {
+                console.log(`[-] Transaction limit reached for ${nik}!`);
+                cell.value = "End";
+              } else {
+                console.log(`[-] Error occured: ${transaction.message}`);
+                cell.value = 0;
+              }
+
+              console.log(`[+] Data update on ${cellA1Notation}!`);
+
               transactionLimit -= 1;
-            } else if (transaction.code == 404) {
-              console.log(`[-] Found bad NIK, deleting...`);
-              await row.delete();
-            } else {
-              console.log(`[-] Error occured: ${transaction.message}`);
-              cell.value = 0;
             }
-
-            console.log(`[+] Data update on ${cellA1Notation}!`);
-
-            if (transactionLimit <= 0) break;
           }
         }
+
+        loopLimit -= 1;
+        addColumnIndex += 1;
+      }
+
+      if (transactionLimit > 0) {
+        console.log(`[+] Transaction limit not reached, clearing sheet...`);
+        await sheet.clear(`C1:Z${rows.length + 1}`);
       }
 
       console.log(`[+] Saving changes to Google Sheets...`);
