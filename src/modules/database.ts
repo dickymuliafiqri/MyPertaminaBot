@@ -10,7 +10,7 @@ interface UserLocalData {
 }
 
 export class Database {
-  private userLocalData: Array<UserLocalData> = JSON.parse(readFileSync("./temp/user.json").toString());
+  private userLocalData: UserLocalData[] = JSON.parse(readFileSync("./temp/user.json").toString());
   doc: GoogleSpreadsheet = new GoogleSpreadsheet(
     "1ZktcnqKTqnd53ZTKFqbWe0GepwoDneJ1oBXYyl9QaVU",
     new JWT({
@@ -29,7 +29,7 @@ export class Database {
   }
 
   setUserLocalData(user: UserLocalData) {
-    const usernames: Array<string> = this.userLocalData.map((u) => u.name);
+    const usernames: string[] = this.userLocalData.map((u) => u.name);
     if (usernames.includes(user.name)) {
       this.userLocalData[usernames.indexOf(user.name)] = user;
     } else {

@@ -48,7 +48,7 @@ async function sheetTransaction(
           const cell = sheet.getCell(row["_rowNumber"] - 1, rawData.length);
           const transactionRecord = rawData.filter(
             (t: string) => parseInt(t, 10) <= 3 && parseInt(t, 10) > 0
-          ) as Array<string>;
+          ) as string[];
 
           if (transactionRecord.length > 2) {
             console.log(`[+] Buy limit reached for ${name}!`);

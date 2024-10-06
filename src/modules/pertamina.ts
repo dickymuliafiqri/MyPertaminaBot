@@ -87,7 +87,7 @@ export class Pertamina {
 
     if (product.success && customer.success) {
       const customerType = (() => {
-        const typeNames: Array<string> = (customer.data.customerTypes as Array<object>).map(
+        const typeNames: string[] = (customer.data.customerTypes as Array<object>).map(
           (c: any) => c.name
         ) as Array<string>;
 
