@@ -22,6 +22,15 @@ async function sheetTransaction(
   for (const row of rows) {
     const rawData = row["_rawData"];
     if (maxColumnIndex < rawData.length) maxColumnIndex = rawData.length;
+
+    /**
+     * TODO
+     *
+     * - Inspect bansos sheet proceeding
+     */
+    if (sheet.title == "Bansos") {
+      console.log(row["_rawData"]);
+    }
   }
 
   while (loopLimit > 0) {
@@ -32,16 +41,6 @@ async function sheetTransaction(
       if (!isNaN(rawData[0]?.replaceAll(" ", "")) && rawData[rawData.length - 1] != "End") {
         if (rawData.length < maxColumnIndex) {
           const name = rawData[1];
-          /**
-           * TODO
-           *
-           * - Figuring out indexing on bansos sheet
-           */
-          if (name == "ANA SULISTYO WATI") {
-            console.log(rawData);
-            console.log(maxColumnIndex);
-            return;
-          }
 
           const nik = parseInt(rawData[0].replaceAll(" ", ""), 10).toString();
           const cellA1Notation = (rawData.length + 1 + 9).toString(36).toUpperCase() + row["_rowNumber"];
@@ -56,7 +55,7 @@ async function sheetTransaction(
 
             if (sheet.title != "Bansos") {
               console.log(`[+] Proceeding bansos...`);
-              await sheetTransaction(db.doc.sheetsByIndex[db.doc.sheetCount - 1], 1, pertamina, db);
+              await sheetTransaction(db.doc.sheetsByTitle["Bansos"], 1, pertamina, db);
               transactionLimit -= 1;
             }
 
@@ -147,4 +146,6 @@ async function sheetTransaction(
       userLimit -= 1;
     }
   }
-})();
+})().catch((e: any) => {
+  console.log(e.message);
+});

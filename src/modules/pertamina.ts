@@ -87,9 +87,7 @@ export class Pertamina {
 
     if (product.success && customer.success) {
       const customerType = (() => {
-        const typeNames: string[] = (customer.data.customerTypes as Array<object>).map(
-          (c: any) => c.name
-        ) as Array<string>;
+        const typeNames: string[] = (customer.data.customerTypes as object[]).map((c: any) => c.name) as string[];
 
         if (typeNames.includes("Usaha Mikro")) {
           return customer.data.customerTypes[typeNames.indexOf("Usaha Mikro")];
