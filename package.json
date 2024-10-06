@@ -25,7 +25,6 @@
     "axios": "^1.7.7",
     "google-auth-library": "^9.14.1",
     "google-spreadsheet": "^4.1.4",
-    "grammy": "^1.30.0",
-    "jest": "^29.7.0"
+    "grammy": "^1.30.0"
   }
 }
