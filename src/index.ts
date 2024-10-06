@@ -1,6 +1,5 @@
 import { GoogleSpreadsheetWorksheet } from "google-spreadsheet";
 import { Database } from "./modules/database";
-import { sleep } from "./modules/helper";
 import { Pertamina } from "./modules/pertamina";
 
 async function sheetTransaction(
@@ -44,10 +43,12 @@ async function sheetTransaction(
             return;
           }
 
-          const nik = parseInt(rawData[0].replaceAll(" ", "")).toString();
+          const nik = parseInt(rawData[0].replaceAll(" ", ""), 10).toString();
           const cellA1Notation = (rawData.length + 1 + 9).toString(36).toUpperCase() + row["_rowNumber"];
           const cell = sheet.getCell(row["_rowNumber"] - 1, rawData.length);
-          const transactionRecord = rawData.filter((t: string) => parseInt(t) <= 3 && parseInt(t) > 0) as Array<string>;
+          const transactionRecord = rawData.filter(
+            (t: string) => parseInt(t, 10) <= 3 && parseInt(t, 10) > 0
+          ) as Array<string>;
 
           if (transactionRecord.length > 2) {
             console.log(`[+] Buy limit reached for ${name}!`);
