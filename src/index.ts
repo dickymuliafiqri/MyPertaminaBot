@@ -2,12 +2,7 @@ import { GoogleSpreadsheetWorksheet } from "google-spreadsheet";
 import { Database } from "./modules/database";
 import { Pertamina } from "./modules/pertamina";
 
-async function sheetTransaction(
-  sheet: GoogleSpreadsheetWorksheet,
-  transactionLimit: number,
-  pertamina: Pertamina,
-  db: Database
-) {
+async function sheetTransaction(sheet: GoogleSpreadsheetWorksheet, transactionLimit: number, pertamina: Pertamina) {
   console.log(`\n[+] Making transaction for ${sheet.title} sheet...`);
 
   let loopLimit = 2;
@@ -55,7 +50,10 @@ async function sheetTransaction(
 
             if (sheet.title != "Bansos") {
               console.log(`[+] Proceeding bansos...`);
-              await sheetTransaction(db.doc.sheetsByTitle["Bansos"], 1, pertamina, db);
+              const bansosDB = new Database();
+              await bansosDB.doc.loadInfo();
+
+              await sheetTransaction(bansosDB.doc.sheetsByTitle["Bansos"], 1, pertamina);
               transactionLimit -= 1;
             }
 
@@ -119,7 +117,7 @@ async function sheetTransaction(
     if (user) {
       if (Math.abs(new Date(user.lastUpdate).getTime() - new Date().getTime()) / 3600000 < 2) {
         if (user.stock <= 0 || !user.isTokenValid) {
-          console.log("[-] Out of stock if token invalid!");
+          console.log("[-] Out of stock or token invalid!");
           continue;
         }
       }
@@ -145,7 +143,7 @@ async function sheetTransaction(
     });
 
     if (isTokenValid && stock > 0) {
-      await sheetTransaction(sheet, transactionLimit, pertamina, db);
+      await sheetTransaction(sheet, transactionLimit, pertamina);
 
       userLimit -= 1;
     }
