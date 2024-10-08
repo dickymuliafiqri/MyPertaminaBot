@@ -1,5 +1,7 @@
 # mypertaminabot
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/355fbb0274fb4d9fbf21b9aedf49f2f6)](https://app.codacy.com/gh/dickymuliafiqri/MyPertaminaBot?utm_source=github.com&utm_medium=referral&utm_content=dickymuliafiqri/MyPertaminaBot&utm_campaign=Badge_Grade)
+
 To install dependencies:
 
 ```bash
