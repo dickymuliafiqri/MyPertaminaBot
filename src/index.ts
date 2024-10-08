@@ -1,9 +1,16 @@
 import { GoogleSpreadsheetWorksheet } from "google-spreadsheet";
 import { Database } from "./modules/database";
 import { Pertamina } from "./modules/pertamina";
+import { Telegram } from "./modules/telegram";
 import { config as loadEnv } from "dotenv";
 
-async function sheetTransaction(sheet: GoogleSpreadsheetWorksheet, transactionLimit: number, pertamina: Pertamina) {
+async function sheetTransaction(
+  sheet: GoogleSpreadsheetWorksheet,
+  transactionLimit: number,
+  pertamina: Pertamina
+): Promise<string> {
+  const message: string[] = [];
+
   console.log(`\n[+] Making transaction for ${sheet.title} sheet...`);
 
   let loopLimit = 2;
@@ -54,19 +61,24 @@ async function sheetTransaction(sheet: GoogleSpreadsheetWorksheet, transactionLi
 
           console.log(`[+] Processing ${name}...`);
           const transaction = await pertamina.transaction(nik);
+          const sheetA1Notation = `${sheet.title}:${cellA1Notation}`;
 
           if (transaction.success) {
             console.log(`[+] Transaction success!`);
             cell.value = transaction.payload.products[0].quantity;
+            message.push(`[+] ${name} > Transaction success > ${sheetA1Notation} > ${cell.value}`);
           } else if (transaction.code == 404) {
             console.log(`[-] Found bad NIK, deleting...`);
+            message.push(`[-] ${name} > Found bad NIK > ${nik} > ${sheetA1Notation}`);
             await row.delete();
           } else if (transaction.message == "Transaksi melebihi kuota subsidi") {
             console.log(`[-] Transaction limit reached for ${name}!`);
             cell.value = "End";
+            message.push(`[-] ${name} > Transaction limit reached > ${nik} > ${sheetA1Notation}`);
           } else {
             console.log(`[-] Error occured: ${transaction.message}`);
             cell.value = 0;
+            message.push(`[-] ${name} > Error: ${transaction.message} > ${nik} > ${sheetA1Notation}`);
           }
 
           console.log(`[+] Data update on ${cellA1Notation}!`);
@@ -83,21 +95,30 @@ async function sheetTransaction(sheet: GoogleSpreadsheetWorksheet, transactionLi
   if (transactionLimit > 0) {
     console.log(`[+] Transaction limit not reached, clearing sheet...`);
     await sheet.clear(`C1:Z${rows.length + 1}`);
+    message.push(`[+] Transaction limit not reached, sheet ${sheet.title} cleared!`);
   }
 
   console.log(`[+] Saving changes to Google Sheets...`);
   await sheet.saveUpdatedCells();
   console.log(`[+] Done!`);
+
+  return message.join("\n");
 }
+
+// Initialize
+loadEnv();
+const bot = new Telegram();
 
 (async () => {
   console.log("STARTING PROGRAM...");
-
-  loadEnv();
+  console.log("[+] Initializing classes...");
 
   let userLimit = 10;
+  const finalMessage: string[] = [];
   const db = new Database();
   await db.doc.loadInfo();
+
+  await bot.sendToAdmin("BOT STARTED!");
 
   for (let i = 0; i < db.doc.sheetCount - 1; i++) {
     const sheet = db.doc.sheetsByIndex[i];
@@ -138,17 +159,23 @@ async function sheetTransaction(sheet: GoogleSpreadsheetWorksheet, transactionLi
     });
 
     if (isTokenValid && stock > 0) {
-      await sheetTransaction(sheet, transactionLimit, pertamina);
+      const message = await sheetTransaction(sheet, transactionLimit, pertamina);
+      finalMessage.push(message);
 
       userLimit -= 1;
     }
 
     console.log(`[+] Done proceeding ${sheet.title} sheet!`);
+
+    await bot.sendToAdmin(finalMessage.join("\n\n"));
   }
 })()
-  .catch((e: any) => {
+  .catch(async (e: any) => {
     console.log(e.message);
+    await bot.sendToAdmin(`ERROR OCCURED: ${e.message}`);
   })
-  .finally(() => {
-    console.log("PROGRAM FINISHED");
+  .finally(async () => {
+    // Final process
+    console.log("PROGRAM FINISHED!");
+    await bot.sendToAdmin("PROGRAM FINISHED!");
   });
