@@ -17,15 +17,6 @@ async function sheetTransaction(sheet: GoogleSpreadsheetWorksheet, transactionLi
   for (const row of rows) {
     const rawData = row["_rawData"];
     if (maxColumnIndex < rawData.length) maxColumnIndex = rawData.length;
-
-    /**
-     * TODO
-     *
-     * - Inspect bansos sheet proceeding
-     */
-    if (sheet.title == "Bansos") {
-      console.log(row["_rawData"]);
-    }
   }
 
   while (loopLimit > 0) {
