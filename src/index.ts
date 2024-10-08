@@ -101,6 +101,7 @@ async function sheetTransaction(
 }
 
 (async () => {
+  console.log("STARTING PROGRAM...");
   let userLimit = 10;
   const db = new Database();
   await db.doc.loadInfo();
@@ -111,11 +112,14 @@ async function sheetTransaction(
 
     if (userLimit <= 0) break;
 
+    console.log(`\n[+] Accessing ${sheet.title} sheet...`);
+
     // Check user on local temp data
     let user = db.getUserLocalData(sheet.title);
     if (user) {
       if (Math.abs(new Date(user.lastUpdate).getTime() - new Date().getTime()) / 3600000 < 2) {
         if (user.stock <= 0 || !user.isTokenValid) {
+          console.log("[-] Out of stock if token invalid!");
           continue;
         }
       }
@@ -145,7 +149,13 @@ async function sheetTransaction(
 
       userLimit -= 1;
     }
+
+    console.log(`[+] Done proceeding ${sheet.title} sheet!`);
   }
-})().catch((e: any) => {
-  console.log(e.message);
-});
+})()
+  .catch((e: any) => {
+    console.log(e.message);
+  })
+  .finally(() => {
+    console.log("PROGRAM FINISHED");
+  });
