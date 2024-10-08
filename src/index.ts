@@ -1,6 +1,7 @@
 import { GoogleSpreadsheetWorksheet } from "google-spreadsheet";
 import { Database } from "./modules/database";
 import { Pertamina } from "./modules/pertamina";
+import { config as loadEnv } from "dotenv";
 
 async function sheetTransaction(sheet: GoogleSpreadsheetWorksheet, transactionLimit: number, pertamina: Pertamina) {
   console.log(`\n[+] Making transaction for ${sheet.title} sheet...`);
@@ -91,6 +92,9 @@ async function sheetTransaction(sheet: GoogleSpreadsheetWorksheet, transactionLi
 
 (async () => {
   console.log("STARTING PROGRAM...");
+
+  loadEnv();
+
   let userLimit = 10;
   const db = new Database();
   await db.doc.loadInfo();

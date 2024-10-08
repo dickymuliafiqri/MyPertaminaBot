@@ -12,10 +12,10 @@ interface UserLocalData {
 export class Database {
   private userLocalData: UserLocalData[] = JSON.parse(readFileSync("./temp/user.json").toString());
   doc: GoogleSpreadsheet = new GoogleSpreadsheet(
-    `${process.env.SHEET_ID}`,
+    process.env.SHEET_ID as string,
     new JWT({
-      email: `${process.env.DATABASE_EMAIL}`,
-      key: `${process.env.DATABASE_KEY}`,
+      email: process.env.DATABASE_EMAIL as string,
+      key: process.env.DATABASE_KEY as string,
       scopes: ["https://www.googleapis.com/auth/spreadsheets"],
     })
   );
