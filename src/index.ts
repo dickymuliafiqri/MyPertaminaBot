@@ -167,7 +167,9 @@ const bot = new Telegram();
 
     console.log(`[+] Done proceeding ${sheet.title} sheet!`);
 
-    await bot.sendToAdmin(finalMessage.join("\n\n"));
+    if (finalMessage.length > 0) {
+      await bot.sendToAdmin(finalMessage.join("\n\n"));
+    }
   }
 })()
   .catch(async (e: any) => {
