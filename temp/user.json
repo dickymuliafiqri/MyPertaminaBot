@@ -115,9 +115,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 0,
-    "isTokenValid": false,
-    "lastUpdate": "2024-10-09T10:19:19.874Z"
+    "stock": 22,
+    "isTokenValid": true,
+    "lastUpdate": "2024-10-09T12:19:21.940Z"
   },
   {
     "name": "UD RAHMAT",
@@ -183,7 +183,7 @@
     "name": "TOKO IRAWAN",
     "stock": 0,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-09T10:14:24.237Z"
+    "lastUpdate": "2024-10-09T12:19:25.261Z"
   },
   {
     "name": "TK MUSTAPA",
@@ -279,7 +279,7 @@
     "name": "SUROSO",
     "stock": 0,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-09T10:19:20.796Z"
+    "lastUpdate": "2024-10-09T12:19:26.274Z"
   },
   {
     "name": "HADI SUTOYO",
@@ -339,7 +339,7 @@
     "name": "TOKO SURYATI",
     "stock": 1,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-09T12:14:19.133Z"
+    "lastUpdate": "2024-10-09T12:19:26.984Z"
   },
   {
     "name": "MOH HAFIF",
@@ -429,7 +429,7 @@
     "name": "DIYAH UTAMI",
     "stock": 23,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-09T12:14:33.325Z"
+    "lastUpdate": "2024-10-09T12:19:38.073Z"
   },
   {
     "name": "SALMAH",
@@ -441,30 +441,30 @@
     "name": "TOKO ANITA",
     "stock": 7,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-09T12:14:44.713Z"
+    "lastUpdate": "2024-10-09T12:19:48.950Z"
   },
   {
     "name": "TK. LUCKY",
     "stock": 0,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-09T10:15:58.011Z"
+    "lastUpdate": "2024-10-09T12:19:59.947Z"
   },
   {
     "name": "UD SAMAN HADI",
     "stock": 0,
-    "isTokenValid": false,
-    "lastUpdate": "2024-10-09T10:15:58.812Z"
+    "isTokenValid": true,
+    "lastUpdate": "2024-10-09T12:20:00.603Z"
   },
   {
     "name": "SOEKAMTO",
     "stock": 0,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-09T10:15:59.520Z"
+    "lastUpdate": "2024-10-09T12:20:01.240Z"
   },
   {
     "name": "TOKO TIARA",
-    "stock": 0,
-    "isTokenValid": false,
-    "lastUpdate": "2024-10-09T10:16:00.252Z"
+    "stock": 70,
+    "isTokenValid": true,
+    "lastUpdate": "2024-10-09T12:20:01.932Z"
   }
 ]
