@@ -235,15 +235,15 @@
   },
   {
     "name": "YUDA",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-09T11:35:09.089Z"
+    "lastUpdate": "2024-10-09T11:39:21.202Z"
   },
   {
     "name": "SRI UTAMI",
     "stock": -1,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-09T09:31:00.933Z"
+    "lastUpdate": "2024-10-09T11:39:21.861Z"
   },
   {
     "name": "ULFA MARIA",
@@ -303,7 +303,7 @@
     "name": "YUSUF ISMAIL",
     "stock": 0,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-09T09:31:40.121Z"
+    "lastUpdate": "2024-10-09T11:39:22.515Z"
   },
   {
     "name": "SUPARNI",
@@ -315,7 +315,7 @@
     "name": "H. JUMAT",
     "stock": 0,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-09T09:31:47.650Z"
+    "lastUpdate": "2024-10-09T11:39:23.165Z"
   },
   {
     "name": "YOGA RAJAN",
@@ -337,9 +337,9 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 16,
+    "stock": 13,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-09T11:29:22.633Z"
+    "lastUpdate": "2024-10-09T11:39:24.387Z"
   },
   {
     "name": "MOH HAFIF",
@@ -439,9 +439,9 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 17,
+    "stock": 15,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-09T11:29:33.467Z"
+    "lastUpdate": "2024-10-09T11:39:35.593Z"
   },
   {
     "name": "TK. LUCKY",
