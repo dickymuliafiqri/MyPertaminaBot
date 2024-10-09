@@ -2,7 +2,7 @@ import { GoogleSpreadsheet } from "google-spreadsheet";
 import { JWT } from "google-auth-library";
 import { readFileSync, writeFileSync } from "fs";
 
-interface UserLocalData {
+export interface UserLocalData {
   name: string;
   stock: number;
   isTokenValid: boolean;

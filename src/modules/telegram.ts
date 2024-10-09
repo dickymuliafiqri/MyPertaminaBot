@@ -10,4 +10,8 @@ export class Telegram {
       parse_mode: "HTML",
     });
   }
+
+  async sendRawToAdmin(message: string) {
+    await this.bot.api.sendMessage(this.adminID, message);
+  }
 }
