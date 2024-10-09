@@ -1,12 +1,16 @@
 name: Cron Job
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "*/5 * * * *"
+  repository_dispatch:
+    types: [cron_job]
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
 jobs:
   cron-job:
     name: cron job
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
       - uses: oven-sh/setup-bun@v2

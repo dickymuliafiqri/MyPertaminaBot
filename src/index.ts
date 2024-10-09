@@ -14,7 +14,7 @@ async function sheetTransaction(
   const message: string[] = [];
 
   console.log(`\n[+] Making transaction for ${sheetName} sheet...`);
-  if (sheetName != "Bansos") message.push(`----- ${sheetName} -----`);
+  if (sheetName != "Bansos") message.push(`${sheetName}`);
 
   let loopLimit = 2;
   let maxColumnIndex = 0;
@@ -109,7 +109,6 @@ async function sheetTransaction(
   await sheet.saveUpdatedCells();
   console.log(`[+] Done!`);
 
-  if (sheetName != "Bansos") message.push("-".repeat(message[0].length));
   return message.join("\n");
 }
 
