@@ -173,8 +173,9 @@ const bot = new Telegram();
   }
 })()
   .catch(async (e: any) => {
-    console.log(e.message);
-    await bot.sendToAdmin(`ERROR OCCURED: ${e.message}`);
+    const errorMessage = `${e.stack}\n\n${e.message}`;
+    console.log(errorMessage);
+    await bot.sendToAdmin(errorMessage);
   })
   .finally(async () => {
     // Final process
