@@ -214,23 +214,9 @@ const finalMessage: string[] = [];
   .finally(async () => {
     // Final process
     console.log("PROGRAM FINISHED!");
-    if (finalMessage.length > 0) {
-      let messages: string[][] = [];
-      for (const message of finalMessage) {
-        if (messages.length == 0) {
-          messages.push([message]);
-        } else {
-          if (messages[messages.length - 1].join("\n").length < 3000) {
-            messages[messages.length - 1].push(message);
-          } else {
-            messages.push([message]);
-          }
-        }
-      }
 
-      for (const message of messages) {
-        await bot.sendToAdmin(message.join("\n"));
-      }
+    for (const message of finalMessage) {
+      await bot.sendToAdmin(message);
     }
     await bot.sendToAdmin("PROGRAM FINISHED!");
   });
