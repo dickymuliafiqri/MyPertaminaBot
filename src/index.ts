@@ -43,10 +43,36 @@ async function sheetTransaction(
 
           const nik = parseInt(rawData[0].replaceAll(" ", ""), 10).toString();
           const cellA1Notation = (rawData.length + 1 + 9).toString(36).toUpperCase() + row["_rowNumber"];
+          const sheetA1Notation = `${sheetName}:${cellA1Notation}`;
           const cell = sheet.getCell(row["_rowNumber"] - 1, rawData.length);
           const transactionRecord = rawData.filter(
             (t: string) => parseInt(t, 10) <= 3 && parseInt(t, 10) > 0
           ) as string[];
+
+          // Check duplicate NIK
+          const nowDate = new Date().getDate();
+          let isDuplicate = false;
+          let niks = await Database.getNiksArray();
+
+          if (niks.day != nowDate) {
+            niks = {
+              data: [],
+              day: nowDate,
+            };
+          }
+
+          for (const hashedNik of niks.data) {
+            if (await Bun.password.verify(nik, hashedNik)) {
+              isDuplicate = true;
+              break;
+            }
+          }
+
+          if (isDuplicate) {
+            console.log(`[-] Found duplicate NIK Transaction!`);
+            message.push(`[🔴] ${sheetName} > Error: Duplicate Transaction! > ${nik} > ${sheetA1Notation}`);
+            continue;
+          }
 
           if (transactionRecord.length > 2) {
             console.log(`[+] Buy limit reached for ${name}!`);
@@ -66,7 +92,6 @@ async function sheetTransaction(
 
           console.log(`[+] Processing ${name}...`);
           const transaction = await pertamina.transaction(nik);
-          const sheetA1Notation = `${sheetName}:${cellA1Notation}`;
 
           if (transaction.success) {
             console.log(`[+] Transaction success!`);
@@ -76,6 +101,7 @@ async function sheetTransaction(
               `[🟢] ${sheetName} > Transaction success > ${sheetA1Notation} > ${quantity}/${(accountData.stock -=
                 quantity)}`
             );
+            niks.data.push(await Bun.password.hash(nik));
           } else if (transaction.code == 404) {
             console.log(`[-] Found bad NIK, deleting...`);
             message.push(`[🔴] ${sheetName} > Found bad NIK > ${nik} > ${sheetA1Notation}`);
@@ -94,6 +120,7 @@ async function sheetTransaction(
           }
 
           transactionLimit -= 1;
+          await Database.setNiksArray(niks);
           console.log(`[+] Data update on ${cellA1Notation}!`);
         }
       }
@@ -190,7 +217,22 @@ const finalMessage: string[] = [];
     // Final process
     console.log("PROGRAM FINISHED!");
     if (finalMessage.length > 0) {
-      await bot.sendToAdmin(finalMessage.join("\n\n"));
+      let messages: string[][] = [];
+      for (const message in finalMessage) {
+        if (messages.length == 0) {
+          messages.push([message]);
+        } else {
+          if (messages[messages.length - 1].join("\n").length < 3000) {
+            messages[messages.length - 1].push(message);
+          } else {
+            messages.push([message]);
+          }
+        }
+      }
+
+      for (const message of messages) {
+        await bot.sendToAdmin(message.join("\n"));
+      }
     }
     await bot.sendToAdmin("PROGRAM FINISHED!");
   });

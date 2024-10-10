@@ -9,6 +9,11 @@ export interface UserLocalData {
   lastUpdate: Date;
 }
 
+export interface NIKsLocalData {
+  data: string[];
+  day: number;
+}
+
 export class Database {
   private userLocalData: UserLocalData[] = JSON.parse(readFileSync("./temp/user.json").toString());
   doc: GoogleSpreadsheet = new GoogleSpreadsheet(
@@ -37,5 +42,13 @@ export class Database {
     }
 
     writeFileSync("./temp/user.json", JSON.stringify(this.userLocalData, null, "  "));
+  }
+
+  static async getNiksArray(): Promise<NIKsLocalData> {
+    return JSON.parse(readFileSync("./temp/niks.json").toString()) as NIKsLocalData;
+  }
+
+  static async setNiksArray(niks: NIKsLocalData) {
+    writeFileSync("./temp/niks.json", JSON.stringify(niks, null, "  "));
   }
 }
