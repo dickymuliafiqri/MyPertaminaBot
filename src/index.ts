@@ -218,7 +218,7 @@ const finalMessage: string[] = [];
     console.log("PROGRAM FINISHED!");
     if (finalMessage.length > 0) {
       let messages: string[][] = [];
-      for (const message in finalMessage) {
+      for (const message of finalMessage) {
         if (messages.length == 0) {
           messages.push([message]);
         } else {
