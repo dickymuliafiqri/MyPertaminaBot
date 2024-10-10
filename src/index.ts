@@ -51,7 +51,6 @@ async function sheetTransaction(
 
           // Check duplicate NIK
           const nowDate = new Date().getDate();
-          let isDuplicate = false;
           let niks = await Database.getNiksArray();
 
           if (niks.day != nowDate) {
@@ -61,14 +60,7 @@ async function sheetTransaction(
             };
           }
 
-          for (const hashedNik of niks.data) {
-            if (await Bun.password.verify(nik, hashedNik)) {
-              isDuplicate = true;
-              break;
-            }
-          }
-
-          if (isDuplicate) {
+          if (niks.data.includes(nik)) {
             console.log(`[-] Found duplicate NIK Transaction!`);
             message.push(`[🔴] ${sheetName} > Error: Duplicate Transaction! > ${nik} > ${sheetA1Notation}`);
             cell.value = 0;
@@ -102,7 +94,7 @@ async function sheetTransaction(
               `[🟢] ${sheetName} > Transaction success > ${sheetA1Notation} > ${quantity}/${(accountData.stock -=
                 quantity)}`
             );
-            niks.data.push(await Bun.password.hash(nik));
+            niks.data.push(nik);
           } else {
             console.log(`[-] Error ${transaction.code}: ${transaction.message}`);
             message.push(
