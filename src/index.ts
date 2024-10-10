@@ -103,23 +103,29 @@ async function sheetTransaction(
                 quantity)}`
             );
             niks.data.push(await Bun.password.hash(nik));
-          } else if (transaction.code == 404) {
-            console.log(`[-] Found bad NIK, deleting...`);
-            message.push(`[🔴] ${sheetName} > Found bad NIK > ${nik} > ${sheetA1Notation}`);
-            await row.delete();
-
-            // Ignore transaction limit
-            transactionLimit += 1;
           } else if (transaction.message == "Transaksi melebihi kuota subsidi") {
             console.log(`[-] Transaction limit reached for ${name}!`);
             cell.value = "End";
-            message.push(`[🟡] ${sheetName} > Transaction limit reached > ${nik} > ${sheetA1Notation}`);
+            message.push(
+              `[🟡] ${sheetName} > [${transaction.code}] Transaction limit reached > ${nik} > ${sheetA1Notation}`
+            );
           } else {
             console.log(`[-] Error ${transaction.code}: ${transaction.message}`);
-            cell.value = 0;
             message.push(
               `[🔴] ${sheetName} > Error ${transaction.code}: ${transaction.message} > ${nik} > ${sheetA1Notation}`
             );
+
+            switch (transaction.code) {
+              case 404:
+                await row.delete();
+                transactionLimit += 1;
+                break;
+              case 429:
+                transactionLimit = 1;
+                break;
+              default:
+                cell.value = 0;
+            }
           }
 
           transactionLimit -= 1;
