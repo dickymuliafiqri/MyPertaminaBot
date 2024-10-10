@@ -115,9 +115,11 @@ async function sheetTransaction(
             cell.value = "End";
             message.push(`[🟡] ${sheetName} > Transaction limit reached > ${nik} > ${sheetA1Notation}`);
           } else {
-            console.log(`[-] Error occured: ${transaction.message}`);
+            console.log(`[-] Error ${transaction.code}: ${transaction.message}`);
             cell.value = 0;
-            message.push(`[🔴] ${sheetName} > Error: ${transaction.message} > ${nik} > ${sheetA1Notation}`);
+            message.push(
+              `[🔴] ${sheetName} > Error ${transaction.code}: ${transaction.message} > ${nik} > ${sheetA1Notation}`
+            );
           }
 
           transactionLimit -= 1;
