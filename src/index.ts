@@ -74,6 +74,7 @@ async function sheetTransaction(
               `[🟢] ${sheetName} > Transaction success > ${sheetA1Notation} > ${quantity}/${(accountData.stock -=
                 quantity)}`
             );
+            transactionLimit -= 1;
           } else if (transaction.code == 404) {
             console.log(`[-] Found bad NIK, deleting...`);
             message.push(`[🔴] ${sheetName} > Found bad NIK > ${nik} > ${sheetA1Notation}`);
@@ -89,8 +90,6 @@ async function sheetTransaction(
           }
 
           console.log(`[+] Data update on ${cellA1Notation}!`);
-
-          transactionLimit -= 1;
         }
       }
     }
