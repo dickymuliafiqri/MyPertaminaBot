@@ -103,12 +103,6 @@ async function sheetTransaction(
                 quantity)}`
             );
             niks.data.push(await Bun.password.hash(nik));
-          } else if (transaction.message == "Transaksi melebihi kuota subsidi") {
-            console.log(`[-] Transaction limit reached for ${name}!`);
-            cell.value = "End";
-            message.push(
-              `[🟡] ${sheetName} > [${transaction.code}] Transaction limit reached > ${nik} > ${sheetA1Notation}`
-            );
           } else {
             console.log(`[-] Error ${transaction.code}: ${transaction.message}`);
             message.push(
@@ -116,6 +110,9 @@ async function sheetTransaction(
             );
 
             switch (transaction.code) {
+              case 400:
+                cell.value = "End";
+                break;
               case 404:
                 await row.delete();
                 transactionLimit += 1;
