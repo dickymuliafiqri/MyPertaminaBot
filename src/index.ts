@@ -76,11 +76,13 @@ async function sheetTransaction(
               `[🟢] ${sheetName} > Transaction success > ${sheetA1Notation} > ${quantity}/${(accountData.stock -=
                 quantity)}`
             );
-            transactionLimit -= 1;
           } else if (transaction.code == 404) {
             console.log(`[-] Found bad NIK, deleting...`);
             message.push(`[🔴] ${sheetName} > Found bad NIK > ${nik} > ${sheetA1Notation}`);
             await row.delete();
+
+            // Ignore transaction limit
+            transactionLimit += 1;
           } else if (transaction.message == "Transaksi melebihi kuota subsidi") {
             console.log(`[-] Transaction limit reached for ${name}!`);
             cell.value = "End";
@@ -91,6 +93,7 @@ async function sheetTransaction(
             message.push(`[🔴] ${sheetName} > Error: ${transaction.message} > ${nik} > ${sheetA1Notation}`);
           }
 
+          transactionLimit -= 1;
           console.log(`[+] Data update on ${cellA1Notation}!`);
         }
       }

@@ -157,12 +157,10 @@ export class Pertamina {
           },
         };
       }
-    } else if (customer.code == 404) {
-      return {
-        success: false,
-        message: "Unregistered NIK",
-        code: 404,
-      };
+    } else if (!customer.success) {
+      return customer;
+    } else if (!product.success) {
+      return product;
     }
 
     return {
