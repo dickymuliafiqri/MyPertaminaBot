@@ -71,6 +71,7 @@ async function sheetTransaction(
           if (isDuplicate) {
             console.log(`[-] Found duplicate NIK Transaction!`);
             message.push(`[🔴] ${sheetName} > Error: Duplicate Transaction! > ${nik} > ${sheetA1Notation}`);
+            cell.value = 0;
             continue;
           }
 
