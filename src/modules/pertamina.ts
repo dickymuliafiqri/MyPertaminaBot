@@ -104,7 +104,7 @@ export class Pertamina {
         return {
           success: false,
           message: "Out of stock",
-          code: 400,
+          code: 204,
         };
       }
 

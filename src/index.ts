@@ -95,6 +95,7 @@ async function sheetTransaction(
                 quantity)}`
             );
             niks.data.push(nik);
+            transactionLimit -= 1;
           } else {
             console.log(`[-] Error ${transaction.code}: ${transaction.message}`);
             message.push(
@@ -107,17 +108,15 @@ async function sheetTransaction(
                 break;
               case 404:
                 await row.delete();
-                transactionLimit += 1;
                 break;
               case 429:
-                transactionLimit = 1;
+                transactionLimit = 0;
                 break;
               default:
                 cell.value = 0;
             }
           }
 
-          transactionLimit -= 1;
           await Database.setNiksArray(niks);
           console.log(`[+] Data update on ${cellA1Notation}!`);
         }
@@ -150,7 +149,7 @@ const finalMessage: string[] = [];
   console.log("STARTING PROGRAM...");
   console.log("[+] Initializing classes...");
 
-  let userLimit = 10;
+  let userLimit = 5;
   const db = new Database();
   await db.doc.loadInfo();
 
