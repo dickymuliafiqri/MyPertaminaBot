@@ -63,7 +63,6 @@ async function sheetTransaction(
 
           if (niks.data.includes(nik)) {
             console.log(`[-] Found duplicate NIK Transaction!`);
-            message.push(`[🔴] ${sheetName} > Error: Duplicate Transaction! > ${nik} > ${sheetA1Notation}`);
             cell.value = 0;
             continue;
           }
@@ -131,7 +130,7 @@ async function sheetTransaction(
   if (transactionLimit > 0) {
     console.log(`[+] Transaction limit not reached, clearing sheet...`);
     await sheet.clear(`C1:Z${rows.length + 1}`);
-    message.push(`[+] Transaction limit not reached, sheet ${sheetName} cleared!`);
+    message.push(`[🟡] Transaction limit not reached, sheet ${sheetName} cleared!`);
   }
 
   console.log(`[+] Saving changes to Google Sheets...`);
