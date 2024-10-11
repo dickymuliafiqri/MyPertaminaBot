@@ -17,6 +17,7 @@ async function sheetTransaction(
   if (sheetName != "Bansos") message.push(`${sheetName}`);
 
   let loopLimit = 2;
+  let bansosLimit = 1;
   let maxColumnIndex = 0;
 
   let rows = await sheet.getRows();
@@ -71,13 +72,13 @@ async function sheetTransaction(
             console.log(`[+] Buy limit reached for ${name}!`);
             cell.value = 0;
 
-            if (sheetName != "Bansos") {
+            if (sheetName != "Bansos" && bansosLimit > 0) {
               console.log(`[+] Proceeding bansos...`);
               const bansosDB = new Database();
               await bansosDB.doc.loadInfo();
 
               message.push(await sheetTransaction(bansosDB.doc.sheetsByTitle["Bansos"], 1, pertamina, accountData));
-              transactionLimit -= 1;
+              bansosLimit -= 1;
             }
 
             continue;
