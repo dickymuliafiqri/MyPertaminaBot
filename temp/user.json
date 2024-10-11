@@ -91,9 +91,9 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 5,
+    "stock": 0,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-11T03:54:21.466Z"
+    "lastUpdate": "2024-10-11T04:09:18.985Z"
   },
   {
     "name": "TK. MAJU",
@@ -117,7 +117,7 @@
     "name": "TOKO POJOK",
     "stock": 67,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-11T03:54:27.294Z"
+    "lastUpdate": "2024-10-11T04:09:20.089Z"
   },
   {
     "name": "UD RAHMAT",
@@ -165,7 +165,7 @@
     "name": "ANDRI HERU CAHYONO",
     "stock": 29,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-11T03:54:37.980Z"
+    "lastUpdate": "2024-10-11T04:09:30.531Z"
   },
   {
     "name": "JONI H",
@@ -337,9 +337,9 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 38,
+    "stock": 26,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-11T03:54:48.467Z"
+    "lastUpdate": "2024-10-11T04:09:40.996Z"
   },
   {
     "name": "MOH HAFIF",
@@ -373,45 +373,45 @@
   },
   {
     "name": "TUSOK",
-    "stock": 2,
+    "stock": 0,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-11T03:54:56.224Z"
+    "lastUpdate": "2024-10-11T04:09:51.103Z"
   },
   {
     "name": "MISRI CICI",
     "stock": 0,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-10T20:54:37.869Z"
+    "lastUpdate": "2024-10-11T04:09:51.828Z"
   },
   {
     "name": "HERDIANA DIYAH S",
     "stock": 0,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-10T20:49:33.007Z"
+    "lastUpdate": "2024-10-11T04:09:52.593Z"
   },
   {
     "name": "BUDI",
-    "stock": 33,
+    "stock": 24,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-10T21:54:35.040Z"
+    "lastUpdate": "2024-10-11T04:09:53.286Z"
   },
   {
     "name": "YULI SORAYA",
-    "stock": 27,
-    "isTokenValid": true,
-    "lastUpdate": "2024-10-10T21:54:41.841Z"
+    "stock": 0,
+    "isTokenValid": false,
+    "lastUpdate": "2024-10-11T04:09:58.441Z"
   },
   {
     "name": "SUSILO",
     "stock": 0,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-10T20:54:52.381Z"
+    "lastUpdate": "2024-10-11T04:09:59.138Z"
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 0,
+    "stock": 30,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-10T20:54:53.053Z"
+    "lastUpdate": "2024-10-11T04:09:59.814Z"
   },
   {
     "name": "IMA",
