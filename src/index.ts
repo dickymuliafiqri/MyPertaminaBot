@@ -78,7 +78,7 @@ async function sheetTransaction(
             }
 
             if (transactionRecord.length > 2) {
-              cell.value = 0;
+              cell.value = "End";
               continue;
             }
           }
