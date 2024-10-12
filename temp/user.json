@@ -1,9 +1,9 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-12T12:44:23.992Z"
+    "lastUpdate": "2024-10-12T12:49:18.961Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -13,9 +13,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 7,
+    "stock": 6,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-12T12:44:35.370Z"
+    "lastUpdate": "2024-10-12T12:49:24.917Z"
   },
   {
     "name": "ATHI HANDAYANI",
@@ -115,9 +115,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 0,
-    "isTokenValid": false,
-    "lastUpdate": "2024-10-12T10:49:31.441Z"
+    "stock": 81,
+    "isTokenValid": true,
+    "lastUpdate": "2024-10-12T12:49:35.783Z"
   },
   {
     "name": "UD RAHMAT",
@@ -171,25 +171,25 @@
     "name": "JONI H",
     "stock": 0,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-12T10:44:44.650Z"
+    "lastUpdate": "2024-10-12T12:49:47.500Z"
   },
   {
     "name": "EVI DIANA SARI",
     "stock": 0,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-12T10:44:45.317Z"
+    "lastUpdate": "2024-10-12T12:49:48.193Z"
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 0,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-12T10:44:45.997Z"
+    "lastUpdate": "2024-10-12T12:49:48.964Z"
   },
   {
     "name": "TK MUSTAPA",
     "stock": 0,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-12T10:44:46.688Z"
+    "lastUpdate": "2024-10-12T12:49:49.660Z"
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -385,9 +385,9 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 36,
-    "isTokenValid": true,
-    "lastUpdate": "2024-10-12T12:44:38.832Z"
+    "stock": 0,
+    "isTokenValid": false,
+    "lastUpdate": "2024-10-12T12:49:50.405Z"
   },
   {
     "name": "BUDI",
@@ -433,15 +433,15 @@
   },
   {
     "name": "SALMAH",
-    "stock": 31,
+    "stock": 28,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-12T12:44:46.782Z"
+    "lastUpdate": "2024-10-12T12:49:51.176Z"
   },
   {
     "name": "TOKO ANITA",
-    "stock": 46,
+    "stock": 39,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-12T12:44:59.703Z"
+    "lastUpdate": "2024-10-12T12:50:01.458Z"
   },
   {
     "name": "TK. LUCKY",
