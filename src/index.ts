@@ -17,7 +17,7 @@ async function sheetTransaction(
   if (sheetName != "Bansos") message.push(`${sheetName}`);
 
   let loopLimit = 2;
-  let bansosLimit = 2;
+  let bansosLimit = accountData.stock > 20 ? 3 : 2;
   let maxColumnIndex = 0;
 
   let rows = await sheet.getRows();
@@ -104,7 +104,11 @@ async function sheetTransaction(
 
             switch (transaction.code) {
               case 400:
-                cell.value = "End";
+                if (transaction.message == "Transaksi melebihi stok yang dapat dijual") {
+                  transactionLimit = 0;
+                } else {
+                  cell.value = "End";
+                }
                 break;
               case 404:
                 await row.delete();
