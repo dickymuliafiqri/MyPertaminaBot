@@ -14,7 +14,7 @@ async function sheetTransaction(
   const message: string[] = [];
 
   console.log(`\n[+] Making transaction for ${sheetName} sheet...`);
-  if (sheetName != "Bansos") message.push(`${sheetName}`);
+  if (sheetName != "Bansos") message.push(`${sheetName} | ${accountData.stock}`);
 
   let loopLimit = 2;
   let bansosLimit = accountData.stock > 20 ? 3 : 2;
