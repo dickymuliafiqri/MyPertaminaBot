@@ -104,8 +104,8 @@
   {
     "name": "TOKO 2 PUTRI",
     "stock": 0,
-    "isTokenValid": true,
-    "lastUpdate": "2024-10-13T08:59:20.446Z"
+    "isTokenValid": false,
+    "lastUpdate": "2024-10-13T10:59:22.390Z"
   },
   {
     "name": "TOKO IIN",
@@ -417,7 +417,7 @@
     "name": "IMA",
     "stock": 0,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-13T08:59:21.562Z"
+    "lastUpdate": "2024-10-13T10:59:23.080Z"
   },
   {
     "name": "DARMAWAN P",
@@ -465,6 +465,6 @@
     "name": "TOKO TIARA",
     "stock": 0,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-13T08:59:22.405Z"
+    "lastUpdate": "2024-10-13T10:59:23.787Z"
   }
 ]
