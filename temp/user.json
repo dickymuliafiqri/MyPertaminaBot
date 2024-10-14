@@ -110,14 +110,14 @@
   {
     "name": "TOKO IIN",
     "stock": 0,
-    "isTokenValid": false,
-    "lastUpdate": "2024-10-14T12:04:32.006Z"
+    "isTokenValid": true,
+    "lastUpdate": "2024-10-14T14:09:20.755Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 2,
+    "stock": 1,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-14T14:04:23.365Z"
+    "lastUpdate": "2024-10-14T14:09:22.141Z"
   },
   {
     "name": "UD RAHMAT",
