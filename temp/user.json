@@ -1,9 +1,9 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 0,
+    "stock": 9,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-14T08:19:21.518Z"
+    "lastUpdate": "2024-10-14T10:19:30.702Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -32,8 +32,8 @@
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
-    "isTokenValid": true,
-    "lastUpdate": "2024-10-14T08:14:19.061Z"
+    "isTokenValid": false,
+    "lastUpdate": "2024-10-14T10:19:41.590Z"
   },
   {
     "name": "BINA MAKMUR",
@@ -105,7 +105,7 @@
     "name": "TOKO 2 PUTRI",
     "stock": 0,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-14T08:14:20.547Z"
+    "lastUpdate": "2024-10-14T10:19:43.013Z"
   },
   {
     "name": "TOKO IIN",
@@ -175,9 +175,9 @@
   },
   {
     "name": "EVI DIANA SARI",
-    "stock": 5,
+    "stock": 2,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-14T10:14:20.596Z"
+    "lastUpdate": "2024-10-14T10:19:43.765Z"
   },
   {
     "name": "TOKO IRAWAN",
