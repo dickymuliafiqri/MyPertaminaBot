@@ -9,6 +9,7 @@ loadEnv();
 const bot = new Telegram();
 const finalMessage: string[] = [];
 let niks = Database.getNiksArray();
+let userLimit = 5;
 
 async function sheetTransaction(
   sheet: GoogleSpreadsheetWorksheet,
@@ -154,6 +155,8 @@ async function sheetTransaction(
     console.log(`[+] Transaction limit not reached, clearing sheet...`);
     await sheet.clear(`C1:Z${rows.length + 1}`);
     message.push(`[🟡] Transaction limit not reached, sheet ${sheetName} cleared!`);
+
+    if (sheetName != "Bansos") userLimit += 1;
   }
 
   console.log(`[+] Saving changes to Google Sheets...`);
@@ -167,7 +170,6 @@ async function sheetTransaction(
   console.log("STARTING PROGRAM...");
   console.log("[+] Initializing classes...");
 
-  let userLimit = 5;
   const db = new Database();
   await db.doc.loadInfo();
 
