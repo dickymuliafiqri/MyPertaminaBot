@@ -9,7 +9,7 @@ loadEnv();
 const bot = new Telegram();
 const finalMessage: string[] = [];
 let niks = Database.getNiksArray();
-let userLimit = 20;
+let userLimit = 5;
 
 async function sheetTransaction(
   sheet: GoogleSpreadsheetWorksheet,
