@@ -9,9 +9,14 @@ export interface UserLocalData {
   lastUpdate: Date;
 }
 
-export interface NIKsLocalData {
+interface NIKsData {
   data: string[];
   day: number;
+}
+
+export interface NIKsLocalData {
+  done: NIKsData;
+  exceeded: NIKsData;
 }
 
 export class Database {

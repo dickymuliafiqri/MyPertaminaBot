@@ -54,16 +54,29 @@ async function sheetTransaction(
           const nowDate = new Date().getDate();
           let niks = await Database.getNiksArray();
 
-          if (niks.day != nowDate) {
-            niks = {
+          if (niks.done.day != nowDate) {
+            niks.done = {
               data: [],
               day: nowDate,
             };
           }
 
-          if (niks.data.includes(nik)) {
+          if (nowDate - niks.exceeded.day >= 3) {
+            niks.exceeded = {
+              data: [],
+              day: nowDate,
+            };
+          }
+
+          if (niks.done.data.includes(nik)) {
             console.log(`[-] Found duplicate NIK Transaction!`);
             cell.value = 0;
+            continue;
+          }
+
+          if (niks.exceeded.data.includes(nik)) {
+            console.log(`[-] Exceeded NIK Process Detected!`);
+            cell.value = "End";
             continue;
           }
 
@@ -94,7 +107,7 @@ async function sheetTransaction(
               `[🟢] ${sheetName} > Transaction success > ${sheetA1Notation} > ${quantity}/${(accountData.stock -=
                 quantity)}`
             );
-            niks.data.push(nik);
+            niks.done.data.push(nik);
             transactionLimit -= 1;
           } else {
             console.log(`[-] Error ${transaction.code}: ${transaction.message}`);
@@ -107,6 +120,7 @@ async function sheetTransaction(
                 if (transaction.message == "Transaksi melebihi stok yang dapat dijual") {
                   transactionLimit = 0;
                 } else {
+                  niks.exceeded.data.push(nik);
                   cell.value = "End";
                 }
                 break;
