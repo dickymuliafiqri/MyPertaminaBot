@@ -4,6 +4,12 @@ import { Pertamina } from "./modules/pertamina";
 import { Telegram } from "./modules/telegram";
 import { config as loadEnv } from "dotenv";
 
+// Initialize
+loadEnv();
+const bot = new Telegram();
+const finalMessage: string[] = [];
+let niks = Database.getNiksArray();
+
 async function sheetTransaction(
   sheet: GoogleSpreadsheetWorksheet,
   transactionLimit: number,
@@ -52,7 +58,6 @@ async function sheetTransaction(
 
           // Check duplicate NIK
           const nowDate = new Date().getDate();
-          let niks = await Database.getNiksArray();
 
           if (niks.done.day != nowDate) {
             niks.done = {
@@ -157,11 +162,6 @@ async function sheetTransaction(
 
   return message.join("\n");
 }
-
-// Initialize
-loadEnv();
-const bot = new Telegram();
-const finalMessage: string[] = [];
 
 (async () => {
   console.log("STARTING PROGRAM...");

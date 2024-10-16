@@ -49,11 +49,11 @@ export class Database {
     writeFileSync("./temp/user.json", JSON.stringify(this.userLocalData, null, "  "));
   }
 
-  static async getNiksArray(): Promise<NIKsLocalData> {
+  static getNiksArray(): NIKsLocalData {
     return JSON.parse(readFileSync("./temp/niks.json").toString()) as NIKsLocalData;
   }
 
-  static async setNiksArray(niks: NIKsLocalData) {
+  static setNiksArray(niks: NIKsLocalData) {
     writeFileSync("./temp/niks.json", JSON.stringify(niks, null, "  "));
   }
 }
