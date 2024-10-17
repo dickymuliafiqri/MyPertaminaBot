@@ -44,7 +44,15 @@ async function sheetTransaction(
       if (transactionLimit <= 0) break;
       const rawData = row["_rawData"];
 
-      if (rawData.length > 25) break;
+      if (rawData.length > 25) {
+        if (loopLimit == 1) {
+          console.log(`[+] Sheet has reached max column, clearing...`);
+          await sheet.clear(`C1:Z${rows.length + 1}`);
+          message.push(`[🟡] Max column reached!, sheet ${sheetName} has been cleared!`);
+        }
+
+        break;
+      }
 
       if (!isNaN(rawData[0]?.replaceAll(" ", "")) && rawData[rawData.length - 1] != "End") {
         if (rawData.length < maxColumnIndex) {
@@ -147,7 +155,7 @@ async function sheetTransaction(
   if (transactionLimit > 0 && accountData.lastUpdate.getDate() != nowDate) {
     console.log(`[+] Transaction limit not reached, clearing sheet...`);
     await sheet.clear(`C1:Z${rows.length + 1}`);
-    message.push(`[🟡] Transaction limit not reached, sheet ${sheetName} cleared!`);
+    message.push(`[🟡] Transaction limit not reached, sheet ${sheetName} has been cleared!`);
 
     if (sheetName != "Bansos") userLimit += 1;
   }
