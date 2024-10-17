@@ -57,6 +57,16 @@ async function sheetTransaction(
             (t: string) => parseInt(t, 10) <= 3 && parseInt(t, 10) > 0
           ) as string[];
 
+          // Bansos first
+          if (sheetName != "Bansos" && bansosLimit > 0) {
+            console.log(`[+] Proceeding bansos...`);
+            const bansosDB = new Database();
+            await bansosDB.doc.loadInfo();
+
+            message.push(await sheetTransaction(bansosDB.doc.sheetsByTitle["Bansos"], 1, pertamina, accountData));
+            bansosLimit -= 1;
+          }
+
           // Check duplicate NIK
           const nowDate = new Date().getDate();
 
@@ -80,26 +90,10 @@ async function sheetTransaction(
             continue;
           }
 
-          if (niks.exceeded.data.includes(nik)) {
+          if (niks.exceeded.data.includes(nik) || transactionRecord.length > 5) {
             console.log(`[-] Exceeded NIK Process Detected!`);
             cell.value = "End";
             continue;
-          }
-
-          if (transactionRecord.length > 2 || bansosLimit > 1) {
-            if (sheetName != "Bansos" && bansosLimit > 0) {
-              console.log(`[+] Proceeding bansos...`);
-              const bansosDB = new Database();
-              await bansosDB.doc.loadInfo();
-
-              message.push(await sheetTransaction(bansosDB.doc.sheetsByTitle["Bansos"], 1, pertamina, accountData));
-              bansosLimit -= 1;
-            }
-
-            if (transactionRecord.length > 2) {
-              cell.value = "End";
-              continue;
-            }
           }
 
           console.log(`[+] Processing ${name}...`);
