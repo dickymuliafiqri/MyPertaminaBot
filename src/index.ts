@@ -19,6 +19,7 @@ async function sheetTransaction(
 ): Promise<string> {
   const sheetName = sheet.title;
   const message: string[] = [];
+  const nowDate = new Date().getDate();
 
   console.log(`\n[+] Making transaction for ${sheetName} sheet...`);
   if (sheetName != "Bansos") message.push(`${sheetName} | ${accountData.stock}`);
@@ -68,8 +69,6 @@ async function sheetTransaction(
           }
 
           // Check duplicate NIK
-          const nowDate = new Date().getDate();
-
           if (niks.done.day != nowDate) {
             niks.done = {
               data: [],
@@ -145,7 +144,7 @@ async function sheetTransaction(
     maxColumnIndex += 1;
   }
 
-  if (transactionLimit > 0) {
+  if (transactionLimit > 0 && accountData.lastUpdate.getDate() != nowDate) {
     console.log(`[+] Transaction limit not reached, clearing sheet...`);
     await sheet.clear(`C1:Z${rows.length + 1}`);
     message.push(`[🟡] Transaction limit not reached, sheet ${sheetName} cleared!`);
