@@ -220,7 +220,7 @@ async function sheetTransaction(
       const message = await sheetTransaction(sheet, transactionLimit, pertamina, user);
       finalMessage.push(message);
 
-      userLimit -= 1;
+      if (message.includes("🟢")) userLimit -= 1;
     }
 
     console.log(`[+] Done proceeding ${sheetName} sheet!`);
