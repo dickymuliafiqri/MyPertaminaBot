@@ -91,7 +91,7 @@ async function sheetTransaction(
             };
           }
 
-          if (niks.done.data.includes(nik)) {
+          if (niks.done.data.includes(nik) && sheetName != "Bansos") {
             console.log(`[-] Found duplicate NIK Transaction!`);
             cell.value = 0;
             continue;
