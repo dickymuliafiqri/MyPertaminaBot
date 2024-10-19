@@ -30,7 +30,8 @@
     "name": "CINDRAWATI",
     "stock": 0,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-19T07:24:29.053Z"
+    "isAlive": true,
+    "lastUpdate": "2024-10-19T09:29:22.435Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -88,38 +89,38 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 33,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-10-19T09:24:19.027Z"
-  },
-  {
-    "name": "MOH SAID",
-    "stock": 18,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-10-19T09:24:33.351Z"
-  },
-  {
-    "name": "TITIK ISMIATIN",
-    "stock": 52,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-10-19T09:24:47.553Z"
-  },
-  {
-    "name": "TK. MAJU",
-    "stock": 55,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-10-19T09:25:00.144Z"
-  },
-  {
-    "name": "TOKO 2 PUTRI",
     "stock": 29,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-19T09:25:12.690Z"
+    "lastUpdate": "2024-10-19T09:29:23.795Z"
+  },
+  {
+    "name": "MOH SAID",
+    "stock": 13,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2024-10-19T09:29:38.038Z"
+  },
+  {
+    "name": "TITIK ISMIATIN",
+    "stock": 46,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2024-10-19T09:29:47.722Z"
+  },
+  {
+    "name": "TK. MAJU",
+    "stock": 49,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2024-10-19T09:29:58.289Z"
+  },
+  {
+    "name": "TOKO 2 PUTRI",
+    "stock": 25,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2024-10-19T09:30:08.800Z"
   },
   {
     "name": "TOKO IIN",
