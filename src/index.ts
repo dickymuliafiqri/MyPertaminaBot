@@ -192,6 +192,9 @@ async function sheetTransaction(
         if (user.stock <= 0 || !user.isTokenValid) {
           console.log("[-] Out of stock or token invalid!");
           continue;
+        } else if (user.isAlive != undefined && !user.isAlive) {
+          console.log("[-] No active NIK found!");
+          continue;
         }
       }
     }
@@ -212,11 +215,11 @@ async function sheetTransaction(
       name: sheetName,
       stock: stock,
       isTokenValid: isTokenValid,
+      isAlive: true,
       lastUpdate: new Date(),
     };
-    db.setUserLocalData(user);
 
-    if (isTokenValid && stock > 0) {
+    if (user.isTokenValid && user.stock > 0 && user.isAlive) {
       let message: string = "";
       try {
         message = await sheetTransaction(sheet, transactionLimit, pertamina, user);
@@ -225,10 +228,15 @@ async function sheetTransaction(
         message += `\n[🔴] Error occured: ${e.message}`;
       } finally {
         finalMessage.push(message);
-        if (message.includes("success")) userLimit -= 1;
+        if (message.includes("success")) {
+          userLimit -= 1;
+        } else if (!message.includes("[")) {
+          user.isAlive = false;
+        }
       }
     }
 
+    db.setUserLocalData(user);
     console.log(`[+] Done proceeding ${sheetName} sheet!`);
   }
 })()

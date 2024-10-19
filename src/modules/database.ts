@@ -6,6 +6,7 @@ export interface UserLocalData {
   name: string;
   stock: number;
   isTokenValid: boolean;
+  isAlive: boolean;
   lastUpdate: Date;
 }
 
