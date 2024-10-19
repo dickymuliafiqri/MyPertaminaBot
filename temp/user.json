@@ -49,15 +49,17 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 0,
-    "isTokenValid": false,
-    "lastUpdate": "2024-10-19T07:49:32.622Z"
+    "stock": 70,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2024-10-19T09:54:18.738Z"
   },
   {
     "name": "SUCIYONO",
     "stock": 0,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-19T07:54:29.580Z"
+    "isAlive": true,
+    "lastUpdate": "2024-10-19T09:54:33.039Z"
   },
   {
     "name": "SUMBER REJEKI",
@@ -92,7 +94,7 @@
     "stock": 22,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-19T09:49:19.681Z"
+    "lastUpdate": "2024-10-19T09:54:34.137Z"
   },
   {
     "name": "MOH SAID",
@@ -110,31 +112,31 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 25,
+    "stock": 21,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-19T09:49:36.926Z"
+    "lastUpdate": "2024-10-19T09:54:49.530Z"
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 8,
+    "stock": 3,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-19T09:49:47.486Z"
+    "lastUpdate": "2024-10-19T09:55:03.235Z"
   },
   {
     "name": "TOKO IIN",
-    "stock": 72,
+    "stock": 66,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-19T09:49:56.678Z"
+    "lastUpdate": "2024-10-19T09:55:11.547Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 385,
+    "stock": 382,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-19T09:50:09.830Z"
+    "lastUpdate": "2024-10-19T09:55:25.005Z"
   },
   {
     "name": "UD RAHMAT",
@@ -357,13 +359,15 @@
     "name": "SUPARNI",
     "stock": 0,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-18T19:34:54.172Z"
+    "isAlive": true,
+    "lastUpdate": "2024-10-19T09:55:32.116Z"
   },
   {
     "name": "H. JUMAT",
     "stock": 0,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-18T19:34:54.891Z"
+    "isAlive": true,
+    "lastUpdate": "2024-10-19T09:55:32.826Z"
   },
   {
     "name": "YOGA RAJAN",
