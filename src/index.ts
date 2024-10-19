@@ -217,10 +217,16 @@ async function sheetTransaction(
     db.setUserLocalData(user);
 
     if (isTokenValid && stock > 0) {
-      const message = await sheetTransaction(sheet, transactionLimit, pertamina, user);
-      finalMessage.push(message);
-
-      if (message.includes("🟢")) userLimit -= 1;
+      let message: string = "";
+      try {
+        message = await sheetTransaction(sheet, transactionLimit, pertamina, user);
+      } catch (e: any) {
+        console.log(`[-] Error occured: ${e.message}`);
+        message += `\n[🔴] Error occured: ${e.message}`;
+      } finally {
+        finalMessage.push(message);
+        if (message.includes("success")) userLimit -= 1;
+      }
     }
 
     console.log(`[+] Done proceeding ${sheetName} sheet!`);
