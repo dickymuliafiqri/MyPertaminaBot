@@ -50,10 +50,10 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 52,
+    "stock": 49,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-19T10:24:20.037Z"
+    "lastUpdate": "2024-10-19T10:29:20.493Z"
   },
   {
     "name": "SUCIYONO",
@@ -127,10 +127,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 34,
+    "stock": 28,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-19T10:24:36.423Z"
+    "lastUpdate": "2024-10-19T10:29:30.681Z"
   },
   {
     "name": "TOKO POJOK",
@@ -386,10 +386,10 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 12,
+    "stock": 7,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-19T10:24:47.324Z"
+    "lastUpdate": "2024-10-19T10:29:40.890Z"
   },
   {
     "name": "TOKO SURYATI",
@@ -435,16 +435,17 @@
   },
   {
     "name": "TUSOK",
-    "stock": 10,
+    "stock": 8,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-19T10:24:55.285Z"
+    "lastUpdate": "2024-10-19T10:29:48.638Z"
   },
   {
     "name": "MISRI CICI",
-    "stock": 9,
+    "stock": 4,
     "isTokenValid": true,
-    "lastUpdate": "2024-10-18T14:51:05.419Z"
+    "isAlive": true,
+    "lastUpdate": "2024-10-19T10:29:54.696Z"
   },
   {
     "name": "HERDIANA DIYAH S",
