@@ -4,7 +4,7 @@
     "stock": 126,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-19T13:14:20.458Z"
+    "lastUpdate": "2024-10-19T13:19:21.213Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -53,7 +53,7 @@
     "stock": 25,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-19T13:14:35.296Z"
+    "lastUpdate": "2024-10-19T13:19:36.864Z"
   },
   {
     "name": "SUCIYONO",
@@ -71,24 +71,24 @@
   },
   {
     "name": "JAENAL",
-    "stock": 76,
-    "isTokenValid": true,
+    "stock": 0,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-10-19T13:14:48.792Z"
+    "lastUpdate": "2024-10-19T13:19:50.627Z"
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 18,
+    "stock": 17,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-19T13:15:02.471Z"
+    "lastUpdate": "2024-10-19T13:19:51.390Z"
   },
   {
     "name": "KARSONO",
-    "stock": 142,
-    "isTokenValid": true,
+    "stock": 0,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-10-19T13:15:07.588Z"
+    "lastUpdate": "2024-10-19T13:20:03.644Z"
   },
   {
     "name": "LUTFI A.",
@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 367,
+    "stock": 365,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-19T13:15:14.067Z"
+    "lastUpdate": "2024-10-19T13:20:04.457Z"
   },
   {
     "name": "UD RAHMAT",
@@ -435,10 +435,10 @@
   },
   {
     "name": "TUSOK",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-19T13:10:14.977Z"
+    "lastUpdate": "2024-10-19T13:20:10.468Z"
   },
   {
     "name": "MISRI CICI",
@@ -449,10 +449,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 7,
+    "stock": 23,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-19T13:10:18.384Z"
+    "lastUpdate": "2024-10-19T13:20:15.525Z"
   },
   {
     "name": "BUDI",
@@ -477,10 +477,10 @@
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 7,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-19T13:10:24.498Z"
+    "lastUpdate": "2024-10-19T13:20:24.830Z"
   },
   {
     "name": "IMA",
