@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 203,
+    "stock": 200,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-10-20T17:54:20.454Z"
+    "isAlive": true,
+    "lastUpdate": "2024-10-20T19:59:19.898Z"
   },
   {
     "name": "UD RAHMAT",
