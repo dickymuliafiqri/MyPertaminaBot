@@ -43,10 +43,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 80,
+    "stock": 70,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-20T21:54:19.387Z"
+    "lastUpdate": "2024-10-20T21:59:18.937Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -106,10 +106,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 63,
+    "stock": 58,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-20T21:54:32.554Z"
+    "lastUpdate": "2024-10-20T21:59:32.223Z"
   },
   {
     "name": "TK. MAJU",
@@ -136,8 +136,8 @@
     "name": "TOKO POJOK",
     "stock": 257,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-10-20T21:54:46.918Z"
+    "isAlive": false,
+    "lastUpdate": "2024-10-20T21:59:48.595Z"
   },
   {
     "name": "UD RAHMAT",
@@ -512,10 +512,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 3,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-20T21:54:54.632Z"
+    "lastUpdate": "2024-10-20T21:59:49.738Z"
   },
   {
     "name": "TK. LUCKY",
