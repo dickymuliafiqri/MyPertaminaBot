@@ -1,10 +1,10 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 111,
+    "stock": 109,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-20T05:54:19.279Z"
+    "lastUpdate": "2024-10-20T05:59:21.406Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -73,8 +73,8 @@
     "name": "JAENAL",
     "stock": 15,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-10-20T05:54:25.819Z"
+    "isAlive": false,
+    "lastUpdate": "2024-10-20T05:59:28.504Z"
   },
   {
     "name": "JOKO SUWARNO",
@@ -85,10 +85,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 59,
+    "stock": 61,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-10-20T05:54:32.540Z"
+    "isAlive": false,
+    "lastUpdate": "2024-10-20T05:59:29.623Z"
   },
   {
     "name": "LUTFI A.",
@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 347,
+    "stock": 345,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-20T05:54:42.537Z"
+    "lastUpdate": "2024-10-20T05:59:30.678Z"
   },
   {
     "name": "UD RAHMAT",
