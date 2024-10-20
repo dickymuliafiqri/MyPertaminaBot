@@ -3,8 +3,8 @@
     "name": "ABDUL WAFI",
     "stock": 75,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-10-20T07:04:17.385Z"
+    "isAlive": false,
+    "lastUpdate": "2024-10-20T07:09:22.302Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 315,
+    "stock": 313,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-20T07:04:24.780Z"
+    "lastUpdate": "2024-10-20T07:09:23.511Z"
   },
   {
     "name": "UD RAHMAT",
