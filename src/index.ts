@@ -230,7 +230,7 @@ async function sheetTransaction(
         finalMessage.push(message);
         if (message.includes("success")) {
           userLimit -= 1;
-        } else if (!message.includes("[")) {
+        } else if (!message.includes(">")) {
           user.isAlive = false;
         }
       }
