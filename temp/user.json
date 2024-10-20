@@ -11,7 +11,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-20T11:49:19.662Z"
+    "lastUpdate": "2024-10-20T13:49:25.369Z"
   },
   {
     "name": "ALFIAN DWI A.",
@@ -53,7 +53,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-20T11:49:20.926Z"
+    "lastUpdate": "2024-10-20T13:49:26.644Z"
   },
   {
     "name": "SUCIYONO",
@@ -65,9 +65,9 @@
   {
     "name": "SUMBER REJEKI",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-10-20T11:49:21.736Z"
+    "lastUpdate": "2024-10-20T13:49:27.504Z"
   },
   {
     "name": "JAENAL",
@@ -86,16 +86,16 @@
   {
     "name": "KARSONO",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-10-20T11:44:22.649Z"
+    "lastUpdate": "2024-10-20T13:49:28.205Z"
   },
   {
     "name": "LUTFI A.",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-20T11:49:22.899Z"
+    "lastUpdate": "2024-10-20T13:49:29.361Z"
   },
   {
     "name": "MOH SAID",
@@ -136,8 +136,8 @@
     "name": "TOKO POJOK",
     "stock": 249,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-10-20T13:44:17.930Z"
+    "isAlive": false,
+    "lastUpdate": "2024-10-20T13:49:30.178Z"
   },
   {
     "name": "UD RAHMAT",
