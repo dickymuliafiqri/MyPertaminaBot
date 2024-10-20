@@ -4,7 +4,7 @@
     "stock": 29,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-20T15:34:23.860Z"
+    "lastUpdate": "2024-10-20T15:39:20.608Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -23,9 +23,9 @@
   {
     "name": "ATHI HANDAYANI",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-20T13:39:21.265Z"
+    "lastUpdate": "2024-10-20T15:39:35.646Z"
   },
   {
     "name": "CINDRAWATI",
@@ -37,16 +37,16 @@
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-20T13:39:21.888Z"
+    "lastUpdate": "2024-10-20T15:39:36.337Z"
   },
   {
     "name": "BINA MAKMUR",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-20T13:39:22.718Z"
+    "lastUpdate": "2024-10-20T15:39:37.218Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -109,7 +109,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-20T13:39:24.372Z"
+    "lastUpdate": "2024-10-20T15:39:38.394Z"
   },
   {
     "name": "TK. MAJU",
@@ -478,9 +478,9 @@
   {
     "name": "HJ. HAERONI",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-10-20T13:39:32.745Z"
+    "lastUpdate": "2024-10-20T15:39:39.160Z"
   },
   {
     "name": "IMA",
