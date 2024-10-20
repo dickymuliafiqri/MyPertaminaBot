@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 223,
+    "stock": 221,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-20T16:59:18.955Z"
+    "lastUpdate": "2024-10-20T17:04:19.452Z"
   },
   {
     "name": "UD RAHMAT",
@@ -445,7 +445,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-20T15:04:19.117Z"
+    "lastUpdate": "2024-10-20T17:04:27.054Z"
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -457,23 +457,23 @@
   {
     "name": "BUDI",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-20T15:04:19.902Z"
+    "lastUpdate": "2024-10-20T17:04:27.858Z"
   },
   {
     "name": "YULI SORAYA",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-20T15:04:20.769Z"
+    "lastUpdate": "2024-10-20T17:04:28.598Z"
   },
   {
     "name": "SUSILO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-20T15:04:21.479Z"
+    "lastUpdate": "2024-10-20T17:04:29.490Z"
   },
   {
     "name": "HJ. HAERONI",
