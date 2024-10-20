@@ -71,10 +71,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 15,
+    "stock": 13,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-10-20T05:59:28.504Z"
+    "isAlive": true,
+    "lastUpdate": "2024-10-20T08:04:21.792Z"
   },
   {
     "name": "JOKO SUWARNO",
@@ -85,10 +85,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 61,
+    "stock": 58,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-10-20T05:59:29.623Z"
+    "isAlive": true,
+    "lastUpdate": "2024-10-20T08:04:29.260Z"
   },
   {
     "name": "LUTFI A.",
