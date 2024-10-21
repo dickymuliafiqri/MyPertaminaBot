@@ -1,17 +1,17 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 66,
+    "stock": 64,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-21T00:24:18.742Z"
+    "lastUpdate": "2024-10-21T00:29:18.527Z"
   },
   {
     "name": "AKBAR RISQ",
-    "stock": 81,
+    "stock": 73,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-10-20T22:29:19.173Z"
+    "isAlive": true,
+    "lastUpdate": "2024-10-21T00:29:26.423Z"
   },
   {
     "name": "ALFIAN DWI A.",
@@ -71,17 +71,17 @@
   },
   {
     "name": "JAENAL",
-    "stock": 55,
+    "stock": 52,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-21T00:24:26.187Z"
+    "lastUpdate": "2024-10-21T00:29:38.589Z"
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 20,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-21T00:24:35.803Z"
+    "lastUpdate": "2024-10-21T00:29:52.354Z"
   },
   {
     "name": "KARSONO",
@@ -92,10 +92,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 57,
+    "stock": 51,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-21T00:24:49.697Z"
+    "lastUpdate": "2024-10-21T00:30:02.323Z"
   },
   {
     "name": "MOH SAID",
