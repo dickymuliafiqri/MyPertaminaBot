@@ -3,8 +3,8 @@
     "name": "ABDUL WAFI",
     "stock": 90,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-10-21T21:39:19.062Z"
+    "isAlive": false,
+    "lastUpdate": "2024-10-21T21:44:17.485Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -43,10 +43,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 88,
+    "stock": 82,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-21T21:39:28.379Z"
+    "lastUpdate": "2024-10-21T21:44:19.113Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -78,17 +78,17 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 55,
+    "stock": 52,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-21T21:39:43.697Z"
+    "lastUpdate": "2024-10-21T21:44:36.456Z"
   },
   {
     "name": "KARSONO",
-    "stock": 55,
+    "stock": 52,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-21T21:39:56.488Z"
+    "lastUpdate": "2024-10-21T21:44:50.589Z"
   },
   {
     "name": "LUTFI A.",
@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 50,
+    "stock": 42,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-21T21:40:11.420Z"
+    "lastUpdate": "2024-10-21T21:45:05.214Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 170,
+    "stock": 168,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-21T21:30:05.632Z"
+    "lastUpdate": "2024-10-21T21:45:21.526Z"
   },
   {
     "name": "UD RAHMAT",
