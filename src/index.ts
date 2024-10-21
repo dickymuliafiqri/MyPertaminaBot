@@ -117,6 +117,11 @@ async function sheetTransaction(
               `[🟢] ${sheetName} > Transaction success > ${sheetA1Notation} > ${quantity}/${(accountData.stock -=
                 quantity)}`
             );
+
+            // Update NIK Info
+            cellNIK.value = nik;
+            cellName.value = transaction.payload.subsidi.nama;
+
             niks.done.data.push(nik);
             transactionLimit -= 1;
           } else {
@@ -144,10 +149,6 @@ async function sheetTransaction(
                 cell.value = 0;
             }
           }
-
-          // Update NIK Info
-          cellNIK.value = nik;
-          cellName.value = transaction.payload.subsidi.nama;
 
           Database.setNiksArray(niks);
           console.log(`[+] Data update on ${cellA1Notation}!`);
