@@ -62,6 +62,9 @@ async function sheetTransaction(
           const cellA1Notation = (rawData.length + 1 + 9).toString(36).toUpperCase() + row["_rowNumber"];
           const sheetA1Notation = `${sheetName}:${cellA1Notation}`;
           const cell = sheet.getCell(row["_rowNumber"] - 1, rawData.length);
+          const cellNIK = sheet.getCell(row["_rowNumber"] - 1, 0);
+          const cellName = sheet.getCell(row["_rowNumber"] - 1, 1);
+
           const transactionRecord = rawData.filter(
             (t: string) => parseInt(t, 10) <= 3 && parseInt(t, 10) > 0
           ) as string[];
@@ -142,7 +145,11 @@ async function sheetTransaction(
             }
           }
 
-          await Database.setNiksArray(niks);
+          // Update NIK Info
+          cellNIK.value = nik;
+          cellName.value = transaction.payload.subsidi.nama;
+
+          Database.setNiksArray(niks);
           console.log(`[+] Data update on ${cellA1Notation}!`);
         }
       }
