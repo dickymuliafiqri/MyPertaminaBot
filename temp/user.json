@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 144,
+    "stock": 141,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-10-22T03:29:49.317Z"
+    "isAlive": true,
+    "lastUpdate": "2024-10-22T05:34:19.029Z"
   },
   {
     "name": "UD RAHMAT",
@@ -148,10 +148,10 @@
   },
   {
     "name": "SUPARMAN",
-    "stock": 6,
+    "stock": 4,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-22T05:29:21.741Z"
+    "lastUpdate": "2024-10-22T05:34:38.292Z"
   },
   {
     "name": "DJAMIAH",
