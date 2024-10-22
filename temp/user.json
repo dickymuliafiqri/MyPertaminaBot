@@ -15,10 +15,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 12,
+    "stock": 10,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-10-22T02:39:23.143Z"
+    "isAlive": true,
+    "lastUpdate": "2024-10-22T04:44:20.847Z"
   },
   {
     "name": "ATHI HANDAYANI",
@@ -71,10 +71,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 5,
+    "stock": 3,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-22T04:39:27.066Z"
+    "lastUpdate": "2024-10-22T04:44:34.915Z"
   },
   {
     "name": "JOKO SUWARNO",
@@ -109,7 +109,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-22T02:44:37.287Z"
+    "lastUpdate": "2024-10-22T04:44:43.744Z"
   },
   {
     "name": "TK. MAJU",
@@ -414,10 +414,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 8,
+    "stock": 6,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-22T04:39:41.190Z"
+    "lastUpdate": "2024-10-22T04:44:44.748Z"
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -470,10 +470,10 @@
   },
   {
     "name": "SUSILO",
-    "stock": 6,
+    "stock": 2,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-22T04:39:50.542Z"
+    "lastUpdate": "2024-10-22T04:44:52.743Z"
   },
   {
     "name": "HJ. HAERONI",
@@ -498,10 +498,10 @@
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-22T04:39:59.476Z"
+    "lastUpdate": "2024-10-22T04:45:01.933Z"
   },
   {
     "name": "SALMAH",
