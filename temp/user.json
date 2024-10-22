@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 10,
+    "stock": 6,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-22T07:49:20.332Z"
+    "lastUpdate": "2024-10-22T07:54:20.518Z"
   },
   {
     "name": "UD RAHMAT",
@@ -310,16 +310,16 @@
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-10-22T05:49:39.476Z"
+    "lastUpdate": "2024-10-22T07:54:29.071Z"
   },
   {
     "name": "ISTIQOMAH",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-22T05:49:40.288Z"
+    "lastUpdate": "2024-10-22T07:54:30.136Z"
   },
   {
     "name": "SUROSO",
