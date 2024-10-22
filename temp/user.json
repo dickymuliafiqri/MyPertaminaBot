@@ -1,17 +1,17 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 77,
-    "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-10-22T12:39:19.590Z"
+    "stock": 0,
+    "isTokenValid": false,
+    "isAlive": true,
+    "lastUpdate": "2024-10-22T14:44:20.129Z"
   },
   {
     "name": "AKBAR RISQ",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-22T12:39:20.918Z"
+    "lastUpdate": "2024-10-22T14:44:21.209Z"
   },
   {
     "name": "ALFIAN DWI A.",
@@ -326,7 +326,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-22T12:39:21.769Z"
+    "lastUpdate": "2024-10-22T14:44:21.886Z"
   },
   {
     "name": "HADI SUTOYO",
@@ -347,7 +347,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-22T12:39:22.704Z"
+    "lastUpdate": "2024-10-22T14:44:22.541Z"
   },
   {
     "name": "YUSUF ISMAIL",
@@ -424,49 +424,49 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-22T12:39:23.447Z"
+    "lastUpdate": "2024-10-22T14:44:23.227Z"
   },
   {
     "name": "WIKAN K",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-22T12:39:24.173Z"
+    "lastUpdate": "2024-10-22T14:44:23.928Z"
   },
   {
     "name": "TUSOK",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-22T12:39:24.805Z"
+    "lastUpdate": "2024-10-22T14:44:24.587Z"
   },
   {
     "name": "MISRI CICI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-22T12:39:25.446Z"
+    "lastUpdate": "2024-10-22T14:44:25.248Z"
   },
   {
     "name": "HERDIANA DIYAH S",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-22T12:39:26.200Z"
+    "lastUpdate": "2024-10-22T14:44:26.067Z"
   },
   {
     "name": "BUDI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-22T12:39:26.866Z"
+    "lastUpdate": "2024-10-22T14:44:26.734Z"
   },
   {
     "name": "YULI SORAYA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-22T12:39:27.530Z"
+    "lastUpdate": "2024-10-22T14:44:27.432Z"
   },
   {
     "name": "SUSILO",
