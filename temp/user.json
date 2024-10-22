@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 109,
+    "stock": 103,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-22T06:04:20.946Z"
+    "lastUpdate": "2024-10-22T06:09:19.681Z"
   },
   {
     "name": "UD RAHMAT",
@@ -354,63 +354,63 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-22T04:05:20.970Z"
+    "lastUpdate": "2024-10-22T06:09:35.907Z"
   },
   {
     "name": "SUPARNI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-22T04:05:22.170Z"
+    "lastUpdate": "2024-10-22T06:09:36.655Z"
   },
   {
     "name": "H. JUMAT",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-10-22T04:05:22.856Z"
+    "lastUpdate": "2024-10-22T06:09:37.446Z"
   },
   {
     "name": "YOGA RAJAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-22T04:05:23.833Z"
+    "lastUpdate": "2024-10-22T06:09:38.629Z"
   },
   {
     "name": "HARSININGSIH",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-22T04:05:24.647Z"
+    "lastUpdate": "2024-10-22T06:09:39.507Z"
   },
   {
     "name": "ARIF FAUZI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-22T04:05:25.396Z"
+    "lastUpdate": "2024-10-22T06:09:40.279Z"
   },
   {
     "name": "TOKO SURYATI",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-22T04:05:26.253Z"
+    "lastUpdate": "2024-10-22T06:09:41.332Z"
   },
   {
     "name": "MOH HAFIF",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-10-22T04:05:26.943Z"
+    "lastUpdate": "2024-10-22T06:09:42.010Z"
   },
   {
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-22T04:05:27.624Z"
+    "lastUpdate": "2024-10-22T06:09:42.717Z"
   },
   {
     "name": "SUDJIONO",
