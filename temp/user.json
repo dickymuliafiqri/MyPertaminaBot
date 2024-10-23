@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 21,
+    "stock": 18,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-23T09:39:25.046Z"
+    "lastUpdate": "2024-10-23T09:44:20.654Z"
   },
   {
     "name": "UD RAHMAT",
@@ -540,9 +540,9 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 4,
+    "stock": 2,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-23T09:39:47.858Z"
+    "lastUpdate": "2024-10-23T09:44:32.523Z"
   }
 ]
