@@ -113,17 +113,17 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-23T06:14:29.429Z"
+    "lastUpdate": "2024-10-23T06:19:19.437Z"
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 2,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-23T06:14:46.372Z"
+    "lastUpdate": "2024-10-23T06:19:24.832Z"
   },
   {
     "name": "TOKO IIN",
@@ -358,10 +358,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 7,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-23T06:15:12.014Z"
+    "lastUpdate": "2024-10-23T06:19:33.586Z"
   },
   {
     "name": "H. JUMAT",
@@ -372,10 +372,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 17,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-23T06:15:19.643Z"
+    "lastUpdate": "2024-10-23T06:19:40.444Z"
   },
   {
     "name": "HARSININGSIH",
@@ -421,10 +421,10 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 18,
-    "isTokenValid": true,
+    "stock": 0,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-10-23T06:15:28.540Z"
+    "lastUpdate": "2024-10-23T06:19:47.140Z"
   },
   {
     "name": "WIKAN K",
@@ -540,9 +540,9 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 46,
+    "stock": 42,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-23T06:10:26.957Z"
+    "lastUpdate": "2024-10-23T06:19:47.844Z"
   }
 ]
