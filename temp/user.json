@@ -71,10 +71,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 4,
+    "stock": 2,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-23T07:09:24.176Z"
+    "lastUpdate": "2024-10-23T07:14:19.916Z"
   },
   {
     "name": "JOKO SUWARNO",
@@ -109,7 +109,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-23T05:09:35.088Z"
+    "lastUpdate": "2024-10-23T07:14:29.862Z"
   },
   {
     "name": "TK. MAJU",
@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 41,
+    "stock": 38,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-23T07:09:35.667Z"
+    "lastUpdate": "2024-10-23T07:14:30.699Z"
   },
   {
     "name": "UD RAHMAT",
@@ -270,7 +270,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-23T05:14:33.802Z"
+    "lastUpdate": "2024-10-23T07:14:42.166Z"
   },
   {
     "name": "YUDA",
@@ -540,9 +540,9 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 10,
+    "stock": 8,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-23T07:10:02.850Z"
+    "lastUpdate": "2024-10-23T07:14:42.961Z"
   }
 ]
