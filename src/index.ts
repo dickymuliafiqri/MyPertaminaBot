@@ -54,7 +54,7 @@ async function sheetTransaction(
         break;
       }
 
-      if (!isNaN(rawData[0]?.replaceAll(" ", "")) && rawData[rawData.length - 1] != "End") {
+      if (!isNaN(rawData[0]?.replaceAll(" ", "")) && (rawData[rawData.length - 1] != "End" || bansosLimit > 0)) {
         if (rawData.length < maxColumnIndex) {
           const name = rawData[1];
 
