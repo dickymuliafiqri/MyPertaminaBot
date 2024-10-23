@@ -53,7 +53,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-23T05:24:20.523Z"
+    "lastUpdate": "2024-10-23T07:29:21.840Z"
   },
   {
     "name": "SUCIYONO",
@@ -136,8 +136,8 @@
     "name": "TOKO POJOK",
     "stock": 32,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-10-23T07:24:18.771Z"
+    "isAlive": false,
+    "lastUpdate": "2024-10-23T07:29:22.759Z"
   },
   {
     "name": "UD RAHMAT",
@@ -540,9 +540,9 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 4,
+    "stock": 2,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-23T07:24:31.796Z"
+    "lastUpdate": "2024-10-23T07:29:24.538Z"
   }
 ]
