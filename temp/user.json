@@ -8,10 +8,10 @@
   },
   {
     "name": "AKBAR RISQ",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-23T15:09:21.631Z"
+    "lastUpdate": "2024-10-23T15:14:27.513Z"
   },
   {
     "name": "ALFIAN DWI A.",
@@ -86,9 +86,9 @@
   {
     "name": "KARSONO",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-10-23T13:14:22.214Z"
+    "lastUpdate": "2024-10-23T15:14:34.639Z"
   },
   {
     "name": "LUTFI A.",
