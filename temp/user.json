@@ -456,10 +456,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-24T14:04:23.808Z"
+    "lastUpdate": "2024-10-24T14:09:18.615Z"
   },
   {
     "name": "YULI SORAYA",
@@ -534,15 +534,15 @@
   {
     "name": "SOEKAMTO",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-24T12:04:43.625Z"
+    "lastUpdate": "2024-10-24T14:09:28.185Z"
   },
   {
     "name": "TOKO TIARA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-24T12:04:44.321Z"
+    "lastUpdate": "2024-10-24T14:09:29.049Z"
   }
 ]
