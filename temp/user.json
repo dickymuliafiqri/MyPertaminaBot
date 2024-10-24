@@ -1,10 +1,10 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 196,
+    "stock": 193,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-24T00:44:20.815Z"
+    "lastUpdate": "2024-10-24T00:49:21.084Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -15,10 +15,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 29,
-    "isTokenValid": true,
+    "stock": 0,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-10-24T00:44:31.066Z"
+    "lastUpdate": "2024-10-24T00:49:31.112Z"
   },
   {
     "name": "ATHI HANDAYANI",
@@ -46,14 +46,14 @@
     "stock": 47,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-24T00:44:49.822Z"
+    "lastUpdate": "2024-10-24T00:49:31.934Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 64,
-    "isTokenValid": true,
+    "stock": 0,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-10-24T00:45:15.264Z"
+    "lastUpdate": "2024-10-24T00:49:51.652Z"
   },
   {
     "name": "SUCIYONO",
@@ -67,42 +67,42 @@
     "stock": 44,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-24T00:45:33.743Z"
+    "lastUpdate": "2024-10-24T00:49:52.626Z"
   },
   {
     "name": "JAENAL",
     "stock": 91,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-24T00:45:50.347Z"
+    "lastUpdate": "2024-10-24T00:50:12.572Z"
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 53,
+    "stock": 47,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-24T00:46:05.267Z"
+    "lastUpdate": "2024-10-24T00:50:30.957Z"
   },
   {
     "name": "KARSONO",
     "stock": 61,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-24T00:16:42.446Z"
+    "lastUpdate": "2024-10-24T00:50:44.973Z"
   },
   {
     "name": "LUTFI A.",
-    "stock": 82,
+    "stock": 80,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-24T00:16:55.082Z"
+    "lastUpdate": "2024-10-24T00:50:54.978Z"
   },
   {
     "name": "MOH SAID",
-    "stock": 51,
+    "stock": 48,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-23T22:07:21.908Z"
+    "lastUpdate": "2024-10-24T00:51:13.340Z"
   },
   {
     "name": "TITIK ISMIATIN",
