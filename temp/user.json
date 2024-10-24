@@ -1,10 +1,10 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 10,
+    "stock": 8,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-24T07:19:21.596Z"
+    "lastUpdate": "2024-10-24T07:24:19.355Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -43,10 +43,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 7,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-24T07:19:30.020Z"
+    "lastUpdate": "2024-10-24T07:24:28.139Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -78,10 +78,10 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 11,
+    "stock": 9,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-24T07:19:37.402Z"
+    "lastUpdate": "2024-10-24T07:24:35.912Z"
   },
   {
     "name": "KARSONO",
@@ -113,10 +113,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 3,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-24T07:19:46.075Z"
+    "lastUpdate": "2024-10-24T07:24:45.238Z"
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 70,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-24T05:19:56.926Z"
+    "lastUpdate": "2024-10-24T07:24:56.624Z"
   },
   {
     "name": "UD RAHMAT",
