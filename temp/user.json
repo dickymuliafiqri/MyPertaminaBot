@@ -536,13 +536,13 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-24T16:14:22.955Z"
+    "lastUpdate": "2024-10-24T18:14:28.781Z"
   },
   {
     "name": "TOKO TIARA",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-10-24T16:14:23.798Z"
+    "lastUpdate": "2024-10-24T18:14:29.459Z"
   }
 ]
