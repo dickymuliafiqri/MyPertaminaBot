@@ -51,9 +51,9 @@
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-10-25T05:39:19.417Z"
+    "lastUpdate": "2024-10-25T07:39:24.133Z"
   },
   {
     "name": "SUCIYONO",
@@ -116,7 +116,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-25T05:39:21.087Z"
+    "lastUpdate": "2024-10-25T07:39:25.560Z"
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -519,10 +519,10 @@
   },
   {
     "name": "TK. LUCKY",
-    "stock": 28,
+    "stock": 25,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-25T07:34:21.493Z"
+    "lastUpdate": "2024-10-25T07:39:27.347Z"
   },
   {
     "name": "UD SAMAN HADI",
