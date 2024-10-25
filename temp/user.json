@@ -95,7 +95,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-25T09:04:31.784Z"
+    "lastUpdate": "2024-10-25T11:09:38.635Z"
   },
   {
     "name": "MOH SAID",
@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 32,
+    "stock": 25,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-25T11:04:22.474Z"
+    "lastUpdate": "2024-10-25T11:09:39.487Z"
   },
   {
     "name": "UD RAHMAT",
@@ -415,9 +415,9 @@
   {
     "name": "SUDJIONO",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-10-25T09:09:26.532Z"
+    "lastUpdate": "2024-10-25T11:09:52.570Z"
   },
   {
     "name": "SAMSUL ARIFIN",
