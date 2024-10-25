@@ -1,10 +1,10 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 50,
+    "stock": 47,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-25T23:49:21.179Z"
+    "lastUpdate": "2024-10-25T23:54:20.448Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -15,10 +15,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 27,
+    "stock": 25,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-25T23:49:34.878Z"
+    "lastUpdate": "2024-10-25T23:54:35.057Z"
   },
   {
     "name": "ATHI HANDAYANI",
@@ -39,14 +39,14 @@
     "stock": 17,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-25T23:49:46.333Z"
+    "lastUpdate": "2024-10-25T23:54:52.142Z"
   },
   {
     "name": "BINA MAKMUR",
     "stock": 54,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-25T23:50:01.908Z"
+    "lastUpdate": "2024-10-25T23:55:06.386Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -59,8 +59,8 @@
     "name": "SUCIYONO",
     "stock": 87,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-10-25T23:50:20.323Z"
+    "isAlive": false,
+    "lastUpdate": "2024-10-25T23:55:18.291Z"
   },
   {
     "name": "SUMBER REJEKI",
@@ -74,7 +74,7 @@
     "stock": 22,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-25T22:49:47.042Z"
+    "lastUpdate": "2024-10-25T23:55:19.553Z"
   },
   {
     "name": "JOKO SUWARNO",
@@ -87,29 +87,29 @@
     "name": "KARSONO",
     "stock": 35,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-10-25T22:49:58.446Z"
+    "isAlive": false,
+    "lastUpdate": "2024-10-25T23:55:36.246Z"
   },
   {
     "name": "LUTFI A.",
-    "stock": 64,
+    "stock": 63,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-25T22:50:11.315Z"
+    "lastUpdate": "2024-10-25T23:55:38.146Z"
   },
   {
     "name": "MOH SAID",
-    "stock": 51,
+    "stock": 44,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-25T21:40:28.152Z"
+    "lastUpdate": "2024-10-25T23:55:56.027Z"
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 48,
+    "stock": 45,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-25T21:34:59.009Z"
+    "lastUpdate": "2024-10-25T23:56:13.582Z"
   },
   {
     "name": "TK. MAJU",
