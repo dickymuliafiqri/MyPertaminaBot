@@ -54,7 +54,7 @@ async function sheetTransaction(
         break;
       }
 
-      if (!isNaN(rawData[0]?.replaceAll(" ", "")) && (rawData[rawData.length - 1] != "End" || bansosLimit > 0)) {
+      if (!isNaN(rawData[0]?.replaceAll(" ", ""))) {
         if (rawData.length < maxColumnIndex) {
           const name = rawData[1];
 
@@ -106,47 +106,49 @@ async function sheetTransaction(
             continue;
           }
 
-          console.log(`[+] Processing ${name}...`);
-          const transaction = await pertamina.transaction(nik);
+          if (rawData[rawData.length - 1] != "End") {
+            console.log(`[+] Processing ${name}...`);
+            const transaction = await pertamina.transaction(nik);
 
-          if (transaction.success) {
-            console.log(`[+] Transaction success!`);
-            const quantity = transaction.payload.products[0].quantity;
-            cell.value = quantity;
-            message.push(
-              `[🟢] ${sheetName} > Transaction success > ${sheetA1Notation} > ${quantity}/${(accountData.stock -=
-                quantity)}`
-            );
+            if (transaction.success) {
+              console.log(`[+] Transaction success!`);
+              const quantity = transaction.payload.products[0].quantity;
+              cell.value = quantity;
+              message.push(
+                `[🟢] ${sheetName} > Transaction success > ${sheetA1Notation} > ${quantity}/${(accountData.stock -=
+                  quantity)}`
+              );
 
-            // Update NIK Info
-            cellNIK.value = nik;
-            cellName.value = transaction.payload.subsidi.nama;
+              // Update NIK Info
+              cellNIK.value = nik;
+              cellName.value = transaction.payload.subsidi.nama;
 
-            niks.done.data.push(nik);
-            transactionLimit -= 1;
-          } else {
-            console.log(`[-] Error ${transaction.code}: ${transaction.message}`);
-            message.push(
-              `[🔴] ${sheetName} > Error ${transaction.code}: ${transaction.message} > ${nik} > ${sheetA1Notation}`
-            );
+              niks.done.data.push(nik);
+              transactionLimit -= 1;
+            } else {
+              console.log(`[-] Error ${transaction.code}: ${transaction.message}`);
+              message.push(
+                `[🔴] ${sheetName} > Error ${transaction.code}: ${transaction.message} > ${nik} > ${sheetA1Notation}`
+              );
 
-            switch (transaction.code) {
-              case 400:
-                if (transaction.message == "Transaksi melebihi stok yang dapat dijual") {
+              switch (transaction.code) {
+                case 400:
+                  if (transaction.message == "Transaksi melebihi stok yang dapat dijual") {
+                    transactionLimit = 0;
+                  } else {
+                    niks.exceeded.data.push(nik);
+                    cell.value = "End";
+                  }
+                  break;
+                case 404:
+                  await row.delete();
+                  break;
+                case 429:
                   transactionLimit = 0;
-                } else {
-                  niks.exceeded.data.push(nik);
-                  cell.value = "End";
-                }
-                break;
-              case 404:
-                await row.delete();
-                break;
-              case 429:
-                transactionLimit = 0;
-                break;
-              default:
-                cell.value = 0;
+                  break;
+                default:
+                  cell.value = 0;
+              }
             }
           }
 
