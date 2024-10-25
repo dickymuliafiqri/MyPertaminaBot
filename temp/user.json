@@ -78,10 +78,10 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 3,
+    "stock": 1,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-25T10:44:26.933Z"
+    "lastUpdate": "2024-10-25T10:49:18.124Z"
   },
   {
     "name": "KARSONO",
@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 43,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-25T08:49:33.256Z"
+    "lastUpdate": "2024-10-25T10:49:34.388Z"
   },
   {
     "name": "UD RAHMAT",
