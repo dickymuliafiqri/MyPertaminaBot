@@ -39,7 +39,7 @@ async function sheetTransaction(
     if (maxColumnIndex < rawData.length) maxColumnIndex = rawData.length;
   }
 
-  while (loopLimit > 0) {
+  while (loopLimit > 0 && !sheetName.endsWith("DISABLE")) {
     for (const row of rows) {
       if (transactionLimit <= 0) break;
       const rawData = row["_rawData"];
