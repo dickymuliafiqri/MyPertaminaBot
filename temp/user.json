@@ -46,7 +46,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-26T16:19:18.523Z"
+    "lastUpdate": "2024-10-26T18:24:19.054Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -403,7 +403,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-26T16:19:19.816Z"
+    "lastUpdate": "2024-10-26T18:24:19.929Z"
   },
   {
     "name": "CAHYA HERAWATI",
@@ -522,7 +522,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-26T16:19:21.885Z"
+    "lastUpdate": "2024-10-26T18:24:21.975Z"
   },
   {
     "name": "UD SAMAN HADI",
@@ -536,14 +536,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-26T16:19:23.622Z"
+    "lastUpdate": "2024-10-26T18:24:23.855Z"
   },
   {
     "name": "TOKO TIARA",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-10-26T16:19:24.408Z"
+    "lastUpdate": "2024-10-26T18:24:24.661Z"
   },
   {
     "name": "TOKO POJOK-DISABLE",
@@ -557,13 +557,13 @@
     "stock": 52,
     "isTokenValid": true,
     "isAlive": false,
-    "lastUpdate": "2024-10-26T16:19:20.800Z"
+    "lastUpdate": "2024-10-26T18:24:20.872Z"
   },
   {
     "name": "UD SAMAN HADI-DISABLE",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-26T16:19:22.677Z"
+    "lastUpdate": "2024-10-26T18:24:22.993Z"
   }
 ]
