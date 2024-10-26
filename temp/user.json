@@ -57,10 +57,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 7,
+    "stock": 2,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-26T06:39:22.529Z"
+    "lastUpdate": "2024-10-26T06:44:21.674Z"
   },
   {
     "name": "SUMBER REJEKI",
@@ -332,8 +332,8 @@
     "name": "HADI SUTOYO",
     "stock": 1,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-10-26T06:39:35.176Z"
+    "isAlive": false,
+    "lastUpdate": "2024-10-26T06:44:35.144Z"
   },
   {
     "name": "SRI HIDAYATI",
@@ -351,10 +351,10 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 15,
+    "stock": 11,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-26T06:39:43.153Z"
+    "lastUpdate": "2024-10-26T06:44:36.298Z"
   },
   {
     "name": "SUPARNI",
@@ -365,10 +365,10 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 25,
+    "stock": 23,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-26T06:39:51.225Z"
+    "lastUpdate": "2024-10-26T06:44:44.886Z"
   },
   {
     "name": "YOGA RAJAN",
@@ -389,7 +389,7 @@
     "stock": 8,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-26T06:40:05.352Z"
+    "lastUpdate": "2024-10-26T06:45:06.596Z"
   },
   {
     "name": "TOKO SURYATI",
@@ -473,7 +473,7 @@
     "stock": 6,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-26T06:31:06.556Z"
+    "lastUpdate": "2024-10-26T06:45:25.784Z"
   },
   {
     "name": "HJ. HAERONI",
@@ -508,7 +508,7 @@
     "stock": 32,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-26T06:31:23.855Z"
+    "lastUpdate": "2024-10-26T06:45:42.547Z"
   },
   {
     "name": "TOKO ANITA",
