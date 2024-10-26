@@ -1,10 +1,10 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 20,
+    "stock": 18,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-10-26T06:04:21.079Z"
+    "isAlive": true,
+    "lastUpdate": "2024-10-26T08:09:17.395Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -16,9 +16,9 @@
   {
     "name": "ALFIAN DWI A.",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-10-26T06:04:22.379Z"
+    "lastUpdate": "2024-10-26T08:09:25.384Z"
   },
   {
     "name": "ATHI HANDAYANI",
@@ -88,7 +88,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-26T06:04:39.144Z"
+    "lastUpdate": "2024-10-26T08:09:26.248Z"
   },
   {
     "name": "LUTFI A.",
@@ -116,7 +116,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-26T06:04:40.560Z"
+    "lastUpdate": "2024-10-26T08:09:27.713Z"
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -365,10 +365,10 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 3,
+    "stock": 1,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-26T08:04:19.276Z"
+    "lastUpdate": "2024-10-26T08:09:28.561Z"
   },
   {
     "name": "YOGA RAJAN",
@@ -449,10 +449,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 27,
+    "stock": 24,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-26T08:04:37.143Z"
+    "lastUpdate": "2024-10-26T08:09:37.249Z"
   },
   {
     "name": "BUDI",
@@ -505,10 +505,10 @@
   },
   {
     "name": "SALMAH",
-    "stock": 20,
+    "stock": 18,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-26T08:04:51.465Z"
+    "lastUpdate": "2024-10-26T08:09:49.269Z"
   },
   {
     "name": "TOKO ANITA",
