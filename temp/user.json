@@ -1,10 +1,10 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 4,
+    "stock": 2,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-26T08:44:22.420Z"
+    "lastUpdate": "2024-10-26T08:49:19.746Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -330,10 +330,10 @@
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-10-26T06:44:35.144Z"
+    "isAlive": true,
+    "lastUpdate": "2024-10-26T08:49:28.522Z"
   },
   {
     "name": "SRI HIDAYATI",
@@ -449,10 +449,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 8,
+    "stock": 6,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-26T08:44:31.472Z"
+    "lastUpdate": "2024-10-26T08:49:36.984Z"
   },
   {
     "name": "BUDI",
@@ -505,10 +505,10 @@
   },
   {
     "name": "SALMAH",
-    "stock": 4,
+    "stock": 2,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-26T08:44:39.614Z"
+    "lastUpdate": "2024-10-26T08:49:45.577Z"
   },
   {
     "name": "TOKO ANITA",
