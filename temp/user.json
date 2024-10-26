@@ -57,10 +57,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 24,
+    "stock": 23,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-26T05:14:19.916Z"
+    "lastUpdate": "2024-10-26T05:19:17.419Z"
   },
   {
     "name": "SUMBER REJEKI",
@@ -337,10 +337,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 16,
-    "isTokenValid": true,
+    "stock": 0,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-10-26T05:14:51.062Z"
+    "lastUpdate": "2024-10-26T05:19:36.804Z"
   },
   {
     "name": "ONG SWI GIOK",
@@ -354,7 +354,7 @@
     "stock": 30,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-26T05:15:08.351Z"
+    "lastUpdate": "2024-10-26T05:19:37.630Z"
   },
   {
     "name": "SUPARNI",
@@ -365,10 +365,10 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 39,
+    "stock": 38,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-26T05:15:28.278Z"
+    "lastUpdate": "2024-10-26T05:19:57.590Z"
   },
   {
     "name": "YOGA RAJAN",
@@ -431,7 +431,7 @@
     "stock": 2,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-26T05:15:48.817Z"
+    "lastUpdate": "2024-10-26T05:20:17.103Z"
   },
   {
     "name": "TUSOK",
@@ -449,10 +449,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 86,
-    "isTokenValid": true,
+    "stock": 0,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-10-26T05:16:05.744Z"
+    "lastUpdate": "2024-10-26T05:20:33.559Z"
   },
   {
     "name": "BUDI",
@@ -470,10 +470,10 @@
   },
   {
     "name": "SUSILO",
-    "stock": 15,
+    "stock": 14,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-26T05:16:22.359Z"
+    "lastUpdate": "2024-10-26T05:20:34.293Z"
   },
   {
     "name": "HJ. HAERONI",
