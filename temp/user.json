@@ -3,15 +3,15 @@
     "name": "ABDUL WAFI",
     "stock": 58,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-10-27T23:19:22.859Z"
+    "isAlive": false,
+    "lastUpdate": "2024-10-27T23:24:19.340Z"
   },
   {
     "name": "AKBAR RISQ",
-    "stock": 49,
+    "stock": 43,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-27T23:19:43.685Z"
+    "lastUpdate": "2024-10-27T23:24:21.829Z"
   },
   {
     "name": "ALFIAN DWI A.",
@@ -25,7 +25,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-27T21:24:37.323Z"
+    "lastUpdate": "2024-10-27T23:24:39.421Z"
   },
   {
     "name": "CINDRAWATI",
@@ -45,8 +45,8 @@
     "name": "BINA MAKMUR",
     "stock": 18,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-10-27T23:20:16.299Z"
+    "isAlive": false,
+    "lastUpdate": "2024-10-27T23:24:40.870Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -57,31 +57,31 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 65,
+    "stock": 62,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-27T23:20:31.721Z"
+    "lastUpdate": "2024-10-27T23:24:42.227Z"
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 0,
+    "stock": 74,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-27T20:34:21.681Z"
+    "lastUpdate": "2024-10-27T23:24:56.301Z"
   },
   {
     "name": "JAENAL",
-    "stock": 72,
+    "stock": 69,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-27T22:32:02.402Z"
+    "lastUpdate": "2024-10-27T23:25:19.486Z"
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 66,
-    "isTokenValid": true,
+    "stock": 0,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-10-27T22:10:22.129Z"
+    "lastUpdate": "2024-10-27T23:25:33.637Z"
   },
   {
     "name": "KARSONO",
@@ -92,10 +92,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 0,
+    "stock": 94,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-27T20:34:23.662Z"
+    "lastUpdate": "2024-10-27T23:25:35.419Z"
   },
   {
     "name": "MOH SAID",
