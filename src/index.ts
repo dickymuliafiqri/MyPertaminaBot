@@ -162,7 +162,10 @@ async function sheetTransaction(
     maxColumnIndex += 1;
   }
 
-  if (transactionLimit > 0 && (accountData.lastUpdate.getDate() != nowDate || sheetName == "Bansos")) {
+  if (
+    (transactionLimit > 0 && (accountData.lastUpdate.getDate() != nowDate || sheetName == "Bansos")) ||
+    (accountData.lastUpdate.getDate() != nowDate && nowDate == 1)
+  ) {
     console.log(`[+] Transaction limit not reached, clearing sheet...`);
     await sheet.clear(`C1:Z${rows.length + 1}`);
     message.push(`[🟡] Transaction limit not reached, sheet ${sheetName} has been cleared!`);
