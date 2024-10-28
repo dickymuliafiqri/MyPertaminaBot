@@ -57,17 +57,17 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 62,
+    "stock": 56,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-28T21:34:20.983Z"
+    "lastUpdate": "2024-10-28T21:39:19.104Z"
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 44,
+    "stock": 38,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-28T21:34:39.255Z"
+    "lastUpdate": "2024-10-28T21:39:36.250Z"
   },
   {
     "name": "JAENAL",
@@ -120,10 +120,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 30,
+    "stock": 24,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-28T21:34:56.438Z"
+    "lastUpdate": "2024-10-28T21:39:53.152Z"
   },
   {
     "name": "TOKO IIN",
@@ -136,15 +136,15 @@
     "name": "TOKO POJOK",
     "stock": 82,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-10-28T21:35:16.265Z"
+    "isAlive": false,
+    "lastUpdate": "2024-10-28T21:40:13.033Z"
   },
   {
     "name": "UD RAHMAT",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-28T19:39:21.949Z"
+    "lastUpdate": "2024-10-28T21:40:14.406Z"
   },
   {
     "name": "SUPARMAN",
@@ -179,14 +179,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-28T19:39:23.132Z"
+    "lastUpdate": "2024-10-28T21:40:15.144Z"
   },
   {
     "name": "H. BAMBANG S",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-28T19:39:23.976Z"
+    "lastUpdate": "2024-10-28T21:40:15.936Z"
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -200,14 +200,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-28T19:39:24.744Z"
+    "lastUpdate": "2024-10-28T21:40:16.719Z"
   },
   {
     "name": "EVI DIANA SARI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-28T19:39:25.516Z"
+    "lastUpdate": "2024-10-28T21:40:17.468Z"
   },
   {
     "name": "TOKO IRAWAN",
