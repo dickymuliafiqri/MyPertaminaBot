@@ -127,24 +127,24 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 6,
+    "stock": 1,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-28T03:09:20.417Z"
+    "lastUpdate": "2024-10-28T03:14:23.188Z"
   },
   {
     "name": "TOKO POJOK",
     "stock": 54,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-10-28T03:09:37.690Z"
+    "isAlive": false,
+    "lastUpdate": "2024-10-28T03:14:40.016Z"
   },
   {
     "name": "UD RAHMAT",
-    "stock": 4,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-28T03:09:54.260Z"
+    "lastUpdate": "2024-10-28T03:14:41.905Z"
   },
   {
     "name": "SUPARMAN",
@@ -176,59 +176,59 @@
   },
   {
     "name": "P. SUK",
-    "stock": 3,
+    "stock": 1,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-28T03:10:29.220Z"
+    "lastUpdate": "2024-10-28T03:14:55.773Z"
   },
   {
     "name": "H. BAMBANG S",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-27T20:24:26.752Z"
+    "lastUpdate": "2024-10-28T03:15:08.604Z"
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 0,
+    "stock": 54,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-27T20:24:28.852Z"
+    "lastUpdate": "2024-10-28T03:15:09.475Z"
   },
   {
     "name": "JONI H",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-27T20:24:29.547Z"
+    "lastUpdate": "2024-10-28T03:15:37.118Z"
   },
   {
     "name": "EVI DIANA SARI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-27T20:24:30.262Z"
+    "lastUpdate": "2024-10-28T03:15:38.255Z"
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-27T20:34:26.037Z"
+    "lastUpdate": "2024-10-28T03:15:39.152Z"
   },
   {
     "name": "TK MUSTAPA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-27T20:24:30.947Z"
+    "lastUpdate": "2024-10-28T03:15:40.018Z"
   },
   {
     "name": "YUNIS WAHYUNI",
-    "stock": 0,
+    "stock": 23,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-27T20:24:31.628Z"
+    "lastUpdate": "2024-10-28T03:15:40.837Z"
   },
   {
     "name": "ROSA V",
