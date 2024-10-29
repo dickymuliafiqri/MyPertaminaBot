@@ -1,10 +1,10 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 78,
+    "stock": 75,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T02:24:24.984Z"
+    "lastUpdate": "2024-10-29T02:29:20.021Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -71,17 +71,17 @@
   },
   {
     "name": "JAENAL",
-    "stock": 67,
-    "isTokenValid": true,
+    "stock": 0,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T02:24:48.592Z"
+    "lastUpdate": "2024-10-29T02:29:43.390Z"
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 58,
-    "isTokenValid": true,
+    "stock": 0,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T02:25:11.803Z"
+    "lastUpdate": "2024-10-29T02:29:44.285Z"
   },
   {
     "name": "KARSONO",
@@ -92,24 +92,24 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 54,
+    "stock": 48,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T02:25:33.307Z"
+    "lastUpdate": "2024-10-29T02:29:46.158Z"
   },
   {
     "name": "MOH SAID",
     "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T02:25:56.998Z"
+    "lastUpdate": "2024-10-29T02:30:10.289Z"
   },
   {
     "name": "TITIK ISMIATIN",
     "stock": 49,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T02:26:20.047Z"
+    "lastUpdate": "2024-10-29T02:30:34.072Z"
   },
   {
     "name": "TK. MAJU",
@@ -120,24 +120,24 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T02:26:45.811Z"
+    "lastUpdate": "2024-10-29T02:30:59.274Z"
   },
   {
     "name": "TOKO IIN",
-    "stock": 45,
+    "stock": 40,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T02:27:06.091Z"
+    "lastUpdate": "2024-10-29T02:31:21.478Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 71,
+    "stock": 69,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T01:27:06.060Z"
+    "lastUpdate": "2024-10-29T02:31:48.799Z"
   },
   {
     "name": "UD RAHMAT",
