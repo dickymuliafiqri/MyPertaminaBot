@@ -8,17 +8,17 @@
   },
   {
     "name": "AKBAR RISQ",
-    "stock": 43,
+    "stock": 42,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T04:34:25.443Z"
+    "lastUpdate": "2024-10-29T04:44:18.796Z"
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 50,
+    "stock": 47,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T04:34:53.875Z"
+    "lastUpdate": "2024-10-29T04:44:39.826Z"
   },
   {
     "name": "ATHI HANDAYANI",
@@ -43,10 +43,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 22,
+    "stock": 21,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T04:35:15.279Z"
+    "lastUpdate": "2024-10-29T04:45:10.251Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -71,17 +71,17 @@
   },
   {
     "name": "JAENAL",
-    "stock": 65,
+    "stock": 61,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T04:35:37.090Z"
+    "lastUpdate": "2024-10-29T04:45:28.303Z"
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 58,
+    "stock": 55,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T04:35:59.160Z"
+    "lastUpdate": "2024-10-29T04:45:48.924Z"
   },
   {
     "name": "KARSONO",
@@ -148,10 +148,10 @@
   },
   {
     "name": "SUPARMAN",
-    "stock": 6,
+    "stock": 4,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T04:36:14.808Z"
+    "lastUpdate": "2024-10-29T04:46:03.575Z"
   },
   {
     "name": "DJAMIAH",
@@ -232,24 +232,24 @@
   },
   {
     "name": "ROSA V",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T04:25:40.966Z"
+    "lastUpdate": "2024-10-29T04:46:21.052Z"
   },
   {
     "name": "LUKMAN BS",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T02:37:37.015Z"
+    "lastUpdate": "2024-10-29T04:46:21.745Z"
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 7,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T04:25:58.025Z"
+    "lastUpdate": "2024-10-29T04:46:22.683Z"
   },
   {
     "name": "ROSIDI",
