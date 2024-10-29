@@ -1,10 +1,10 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 30,
+    "stock": 27,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T07:09:18.247Z"
+    "lastUpdate": "2024-10-29T07:14:22.565Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -39,7 +39,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T05:10:11.889Z"
+    "lastUpdate": "2024-10-29T07:14:36.947Z"
   },
   {
     "name": "BINA MAKMUR",
@@ -58,16 +58,16 @@
   {
     "name": "SUCIYONO",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T05:10:29.246Z"
+    "lastUpdate": "2024-10-29T07:14:37.904Z"
   },
   {
     "name": "SUMBER REJEKI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T05:10:30.077Z"
+    "lastUpdate": "2024-10-29T07:14:39.137Z"
   },
   {
     "name": "JAENAL",
@@ -85,17 +85,17 @@
   },
   {
     "name": "KARSONO",
-    "stock": 5,
+    "stock": 3,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T07:09:31.808Z"
+    "lastUpdate": "2024-10-29T07:14:40.101Z"
   },
   {
     "name": "LUTFI A.",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T07:09:41.550Z"
+    "lastUpdate": "2024-10-29T07:14:49.611Z"
   },
   {
     "name": "MOH SAID",
@@ -106,17 +106,17 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 46,
+    "stock": 43,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T07:09:55.514Z"
+    "lastUpdate": "2024-10-29T07:15:01.702Z"
   },
   {
     "name": "TK. MAJU",
-    "stock": 61,
+    "stock": 55,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T07:10:15.142Z"
+    "lastUpdate": "2024-10-29T07:15:22.639Z"
   },
   {
     "name": "TOKO 2 PUTRI",
