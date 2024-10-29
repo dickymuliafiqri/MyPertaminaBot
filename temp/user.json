@@ -116,7 +116,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T10:09:19.694Z"
+    "lastUpdate": "2024-10-29T12:09:22.560Z"
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -128,9 +128,9 @@
   {
     "name": "TOKO IIN",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T10:09:21.105Z"
+    "lastUpdate": "2024-10-29T12:09:24.294Z"
   },
   {
     "name": "TOKO POJOK",
@@ -358,10 +358,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 7,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T12:04:23.240Z"
+    "lastUpdate": "2024-10-29T12:09:25.269Z"
   },
   {
     "name": "H. JUMAT",
@@ -372,10 +372,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 4,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T12:04:35.032Z"
+    "lastUpdate": "2024-10-29T12:09:35.316Z"
   },
   {
     "name": "HARSININGSIH",
@@ -501,7 +501,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-29T10:09:22.082Z"
+    "lastUpdate": "2024-10-29T12:09:44.758Z"
   },
   {
     "name": "SALMAH",
