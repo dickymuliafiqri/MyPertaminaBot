@@ -51,9 +51,9 @@
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T02:54:22.328Z"
+    "lastUpdate": "2024-10-30T04:59:22.848Z"
   },
   {
     "name": "SUCIYONO",
@@ -123,7 +123,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T02:54:34.927Z"
+    "lastUpdate": "2024-10-30T04:59:24.168Z"
   },
   {
     "name": "TOKO IIN",
@@ -200,7 +200,7 @@
     "stock": 35,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T04:54:24.952Z"
+    "lastUpdate": "2024-10-30T04:59:24.988Z"
   },
   {
     "name": "EVI DIANA SARI",
@@ -323,10 +323,10 @@
   },
   {
     "name": "SUROSO",
-    "stock": 14,
+    "stock": 13,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T04:54:39.972Z"
+    "lastUpdate": "2024-10-30T04:59:42.253Z"
   },
   {
     "name": "HADI SUTOYO",
@@ -382,7 +382,7 @@
     "stock": 1,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T04:54:58.513Z"
+    "lastUpdate": "2024-10-30T04:59:59.284Z"
   },
   {
     "name": "ARIF FAUZI",
@@ -417,7 +417,7 @@
     "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T04:55:16.650Z"
+    "lastUpdate": "2024-10-30T05:00:17.534Z"
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -491,10 +491,10 @@
   },
   {
     "name": "DARMAWAN P",
-    "stock": 16,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T04:55:38.610Z"
+    "lastUpdate": "2024-10-30T05:00:34.467Z"
   },
   {
     "name": "DIYAH UTAMI",
