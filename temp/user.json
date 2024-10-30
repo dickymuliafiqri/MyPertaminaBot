@@ -144,7 +144,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T07:10:19.293Z"
+    "lastUpdate": "2024-10-30T09:14:20.780Z"
   },
   {
     "name": "SUPARMAN",
@@ -323,10 +323,10 @@
   },
   {
     "name": "SUROSO",
-    "stock": 2,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T09:09:22.521Z"
+    "lastUpdate": "2024-10-30T09:14:21.413Z"
   },
   {
     "name": "HADI SUTOYO",
@@ -380,9 +380,9 @@
   {
     "name": "HARSININGSIH",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T07:10:20.217Z"
+    "lastUpdate": "2024-10-30T09:14:30.087Z"
   },
   {
     "name": "ARIF FAUZI",
