@@ -51,9 +51,9 @@
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T00:50:12.579Z"
+    "lastUpdate": "2024-10-30T02:54:22.328Z"
   },
   {
     "name": "SUCIYONO",
@@ -120,31 +120,31 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 2,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T02:49:19.376Z"
+    "lastUpdate": "2024-10-30T02:54:34.927Z"
   },
   {
     "name": "TOKO IIN",
-    "stock": 36,
+    "stock": 30,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T02:49:33.187Z"
+    "lastUpdate": "2024-10-30T02:54:49.946Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 76,
+    "stock": 73,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T02:49:50.015Z"
+    "lastUpdate": "2024-10-30T02:55:09.806Z"
   },
   {
     "name": "UD RAHMAT",
-    "stock": 14,
+    "stock": 9,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T02:50:03.354Z"
+    "lastUpdate": "2024-10-30T02:55:43.220Z"
   },
   {
     "name": "SUPARMAN",
@@ -169,10 +169,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 19,
+    "stock": 14,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T02:50:22.488Z"
+    "lastUpdate": "2024-10-30T02:56:01.626Z"
   },
   {
     "name": "P. SUK",
