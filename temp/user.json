@@ -130,14 +130,14 @@
     "stock": 7,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T03:29:25.700Z"
+    "lastUpdate": "2024-10-30T03:34:20.597Z"
   },
   {
     "name": "TOKO POJOK",
     "stock": 61,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-10-30T03:29:47.322Z"
+    "isAlive": false,
+    "lastUpdate": "2024-10-30T03:34:41.008Z"
   },
   {
     "name": "UD RAHMAT",
@@ -172,7 +172,7 @@
     "stock": 3,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T03:30:26.656Z"
+    "lastUpdate": "2024-10-30T03:34:42.040Z"
   },
   {
     "name": "P. SUK",
@@ -197,10 +197,10 @@
   },
   {
     "name": "JONI H",
-    "stock": 40,
+    "stock": 39,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T03:30:46.173Z"
+    "lastUpdate": "2024-10-30T03:34:59.947Z"
   },
   {
     "name": "EVI DIANA SARI",
@@ -326,7 +326,7 @@
     "stock": 21,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T03:31:02.756Z"
+    "lastUpdate": "2024-10-30T03:35:19.155Z"
   },
   {
     "name": "HADI SUTOYO",
@@ -379,10 +379,10 @@
   },
   {
     "name": "HARSININGSIH",
-    "stock": 22,
+    "stock": 19,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T03:31:42.356Z"
+    "lastUpdate": "2024-10-30T03:35:42.597Z"
   },
   {
     "name": "ARIF FAUZI",
@@ -417,14 +417,14 @@
     "stock": 29,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T03:32:33.009Z"
+    "lastUpdate": "2024-10-30T03:36:04.721Z"
   },
   {
     "name": "SAMSUL ARIFIN",
     "stock": 33,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T03:33:02.044Z"
+    "lastUpdate": "2024-10-30T03:36:22.758Z"
   },
   {
     "name": "WIKAN K",
@@ -494,7 +494,7 @@
     "stock": 25,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T03:22:44.144Z"
+    "lastUpdate": "2024-10-30T03:36:43.875Z"
   },
   {
     "name": "DIYAH UTAMI",
