@@ -22,10 +22,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 45,
+    "stock": 44,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-10-30T21:29:21.396Z"
+    "isAlive": false,
+    "lastUpdate": "2024-10-30T21:34:20.215Z"
   },
   {
     "name": "CINDRAWATI",
@@ -113,17 +113,17 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 56,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-10-30T21:29:36.384Z"
-  },
-  {
-    "name": "TOKO 2 PUTRI",
     "stock": 48,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T21:29:52.454Z"
+    "lastUpdate": "2024-10-30T21:34:34.552Z"
+  },
+  {
+    "name": "TOKO 2 PUTRI",
+    "stock": 42,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2024-10-30T21:34:50.081Z"
   },
   {
     "name": "TOKO IIN",
@@ -134,17 +134,17 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 94,
+    "stock": 91,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T21:30:07.650Z"
+    "lastUpdate": "2024-10-30T21:35:06.657Z"
   },
   {
     "name": "UD RAHMAT",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T19:34:21.201Z"
+    "lastUpdate": "2024-10-30T21:35:19.852Z"
   },
   {
     "name": "SUPARMAN",
@@ -326,7 +326,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T19:34:21.863Z"
+    "lastUpdate": "2024-10-30T21:35:20.565Z"
   },
   {
     "name": "HADI SUTOYO",
@@ -382,7 +382,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T19:34:22.505Z"
+    "lastUpdate": "2024-10-30T21:35:21.275Z"
   },
   {
     "name": "ARIF FAUZI",
