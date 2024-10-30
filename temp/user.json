@@ -1,10 +1,10 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 42,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T02:19:22.811Z"
+    "lastUpdate": "2024-10-30T04:19:34.067Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -32,7 +32,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T02:14:37.783Z"
+    "lastUpdate": "2024-10-30T04:19:56.217Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -60,7 +60,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T02:14:50.907Z"
+    "lastUpdate": "2024-10-30T04:19:57.400Z"
   },
   {
     "name": "SUMBER REJEKI",
@@ -71,10 +71,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T04:09:18.774Z"
+    "lastUpdate": "2024-10-30T04:19:58.460Z"
   },
   {
     "name": "JOKO SUWARNO",
@@ -109,7 +109,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T02:14:52.196Z"
+    "lastUpdate": "2024-10-30T04:19:59.867Z"
   },
   {
     "name": "TK. MAJU",
@@ -127,10 +127,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 2,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T04:09:36.719Z"
+    "lastUpdate": "2024-10-30T04:20:01.495Z"
   },
   {
     "name": "TOKO POJOK",
@@ -197,10 +197,10 @@
   },
   {
     "name": "JONI H",
-    "stock": 38,
+    "stock": 36,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T04:09:54.383Z"
+    "lastUpdate": "2024-10-30T04:20:22.538Z"
   },
   {
     "name": "EVI DIANA SARI",
@@ -326,7 +326,7 @@
     "stock": 17,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T04:10:09.381Z"
+    "lastUpdate": "2024-10-30T04:20:37.511Z"
   },
   {
     "name": "HADI SUTOYO",
@@ -382,7 +382,7 @@
     "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T04:10:30.767Z"
+    "lastUpdate": "2024-10-30T04:20:56.263Z"
   },
   {
     "name": "ARIF FAUZI",
@@ -417,14 +417,14 @@
     "stock": 23,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T04:10:48.664Z"
+    "lastUpdate": "2024-10-30T04:21:14.504Z"
   },
   {
     "name": "SAMSUL ARIFIN",
     "stock": 29,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T04:06:40.441Z"
+    "lastUpdate": "2024-10-30T04:21:38.006Z"
   },
   {
     "name": "WIKAN K",
@@ -494,7 +494,7 @@
     "stock": 24,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T04:07:01.445Z"
+    "lastUpdate": "2024-10-30T04:21:59.614Z"
   },
   {
     "name": "DIYAH UTAMI",
