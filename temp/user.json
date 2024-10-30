@@ -46,7 +46,7 @@
     "stock": 3,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T06:39:23.868Z"
+    "lastUpdate": "2024-10-30T06:44:18.149Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -137,7 +137,7 @@
     "stock": 60,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T06:39:38.079Z"
+    "lastUpdate": "2024-10-30T06:44:33.823Z"
   },
   {
     "name": "UD RAHMAT",
@@ -325,8 +325,8 @@
     "name": "SUROSO",
     "stock": 12,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-10-30T06:40:08.479Z"
+    "isAlive": false,
+    "lastUpdate": "2024-10-30T06:44:54.586Z"
   },
   {
     "name": "HADI SUTOYO",
@@ -417,14 +417,14 @@
     "stock": 16,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T06:40:26.252Z"
+    "lastUpdate": "2024-10-30T06:44:57.443Z"
   },
   {
     "name": "SAMSUL ARIFIN",
     "stock": 27,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-10-30T04:41:29.615Z"
+    "isAlive": true,
+    "lastUpdate": "2024-10-30T06:45:15.079Z"
   },
   {
     "name": "WIKAN K",
@@ -494,7 +494,7 @@
     "stock": 6,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-30T06:40:43.172Z"
+    "lastUpdate": "2024-10-30T06:45:37.005Z"
   },
   {
     "name": "DIYAH UTAMI",
