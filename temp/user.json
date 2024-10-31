@@ -1,24 +1,24 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 25,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-31T02:49:34.310Z"
+    "lastUpdate": "2024-10-31T05:04:59.311Z"
   },
   {
     "name": "AKBAR RISQ",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-31T02:49:35.500Z"
+    "lastUpdate": "2024-10-31T05:05:21.316Z"
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 12,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-31T02:49:36.226Z"
+    "lastUpdate": "2024-10-31T05:05:26.624Z"
   },
   {
     "name": "ATHI HANDAYANI",
@@ -53,7 +53,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-31T02:49:37.242Z"
+    "lastUpdate": "2024-10-31T05:05:44.763Z"
   },
   {
     "name": "SUCIYONO",
@@ -116,14 +116,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-31T02:50:28.771Z"
+    "lastUpdate": "2024-10-31T05:05:46.248Z"
   },
   {
     "name": "TOKO 2 PUTRI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-31T02:50:30.304Z"
+    "lastUpdate": "2024-10-31T05:05:47.676Z"
   },
   {
     "name": "TOKO IIN",
@@ -316,10 +316,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 3,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-31T04:44:42.710Z"
+    "lastUpdate": "2024-10-31T05:05:48.549Z"
   },
   {
     "name": "SUROSO",
@@ -407,10 +407,10 @@
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 13,
+    "stock": 9,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-31T04:44:57.093Z"
+    "lastUpdate": "2024-10-31T05:05:49.866Z"
   },
   {
     "name": "SUDJIONO",
@@ -442,10 +442,10 @@
   },
   {
     "name": "MISRI CICI",
-    "stock": 11,
+    "stock": 7,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-31T04:45:25.141Z"
+    "lastUpdate": "2024-10-31T05:06:18.354Z"
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -456,10 +456,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 47,
+    "stock": 41,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-31T04:45:35.341Z"
+    "lastUpdate": "2024-10-31T05:06:28.621Z"
   },
   {
     "name": "YULI SORAYA",
