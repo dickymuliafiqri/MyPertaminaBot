@@ -86,9 +86,9 @@
   {
     "name": "KARSONO",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-10-31T02:03:10.923Z"
+    "lastUpdate": "2024-10-31T04:04:37.441Z"
   },
   {
     "name": "LUTFI A.",
@@ -106,10 +106,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 6,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-31T03:54:40.922Z"
+    "lastUpdate": "2024-10-31T04:04:38.939Z"
   },
   {
     "name": "TK. MAJU",
@@ -127,10 +127,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 33,
+    "stock": 27,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-31T03:55:07.205Z"
+    "lastUpdate": "2024-10-31T04:04:49.812Z"
   },
   {
     "name": "TOKO POJOK",
@@ -204,10 +204,10 @@
   },
   {
     "name": "EVI DIANA SARI",
-    "stock": 5,
+    "stock": 3,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-31T03:56:03.166Z"
+    "lastUpdate": "2024-10-31T04:05:10.730Z"
   },
   {
     "name": "TOKO IRAWAN",
@@ -253,10 +253,10 @@
   },
   {
     "name": "ROSIDI",
-    "stock": 6,
+    "stock": 4,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-31T03:56:14.485Z"
+    "lastUpdate": "2024-10-31T04:05:21.338Z"
   },
   {
     "name": "ALPAN SANYOTO",
@@ -316,10 +316,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 24,
+    "stock": 21,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-31T03:56:37.319Z"
+    "lastUpdate": "2024-10-31T04:05:30.857Z"
   },
   {
     "name": "SUROSO",
