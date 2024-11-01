@@ -67,7 +67,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-01T03:59:20.853Z"
+    "lastUpdate": "2024-11-01T06:04:21.812Z"
   },
   {
     "name": "JAENAL",
@@ -79,9 +79,9 @@
   {
     "name": "JOKO SUWARNO",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-01T04:04:20.148Z"
+    "lastUpdate": "2024-11-01T06:04:22.694Z"
   },
   {
     "name": "KARSONO",
@@ -123,7 +123,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-01T04:04:21.967Z"
+    "lastUpdate": "2024-11-01T06:04:24.497Z"
   },
   {
     "name": "TOKO IIN",
@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 20,
+    "stock": 18,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-01T05:59:19.485Z"
+    "lastUpdate": "2024-11-01T06:04:25.458Z"
   },
   {
     "name": "UD RAHMAT",
