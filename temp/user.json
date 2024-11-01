@@ -8,10 +8,10 @@
   },
   {
     "name": "AKBAR RISQ",
-    "stock": -17,
-    "isTokenValid": true,
+    "stock": 0,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-11-01T01:14:18.595Z"
+    "lastUpdate": "2024-11-01T03:19:21.669Z"
   },
   {
     "name": "ALFIAN DWI A.",
@@ -22,31 +22,31 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": -135,
-    "isTokenValid": true,
+    "stock": 0,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-11-01T01:14:19.317Z"
+    "lastUpdate": "2024-11-01T03:19:22.462Z"
   },
   {
     "name": "CINDRAWATI",
-    "stock": -93,
-    "isTokenValid": true,
+    "stock": 0,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-11-01T01:14:20.039Z"
+    "lastUpdate": "2024-11-01T03:19:23.229Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": -33,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-01T01:14:20.804Z"
+    "lastUpdate": "2024-11-01T03:19:24.096Z"
   },
   {
     "name": "BINA MAKMUR",
     "stock": -36,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-01T01:14:21.599Z"
+    "lastUpdate": "2024-11-01T03:19:25.006Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -71,10 +71,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 3,
+    "stock": 1,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-11-01T01:14:22.446Z"
+    "isAlive": true,
+    "lastUpdate": "2024-11-01T03:19:25.618Z"
   },
   {
     "name": "JOKO SUWARNO",
@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 44,
-    "isTokenValid": true,
+    "stock": 0,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-11-01T03:14:17.992Z"
+    "lastUpdate": "2024-11-01T03:19:33.016Z"
   },
   {
     "name": "UD RAHMAT",
@@ -211,10 +211,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 4,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-01T03:14:28.701Z"
+    "lastUpdate": "2024-11-01T03:19:33.777Z"
   },
   {
     "name": "TK MUSTAPA",
@@ -326,7 +326,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-01T01:19:17.812Z"
+    "lastUpdate": "2024-11-01T03:19:41.999Z"
   },
   {
     "name": "HADI SUTOYO",
@@ -354,7 +354,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-01T01:19:24.649Z"
+    "lastUpdate": "2024-11-01T03:19:42.649Z"
   },
   {
     "name": "SUPARNI",
