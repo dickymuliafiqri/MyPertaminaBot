@@ -71,10 +71,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 5,
+    "stock": 3,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-01T01:04:21.802Z"
+    "lastUpdate": "2024-11-01T01:09:18.852Z"
   },
   {
     "name": "JOKO SUWARNO",
@@ -136,8 +136,8 @@
     "name": "TOKO POJOK",
     "stock": 46,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-11-01T01:04:30.485Z"
+    "isAlive": false,
+    "lastUpdate": "2024-11-01T01:09:26.166Z"
   },
   {
     "name": "UD RAHMAT",
@@ -323,10 +323,10 @@
   },
   {
     "name": "SUROSO",
-    "stock": 8,
+    "stock": 4,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-01T01:04:41.396Z"
+    "lastUpdate": "2024-11-01T01:09:27.278Z"
   },
   {
     "name": "HADI SUTOYO",
@@ -351,10 +351,10 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 17,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-01T01:04:49.852Z"
+    "lastUpdate": "2024-11-01T01:09:34.646Z"
   },
   {
     "name": "SUPARNI",
@@ -393,45 +393,45 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 43,
+    "stock": 35,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-01T01:05:02.455Z"
+    "lastUpdate": "2024-11-01T01:09:44.539Z"
   },
   {
     "name": "MOH HAFIF",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-31T16:29:32.357Z"
+    "lastUpdate": "2024-11-01T01:09:58.315Z"
   },
   {
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-31T15:54:34.636Z"
+    "lastUpdate": "2024-11-01T01:09:59.085Z"
   },
   {
     "name": "SUDJIONO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-31T15:09:29.746Z"
+    "lastUpdate": "2024-11-01T01:09:59.830Z"
   },
   {
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-31T15:09:30.540Z"
+    "lastUpdate": "2024-11-01T01:10:00.604Z"
   },
   {
     "name": "WIKAN K",
-    "stock": 0,
+    "stock": 19,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-10-31T15:09:31.346Z"
+    "lastUpdate": "2024-11-01T01:10:01.386Z"
   },
   {
     "name": "TUSOK",
