@@ -113,31 +113,31 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 52,
+    "stock": 46,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-02T00:24:24.107Z"
+    "lastUpdate": "2024-11-02T00:29:20.776Z"
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 18,
+    "stock": 13,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-02T00:24:41.602Z"
+    "lastUpdate": "2024-11-02T00:29:38.630Z"
   },
   {
     "name": "TOKO IIN",
-    "stock": 58,
+    "stock": 52,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-02T00:24:58.146Z"
+    "lastUpdate": "2024-11-02T00:29:51.342Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 66,
+    "stock": 59,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-02T00:25:13.325Z"
+    "lastUpdate": "2024-11-02T00:30:06.626Z"
   },
   {
     "name": "UD RAHMAT",
@@ -365,10 +365,10 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 27,
+    "stock": 19,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-11-01T21:44:49.325Z"
+    "isAlive": true,
+    "lastUpdate": "2024-11-02T00:30:19.322Z"
   },
   {
     "name": "YOGA RAJAN",
