@@ -1,10 +1,10 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 12,
+    "stock": 10,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-11-02T03:04:18.173Z"
+    "isAlive": true,
+    "lastUpdate": "2024-11-02T05:04:21.259Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -373,16 +373,16 @@
   {
     "name": "YOGA RAJAN",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-02T02:59:31.745Z"
+    "lastUpdate": "2024-11-02T05:04:30.699Z"
   },
   {
     "name": "HARSININGSIH",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-02T02:59:32.414Z"
+    "lastUpdate": "2024-11-02T05:04:31.428Z"
   },
   {
     "name": "ARIF FAUZI",
@@ -505,10 +505,10 @@
   },
   {
     "name": "SALMAH",
-    "stock": 6,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-02T04:59:20.415Z"
+    "lastUpdate": "2024-11-02T05:04:32.249Z"
   },
   {
     "name": "TOKO ANITA",
