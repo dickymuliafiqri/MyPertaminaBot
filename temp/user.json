@@ -22,17 +22,17 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": -75,
-    "isTokenValid": true,
+    "stock": 0,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-11-02T01:59:47.922Z"
+    "lastUpdate": "2024-11-02T04:04:17.568Z"
   },
   {
     "name": "CINDRAWATI",
     "stock": -93,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-02T01:59:48.600Z"
+    "lastUpdate": "2024-11-02T04:04:18.403Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
