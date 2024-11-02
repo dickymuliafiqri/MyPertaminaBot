@@ -22,17 +22,17 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": -75,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-02T04:04:17.568Z"
+    "lastUpdate": "2024-11-02T06:04:20.171Z"
   },
   {
     "name": "CINDRAWATI",
     "stock": -93,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-02T04:04:18.403Z"
+    "lastUpdate": "2024-11-02T06:04:21.009Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -424,7 +424,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-02T03:59:21.798Z"
+    "lastUpdate": "2024-11-02T06:04:21.895Z"
   },
   {
     "name": "WIKAN K",
