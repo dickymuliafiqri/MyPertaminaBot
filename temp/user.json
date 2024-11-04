@@ -15,10 +15,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 3,
+    "stock": 1,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T01:29:18.095Z"
+    "lastUpdate": "2024-11-04T01:34:19.011Z"
   },
   {
     "name": "ATHI HANDAYANI",
@@ -71,10 +71,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 21,
+    "stock": 18,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T01:29:27.410Z"
+    "lastUpdate": "2024-11-04T01:34:29.267Z"
   },
   {
     "name": "JOKO SUWARNO",
@@ -232,24 +232,24 @@
   },
   {
     "name": "ROSA V",
-    "stock": 13,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-11-04T01:29:41.565Z"
-  },
-  {
-    "name": "LUKMAN BS",
-    "stock": 17,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-11-04T01:29:50.915Z"
-  },
-  {
-    "name": "BISTON MANURUNG",
     "stock": 11,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T01:30:06.667Z"
+    "lastUpdate": "2024-11-04T01:34:42.340Z"
+  },
+  {
+    "name": "LUKMAN BS",
+    "stock": 10,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2024-11-04T01:34:51.724Z"
+  },
+  {
+    "name": "BISTON MANURUNG",
+    "stock": 6,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2024-11-04T01:35:03.590Z"
   },
   {
     "name": "ROSIDI",
