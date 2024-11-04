@@ -11,14 +11,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T04:14:18.432Z"
+    "lastUpdate": "2024-11-04T06:19:22.822Z"
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T06:14:18.619Z"
+    "lastUpdate": "2024-11-04T06:19:23.668Z"
   },
   {
     "name": "ATHI HANDAYANI",
@@ -123,7 +123,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T04:19:20.646Z"
+    "lastUpdate": "2024-11-04T06:19:36.250Z"
   },
   {
     "name": "TOKO IIN",
@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 14,
+    "stock": 12,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-11-04T04:19:22.089Z"
+    "isAlive": true,
+    "lastUpdate": "2024-11-04T06:19:37.042Z"
   },
   {
     "name": "UD RAHMAT",
