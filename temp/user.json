@@ -401,114 +401,114 @@
   {
     "name": "MOH HAFIF",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T13:14:22.160Z"
+    "lastUpdate": "2024-11-04T15:19:19.784Z"
   },
   {
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T13:14:22.829Z"
+    "lastUpdate": "2024-11-04T15:19:20.719Z"
   },
   {
     "name": "SUDJIONO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T13:14:23.512Z"
+    "lastUpdate": "2024-11-04T15:19:21.680Z"
   },
   {
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T13:14:24.231Z"
+    "lastUpdate": "2024-11-04T15:19:22.493Z"
   },
   {
     "name": "WIKAN K",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T13:14:24.964Z"
+    "lastUpdate": "2024-11-04T15:19:23.455Z"
   },
   {
     "name": "TUSOK",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T13:14:25.632Z"
+    "lastUpdate": "2024-11-04T15:19:24.196Z"
   },
   {
     "name": "MISRI CICI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T13:14:26.336Z"
+    "lastUpdate": "2024-11-04T15:19:24.962Z"
   },
   {
     "name": "HERDIANA DIYAH S",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T13:14:27.110Z"
+    "lastUpdate": "2024-11-04T15:19:25.790Z"
   },
   {
     "name": "BUDI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T13:14:27.793Z"
+    "lastUpdate": "2024-11-04T15:19:26.547Z"
   },
   {
     "name": "YULI SORAYA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T13:14:28.536Z"
+    "lastUpdate": "2024-11-04T15:19:27.499Z"
   },
   {
     "name": "SUSILO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T13:14:29.218Z"
+    "lastUpdate": "2024-11-04T15:19:28.437Z"
   },
   {
     "name": "HJ. HAERONI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T13:14:29.888Z"
+    "lastUpdate": "2024-11-04T15:19:29.182Z"
   },
   {
     "name": "IMA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T13:14:30.704Z"
+    "lastUpdate": "2024-11-04T15:19:30.068Z"
   },
   {
     "name": "DARMAWAN P",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T13:14:31.367Z"
+    "lastUpdate": "2024-11-04T15:19:30.953Z"
   },
   {
     "name": "DIYAH UTAMI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T13:14:32.070Z"
+    "lastUpdate": "2024-11-04T15:19:31.877Z"
   },
   {
     "name": "SALMAH",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T13:14:32.753Z"
+    "lastUpdate": "2024-11-04T15:19:32.627Z"
   },
   {
     "name": "TOKO ANITA",
@@ -522,7 +522,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T13:14:34.404Z"
+    "lastUpdate": "2024-11-04T15:19:34.688Z"
   },
   {
     "name": "UD SAMAN HADI",
@@ -536,14 +536,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T13:14:35.825Z"
+    "lastUpdate": "2024-11-04T15:19:36.393Z"
   },
   {
     "name": "TOKO TIARA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T13:14:36.512Z"
+    "lastUpdate": "2024-11-04T15:19:37.325Z"
   },
   {
     "name": "TOKO POJOK-DISABLE",
@@ -557,13 +557,13 @@
     "stock": 47,
     "isTokenValid": true,
     "isAlive": false,
-    "lastUpdate": "2024-11-04T13:14:33.538Z"
+    "lastUpdate": "2024-11-04T15:19:33.617Z"
   },
   {
     "name": "UD SAMAN HADI-DISABLE",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T13:14:35.133Z"
+    "lastUpdate": "2024-11-04T15:19:35.650Z"
   }
 ]
