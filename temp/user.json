@@ -60,7 +60,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T04:39:20.209Z"
+    "lastUpdate": "2024-11-04T06:44:18.815Z"
   },
   {
     "name": "SUMBER REJEKI",
@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 4,
+    "stock": 2,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T06:39:19.650Z"
+    "lastUpdate": "2024-11-04T06:44:19.692Z"
   },
   {
     "name": "UD RAHMAT",
@@ -331,9 +331,9 @@
   {
     "name": "HADI SUTOYO",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T04:44:18.006Z"
+    "lastUpdate": "2024-11-04T06:44:29.776Z"
   },
   {
     "name": "SRI HIDAYATI",
