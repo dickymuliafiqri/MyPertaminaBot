@@ -15,10 +15,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 0,
+    "stock": 13,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T03:44:29.774Z"
+    "lastUpdate": "2024-11-04T05:49:19.234Z"
   },
   {
     "name": "ATHI HANDAYANI",
@@ -39,7 +39,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T03:49:22.732Z"
+    "lastUpdate": "2024-11-04T05:49:29.224Z"
   },
   {
     "name": "BINA MAKMUR",
@@ -240,9 +240,9 @@
   {
     "name": "LUKMAN BS",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-11-04T03:44:43.502Z"
+    "lastUpdate": "2024-11-04T05:49:29.955Z"
   },
   {
     "name": "BISTON MANURUNG",
