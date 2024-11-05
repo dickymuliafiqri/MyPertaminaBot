@@ -485,16 +485,16 @@
   {
     "name": "IMA",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-05T17:19:29.002Z"
+    "lastUpdate": "2024-11-05T19:24:21.005Z"
   },
   {
     "name": "DARMAWAN P",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-05T17:19:29.830Z"
+    "lastUpdate": "2024-11-05T19:24:21.770Z"
   },
   {
     "name": "DIYAH UTAMI",
@@ -506,9 +506,9 @@
   {
     "name": "SALMAH",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-05T17:19:30.656Z"
+    "lastUpdate": "2024-11-05T19:24:22.717Z"
   },
   {
     "name": "TOKO ANITA",
@@ -557,7 +557,7 @@
     "stock": 47,
     "isTokenValid": true,
     "isAlive": false,
-    "lastUpdate": "2024-11-05T17:19:31.614Z"
+    "lastUpdate": "2024-11-05T19:24:23.728Z"
   },
   {
     "name": "UD SAMAN HADI-DISABLE",
