@@ -1,10 +1,10 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 4,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-05T01:29:20.233Z"
+    "lastUpdate": "2024-11-05T01:34:23.456Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -519,10 +519,10 @@
   },
   {
     "name": "TK. LUCKY",
-    "stock": 15,
+    "stock": 6,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-05T01:29:44.423Z"
+    "lastUpdate": "2024-11-05T01:34:34.279Z"
   },
   {
     "name": "UD SAMAN HADI",
@@ -533,17 +533,17 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 9,
+    "stock": 7,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-05T01:30:04.203Z"
+    "lastUpdate": "2024-11-05T01:34:47.016Z"
   },
   {
     "name": "TOKO TIARA",
-    "stock": 39,
+    "stock": 33,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-05T01:30:14.732Z"
+    "lastUpdate": "2024-11-05T01:34:56.940Z"
   },
   {
     "name": "TOKO POJOK-DISABLE",
