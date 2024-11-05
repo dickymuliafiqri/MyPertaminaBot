@@ -1,24 +1,24 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 80,
+    "stock": 73,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-05T22:34:21.455Z"
+    "lastUpdate": "2024-11-05T22:39:21.294Z"
   },
   {
     "name": "AKBAR RISQ",
-    "stock": 71,
+    "stock": 65,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-05T22:34:37.551Z"
+    "lastUpdate": "2024-11-05T22:39:36.868Z"
   },
   {
     "name": "ALFIAN DWI A.",
     "stock": 37,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-11-05T22:34:54.793Z"
+    "isAlive": false,
+    "lastUpdate": "2024-11-05T22:39:54.007Z"
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,10 +29,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-05T22:35:10.032Z"
+    "lastUpdate": "2024-11-05T22:39:54.954Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -64,10 +64,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 38,
+    "stock": 32,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-05T22:35:23.176Z"
+    "lastUpdate": "2024-11-05T22:40:05.682Z"
   },
   {
     "name": "JAENAL",
@@ -85,10 +85,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 37,
+    "stock": 34,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-05T22:20:24.396Z"
+    "lastUpdate": "2024-11-05T22:40:22.299Z"
   },
   {
     "name": "LUTFI A.",
