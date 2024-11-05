@@ -71,10 +71,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 54,
+    "stock": 48,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-11-04T23:39:48.689Z"
+    "isAlive": true,
+    "lastUpdate": "2024-11-05T01:44:19.205Z"
   },
   {
     "name": "JOKO SUWARNO",
@@ -533,17 +533,17 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 3,
+    "stock": 1,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-05T01:39:32.780Z"
+    "lastUpdate": "2024-11-05T01:44:36.016Z"
   },
   {
     "name": "TOKO TIARA",
-    "stock": 25,
+    "stock": 17,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-05T01:39:43.170Z"
+    "lastUpdate": "2024-11-05T01:44:47.443Z"
   },
   {
     "name": "TOKO POJOK-DISABLE",
