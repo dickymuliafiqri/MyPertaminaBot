@@ -44,9 +44,9 @@
   {
     "name": "BINA MAKMUR",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-11-06T04:39:20.770Z"
+    "lastUpdate": "2024-11-06T06:44:19.785Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -81,7 +81,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-06T04:39:21.730Z"
+    "lastUpdate": "2024-11-06T06:44:20.711Z"
   },
   {
     "name": "KARSONO",
