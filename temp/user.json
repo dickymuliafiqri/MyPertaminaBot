@@ -1,10 +1,10 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 14,
+    "stock": 12,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-06T02:19:19.173Z"
+    "lastUpdate": "2024-11-06T02:24:17.940Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -106,10 +106,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 16,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-06T00:19:53.306Z"
+    "lastUpdate": "2024-11-06T02:24:31.198Z"
   },
   {
     "name": "TK. MAJU",
@@ -211,10 +211,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 8,
+    "stock": 4,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-06T02:19:42.930Z"
+    "lastUpdate": "2024-11-06T02:24:51.092Z"
   },
   {
     "name": "TK MUSTAPA",
@@ -267,10 +267,10 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-06T02:19:55.027Z"
+    "lastUpdate": "2024-11-06T02:25:02.930Z"
   },
   {
     "name": "YUDA",
@@ -382,42 +382,42 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-05T19:09:31.161Z"
+    "lastUpdate": "2024-11-06T02:25:13.826Z"
   },
   {
     "name": "ARIF FAUZI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-05T19:09:31.868Z"
+    "lastUpdate": "2024-11-06T02:25:14.674Z"
   },
   {
     "name": "TOKO SURYATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-05T19:49:23.636Z"
+    "lastUpdate": "2024-11-06T02:25:15.488Z"
   },
   {
     "name": "MOH HAFIF",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-05T19:09:32.557Z"
+    "lastUpdate": "2024-11-06T02:25:16.486Z"
   },
   {
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-05T19:09:33.224Z"
+    "lastUpdate": "2024-11-06T02:25:17.283Z"
   },
   {
     "name": "SUDJIONO",
-    "stock": 0,
+    "stock": 36,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-05T19:09:33.892Z"
+    "lastUpdate": "2024-11-06T02:25:18.091Z"
   },
   {
     "name": "SAMSUL ARIFIN",
