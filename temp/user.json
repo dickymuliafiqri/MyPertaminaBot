@@ -65,9 +65,9 @@
   {
     "name": "SUMBER REJEKI",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-06T13:44:19.941Z"
+    "lastUpdate": "2024-11-06T15:49:20.256Z"
   },
   {
     "name": "JAENAL",
@@ -172,28 +172,28 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-06T13:44:20.997Z"
+    "lastUpdate": "2024-11-06T15:49:21.079Z"
   },
   {
     "name": "P. SUK",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-06T13:44:21.742Z"
+    "lastUpdate": "2024-11-06T15:49:21.996Z"
   },
   {
     "name": "H. BAMBANG S",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-06T13:44:22.555Z"
+    "lastUpdate": "2024-11-06T15:49:22.802Z"
   },
   {
     "name": "ANDRI HERU CAHYONO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-06T13:44:23.511Z"
+    "lastUpdate": "2024-11-06T15:49:23.750Z"
   },
   {
     "name": "JONI H",
@@ -417,7 +417,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-06T13:44:24.507Z"
+    "lastUpdate": "2024-11-06T15:49:24.707Z"
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -494,7 +494,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-06T13:44:25.453Z"
+    "lastUpdate": "2024-11-06T15:49:25.454Z"
   },
   {
     "name": "DIYAH UTAMI",
