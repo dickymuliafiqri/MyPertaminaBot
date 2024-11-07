@@ -120,10 +120,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 0,
+    "stock": 60,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-11-07T19:14:22.705Z"
+    "isAlive": false,
+    "lastUpdate": "2024-11-07T21:19:23.910Z"
   },
   {
     "name": "TOKO IIN",
