@@ -11,7 +11,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-07T03:19:39.964Z"
+    "lastUpdate": "2024-11-07T05:24:20.069Z"
   },
   {
     "name": "ALFIAN DWI A.",
@@ -116,7 +116,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-07T03:21:25.898Z"
+    "lastUpdate": "2024-11-07T05:24:22.593Z"
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 0,
-    "isTokenValid": false,
-    "isAlive": true,
-    "lastUpdate": "2024-11-07T03:21:47.858Z"
+    "stock": 93,
+    "isTokenValid": true,
+    "isAlive": false,
+    "lastUpdate": "2024-11-07T05:24:23.471Z"
   },
   {
     "name": "UD RAHMAT",
