@@ -11,14 +11,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-07T01:14:49.335Z"
+    "lastUpdate": "2024-11-07T03:19:39.964Z"
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 3,
+    "stock": 1,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-07T03:09:40.944Z"
+    "lastUpdate": "2024-11-07T03:19:40.876Z"
   },
   {
     "name": "ATHI HANDAYANI",
@@ -46,7 +46,7 @@
     "stock": 35,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-07T03:10:01.907Z"
+    "lastUpdate": "2024-11-07T03:20:00.973Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -78,10 +78,10 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 44,
+    "stock": 42,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-07T03:10:25.692Z"
+    "lastUpdate": "2024-11-07T03:20:25.438Z"
   },
   {
     "name": "KARSONO",
@@ -95,14 +95,14 @@
     "stock": 55,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-07T03:10:44.141Z"
+    "lastUpdate": "2024-11-07T03:20:45.862Z"
   },
   {
     "name": "MOH SAID",
-    "stock": 32,
+    "stock": 26,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-07T03:11:05.012Z"
+    "lastUpdate": "2024-11-07T03:21:04.131Z"
   },
   {
     "name": "TITIK ISMIATIN",
@@ -116,7 +116,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-07T01:18:17.082Z"
+    "lastUpdate": "2024-11-07T03:21:25.898Z"
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -130,14 +130,14 @@
     "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-07T03:11:25.462Z"
+    "lastUpdate": "2024-11-07T03:21:27.577Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 94,
-    "isTokenValid": true,
+    "stock": 0,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-11-07T02:46:42.438Z"
+    "lastUpdate": "2024-11-07T03:21:47.858Z"
   },
   {
     "name": "UD RAHMAT",
@@ -190,10 +190,10 @@
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 53,
+    "stock": 49,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-07T02:41:53.022Z"
+    "lastUpdate": "2024-11-07T03:21:48.610Z"
   },
   {
     "name": "JONI H",
@@ -316,10 +316,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 43,
+    "stock": 39,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-07T02:42:10.095Z"
+    "lastUpdate": "2024-11-07T03:22:08.235Z"
   },
   {
     "name": "SUROSO",
