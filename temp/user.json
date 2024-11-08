@@ -120,10 +120,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 60,
+    "stock": 120,
     "isTokenValid": true,
     "isAlive": false,
-    "lastUpdate": "2024-11-08T20:09:20.791Z"
+    "lastUpdate": "2024-11-08T22:10:33.960Z"
   },
   {
     "name": "TOKO IIN",
@@ -424,14 +424,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-08T20:09:26.441Z"
+    "lastUpdate": "2024-11-08T22:10:39.548Z"
   },
   {
     "name": "WIKAN K",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-08T20:09:27.460Z"
+    "lastUpdate": "2024-11-08T22:10:40.342Z"
   },
   {
     "name": "TUSOK",
@@ -445,14 +445,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-08T20:09:28.268Z"
+    "lastUpdate": "2024-11-08T22:10:41.157Z"
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 0,
+    "stock": 47,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-11-08T20:09:29.248Z"
+    "isAlive": false,
+    "lastUpdate": "2024-11-08T22:10:42.035Z"
   },
   {
     "name": "BUDI",
