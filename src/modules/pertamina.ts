@@ -96,6 +96,14 @@ export class Pertamina {
         }
       })();
 
+      if (!customerType) {
+        return {
+          success: false,
+          message: "NIK Error/Not Found",
+          code: 404,
+        };
+      }
+
       let buyQuantity = customerType.name == "Usaha Mikro" ? 3 : 1;
       if (customerType.name == "Usaha Mikro" && product.data.stockAvailable < 3)
         buyQuantity = product.data.stockAvailable;
