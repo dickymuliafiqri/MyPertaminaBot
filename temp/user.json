@@ -11,7 +11,7 @@
     "stock": 190,
     "isTokenValid": true,
     "isAlive": false,
-    "lastUpdate": "2024-11-09T08:59:20.135Z"
+    "lastUpdate": "2024-11-09T11:04:18.763Z"
   },
   {
     "name": "ALFIAN DWI A.",
@@ -39,7 +39,7 @@
     "stock": 60,
     "isTokenValid": true,
     "isAlive": false,
-    "lastUpdate": "2024-11-09T08:59:26.200Z"
+    "lastUpdate": "2024-11-09T11:04:23.825Z"
   },
   {
     "name": "BINA MAKMUR",
@@ -116,7 +116,7 @@
     "stock": 160,
     "isTokenValid": true,
     "isAlive": false,
-    "lastUpdate": "2024-11-09T08:59:34.225Z"
+    "lastUpdate": "2024-11-09T11:04:30.595Z"
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -137,7 +137,7 @@
     "stock": 293,
     "isTokenValid": true,
     "isAlive": false,
-    "lastUpdate": "2024-11-09T08:59:39.731Z"
+    "lastUpdate": "2024-11-09T11:04:35.668Z"
   },
   {
     "name": "UD RAHMAT",
@@ -466,14 +466,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-09T08:59:44.732Z"
+    "lastUpdate": "2024-11-09T11:04:40.748Z"
   },
   {
     "name": "SUSILO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-09T08:59:45.476Z"
+    "lastUpdate": "2024-11-09T11:04:41.446Z"
   },
   {
     "name": "HJ. HAERONI",
@@ -487,28 +487,28 @@
     "stock": 30,
     "isTokenValid": true,
     "isAlive": false,
-    "lastUpdate": "2024-11-09T08:59:46.463Z"
+    "lastUpdate": "2024-11-09T11:04:42.132Z"
   },
   {
     "name": "DARMAWAN P",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-09T08:59:51.642Z"
+    "lastUpdate": "2024-11-09T11:04:47.068Z"
   },
   {
     "name": "DIYAH UTAMI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-09T08:59:52.648Z"
+    "lastUpdate": "2024-11-09T11:04:47.774Z"
   },
   {
     "name": "SALMAH",
     "stock": 87,
     "isTokenValid": true,
     "isAlive": false,
-    "lastUpdate": "2024-11-09T08:59:53.464Z"
+    "lastUpdate": "2024-11-09T11:04:48.482Z"
   },
   {
     "name": "TOKO ANITA",
@@ -522,7 +522,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-09T08:59:59.456Z"
+    "lastUpdate": "2024-11-09T11:04:54.275Z"
   },
   {
     "name": "UD SAMAN HADI",
@@ -536,14 +536,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-09T09:00:01.206Z"
+    "lastUpdate": "2024-11-09T11:04:55.796Z"
   },
   {
     "name": "TOKO TIARA",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-09T09:00:01.889Z"
+    "lastUpdate": "2024-11-09T11:04:56.475Z"
   },
   {
     "name": "TOKO POJOK-DISABLE",
@@ -554,16 +554,16 @@
   },
   {
     "name": "TOKO ANITA-DISABLE",
-    "stock": 64,
+    "stock": 65,
     "isTokenValid": true,
     "isAlive": false,
-    "lastUpdate": "2024-11-09T08:59:58.578Z"
+    "lastUpdate": "2024-11-09T11:04:53.417Z"
   },
   {
     "name": "UD SAMAN HADI-DISABLE",
     "stock": 5,
     "isTokenValid": true,
     "isAlive": false,
-    "lastUpdate": "2024-11-09T09:00:00.232Z"
+    "lastUpdate": "2024-11-09T11:04:54.985Z"
   }
 ]
