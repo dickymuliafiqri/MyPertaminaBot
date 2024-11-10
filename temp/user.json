@@ -3,8 +3,8 @@
     "name": "ABDUL WAFI",
     "stock": 49,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-11-10T04:04:19.219Z"
+    "isAlive": false,
+    "lastUpdate": "2024-11-10T04:09:19.083Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -71,10 +71,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 115,
+    "stock": 112,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-10T04:04:36.633Z"
+    "lastUpdate": "2024-11-10T04:09:20.333Z"
   },
   {
     "name": "JOKO SUWARNO",
@@ -190,10 +190,10 @@
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 18,
+    "stock": 16,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-10T04:05:08.864Z"
+    "lastUpdate": "2024-11-10T04:09:36.782Z"
   },
   {
     "name": "JONI H",
@@ -274,59 +274,59 @@
   },
   {
     "name": "YUDA",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-10T04:05:32.434Z"
+    "lastUpdate": "2024-11-10T04:09:47.528Z"
   },
   {
     "name": "SRI UTAMI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-09T10:05:51.125Z"
+    "lastUpdate": "2024-11-10T04:09:58.563Z"
   },
   {
     "name": "ULFA MARIA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-09T10:05:51.804Z"
+    "lastUpdate": "2024-11-10T04:09:59.361Z"
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-09T10:05:52.459Z"
+    "lastUpdate": "2024-11-10T04:10:00.161Z"
   },
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-09T10:05:53.098Z"
+    "lastUpdate": "2024-11-10T04:10:00.956Z"
   },
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-09T10:05:53.792Z"
+    "lastUpdate": "2024-11-10T04:10:01.782Z"
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 31,
+    "stock": 28,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-11-09T10:05:54.446Z"
+    "isAlive": true,
+    "lastUpdate": "2024-11-10T04:10:02.580Z"
   },
   {
     "name": "SUROSO",
-    "stock": 27,
+    "stock": 22,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-11-09T10:05:59.364Z"
+    "isAlive": true,
+    "lastUpdate": "2024-11-10T04:10:18.294Z"
   },
   {
     "name": "HADI SUTOYO",
