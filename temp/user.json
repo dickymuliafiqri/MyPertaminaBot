@@ -39,7 +39,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-10T02:39:51.678Z"
+    "lastUpdate": "2024-11-10T04:44:18.506Z"
   },
   {
     "name": "BINA MAKMUR",
@@ -71,10 +71,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 92,
+    "stock": 89,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-10T04:39:19.599Z"
+    "lastUpdate": "2024-11-10T04:44:19.641Z"
   },
   {
     "name": "JOKO SUWARNO",
@@ -85,17 +85,17 @@
   },
   {
     "name": "KARSONO",
-    "stock": 24,
+    "stock": 21,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-10T04:39:37.041Z"
+    "lastUpdate": "2024-11-10T04:44:36.619Z"
   },
   {
     "name": "LUTFI A.",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-11-10T02:44:47.417Z"
+    "lastUpdate": "2024-11-10T04:44:52.589Z"
   },
   {
     "name": "MOH SAID",
@@ -190,10 +190,10 @@
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 4,
+    "stock": 2,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-10T04:39:53.077Z"
+    "lastUpdate": "2024-11-10T04:44:53.404Z"
   },
   {
     "name": "JONI H",
@@ -316,17 +316,17 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 11,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-11-10T04:40:03.911Z"
-  },
-  {
-    "name": "SUROSO",
     "stock": 9,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-10T04:40:14.699Z"
+    "lastUpdate": "2024-11-10T04:45:03.898Z"
+  },
+  {
+    "name": "SUROSO",
+    "stock": 7,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2024-11-10T04:45:14.309Z"
   },
   {
     "name": "HADI SUTOYO",
