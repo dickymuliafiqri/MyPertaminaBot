@@ -71,10 +71,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 18,
+    "stock": 14,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-10T08:04:19.808Z"
+    "lastUpdate": "2024-11-10T08:09:17.935Z"
   },
   {
     "name": "JOKO SUWARNO",
@@ -109,7 +109,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-10T06:09:20.439Z"
+    "lastUpdate": "2024-11-10T08:09:28.920Z"
   },
   {
     "name": "TK. MAJU",
@@ -136,8 +136,8 @@
     "name": "TOKO POJOK",
     "stock": 142,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-11-10T08:04:34.688Z"
+    "isAlive": false,
+    "lastUpdate": "2024-11-10T08:09:29.867Z"
   },
   {
     "name": "UD RAHMAT",
@@ -403,7 +403,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-10T06:05:17.662Z"
+    "lastUpdate": "2024-11-10T08:09:31.004Z"
   },
   {
     "name": "CAHYA HERAWATI",
