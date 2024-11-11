@@ -71,10 +71,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 12,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-11T02:44:20.224Z"
+    "lastUpdate": "2024-11-11T02:49:18.767Z"
   },
   {
     "name": "JOKO SUWARNO",
@@ -113,10 +113,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 16,
+    "stock": 11,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-11T02:44:32.254Z"
+    "lastUpdate": "2024-11-11T02:49:30.842Z"
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -148,10 +148,10 @@
   },
   {
     "name": "SUPARMAN",
-    "stock": 2,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-11T02:44:49.530Z"
+    "lastUpdate": "2024-11-11T02:49:45.358Z"
   },
   {
     "name": "DJAMIAH",
@@ -169,17 +169,17 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 15,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-11-11T02:45:00.269Z"
-  },
-  {
-    "name": "P. SUK",
     "stock": 8,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-11T02:45:18.014Z"
+    "lastUpdate": "2024-11-11T02:49:56.717Z"
+  },
+  {
+    "name": "P. SUK",
+    "stock": 6,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2024-11-11T02:50:09.892Z"
   },
   {
     "name": "H. BAMBANG S",
