@@ -79,9 +79,9 @@
   {
     "name": "JOKO SUWARNO",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-11-11T03:34:18.871Z"
+    "lastUpdate": "2024-11-11T05:39:19.063Z"
   },
   {
     "name": "KARSONO",
@@ -249,7 +249,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-11T03:35:07.779Z"
+    "lastUpdate": "2024-11-11T05:39:20.083Z"
   },
   {
     "name": "ROSIDI",
@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 7,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-11T05:34:19.671Z"
+    "lastUpdate": "2024-11-11T05:39:21.098Z"
   },
   {
     "name": "MOH HAFIF",
@@ -512,10 +512,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-11T05:34:30.730Z"
+    "lastUpdate": "2024-11-11T05:39:33.749Z"
   },
   {
     "name": "TK. LUCKY",
