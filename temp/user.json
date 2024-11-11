@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 35,
+    "stock": 32,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-11-11T01:15:26.858Z"
+    "isAlive": true,
+    "lastUpdate": "2024-11-11T03:19:17.665Z"
   },
   {
     "name": "UD RAHMAT",
@@ -232,31 +232,31 @@
   },
   {
     "name": "ROSA V",
-    "stock": 28,
+    "stock": 25,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-11T03:14:37.247Z"
+    "lastUpdate": "2024-11-11T03:19:33.980Z"
   },
   {
     "name": "LUKMAN BS",
-    "stock": 56,
+    "stock": 50,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-11T03:14:54.496Z"
+    "lastUpdate": "2024-11-11T03:19:49.934Z"
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 18,
+    "stock": 13,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-11T03:15:13.672Z"
+    "lastUpdate": "2024-11-11T03:20:07.762Z"
   },
   {
     "name": "ROSIDI",
-    "stock": 17,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-11T03:15:33.100Z"
+    "lastUpdate": "2024-11-11T03:20:21.464Z"
   },
   {
     "name": "ALPAN SANYOTO",
