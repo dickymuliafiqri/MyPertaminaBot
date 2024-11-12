@@ -1,10 +1,10 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 18,
+    "stock": 16,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-12T02:24:18.520Z"
+    "lastUpdate": "2024-11-12T02:29:20.218Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -73,8 +73,8 @@
     "name": "JAENAL",
     "stock": 11,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-11-12T02:24:35.260Z"
+    "isAlive": false,
+    "lastUpdate": "2024-11-12T02:29:31.207Z"
   },
   {
     "name": "JOKO SUWARNO",
@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 20,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-12T02:24:50.900Z"
+    "lastUpdate": "2024-11-12T02:29:33.256Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 77,
+    "stock": 72,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-12T02:25:09.604Z"
+    "lastUpdate": "2024-11-12T02:29:47.712Z"
   },
   {
     "name": "UD RAHMAT",
@@ -204,24 +204,24 @@
   },
   {
     "name": "EVI DIANA SARI",
-    "stock": 4,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-12T02:25:25.337Z"
+    "lastUpdate": "2024-11-12T02:30:03.450Z"
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-11T19:24:23.220Z"
+    "lastUpdate": "2024-11-12T02:30:16.948Z"
   },
   {
     "name": "TK MUSTAPA",
-    "stock": 0,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-11T19:24:23.967Z"
+    "lastUpdate": "2024-11-12T02:30:17.706Z"
   },
   {
     "name": "YUNIS WAHYUNI",
