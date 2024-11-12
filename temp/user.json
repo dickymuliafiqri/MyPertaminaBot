@@ -1,10 +1,10 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 13,
+    "stock": 11,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-12T02:34:19.937Z"
+    "lastUpdate": "2024-11-12T02:39:19.180Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-12T02:34:33.382Z"
+    "lastUpdate": "2024-11-12T02:39:32.315Z"
   },
   {
     "name": "TOKO POJOK",
     "stock": 69,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-11-12T02:34:48.419Z"
+    "isAlive": false,
+    "lastUpdate": "2024-11-12T02:39:47.178Z"
   },
   {
     "name": "UD RAHMAT",
@@ -218,10 +218,10 @@
   },
   {
     "name": "TK MUSTAPA",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-12T02:35:05.555Z"
+    "lastUpdate": "2024-11-12T02:39:48.365Z"
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -288,24 +288,24 @@
   },
   {
     "name": "ULFA MARIA",
-    "stock": 31,
+    "stock": 25,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-12T02:35:27.229Z"
+    "lastUpdate": "2024-11-12T02:40:03.231Z"
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-11T19:24:25.275Z"
+    "lastUpdate": "2024-11-12T02:40:23.418Z"
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 0,
+    "stock": 12,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-11T20:14:28.824Z"
+    "lastUpdate": "2024-11-12T02:40:24.173Z"
   },
   {
     "name": "NADIFATUS SOLEHA",
