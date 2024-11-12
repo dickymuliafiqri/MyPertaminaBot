@@ -1,10 +1,10 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-11-12T03:09:18.507Z"
+    "isAlive": true,
+    "lastUpdate": "2024-11-12T05:14:21.370Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -53,7 +53,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-12T03:14:19.310Z"
+    "lastUpdate": "2024-11-12T05:14:32.251Z"
   },
   {
     "name": "SUCIYONO",
@@ -102,7 +102,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-12T03:09:33.260Z"
+    "lastUpdate": "2024-11-12T05:14:34.339Z"
   },
   {
     "name": "TITIK ISMIATIN",
@@ -305,7 +305,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-12T03:09:34.017Z"
+    "lastUpdate": "2024-11-12T05:14:35.074Z"
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -354,42 +354,42 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-12T03:10:16.353Z"
+    "lastUpdate": "2024-11-12T05:14:35.869Z"
   },
   {
     "name": "SUPARNI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-12T03:10:17.176Z"
+    "lastUpdate": "2024-11-12T05:14:36.654Z"
   },
   {
     "name": "H. JUMAT",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-12T03:10:17.968Z"
+    "lastUpdate": "2024-11-12T05:14:37.554Z"
   },
   {
     "name": "YOGA RAJAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-12T03:10:18.712Z"
+    "lastUpdate": "2024-11-12T05:14:38.408Z"
   },
   {
     "name": "HARSININGSIH",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-12T03:10:19.512Z"
+    "lastUpdate": "2024-11-12T05:14:39.151Z"
   },
   {
     "name": "ARIF FAUZI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-12T03:10:20.377Z"
+    "lastUpdate": "2024-11-12T05:14:40.084Z"
   },
   {
     "name": "TOKO SURYATI",
