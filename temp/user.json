@@ -71,10 +71,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 11,
+    "stock": 9,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-11-12T02:29:31.207Z"
+    "isAlive": true,
+    "lastUpdate": "2024-11-12T04:34:20.680Z"
   },
   {
     "name": "JOKO SUWARNO",
@@ -207,14 +207,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-12T02:30:03.450Z"
+    "lastUpdate": "2024-11-12T04:34:32.792Z"
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-12T02:30:16.948Z"
+    "lastUpdate": "2024-11-12T04:34:33.462Z"
   },
   {
     "name": "TK MUSTAPA",
