@@ -428,10 +428,10 @@
   },
   {
     "name": "WIKAN K",
-    "stock": 6,
+    "stock": 3,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-13T10:49:19.908Z"
+    "lastUpdate": "2024-11-13T10:54:21.953Z"
   },
   {
     "name": "TUSOK",
@@ -459,63 +459,63 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-13T08:49:35.201Z"
+    "lastUpdate": "2024-11-13T10:54:33.516Z"
   },
   {
     "name": "YULI SORAYA",
-    "stock": 0,
+    "stock": 49,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-13T08:49:35.956Z"
+    "lastUpdate": "2024-11-13T10:54:34.444Z"
   },
   {
     "name": "SUSILO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-13T08:49:36.670Z"
+    "lastUpdate": "2024-11-13T10:54:51.642Z"
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 0,
+    "stock": 11,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-13T08:49:37.334Z"
+    "lastUpdate": "2024-11-13T10:54:52.399Z"
   },
   {
     "name": "IMA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-13T08:49:38.086Z"
+    "lastUpdate": "2024-11-13T10:55:10.964Z"
   },
   {
     "name": "DARMAWAN P",
-    "stock": 0,
+    "stock": 18,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-13T08:49:38.899Z"
+    "lastUpdate": "2024-11-13T10:55:11.698Z"
   },
   {
     "name": "DIYAH UTAMI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-13T08:49:39.599Z"
+    "lastUpdate": "2024-11-13T10:55:30.021Z"
   },
   {
     "name": "SALMAH",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-13T08:49:40.358Z"
+    "lastUpdate": "2024-11-13T10:55:30.823Z"
   },
   {
     "name": "TOKO ANITA",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-11-13T08:49:41.134Z"
+    "lastUpdate": "2024-11-13T10:55:31.670Z"
   },
   {
     "name": "TK. LUCKY",
