@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 2,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-13T12:14:24.998Z"
+    "lastUpdate": "2024-11-13T12:19:20.242Z"
   },
   {
     "name": "UD RAHMAT",
@@ -270,7 +270,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-13T10:19:19.643Z"
+    "lastUpdate": "2024-11-13T12:19:32.045Z"
   },
   {
     "name": "YUDA",
@@ -379,52 +379,52 @@
   },
   {
     "name": "HARSININGSIH",
-    "stock": 26,
+    "stock": 20,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-11-13T10:19:20.387Z"
+    "isAlive": true,
+    "lastUpdate": "2024-11-13T12:19:39.865Z"
   },
   {
     "name": "ARIF FAUZI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-13T10:19:21.578Z"
+    "lastUpdate": "2024-11-13T12:19:59.678Z"
   },
   {
     "name": "TOKO SURYATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-13T10:19:22.517Z"
+    "lastUpdate": "2024-11-13T12:20:00.662Z"
   },
   {
     "name": "MOH HAFIF",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-13T10:19:23.256Z"
+    "lastUpdate": "2024-11-13T12:20:01.596Z"
   },
   {
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-13T10:19:23.927Z"
+    "lastUpdate": "2024-11-13T12:20:02.481Z"
   },
   {
     "name": "SUDJIONO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-13T10:19:24.663Z"
+    "lastUpdate": "2024-11-13T12:20:03.294Z"
   },
   {
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-13T10:19:25.395Z"
+    "lastUpdate": "2024-11-13T12:20:04.051Z"
   },
   {
     "name": "WIKAN K",
@@ -463,10 +463,10 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 8,
+    "stock": 6,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-13T12:14:45.117Z"
+    "lastUpdate": "2024-11-13T12:20:04.868Z"
   },
   {
     "name": "SUSILO",
