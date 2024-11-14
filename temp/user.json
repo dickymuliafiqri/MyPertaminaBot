@@ -32,7 +32,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-14T05:49:18.323Z"
+    "lastUpdate": "2024-11-14T07:49:20.231Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -46,7 +46,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-14T05:44:23.078Z"
+    "lastUpdate": "2024-11-14T07:49:21.086Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -109,7 +109,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-14T05:49:20.285Z"
+    "lastUpdate": "2024-11-14T07:49:22.757Z"
   },
   {
     "name": "TK. MAJU",
@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 33,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-14T05:49:21.373Z"
+    "lastUpdate": "2024-11-14T07:49:23.490Z"
   },
   {
     "name": "UD RAHMAT",
@@ -396,7 +396,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-14T05:45:03.798Z"
+    "lastUpdate": "2024-11-14T07:49:43.822Z"
   },
   {
     "name": "MOH HAFIF",
