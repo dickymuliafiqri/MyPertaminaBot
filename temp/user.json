@@ -32,7 +32,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-14T03:44:22.901Z"
+    "lastUpdate": "2024-11-14T05:49:18.323Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -109,7 +109,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-14T03:44:57.517Z"
+    "lastUpdate": "2024-11-14T05:49:20.285Z"
   },
   {
     "name": "TK. MAJU",
@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 36,
-    "isTokenValid": true,
+    "stock": 0,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-11-14T05:44:23.810Z"
+    "lastUpdate": "2024-11-14T05:49:21.373Z"
   },
   {
     "name": "UD RAHMAT",
@@ -190,10 +190,10 @@
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 7,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-14T05:44:40.446Z"
+    "lastUpdate": "2024-11-14T05:49:22.231Z"
   },
   {
     "name": "JONI H",
@@ -351,10 +351,10 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 13,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-14T05:44:52.648Z"
+    "lastUpdate": "2024-11-14T05:49:33.644Z"
   },
   {
     "name": "SUPARNI",
