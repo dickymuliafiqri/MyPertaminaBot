@@ -39,7 +39,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-14T01:59:40.789Z"
+    "lastUpdate": "2024-11-14T04:04:18.167Z"
   },
   {
     "name": "BINA MAKMUR",
@@ -71,10 +71,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 18,
+    "stock": 16,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-14T03:59:19.882Z"
+    "lastUpdate": "2024-11-14T04:04:18.858Z"
   },
   {
     "name": "JOKO SUWARNO",
@@ -85,10 +85,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 6,
+    "stock": 4,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-14T03:59:32.234Z"
+    "lastUpdate": "2024-11-14T04:04:30.405Z"
   },
   {
     "name": "LUTFI A.",
@@ -144,49 +144,49 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-14T02:00:37.003Z"
+    "lastUpdate": "2024-11-14T04:04:42.523Z"
   },
   {
     "name": "SUPARMAN",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-11-14T02:00:37.614Z"
+    "lastUpdate": "2024-11-14T04:04:43.177Z"
   },
   {
     "name": "DJAMIAH",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-11-14T02:00:38.218Z"
+    "lastUpdate": "2024-11-14T04:04:43.824Z"
   },
   {
     "name": "HJ LILIK LAILIYAH",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-11-14T02:00:38.888Z"
+    "lastUpdate": "2024-11-14T04:04:44.502Z"
   },
   {
     "name": "ERNA PUJIATI",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-11-14T02:00:39.569Z"
+    "lastUpdate": "2024-11-14T04:04:45.170Z"
   },
   {
     "name": "P. SUK",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-11-14T02:00:40.177Z"
+    "lastUpdate": "2024-11-14T04:04:45.835Z"
   },
   {
     "name": "H. BAMBANG S",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-14T02:00:40.825Z"
+    "lastUpdate": "2024-11-14T04:04:46.581Z"
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -507,8 +507,8 @@
     "name": "SALMAH",
     "stock": 14,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-11-14T03:59:46.449Z"
+    "isAlive": false,
+    "lastUpdate": "2024-11-14T04:04:47.374Z"
   },
   {
     "name": "TOKO ANITA",
