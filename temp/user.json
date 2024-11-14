@@ -1,10 +1,10 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 26,
+    "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-14T01:09:19.409Z"
+    "lastUpdate": "2024-11-14T01:14:22.220Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -43,10 +43,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 26,
+    "stock": 17,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-11-13T23:10:21.236Z"
+    "isAlive": true,
+    "lastUpdate": "2024-11-14T01:14:39.454Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -87,15 +87,15 @@
     "name": "KARSONO",
     "stock": 26,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-11-14T01:09:37.223Z"
+    "isAlive": false,
+    "lastUpdate": "2024-11-14T01:14:59.430Z"
   },
   {
     "name": "LUTFI A.",
-    "stock": 55,
+    "stock": 47,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-14T01:09:55.606Z"
+    "lastUpdate": "2024-11-14T01:15:02.490Z"
   },
   {
     "name": "MOH SAID",
@@ -106,17 +106,17 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 47,
+    "stock": 38,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-14T01:10:15.982Z"
+    "lastUpdate": "2024-11-14T01:15:21.324Z"
   },
   {
     "name": "TK. MAJU",
-    "stock": 55,
+    "stock": 47,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-14T01:10:36.737Z"
+    "lastUpdate": "2024-11-14T01:15:40.978Z"
   },
   {
     "name": "TOKO 2 PUTRI",
