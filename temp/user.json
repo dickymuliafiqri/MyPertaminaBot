@@ -3,8 +3,8 @@
     "name": "ABDUL WAFI",
     "stock": 18,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-11-15T02:39:21.414Z"
+    "isAlive": false,
+    "lastUpdate": "2024-11-15T02:44:23.633Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -39,7 +39,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-15T00:39:55.289Z"
+    "lastUpdate": "2024-11-15T02:44:24.753Z"
   },
   {
     "name": "BINA MAKMUR",
@@ -50,10 +50,10 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 3,
+    "stock": 1,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-15T02:39:37.501Z"
+    "lastUpdate": "2024-11-15T02:44:25.603Z"
   },
   {
     "name": "SUCIYONO",
@@ -71,45 +71,45 @@
   },
   {
     "name": "JAENAL",
-    "stock": 7,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-11-15T02:39:48.365Z"
-  },
-  {
-    "name": "JOKO SUWARNO",
     "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-15T02:39:59.208Z"
+    "lastUpdate": "2024-11-15T02:44:37.486Z"
+  },
+  {
+    "name": "JOKO SUWARNO",
+    "stock": 3,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2024-11-15T02:44:48.940Z"
   },
   {
     "name": "KARSONO",
-    "stock": 14,
+    "stock": 12,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-15T02:40:10.673Z"
+    "lastUpdate": "2024-11-15T02:45:00.427Z"
   },
   {
     "name": "LUTFI A.",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-15T00:39:57.723Z"
+    "lastUpdate": "2024-11-15T02:45:13.420Z"
   },
   {
     "name": "MOH SAID",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-15T00:19:59.619Z"
+    "lastUpdate": "2024-11-15T02:45:15.575Z"
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 25,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-15T00:20:16.022Z"
+    "lastUpdate": "2024-11-15T02:45:17.173Z"
   },
   {
     "name": "TK. MAJU",
