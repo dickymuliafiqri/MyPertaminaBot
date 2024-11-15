@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 30,
+    "stock": 27,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-15T04:14:22.513Z"
+    "lastUpdate": "2024-11-15T04:19:23.785Z"
   },
   {
     "name": "UD RAHMAT",
@@ -367,8 +367,8 @@
     "name": "H. JUMAT",
     "stock": 7,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-11-15T04:14:54.335Z"
+    "isAlive": false,
+    "lastUpdate": "2024-11-15T04:19:40.969Z"
   },
   {
     "name": "YOGA RAJAN",
