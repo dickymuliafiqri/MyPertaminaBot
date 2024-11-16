@@ -15,10 +15,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 7,
+    "stock": 6,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-16T06:09:23.382Z"
+    "lastUpdate": "2024-11-16T06:14:19.542Z"
   },
   {
     "name": "ATHI HANDAYANI",
@@ -37,9 +37,9 @@
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-11-16T04:14:19.508Z"
+    "lastUpdate": "2024-11-16T06:14:40.441Z"
   },
   {
     "name": "BINA MAKMUR",
@@ -81,7 +81,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-16T04:09:46.736Z"
+    "lastUpdate": "2024-11-16T06:14:41.206Z"
   },
   {
     "name": "KARSONO",
@@ -123,7 +123,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-16T04:09:48.959Z"
+    "lastUpdate": "2024-11-16T06:14:43.275Z"
   },
   {
     "name": "TOKO IIN",
@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 62,
+    "stock": 61,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-16T06:09:47.633Z"
+    "lastUpdate": "2024-11-16T06:14:44.024Z"
   },
   {
     "name": "UD RAHMAT",
@@ -452,7 +452,7 @@
     "stock": 28,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-16T06:10:14.830Z"
+    "lastUpdate": "2024-11-16T06:15:10.089Z"
   },
   {
     "name": "BUDI",
