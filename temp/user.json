@@ -15,10 +15,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 10,
+    "stock": 9,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-16T05:49:22.853Z"
+    "lastUpdate": "2024-11-16T05:54:23.177Z"
   },
   {
     "name": "ATHI HANDAYANI",
@@ -137,7 +137,7 @@
     "stock": 63,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-16T05:49:44.764Z"
+    "lastUpdate": "2024-11-16T05:54:44.546Z"
   },
   {
     "name": "UD RAHMAT",
@@ -402,8 +402,8 @@
     "name": "MOH HAFIF",
     "stock": 14,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-11-16T05:50:11.284Z"
+    "isAlive": false,
+    "lastUpdate": "2024-11-16T05:55:09.212Z"
   },
   {
     "name": "CAHYA HERAWATI",
@@ -449,10 +449,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 30,
+    "stock": 28,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-16T05:50:32.997Z"
+    "lastUpdate": "2024-11-16T05:55:10.297Z"
   },
   {
     "name": "BUDI",
@@ -543,7 +543,7 @@
     "stock": 4,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-16T05:50:51.146Z"
+    "lastUpdate": "2024-11-16T05:55:31.058Z"
   },
   {
     "name": "TOKO POJOK-DISABLE",
