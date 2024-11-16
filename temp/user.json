@@ -400,10 +400,10 @@
   },
   {
     "name": "MOH HAFIF",
-    "stock": 10,
+    "stock": 6,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-16T08:19:22.977Z"
+    "lastUpdate": "2024-11-16T08:24:20.644Z"
   },
   {
     "name": "CAHYA HERAWATI",
@@ -449,10 +449,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 2,
+    "stock": 1,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-16T08:19:47.157Z"
+    "lastUpdate": "2024-11-16T08:24:39.262Z"
   },
   {
     "name": "BUDI",
@@ -501,7 +501,7 @@
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-11-16T06:20:42.101Z"
+    "lastUpdate": "2024-11-16T08:25:01.383Z"
   },
   {
     "name": "SALMAH",
