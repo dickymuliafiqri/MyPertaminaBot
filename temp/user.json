@@ -58,9 +58,9 @@
   {
     "name": "SUCIYONO",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-11-16T17:14:19.210Z"
+    "lastUpdate": "2024-11-16T19:14:23.427Z"
   },
   {
     "name": "SUMBER REJEKI",
@@ -95,7 +95,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-16T17:14:23.190Z"
+    "lastUpdate": "2024-11-16T19:14:26.534Z"
   },
   {
     "name": "MOH SAID",
@@ -109,7 +109,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-16T17:14:25.094Z"
+    "lastUpdate": "2024-11-16T19:14:28.499Z"
   },
   {
     "name": "TK. MAJU",
@@ -130,7 +130,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-16T17:14:27.468Z"
+    "lastUpdate": "2024-11-16T19:14:30.648Z"
   },
   {
     "name": "TOKO POJOK",
@@ -284,7 +284,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-16T17:09:19.281Z"
+    "lastUpdate": "2024-11-16T19:14:31.351Z"
   },
   {
     "name": "ULFA MARIA",
@@ -396,14 +396,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-16T17:14:28.631Z"
+    "lastUpdate": "2024-11-16T19:14:32.279Z"
   },
   {
     "name": "MOH HAFIF",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-16T17:09:20.016Z"
+    "lastUpdate": "2024-11-16T19:14:32.943Z"
   },
   {
     "name": "CAHYA HERAWATI",
