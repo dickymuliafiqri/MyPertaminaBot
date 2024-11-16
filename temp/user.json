@@ -95,7 +95,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-16T06:49:44.763Z"
+    "lastUpdate": "2024-11-16T08:54:24.346Z"
   },
   {
     "name": "MOH SAID",
@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 59,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-16T06:49:45.525Z"
+    "lastUpdate": "2024-11-16T08:54:25.649Z"
   },
   {
     "name": "UD RAHMAT",
@@ -400,10 +400,10 @@
   },
   {
     "name": "MOH HAFIF",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-16T08:49:20.144Z"
+    "lastUpdate": "2024-11-16T08:55:01.994Z"
   },
   {
     "name": "CAHYA HERAWATI",
