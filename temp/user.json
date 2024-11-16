@@ -4,7 +4,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-16T09:19:36.306Z"
+    "lastUpdate": "2024-11-16T11:24:17.629Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -18,7 +18,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-16T09:19:37.211Z"
+    "lastUpdate": "2024-11-16T11:24:18.380Z"
   },
   {
     "name": "ATHI HANDAYANI",
@@ -86,9 +86,9 @@
   {
     "name": "KARSONO",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-11-16T09:19:40.197Z"
+    "lastUpdate": "2024-11-16T11:24:19.097Z"
   },
   {
     "name": "LUTFI A.",
@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 36,
+    "stock": 33,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-16T11:19:17.195Z"
+    "lastUpdate": "2024-11-16T11:24:19.878Z"
   },
   {
     "name": "UD RAHMAT",
@@ -253,10 +253,10 @@
   },
   {
     "name": "ROSIDI",
-    "stock": 18,
+    "stock": 16,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-16T11:19:44.065Z"
+    "lastUpdate": "2024-11-16T11:24:45.003Z"
   },
   {
     "name": "ALPAN SANYOTO",
@@ -396,7 +396,7 @@
     "stock": 18,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-16T11:20:07.278Z"
+    "lastUpdate": "2024-11-16T11:24:58.290Z"
   },
   {
     "name": "MOH HAFIF",
