@@ -100,9 +100,9 @@
   {
     "name": "MOH SAID",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-11-17T07:24:20.998Z"
+    "lastUpdate": "2024-11-17T09:29:21.399Z"
   },
   {
     "name": "TITIK ISMIATIN",
@@ -172,7 +172,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-17T07:24:21.650Z"
+    "lastUpdate": "2024-11-17T09:29:22.311Z"
   },
   {
     "name": "P. SUK",
@@ -284,7 +284,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-17T07:24:22.300Z"
+    "lastUpdate": "2024-11-17T09:29:23.118Z"
   },
   {
     "name": "ULFA MARIA",
@@ -396,14 +396,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-17T07:29:20.202Z"
+    "lastUpdate": "2024-11-17T09:29:24.031Z"
   },
   {
     "name": "MOH HAFIF",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-17T07:29:20.864Z"
+    "lastUpdate": "2024-11-17T09:29:24.883Z"
   },
   {
     "name": "CAHYA HERAWATI",
@@ -536,7 +536,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-17T07:29:21.520Z"
+    "lastUpdate": "2024-11-17T09:29:25.706Z"
   },
   {
     "name": "TOKO TIARA",
