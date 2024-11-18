@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 3,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-18T06:29:43.419Z"
+    "lastUpdate": "2024-11-18T06:34:19.419Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 58,
+    "stock": 55,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-18T06:30:00.332Z"
+    "lastUpdate": "2024-11-18T06:35:09.388Z"
   },
   {
     "name": "UD RAHMAT",
@@ -246,10 +246,10 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 17,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-18T06:30:32.263Z"
+    "lastUpdate": "2024-11-18T06:35:28.574Z"
   },
   {
     "name": "ROSIDI",
@@ -277,7 +277,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-18T06:20:50.440Z"
+    "lastUpdate": "2024-11-18T06:35:42.768Z"
   },
   {
     "name": "SRI UTAMI",
@@ -295,10 +295,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 36,
+    "stock": 33,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-18T06:30:52.496Z"
+    "lastUpdate": "2024-11-18T06:35:43.556Z"
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 50,
+    "stock": 49,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-18T06:31:24.231Z"
+    "lastUpdate": "2024-11-18T06:36:02.498Z"
   },
   {
     "name": "MOH HAFIF",
