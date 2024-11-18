@@ -201,7 +201,8 @@ async function sheetTransaction(
     // Check user on local temp data
     let user = db.getUserLocalData(sheetName);
     if (user) {
-      if (Math.abs(new Date(user.lastUpdate).getTime() - new Date().getTime()) / 3600000 < 2) {
+      // 10 minutes differences
+      if (Math.abs(new Date(user.lastUpdate).getTime() - new Date().getTime()) < 10 * 60 * 1000) {
         if (user.stock <= 0 || !user.isTokenValid) {
           console.log("[-] Out of stock or token invalid!");
           continue;
