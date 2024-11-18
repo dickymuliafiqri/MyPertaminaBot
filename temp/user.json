@@ -134,17 +134,17 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 23,
+    "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-18T07:44:48.144Z"
+    "lastUpdate": "2024-11-18T07:49:18.965Z"
   },
   {
     "name": "UD RAHMAT",
-    "stock": 2,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-18T07:45:07.065Z"
+    "lastUpdate": "2024-11-18T07:49:41.577Z"
   },
   {
     "name": "SUPARMAN",
@@ -295,10 +295,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 3,
-    "isTokenValid": true,
+    "stock": 0,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-11-18T07:45:34.673Z"
+    "lastUpdate": "2024-11-18T07:49:54.215Z"
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 7,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-18T07:45:57.055Z"
+    "lastUpdate": "2024-11-18T07:49:55.201Z"
   },
   {
     "name": "MOH HAFIF",
@@ -515,35 +515,35 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-18T07:31:25.582Z"
+    "lastUpdate": "2024-11-18T07:50:07.946Z"
   },
   {
     "name": "TK. LUCKY",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-18T07:31:26.372Z"
+    "lastUpdate": "2024-11-18T07:50:08.769Z"
   },
   {
     "name": "UD SAMAN HADI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-18T07:31:27.052Z"
+    "lastUpdate": "2024-11-18T07:50:09.554Z"
   },
   {
     "name": "SOEKAMTO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-18T07:31:27.923Z"
+    "lastUpdate": "2024-11-18T07:50:10.653Z"
   },
   {
     "name": "TOKO TIARA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-18T07:31:29.126Z"
+    "lastUpdate": "2024-11-18T07:50:11.845Z"
   },
   {
     "name": "TOKO POJOK-DISABLE",
