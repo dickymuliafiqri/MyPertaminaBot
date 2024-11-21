@@ -15,66 +15,66 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 4,
+    "stock": 2,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-21T02:59:34.502Z"
+    "lastUpdate": "2024-11-21T03:04:19.218Z"
   },
   {
     "name": "ATHI HANDAYANI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-21T02:50:03.385Z"
+    "lastUpdate": "2024-11-21T03:04:36.027Z"
   },
   {
     "name": "CINDRAWATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-21T02:50:04.096Z"
+    "lastUpdate": "2024-11-21T03:04:36.937Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-21T02:50:04.940Z"
+    "lastUpdate": "2024-11-21T03:04:38.046Z"
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 10,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-11-21T02:59:53.898Z"
-  },
-  {
-    "name": "HENDRA KURNIAWAN",
-    "stock": 0,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-11-21T02:50:20.450Z"
-  },
-  {
-    "name": "SUCIYONO",
     "stock": 8,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-21T03:00:10.655Z"
+    "lastUpdate": "2024-11-21T03:04:39.619Z"
+  },
+  {
+    "name": "HENDRA KURNIAWAN",
+    "stock": 2,
+    "isTokenValid": true,
+    "isAlive": false,
+    "lastUpdate": "2024-11-21T03:04:59.239Z"
+  },
+  {
+    "name": "SUCIYONO",
+    "stock": 6,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2024-11-21T03:05:01.292Z"
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 18,
+    "stock": 16,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-21T03:00:29.626Z"
+    "lastUpdate": "2024-11-21T03:05:15.812Z"
   },
   {
     "name": "JAENAL",
-    "stock": 74,
+    "stock": 71,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-21T02:45:27.609Z"
+    "lastUpdate": "2024-11-21T03:05:31.345Z"
   },
   {
     "name": "JOKO SUWARNO",
