@@ -323,10 +323,10 @@
   },
   {
     "name": "SUROSO",
-    "stock": 4,
+    "stock": 2,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-21T10:30:12.477Z"
+    "lastUpdate": "2024-11-21T10:34:18.566Z"
   },
   {
     "name": "HADI SUTOYO",
@@ -393,24 +393,24 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 12,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-21T10:30:33.728Z"
+    "lastUpdate": "2024-11-21T10:34:35.246Z"
   },
   {
     "name": "MOH HAFIF",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-21T10:24:37.156Z"
+    "lastUpdate": "2024-11-21T10:34:50.612Z"
   },
   {
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-21T10:24:37.911Z"
+    "lastUpdate": "2024-11-21T10:34:51.612Z"
   },
   {
     "name": "SUDJIONO",
@@ -505,17 +505,17 @@
   },
   {
     "name": "SALMAH",
-    "stock": 28,
+    "stock": 25,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-21T10:30:55.842Z"
+    "lastUpdate": "2024-11-21T10:34:52.508Z"
   },
   {
     "name": "TOKO ANITA",
     "stock": 21,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-11-21T10:31:15.221Z"
+    "isAlive": false,
+    "lastUpdate": "2024-11-21T10:35:14.794Z"
   },
   {
     "name": "TK. LUCKY",
@@ -526,24 +526,24 @@
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 9,
+    "stock": 7,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-21T10:31:36.546Z"
+    "lastUpdate": "2024-11-21T10:35:16.233Z"
   },
   {
     "name": "SOEKAMTO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-21T09:05:00.949Z"
+    "lastUpdate": "2024-11-21T10:35:31.205Z"
   },
   {
     "name": "TOKO TIARA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-21T09:05:02.282Z"
+    "lastUpdate": "2024-11-21T10:35:32.056Z"
   },
   {
     "name": "TOKO POJOK-DISABLE",
