@@ -130,14 +130,14 @@
     "stock": 18,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-23T07:29:18.661Z"
+    "lastUpdate": "2024-11-23T07:34:19.867Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 72,
+    "stock": 70,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-23T07:29:41.391Z"
+    "lastUpdate": "2024-11-23T07:34:43.996Z"
   },
   {
     "name": "UD RAHMAT",
@@ -211,10 +211,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 41,
+    "stock": 40,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-23T07:30:14.765Z"
+    "lastUpdate": "2024-11-23T07:35:17.615Z"
   },
   {
     "name": "TK MUSTAPA",
@@ -228,7 +228,7 @@
     "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-23T07:30:50.124Z"
+    "lastUpdate": "2024-11-23T07:35:51.737Z"
   },
   {
     "name": "ROSA V",
@@ -486,8 +486,8 @@
     "name": "IMA",
     "stock": 7,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-11-23T07:31:18.012Z"
+    "isAlive": false,
+    "lastUpdate": "2024-11-23T07:36:20.400Z"
   },
   {
     "name": "DARMAWAN P",
