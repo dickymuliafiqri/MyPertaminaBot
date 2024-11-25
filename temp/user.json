@@ -253,10 +253,10 @@
   },
   {
     "name": "ROSIDI",
-    "stock": 6,
+    "stock": 4,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-25T10:45:05.197Z"
+    "lastUpdate": "2024-11-25T10:49:18.598Z"
   },
   {
     "name": "ALPAN SANYOTO",
@@ -541,9 +541,9 @@
   {
     "name": "TOKO TIARA",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-11-25T10:35:49.041Z"
+    "lastUpdate": "2024-11-25T10:49:33.566Z"
   },
   {
     "name": "TOKO POJOK-DISABLE",
