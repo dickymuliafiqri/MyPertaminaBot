@@ -255,8 +255,8 @@
     "name": "ROSIDI",
     "stock": 20,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-11-25T09:59:35.330Z"
+    "isAlive": false,
+    "lastUpdate": "2024-11-25T10:04:20.571Z"
   },
   {
     "name": "ALPAN SANYOTO",
@@ -344,10 +344,10 @@
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 10,
+    "stock": 8,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-25T09:59:57.174Z"
+    "lastUpdate": "2024-11-25T10:04:21.998Z"
   },
   {
     "name": "YUSUF ISMAIL",
@@ -498,10 +498,10 @@
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 2,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-25T10:00:11.580Z"
+    "lastUpdate": "2024-11-25T10:04:36.916Z"
   },
   {
     "name": "SALMAH",
