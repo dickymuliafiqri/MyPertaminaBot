@@ -134,17 +134,17 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 52,
+    "stock": 49,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-25T04:29:22.597Z"
+    "lastUpdate": "2024-11-25T04:34:17.563Z"
   },
   {
     "name": "UD RAHMAT",
-    "stock": 8,
+    "stock": 6,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-25T04:29:47.073Z"
+    "lastUpdate": "2024-11-25T04:34:44.468Z"
   },
   {
     "name": "SUPARMAN",
@@ -241,8 +241,8 @@
     "name": "LUKMAN BS",
     "stock": 15,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-11-25T04:30:04.316Z"
+    "isAlive": false,
+    "lastUpdate": "2024-11-25T04:35:01.162Z"
   },
   {
     "name": "BISTON MANURUNG",
@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 37,
+    "stock": 34,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-25T04:30:21.145Z"
+    "lastUpdate": "2024-11-25T04:35:02.798Z"
   },
   {
     "name": "MOH HAFIF",
