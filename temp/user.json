@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 24,
+    "stock": 21,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-11-26T05:44:19.388Z"
+    "isAlive": true,
+    "lastUpdate": "2024-11-26T05:59:19.904Z"
   },
   {
     "name": "UD RAHMAT",
@@ -309,10 +309,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 31,
+    "stock": 28,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-26T05:54:37.498Z"
+    "lastUpdate": "2024-11-26T05:59:46.648Z"
   },
   {
     "name": "ISTIQOMAH",
@@ -519,10 +519,10 @@
   },
   {
     "name": "TK. LUCKY",
-    "stock": 8,
+    "stock": 6,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-26T05:55:02.712Z"
+    "lastUpdate": "2024-11-26T06:00:11.231Z"
   },
   {
     "name": "UD SAMAN HADI",
