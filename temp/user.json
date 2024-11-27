@@ -463,10 +463,10 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 9,
+    "stock": 7,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-27T11:45:24.107Z"
+    "lastUpdate": "2024-11-27T11:49:25.039Z"
   },
   {
     "name": "SUSILO",
@@ -528,8 +528,8 @@
     "name": "UD SAMAN HADI",
     "stock": 6,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-11-27T11:45:45.913Z"
+    "isAlive": false,
+    "lastUpdate": "2024-11-27T11:49:43.249Z"
   },
   {
     "name": "SOEKAMTO",
