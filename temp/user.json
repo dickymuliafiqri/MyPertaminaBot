@@ -463,10 +463,10 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 7,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-27T11:49:25.039Z"
+    "lastUpdate": "2024-11-27T11:54:18.461Z"
   },
   {
     "name": "SUSILO",
@@ -536,14 +536,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-27T11:39:50.582Z"
+    "lastUpdate": "2024-11-27T11:54:34.705Z"
   },
   {
     "name": "TOKO TIARA",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-11-27T11:39:51.472Z"
+    "lastUpdate": "2024-11-27T11:54:35.474Z"
   },
   {
     "name": "TOKO POJOK-DISABLE",
