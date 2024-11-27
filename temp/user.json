@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 7,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-27T10:19:41.308Z"
+    "lastUpdate": "2024-11-27T10:24:21.770Z"
   },
   {
     "name": "UD RAHMAT",
@@ -372,10 +372,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 7,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-27T10:20:39.445Z"
+    "lastUpdate": "2024-11-27T10:24:39.411Z"
   },
   {
     "name": "HARSININGSIH",
@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 18,
+    "stock": 16,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-27T10:20:58.130Z"
+    "lastUpdate": "2024-11-27T10:24:56.575Z"
   },
   {
     "name": "MOH HAFIF",
@@ -445,42 +445,42 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-27T10:11:07.456Z"
+    "lastUpdate": "2024-11-27T10:25:13.664Z"
   },
   {
     "name": "HERDIANA DIYAH S",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-27T10:11:08.311Z"
+    "lastUpdate": "2024-11-27T10:25:14.779Z"
   },
   {
     "name": "BUDI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-27T10:11:09.154Z"
+    "lastUpdate": "2024-11-27T10:25:15.584Z"
   },
   {
     "name": "YULI SORAYA",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 48,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-27T10:11:09.998Z"
+    "lastUpdate": "2024-11-27T10:25:16.775Z"
   },
   {
     "name": "SUSILO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-27T10:11:10.757Z"
+    "lastUpdate": "2024-11-27T10:25:40.214Z"
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 16,
+    "stock": 14,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-27T10:15:36.665Z"
+    "lastUpdate": "2024-11-27T10:25:40.963Z"
   },
   {
     "name": "IMA",
