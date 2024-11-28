@@ -127,10 +127,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 12,
+    "stock": 11,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-28T06:19:43.759Z"
+    "lastUpdate": "2024-11-28T06:24:21.170Z"
   },
   {
     "name": "TOKO POJOK",
@@ -354,7 +354,7 @@
     "stock": 32,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-28T06:20:39.172Z"
+    "lastUpdate": "2024-11-28T06:24:52.009Z"
   },
   {
     "name": "SUPARNI",
@@ -414,10 +414,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 8,
+    "stock": 7,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-28T06:21:20.900Z"
+    "lastUpdate": "2024-11-28T06:25:26.436Z"
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -444,8 +444,8 @@
     "name": "MISRI CICI",
     "stock": 9,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-11-28T06:21:51.155Z"
+    "isAlive": false,
+    "lastUpdate": "2024-11-28T06:25:54.949Z"
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -456,10 +456,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 48,
+    "stock": 47,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-28T06:22:19.802Z"
+    "lastUpdate": "2024-11-28T06:25:56.140Z"
   },
   {
     "name": "YULI SORAYA",
