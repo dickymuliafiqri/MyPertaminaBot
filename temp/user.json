@@ -120,31 +120,31 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 8,
+    "stock": 6,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-29T04:19:39.844Z"
+    "lastUpdate": "2024-11-29T04:24:20.997Z"
   },
   {
     "name": "TOKO IIN",
-    "stock": 13,
+    "stock": 11,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-29T04:20:04.131Z"
+    "lastUpdate": "2024-11-29T04:24:50.938Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 74,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-29T04:15:15.491Z"
+    "lastUpdate": "2024-11-29T04:25:22.672Z"
   },
   {
     "name": "UD RAHMAT",
-    "stock": 40,
+    "stock": 37,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-29T04:20:25.969Z"
+    "lastUpdate": "2024-11-29T04:26:00.862Z"
   },
   {
     "name": "SUPARMAN",
@@ -155,10 +155,10 @@
   },
   {
     "name": "DJAMIAH",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 13,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-29T04:15:47.446Z"
+    "lastUpdate": "2024-11-29T04:26:28.586Z"
   },
   {
     "name": "HJ LILIK LAILIYAH",
