@@ -127,24 +127,24 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 9,
+    "stock": 7,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-11-29T04:35:00.876Z"
+    "isAlive": true,
+    "lastUpdate": "2024-11-29T04:49:22.473Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 61,
+    "stock": 58,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-29T04:44:47.274Z"
+    "lastUpdate": "2024-11-29T04:49:46.558Z"
   },
   {
     "name": "UD RAHMAT",
-    "stock": 25,
+    "stock": 22,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-29T04:45:27.901Z"
+    "lastUpdate": "2024-11-29T04:50:21.191Z"
   },
   {
     "name": "SUPARMAN",
@@ -155,10 +155,10 @@
   },
   {
     "name": "DJAMIAH",
-    "stock": 5,
+    "stock": 3,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-29T04:45:55.543Z"
+    "lastUpdate": "2024-11-29T04:50:59.848Z"
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -176,10 +176,10 @@
   },
   {
     "name": "P. SUK",
-    "stock": 16,
+    "stock": 14,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-11-29T04:46:37.601Z"
+    "lastUpdate": "2024-11-29T04:51:21.861Z"
   },
   {
     "name": "H. BAMBANG S",
