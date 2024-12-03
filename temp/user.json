@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 14,
+    "stock": 12,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-03T09:09:18.309Z"
+    "lastUpdate": "2024-12-03T09:14:18.466Z"
   },
   {
     "name": "UD RAHMAT",
@@ -199,8 +199,8 @@
     "name": "JONI H",
     "stock": 5,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-12-03T09:09:30.133Z"
+    "isAlive": false,
+    "lastUpdate": "2024-12-03T09:14:30.077Z"
   },
   {
     "name": "EVI DIANA SARI",
@@ -253,10 +253,10 @@
   },
   {
     "name": "ROSIDI",
-    "stock": 6,
+    "stock": 4,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-03T09:09:42.374Z"
+    "lastUpdate": "2024-12-03T09:14:31.359Z"
   },
   {
     "name": "ALPAN SANYOTO",
@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 70,
+    "stock": 67,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-03T09:09:55.368Z"
+    "lastUpdate": "2024-12-03T09:14:42.987Z"
   },
   {
     "name": "MOH HAFIF",
@@ -491,17 +491,17 @@
   },
   {
     "name": "DARMAWAN P",
-    "stock": 7,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-03T09:10:21.372Z"
+    "lastUpdate": "2024-12-03T09:14:59.291Z"
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 20,
+    "stock": 18,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-02T21:14:34.025Z"
+    "lastUpdate": "2024-12-03T09:15:10.236Z"
   },
   {
     "name": "SALMAH",
