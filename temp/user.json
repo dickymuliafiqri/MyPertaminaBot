@@ -1,87 +1,87 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 20,
+    "stock": 19,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-03T02:39:20.059Z"
+    "lastUpdate": "2024-12-03T02:44:20.812Z"
   },
   {
     "name": "AKBAR RISQ",
     "stock": 24,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-12-03T02:30:00.961Z"
+    "isAlive": true,
+    "lastUpdate": "2024-12-03T02:44:38.501Z"
   },
   {
     "name": "ALFIAN DWI A.",
     "stock": 21,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-03T02:39:41.183Z"
+    "lastUpdate": "2024-12-03T02:44:58.673Z"
   },
   {
     "name": "ATHI HANDAYANI",
     "stock": -76,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-03T02:30:23.153Z"
+    "lastUpdate": "2024-12-03T02:45:18.816Z"
   },
   {
     "name": "CINDRAWATI",
     "stock": -90,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-03T02:30:23.911Z"
+    "lastUpdate": "2024-12-03T02:45:19.641Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": -13,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-03T02:30:24.703Z"
+    "lastUpdate": "2024-12-03T02:45:20.434Z"
   },
   {
     "name": "BINA MAKMUR",
     "stock": 51,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-12-03T02:40:02.321Z"
+    "isAlive": false,
+    "lastUpdate": "2024-12-03T02:45:21.646Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 21,
+    "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-03T02:40:23.499Z"
+    "lastUpdate": "2024-12-03T02:45:23.005Z"
   },
   {
     "name": "SUCIYONO",
-    "stock": 57,
+    "stock": 56,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-03T02:40:44.219Z"
+    "lastUpdate": "2024-12-03T02:45:43.485Z"
   },
   {
     "name": "SUMBER REJEKI",
     "stock": 23,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-12-03T02:31:31.001Z"
+    "isAlive": true,
+    "lastUpdate": "2024-12-03T02:46:03.287Z"
   },
   {
     "name": "JAENAL",
-    "stock": 74,
+    "stock": 73,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-03T02:41:04.403Z"
+    "lastUpdate": "2024-12-03T02:46:23.850Z"
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 47,
+    "stock": 44,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-03T02:41:23.919Z"
+    "lastUpdate": "2024-12-03T02:46:44.419Z"
   },
   {
     "name": "KARSONO",
