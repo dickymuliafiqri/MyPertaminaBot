@@ -1,10 +1,10 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-12-05T00:39:23.320Z"
+    "isAlive": true,
+    "lastUpdate": "2024-12-05T00:54:22.845Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -18,35 +18,35 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-05T00:44:19.384Z"
+    "lastUpdate": "2024-12-05T00:54:35.647Z"
   },
   {
     "name": "ATHI HANDAYANI",
     "stock": -16,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-05T00:44:20.630Z"
+    "lastUpdate": "2024-12-05T00:54:36.480Z"
   },
   {
     "name": "CINDRAWATI",
     "stock": -30,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-05T00:44:21.532Z"
+    "lastUpdate": "2024-12-05T00:54:37.373Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-05T00:44:22.390Z"
+    "lastUpdate": "2024-12-05T00:54:38.180Z"
   },
   {
     "name": "BINA MAKMUR",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-05T00:44:23.672Z"
+    "lastUpdate": "2024-12-05T00:54:39.430Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -57,31 +57,31 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 62,
+    "stock": 59,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-05T00:49:21.772Z"
+    "lastUpdate": "2024-12-05T00:54:40.547Z"
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 49,
+    "stock": 46,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-05T00:49:40.341Z"
+    "lastUpdate": "2024-12-05T00:54:59.637Z"
   },
   {
     "name": "JAENAL",
-    "stock": 97,
+    "stock": 94,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-12-05T00:40:04.386Z"
+    "isAlive": true,
+    "lastUpdate": "2024-12-05T00:55:17.850Z"
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 61,
+    "stock": 58,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-05T00:49:59.031Z"
+    "lastUpdate": "2024-12-05T00:55:40.558Z"
   },
   {
     "name": "KARSONO",
