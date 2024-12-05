@@ -2,44 +2,44 @@
   {
     "name": "ABDUL WAFI",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-05T09:44:19.897Z"
+    "lastUpdate": "2024-12-05T09:54:22.759Z"
   },
   {
     "name": "AKBAR RISQ",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-05T09:44:21.240Z"
+    "lastUpdate": "2024-12-05T09:54:24.167Z"
   },
   {
     "name": "ALFIAN DWI A.",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-05T09:44:22.031Z"
+    "lastUpdate": "2024-12-05T09:54:25.098Z"
   },
   {
     "name": "ATHI HANDAYANI",
     "stock": -16,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-05T09:44:22.938Z"
+    "lastUpdate": "2024-12-05T09:54:26.029Z"
   },
   {
     "name": "CINDRAWATI",
     "stock": -30,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-05T09:44:23.886Z"
+    "lastUpdate": "2024-12-05T09:54:26.948Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-05T09:44:24.739Z"
+    "lastUpdate": "2024-12-05T09:54:27.761Z"
   },
   {
     "name": "BINA MAKMUR",
@@ -337,10 +337,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 48,
+    "stock": 46,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-05T09:50:05.458Z"
+    "lastUpdate": "2024-12-05T09:54:28.644Z"
   },
   {
     "name": "ONG SWI GIOK",
@@ -351,10 +351,10 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 45,
+    "stock": 44,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-05T09:50:34.986Z"
+    "lastUpdate": "2024-12-05T09:54:55.880Z"
   },
   {
     "name": "SUPARNI",
@@ -368,7 +368,7 @@
     "stock": 22,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-05T09:51:05.887Z"
+    "lastUpdate": "2024-12-05T09:55:22.714Z"
   },
   {
     "name": "YOGA RAJAN",
@@ -389,14 +389,14 @@
     "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-05T09:51:38.655Z"
+    "lastUpdate": "2024-12-05T09:55:53.226Z"
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 40,
+    "stock": 39,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-05T09:52:01.539Z"
+    "lastUpdate": "2024-12-05T09:56:10.110Z"
   },
   {
     "name": "MOH HAFIF",
@@ -479,8 +479,8 @@
     "name": "HJ. HAERONI",
     "stock": 18,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-12-05T09:52:37.390Z"
+    "isAlive": false,
+    "lastUpdate": "2024-12-05T09:56:37.422Z"
   },
   {
     "name": "IMA",
@@ -519,10 +519,10 @@
   },
   {
     "name": "TK. LUCKY",
-    "stock": 50,
+    "stock": 48,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-05T09:53:02.843Z"
+    "lastUpdate": "2024-12-05T09:56:38.596Z"
   },
   {
     "name": "UD SAMAN HADI",
