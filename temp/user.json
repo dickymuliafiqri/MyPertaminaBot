@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 9,
+    "stock": 7,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-05T05:14:47.801Z"
+    "lastUpdate": "2024-12-05T05:19:19.516Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 49,
+    "stock": 44,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-05T05:15:01.505Z"
+    "lastUpdate": "2024-12-05T05:19:33.415Z"
   },
   {
     "name": "UD RAHMAT",
@@ -449,10 +449,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 24,
-    "isTokenValid": true,
+    "stock": 0,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-12-05T05:15:54.930Z"
+    "lastUpdate": "2024-12-05T05:19:51.454Z"
   },
   {
     "name": "BUDI",
@@ -526,10 +526,10 @@
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 18,
-    "isTokenValid": true,
+    "stock": 0,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-12-05T05:16:21.129Z"
+    "lastUpdate": "2024-12-05T05:19:52.242Z"
   },
   {
     "name": "SOEKAMTO",
