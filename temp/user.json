@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 7,
+    "stock": 5,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-12-05T05:24:23.085Z"
+    "isAlive": true,
+    "lastUpdate": "2024-12-05T05:39:20.105Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 35,
+    "stock": 32,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-05T05:34:19.935Z"
+    "lastUpdate": "2024-12-05T05:39:34.162Z"
   },
   {
     "name": "UD RAHMAT",
@@ -515,7 +515,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-05T05:24:44.289Z"
+    "lastUpdate": "2024-12-05T05:39:51.904Z"
   },
   {
     "name": "TK. LUCKY",
