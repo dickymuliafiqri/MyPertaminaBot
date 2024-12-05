@@ -449,10 +449,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 11,
+    "stock": 8,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-05T07:10:20.049Z"
+    "lastUpdate": "2024-12-05T07:14:20.342Z"
   },
   {
     "name": "BUDI",
@@ -528,8 +528,8 @@
     "name": "UD SAMAN HADI",
     "stock": 2,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-12-05T07:11:11.598Z"
+    "isAlive": false,
+    "lastUpdate": "2024-12-05T07:14:39.889Z"
   },
   {
     "name": "SOEKAMTO",
