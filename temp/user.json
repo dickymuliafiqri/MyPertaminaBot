@@ -211,10 +211,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 63,
+    "stock": 60,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-06T09:09:59.014Z"
+    "lastUpdate": "2024-12-06T09:14:19.771Z"
   },
   {
     "name": "TK MUSTAPA",
@@ -227,8 +227,8 @@
     "name": "YUNIS WAHYUNI",
     "stock": 20,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-12-06T09:10:19.405Z"
+    "isAlive": false,
+    "lastUpdate": "2024-12-06T09:14:43.906Z"
   },
   {
     "name": "ROSA V",
@@ -325,8 +325,8 @@
     "name": "SUROSO",
     "stock": 39,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-12-06T09:10:48.033Z"
+    "isAlive": false,
+    "lastUpdate": "2024-12-06T09:14:45.152Z"
   },
   {
     "name": "HADI SUTOYO",
@@ -400,10 +400,10 @@
   },
   {
     "name": "MOH HAFIF",
-    "stock": 22,
+    "stock": 19,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-06T09:11:17.502Z"
+    "lastUpdate": "2024-12-06T09:14:46.326Z"
   },
   {
     "name": "CAHYA HERAWATI",
@@ -452,14 +452,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-06T09:04:22.209Z"
+    "lastUpdate": "2024-12-06T09:15:05.323Z"
   },
   {
     "name": "BUDI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-06T09:04:23.005Z"
+    "lastUpdate": "2024-12-06T09:15:06.095Z"
   },
   {
     "name": "YULI SORAYA",
