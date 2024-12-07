@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 11,
+    "stock": 9,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-07T07:09:49.723Z"
+    "lastUpdate": "2024-12-07T07:14:18.066Z"
   },
   {
     "name": "UD RAHMAT",
@@ -486,8 +486,8 @@
     "name": "IMA",
     "stock": 2,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-12-07T07:10:51.068Z"
+    "isAlive": false,
+    "lastUpdate": "2024-12-07T07:14:32.168Z"
   },
   {
     "name": "DARMAWAN P",
@@ -505,10 +505,10 @@
   },
   {
     "name": "SALMAH",
-    "stock": 10,
+    "stock": 8,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-07T07:11:05.542Z"
+    "lastUpdate": "2024-12-07T07:14:33.412Z"
   },
   {
     "name": "TOKO ANITA",
@@ -533,17 +533,17 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-07T07:11:20.697Z"
+    "lastUpdate": "2024-12-07T07:14:49.296Z"
   },
   {
     "name": "TOKO TIARA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-07T06:56:26.284Z"
+    "lastUpdate": "2024-12-07T07:15:03.610Z"
   },
   {
     "name": "TOKO POJOK-DISABLE",
