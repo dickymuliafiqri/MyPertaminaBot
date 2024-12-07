@@ -234,15 +234,15 @@
     "name": "ROSA V",
     "stock": 4,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-12-07T21:59:21.933Z"
+    "isAlive": false,
+    "lastUpdate": "2024-12-07T22:04:17.976Z"
   },
   {
     "name": "LUKMAN BS",
-    "stock": 30,
+    "stock": 26,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-07T21:59:40.119Z"
+    "lastUpdate": "2024-12-07T22:04:19.661Z"
   },
   {
     "name": "BISTON MANURUNG",
@@ -514,8 +514,8 @@
     "name": "TOKO ANITA",
     "stock": 15,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-12-07T22:00:00.558Z"
+    "isAlive": false,
+    "lastUpdate": "2024-12-07T22:04:39.777Z"
   },
   {
     "name": "TK. LUCKY",
