@@ -120,24 +120,24 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 2,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-09T05:59:41.944Z"
+    "lastUpdate": "2024-12-09T06:04:20.412Z"
   },
   {
     "name": "TOKO IIN",
-    "stock": 21,
+    "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-09T06:00:07.645Z"
+    "lastUpdate": "2024-12-09T06:04:44.864Z"
   },
   {
     "name": "TOKO POJOK",
     "stock": 62,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-09T06:00:40.116Z"
+    "lastUpdate": "2024-12-09T06:05:15.990Z"
   },
   {
     "name": "UD RAHMAT",
@@ -249,7 +249,7 @@
     "stock": 36,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-09T06:01:24.821Z"
+    "lastUpdate": "2024-12-09T06:05:45.335Z"
   },
   {
     "name": "ROSIDI",
@@ -316,10 +316,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 4,
+    "stock": 3,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-09T06:02:02.823Z"
+    "lastUpdate": "2024-12-09T06:06:15.314Z"
   },
   {
     "name": "SUROSO",
@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 69,
+    "stock": 68,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-09T06:02:35.844Z"
+    "lastUpdate": "2024-12-09T06:06:39.114Z"
   },
   {
     "name": "MOH HAFIF",
@@ -421,10 +421,10 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 15,
+    "stock": 13,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-09T06:03:09.088Z"
+    "lastUpdate": "2024-12-09T06:07:12.032Z"
   },
   {
     "name": "WIKAN K",
