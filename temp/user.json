@@ -143,8 +143,8 @@
     "name": "UD RAHMAT",
     "stock": 4,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-12-09T10:35:07.131Z"
+    "isAlive": true,
+    "lastUpdate": "2024-12-09T10:49:21.185Z"
   },
   {
     "name": "SUPARMAN",
@@ -249,7 +249,7 @@
     "stock": 4,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-09T10:44:23.222Z"
+    "lastUpdate": "2024-12-09T10:49:44.878Z"
   },
   {
     "name": "ROSIDI",
@@ -288,10 +288,10 @@
   },
   {
     "name": "ULFA MARIA",
-    "stock": 8,
+    "stock": 6,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-09T10:44:46.661Z"
+    "lastUpdate": "2024-12-09T10:50:06.917Z"
   },
   {
     "name": "BAMBANG HARTONO",
@@ -396,7 +396,7 @@
     "stock": 30,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-09T10:45:11.220Z"
+    "lastUpdate": "2024-12-09T10:50:28.566Z"
   },
   {
     "name": "MOH HAFIF",
@@ -533,10 +533,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 10,
+    "stock": 8,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-09T10:45:41.222Z"
+    "lastUpdate": "2024-12-09T10:50:56.579Z"
   },
   {
     "name": "TOKO TIARA",
