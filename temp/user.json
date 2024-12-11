@@ -1,10 +1,10 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 2,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-11T00:19:25.049Z"
+    "lastUpdate": "2024-12-11T00:24:19.373Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -25,21 +25,21 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-11T00:10:14.793Z"
+    "lastUpdate": "2024-12-11T00:24:34.864Z"
   },
   {
     "name": "CINDRAWATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-11T00:10:15.741Z"
+    "lastUpdate": "2024-12-11T00:24:35.744Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-11T00:10:16.704Z"
+    "lastUpdate": "2024-12-11T00:24:36.701Z"
   },
   {
     "name": "BINA MAKMUR",
@@ -50,45 +50,45 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 14,
+    "stock": 12,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-11T00:19:43.483Z"
+    "lastUpdate": "2024-12-11T00:24:37.705Z"
   },
   {
     "name": "SUCIYONO",
-    "stock": 69,
+    "stock": 64,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-11T00:19:58.544Z"
+    "lastUpdate": "2024-12-11T00:24:52.311Z"
   },
   {
     "name": "SUMBER REJEKI",
     "stock": 71,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-12-11T00:20:21.426Z"
+    "isAlive": false,
+    "lastUpdate": "2024-12-11T00:25:16.594Z"
   },
   {
     "name": "JAENAL",
-    "stock": 97,
+    "stock": 94,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-11T00:20:44.418Z"
+    "lastUpdate": "2024-12-11T00:25:17.746Z"
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 0,
+    "stock": 70,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-12-10T20:59:32.889Z"
+    "isAlive": false,
+    "lastUpdate": "2024-12-11T00:25:41.619Z"
   },
   {
     "name": "KARSONO",
-    "stock": 0,
+    "stock": 67,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-10T20:59:33.700Z"
+    "lastUpdate": "2024-12-11T00:25:42.862Z"
   },
   {
     "name": "LUTFI A.",
