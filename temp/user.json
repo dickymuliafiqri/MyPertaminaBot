@@ -127,31 +127,31 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 6,
+    "stock": 4,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-11T05:29:21.565Z"
+    "lastUpdate": "2024-12-11T05:34:19.458Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 35,
+    "stock": 32,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-11T05:30:09.579Z"
+    "lastUpdate": "2024-12-11T05:34:36.933Z"
   },
   {
     "name": "UD RAHMAT",
-    "stock": 14,
-    "isTokenValid": true,
+    "stock": 0,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-12-11T05:30:36.093Z"
+    "lastUpdate": "2024-12-11T05:35:02.132Z"
   },
   {
     "name": "SUPARMAN",
-    "stock": 14,
+    "stock": 12,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-11T05:30:53.210Z"
+    "lastUpdate": "2024-12-11T05:35:02.929Z"
   },
   {
     "name": "DJAMIAH",
@@ -169,45 +169,45 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 6,
+    "stock": 4,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-11T05:31:10.503Z"
+    "lastUpdate": "2024-12-11T05:35:18.742Z"
   },
   {
     "name": "P. SUK",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-10T20:54:43.188Z"
+    "lastUpdate": "2024-12-11T05:35:34.516Z"
   },
   {
     "name": "H. BAMBANG S",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-10T20:54:43.955Z"
+    "lastUpdate": "2024-12-11T05:35:35.406Z"
   },
   {
     "name": "ANDRI HERU CAHYONO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-10T20:54:44.676Z"
+    "lastUpdate": "2024-12-11T05:35:36.222Z"
   },
   {
     "name": "JONI H",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-10T20:54:45.566Z"
+    "lastUpdate": "2024-12-11T05:35:37.066Z"
   },
   {
     "name": "EVI DIANA SARI",
-    "stock": 0,
+    "stock": 19,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-10T20:54:46.475Z"
+    "lastUpdate": "2024-12-11T05:35:37.906Z"
   },
   {
     "name": "TOKO IRAWAN",
