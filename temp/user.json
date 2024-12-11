@@ -1,66 +1,66 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 22,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-12-11T23:29:21.269Z"
-  },
-  {
-    "name": "AKBAR RISQ",
-    "stock": 15,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-12-11T23:29:42.730Z"
-  },
-  {
-    "name": "ALFIAN DWI A.",
     "stock": 19,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-11T23:29:56.419Z"
+    "lastUpdate": "2024-12-11T23:34:19.943Z"
+  },
+  {
+    "name": "AKBAR RISQ",
+    "stock": 13,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2024-12-11T23:34:39.491Z"
+  },
+  {
+    "name": "ALFIAN DWI A.",
+    "stock": 17,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2024-12-11T23:34:53.013Z"
   },
   {
     "name": "ATHI HANDAYANI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-11T23:20:23.470Z"
+    "lastUpdate": "2024-12-11T23:35:06.064Z"
   },
   {
     "name": "CINDRAWATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-11T23:20:24.258Z"
+    "lastUpdate": "2024-12-11T23:35:06.888Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-11T23:20:25.008Z"
+    "lastUpdate": "2024-12-11T23:35:07.686Z"
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 70,
+    "stock": 67,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-11T23:30:15.617Z"
+    "lastUpdate": "2024-12-11T23:35:08.539Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 61,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-12-11T23:30:34.809Z"
+    "isAlive": false,
+    "lastUpdate": "2024-12-11T23:35:28.980Z"
   },
   {
     "name": "SUCIYONO",
-    "stock": 86,
+    "stock": 83,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-11T23:15:20.117Z"
+    "lastUpdate": "2024-12-11T23:35:30.368Z"
   },
   {
     "name": "SUMBER REJEKI",
