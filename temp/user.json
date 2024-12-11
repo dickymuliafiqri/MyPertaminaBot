@@ -4,7 +4,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-11T09:54:22.767Z"
+    "lastUpdate": "2024-12-11T10:09:19.353Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -533,17 +533,17 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 3,
+    "stock": 1,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-11T10:05:40.687Z"
+    "lastUpdate": "2024-12-11T10:09:20.123Z"
   },
   {
     "name": "TOKO TIARA",
     "stock": 20,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-12-11T10:05:53.712Z"
+    "isAlive": false,
+    "lastUpdate": "2024-12-11T10:09:34.270Z"
   },
   {
     "name": "TOKO POJOK-DISABLE",
