@@ -59,43 +59,43 @@
     "name": "SUCIYONO",
     "stock": 29,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-12-13T02:09:26.919Z"
+    "isAlive": false,
+    "lastUpdate": "2024-12-13T02:14:19.083Z"
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 32,
+    "stock": 29,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-13T02:09:48.835Z"
+    "lastUpdate": "2024-12-13T02:14:20.503Z"
   },
   {
     "name": "JAENAL",
-    "stock": 71,
+    "stock": 68,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-13T02:10:09.564Z"
+    "lastUpdate": "2024-12-13T02:14:41.144Z"
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 44,
+    "stock": 41,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-13T02:10:29.836Z"
+    "lastUpdate": "2024-12-13T02:15:01.465Z"
   },
   {
     "name": "KARSONO",
-    "stock": 49,
+    "stock": 46,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-13T02:10:49.970Z"
+    "lastUpdate": "2024-12-13T02:15:21.815Z"
   },
   {
     "name": "LUTFI A.",
-    "stock": 82,
+    "stock": 76,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-13T02:05:46.876Z"
+    "lastUpdate": "2024-12-13T02:15:43.724Z"
   },
   {
     "name": "MOH SAID",
