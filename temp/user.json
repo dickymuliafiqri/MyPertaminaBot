@@ -232,10 +232,10 @@
   },
   {
     "name": "ROSA V",
-    "stock": 6,
+    "stock": 4,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-14T10:04:18.786Z"
+    "lastUpdate": "2024-12-14T10:09:20.199Z"
   },
   {
     "name": "LUKMAN BS",
@@ -330,10 +330,10 @@
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 7,
-    "isTokenValid": true,
+    "stock": 0,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-12-14T10:04:33.531Z"
+    "lastUpdate": "2024-12-14T10:09:40.550Z"
   },
   {
     "name": "SRI HIDAYATI",
