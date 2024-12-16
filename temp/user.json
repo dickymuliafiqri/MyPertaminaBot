@@ -288,17 +288,17 @@
   },
   {
     "name": "ULFA MARIA",
-    "stock": 26,
+    "stock": 22,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-16T09:14:52.521Z"
+    "lastUpdate": "2024-12-16T09:19:18.789Z"
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 53,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-12-16T09:15:18.133Z"
+    "isAlive": false,
+    "lastUpdate": "2024-12-16T09:19:44.501Z"
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -344,10 +344,10 @@
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 27,
+    "stock": 24,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-16T09:15:45.924Z"
+    "lastUpdate": "2024-12-16T09:19:45.564Z"
   },
   {
     "name": "YUSUF ISMAIL",
