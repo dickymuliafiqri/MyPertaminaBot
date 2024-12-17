@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 13,
+    "stock": 11,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-17T11:39:45.016Z"
+    "lastUpdate": "2024-12-17T11:44:19.742Z"
   },
   {
     "name": "UD RAHMAT",
@@ -500,8 +500,8 @@
     "name": "DIYAH UTAMI",
     "stock": 4,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-12-17T11:40:43.820Z"
+    "isAlive": false,
+    "lastUpdate": "2024-12-17T11:44:39.480Z"
   },
   {
     "name": "SALMAH",
@@ -540,10 +540,10 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 16,
+    "stock": 14,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-17T11:41:02.463Z"
+    "lastUpdate": "2024-12-17T11:44:40.727Z"
   },
   {
     "name": "TOKO POJOK-DISABLE",
