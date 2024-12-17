@@ -106,10 +106,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 10,
-    "isTokenValid": true,
+    "stock": 0,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-12-17T09:24:54.451Z"
+    "lastUpdate": "2024-12-17T09:29:23.918Z"
   },
   {
     "name": "TK. MAJU",
@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 3,
+    "stock": 1,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-17T09:25:28.186Z"
+    "lastUpdate": "2024-12-17T09:29:27.822Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 67,
+    "stock": 64,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-17T09:25:53.943Z"
+    "lastUpdate": "2024-12-17T09:29:46.976Z"
   },
   {
     "name": "UD RAHMAT",
@@ -162,10 +162,10 @@
   },
   {
     "name": "HJ LILIK LAILIYAH",
-    "stock": 47,
+    "stock": 41,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-17T09:26:28.807Z"
+    "lastUpdate": "2024-12-17T09:30:10.342Z"
   },
   {
     "name": "ERNA PUJIATI",
@@ -267,10 +267,10 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 21,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-17T09:26:58.149Z"
+    "lastUpdate": "2024-12-17T09:30:35.034Z"
   },
   {
     "name": "YUDA",
@@ -309,10 +309,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 18,
+    "stock": 16,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-17T09:27:19.916Z"
+    "lastUpdate": "2024-12-17T09:30:59.565Z"
   },
   {
     "name": "ISTIQOMAH",
