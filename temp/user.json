@@ -200,7 +200,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-18T10:54:20.427Z"
+    "lastUpdate": "2024-12-18T11:09:21.611Z"
   },
   {
     "name": "EVI DIANA SARI",
@@ -463,10 +463,10 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 8,
+    "stock": 6,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-12-18T10:54:53.297Z"
+    "isAlive": true,
+    "lastUpdate": "2024-12-18T11:09:22.364Z"
   },
   {
     "name": "SUSILO",
