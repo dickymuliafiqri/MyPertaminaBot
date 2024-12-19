@@ -136,8 +136,8 @@
     "name": "TOKO POJOK",
     "stock": 3,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-12-19T07:34:31.635Z"
+    "isAlive": false,
+    "lastUpdate": "2024-12-19T07:39:20.799Z"
   },
   {
     "name": "UD RAHMAT",
@@ -456,10 +456,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 5,
+    "stock": 3,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-19T07:35:24.592Z"
+    "lastUpdate": "2024-12-19T07:39:22.084Z"
   },
   {
     "name": "YULI SORAYA",
