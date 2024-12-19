@@ -190,10 +190,10 @@
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 44,
+    "stock": 41,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-19T09:24:22.141Z"
+    "lastUpdate": "2024-12-19T09:29:21.464Z"
   },
   {
     "name": "JONI H",
@@ -428,10 +428,10 @@
   },
   {
     "name": "WIKAN K",
-    "stock": 29,
+    "stock": 26,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-19T09:24:50.248Z"
+    "lastUpdate": "2024-12-19T09:29:48.555Z"
   },
   {
     "name": "TUSOK",
@@ -505,10 +505,10 @@
   },
   {
     "name": "SALMAH",
-    "stock": 33,
+    "stock": 30,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-19T09:25:16.941Z"
+    "lastUpdate": "2024-12-19T09:30:14.852Z"
   },
   {
     "name": "TOKO ANITA",
@@ -528,8 +528,8 @@
     "name": "UD SAMAN HADI",
     "stock": 19,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-12-19T09:25:43.272Z"
+    "isAlive": false,
+    "lastUpdate": "2024-12-19T09:30:41.625Z"
   },
   {
     "name": "SOEKAMTO",
