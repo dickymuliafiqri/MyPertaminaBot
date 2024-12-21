@@ -1,73 +1,73 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 22,
+    "stock": 15,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-12-21T03:04:17.598Z"
+    "isAlive": true,
+    "lastUpdate": "2024-12-21T03:29:35.825Z"
   },
   {
     "name": "AKBAR RISQ",
-    "stock": 45,
+    "stock": 43,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-12-21T03:09:21.404Z"
+    "isAlive": false,
+    "lastUpdate": "2024-12-21T03:29:53.458Z"
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 54,
+    "stock": 50,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-21T03:09:50.809Z"
+    "lastUpdate": "2024-12-21T03:29:54.501Z"
   },
   {
     "name": "ATHI HANDAYANI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-21T03:10:19.977Z"
+    "lastUpdate": "2024-12-21T03:30:24.550Z"
   },
   {
     "name": "CINDRAWATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-21T03:10:20.624Z"
+    "lastUpdate": "2024-12-21T03:30:25.187Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-12-21T03:10:21.310Z"
+    "lastUpdate": "2024-12-21T03:30:26.052Z"
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 59,
+    "stock": 55,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-21T03:10:22.360Z"
+    "lastUpdate": "2024-12-21T03:30:27.202Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 47,
+    "stock": 40,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-21T03:10:51.244Z"
+    "lastUpdate": "2024-12-21T03:30:52.410Z"
   },
   {
     "name": "SUCIYONO",
-    "stock": 68,
-    "isTokenValid": true,
+    "stock": 0,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-12-21T03:11:19.759Z"
+    "lastUpdate": "2024-12-21T03:31:16.479Z"
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 49,
+    "stock": 44,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-21T03:11:48.632Z"
+    "lastUpdate": "2024-12-21T03:31:17.527Z"
   },
   {
     "name": "JAENAL",
