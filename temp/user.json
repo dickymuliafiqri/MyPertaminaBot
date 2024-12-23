@@ -127,24 +127,24 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 3,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-23T09:54:40.382Z"
+    "lastUpdate": "2024-12-23T09:59:21.039Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 39,
+    "stock": 36,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-23T09:54:59.301Z"
+    "lastUpdate": "2024-12-23T09:59:39.866Z"
   },
   {
     "name": "UD RAHMAT",
-    "stock": 12,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-23T09:55:32.989Z"
+    "lastUpdate": "2024-12-23T10:00:09.445Z"
   },
   {
     "name": "SUPARMAN",
@@ -281,10 +281,10 @@
   },
   {
     "name": "SRI UTAMI",
-    "stock": 3,
+    "stock": 1,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-23T09:56:08.484Z"
+    "lastUpdate": "2024-12-23T10:00:28.351Z"
   },
   {
     "name": "ULFA MARIA",
@@ -368,7 +368,7 @@
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-12-23T09:50:07.951Z"
+    "lastUpdate": "2024-12-23T10:00:46.329Z"
   },
   {
     "name": "YOGA RAJAN",
@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 49,
+    "stock": 46,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-23T09:56:38.588Z"
+    "lastUpdate": "2024-12-23T10:00:47.161Z"
   },
   {
     "name": "MOH HAFIF",
