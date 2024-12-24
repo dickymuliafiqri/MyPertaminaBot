@@ -50,10 +50,10 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-24T02:09:27.344Z"
+    "lastUpdate": "2024-12-24T02:14:18.518Z"
   },
   {
     "name": "SUCIYONO",
@@ -64,31 +64,31 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 15,
+    "stock": 13,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-24T02:09:51.167Z"
+    "lastUpdate": "2024-12-24T02:14:40.069Z"
   },
   {
     "name": "JAENAL",
-    "stock": 43,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-12-24T02:10:12.465Z"
-  },
-  {
-    "name": "JOKO SUWARNO",
     "stock": 40,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-24T02:10:44.284Z"
+    "lastUpdate": "2024-12-24T02:15:00.925Z"
+  },
+  {
+    "name": "JOKO SUWARNO",
+    "stock": 37,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2024-12-24T02:15:30.973Z"
   },
   {
     "name": "KARSONO",
-    "stock": 60,
+    "stock": 57,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-24T02:11:16.652Z"
+    "lastUpdate": "2024-12-24T02:16:02.863Z"
   },
   {
     "name": "LUTFI A.",
