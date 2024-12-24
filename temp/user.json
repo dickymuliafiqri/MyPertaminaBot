@@ -395,8 +395,8 @@
     "name": "TOKO SURYATI",
     "stock": 19,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-12-24T11:20:13.999Z"
+    "isAlive": false,
+    "lastUpdate": "2024-12-24T11:24:24.116Z"
   },
   {
     "name": "MOH HAFIF",
@@ -501,14 +501,14 @@
     "stock": 3,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-24T11:20:52.988Z"
+    "lastUpdate": "2024-12-24T11:24:25.199Z"
   },
   {
     "name": "SALMAH",
     "stock": 38,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-24T11:21:20.056Z"
+    "lastUpdate": "2024-12-24T11:24:53.753Z"
   },
   {
     "name": "TOKO ANITA",
