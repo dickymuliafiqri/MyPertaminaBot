@@ -360,8 +360,8 @@
     "name": "SUPARNI",
     "stock": 11,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-12-26T10:00:12.097Z"
+    "isAlive": false,
+    "lastUpdate": "2024-12-26T10:04:21.080Z"
   },
   {
     "name": "H. JUMAT",
@@ -375,7 +375,7 @@
     "stock": 1,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-26T10:00:47.612Z"
+    "lastUpdate": "2024-12-26T10:04:22.424Z"
   },
   {
     "name": "HARSININGSIH",
@@ -396,7 +396,7 @@
     "stock": 36,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-26T10:01:23.840Z"
+    "lastUpdate": "2024-12-26T10:04:53.961Z"
   },
   {
     "name": "MOH HAFIF",
@@ -414,10 +414,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 20,
+    "stock": 18,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-26T10:02:06.697Z"
+    "lastUpdate": "2024-12-26T10:05:34.732Z"
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -449,10 +449,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 23,
+    "stock": 19,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-26T10:02:41.649Z"
+    "lastUpdate": "2024-12-26T10:06:01.142Z"
   },
   {
     "name": "BUDI",
