@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 15,
+    "stock": 13,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-27T07:44:57.194Z"
+    "lastUpdate": "2024-12-27T07:49:21.428Z"
   },
   {
     "name": "TOKO POJOK",
     "stock": 32,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-12-27T07:45:11.771Z"
+    "isAlive": false,
+    "lastUpdate": "2024-12-27T07:49:34.364Z"
   },
   {
     "name": "UD RAHMAT",
@@ -393,59 +393,59 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 35,
+    "stock": 32,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-27T07:46:10.923Z"
+    "lastUpdate": "2024-12-27T07:49:35.723Z"
   },
   {
     "name": "MOH HAFIF",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-27T07:25:28.647Z"
+    "lastUpdate": "2024-12-27T07:49:51.447Z"
   },
   {
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-27T07:25:29.389Z"
+    "lastUpdate": "2024-12-27T07:49:52.235Z"
   },
   {
     "name": "SUDJIONO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-27T07:25:30.171Z"
+    "lastUpdate": "2024-12-27T07:49:52.984Z"
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 16,
+    "stock": 14,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-27T07:25:30.975Z"
+    "lastUpdate": "2024-12-27T07:49:53.789Z"
   },
   {
     "name": "WIKAN K",
-    "stock": 0,
+    "stock": 21,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-26T20:55:27.382Z"
+    "lastUpdate": "2024-12-27T07:50:05.214Z"
   },
   {
     "name": "TUSOK",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-26T20:55:28.135Z"
+    "lastUpdate": "2024-12-27T07:50:20.846Z"
   },
   {
     "name": "MISRI CICI",
-    "stock": 0,
+    "stock": 8,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-26T20:55:28.892Z"
+    "lastUpdate": "2024-12-27T07:50:21.624Z"
   },
   {
     "name": "HERDIANA DIYAH S",
