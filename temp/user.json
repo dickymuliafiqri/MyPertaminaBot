@@ -541,9 +541,9 @@
   {
     "name": "TOKO TIARA",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-12-28T15:09:21.659Z"
+    "lastUpdate": "2024-12-28T15:24:21.006Z"
   },
   {
     "name": "TOKO POJOK-DISABLE",
