@@ -449,10 +449,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 4,
+    "stock": 2,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-30T08:05:27.629Z"
+    "lastUpdate": "2024-12-30T08:09:17.917Z"
   },
   {
     "name": "BUDI",
@@ -484,10 +484,10 @@
   },
   {
     "name": "IMA",
-    "stock": 11,
+    "stock": 9,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-30T08:05:44.067Z"
+    "lastUpdate": "2024-12-30T08:09:33.544Z"
   },
   {
     "name": "DARMAWAN P",
@@ -535,8 +535,8 @@
     "name": "SOEKAMTO",
     "stock": 11,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-12-30T08:05:58.470Z"
+    "isAlive": false,
+    "lastUpdate": "2024-12-30T08:09:49.491Z"
   },
   {
     "name": "TOKO TIARA",
