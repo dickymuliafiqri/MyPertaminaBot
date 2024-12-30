@@ -113,31 +113,31 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 10,
+    "stock": 8,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-30T05:34:41.357Z"
+    "lastUpdate": "2024-12-30T05:39:22.304Z"
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2024-12-30T05:29:35.200Z"
+    "isAlive": true,
+    "lastUpdate": "2024-12-30T05:39:39.948Z"
   },
   {
     "name": "TOKO IIN",
-    "stock": 16,
+    "stock": 14,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-30T05:34:56.462Z"
+    "lastUpdate": "2024-12-30T05:39:56.507Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 65,
+    "stock": 62,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-30T05:35:11.584Z"
+    "lastUpdate": "2024-12-30T05:40:11.693Z"
   },
   {
     "name": "UD RAHMAT",
@@ -169,10 +169,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 17,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-30T05:35:34.155Z"
+    "lastUpdate": "2024-12-30T05:40:33.132Z"
   },
   {
     "name": "P. SUK",
