@@ -134,17 +134,17 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 18,
+    "stock": 16,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-30T07:09:49.319Z"
+    "lastUpdate": "2024-12-30T07:14:18.900Z"
   },
   {
     "name": "UD RAHMAT",
-    "stock": 14,
+    "stock": 11,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-30T07:10:06.064Z"
+    "lastUpdate": "2024-12-30T07:14:31.721Z"
   },
   {
     "name": "SUPARMAN",
@@ -323,10 +323,10 @@
   },
   {
     "name": "SUROSO",
-    "stock": 12,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-30T07:10:41.618Z"
+    "lastUpdate": "2024-12-30T07:14:46.236Z"
   },
   {
     "name": "HADI SUTOYO",
@@ -367,8 +367,8 @@
     "name": "H. JUMAT",
     "stock": 16,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-12-30T07:10:58.436Z"
+    "isAlive": false,
+    "lastUpdate": "2024-12-30T07:15:00.516Z"
   },
   {
     "name": "YOGA RAJAN",
@@ -449,31 +449,31 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 21,
+    "stock": 18,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-30T07:11:12.130Z"
+    "lastUpdate": "2024-12-30T07:15:01.746Z"
   },
   {
     "name": "BUDI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-29T21:09:21.145Z"
+    "lastUpdate": "2024-12-30T07:15:19.635Z"
   },
   {
     "name": "YULI SORAYA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-29T21:09:22.047Z"
+    "lastUpdate": "2024-12-30T07:15:20.438Z"
   },
   {
     "name": "SUSILO",
-    "stock": 19,
+    "stock": 14,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-29T21:09:22.960Z"
+    "lastUpdate": "2024-12-30T07:15:21.165Z"
   },
   {
     "name": "HJ. HAERONI",
