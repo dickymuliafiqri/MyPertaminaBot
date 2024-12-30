@@ -113,10 +113,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 3,
+    "stock": 1,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-30T05:49:56.205Z"
+    "lastUpdate": "2024-12-30T05:54:22.671Z"
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -127,24 +127,24 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 10,
+    "stock": 7,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-30T05:50:12.845Z"
+    "lastUpdate": "2024-12-30T05:54:38.200Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 56,
+    "stock": 53,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-30T05:50:28.502Z"
+    "lastUpdate": "2024-12-30T05:54:51.606Z"
   },
   {
     "name": "UD RAHMAT",
-    "stock": 54,
+    "stock": 51,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-30T05:50:50.750Z"
+    "lastUpdate": "2024-12-30T05:55:10.520Z"
   },
   {
     "name": "SUPARMAN",
@@ -193,42 +193,42 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-30T05:45:26.320Z"
+    "lastUpdate": "2024-12-30T05:55:29.598Z"
   },
   {
     "name": "JONI H",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-12-30T05:45:27.365Z"
+    "lastUpdate": "2024-12-30T05:55:30.346Z"
   },
   {
     "name": "EVI DIANA SARI",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-12-30T05:45:28.162Z"
+    "lastUpdate": "2024-12-30T05:55:31.112Z"
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-30T05:45:29.055Z"
+    "lastUpdate": "2024-12-30T05:55:31.879Z"
   },
   {
     "name": "TK MUSTAPA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-30T05:45:29.862Z"
+    "lastUpdate": "2024-12-30T05:55:32.638Z"
   },
   {
     "name": "YUNIS WAHYUNI",
-    "stock": 15,
+    "stock": 12,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-30T05:51:15.355Z"
+    "lastUpdate": "2024-12-30T05:55:33.424Z"
   },
   {
     "name": "ROSA V",
