@@ -116,7 +116,7 @@
     "stock": 2,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-31T08:44:22.362Z"
+    "lastUpdate": "2024-12-31T08:49:18.012Z"
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -129,15 +129,15 @@
     "name": "TOKO IIN",
     "stock": 27,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-12-31T08:44:47.632Z"
+    "isAlive": false,
+    "lastUpdate": "2024-12-31T08:49:42.775Z"
   },
   {
     "name": "TOKO POJOK",
     "stock": 53,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-31T08:45:15.031Z"
+    "lastUpdate": "2024-12-31T08:49:44.000Z"
   },
   {
     "name": "UD RAHMAT",
@@ -239,10 +239,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 59,
+    "stock": 57,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-31T08:45:41.068Z"
+    "lastUpdate": "2024-12-31T08:50:11.125Z"
   },
   {
     "name": "BISTON MANURUNG",
@@ -284,7 +284,7 @@
     "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-31T08:46:07.340Z"
+    "lastUpdate": "2024-12-31T08:50:37.088Z"
   },
   {
     "name": "ULFA MARIA",
@@ -396,7 +396,7 @@
     "stock": 16,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-31T08:46:29.384Z"
+    "lastUpdate": "2024-12-31T08:50:59.041Z"
   },
   {
     "name": "MOH HAFIF",
@@ -536,7 +536,7 @@
     "stock": 14,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-31T08:46:51.066Z"
+    "lastUpdate": "2024-12-31T08:51:22.936Z"
   },
   {
     "name": "TOKO TIARA",
