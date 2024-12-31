@@ -4,7 +4,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-31T09:34:19.266Z"
+    "lastUpdate": "2024-12-31T09:44:21.683Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 21,
+    "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-31T09:39:40.732Z"
+    "lastUpdate": "2024-12-31T09:44:23.516Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 49,
+    "stock": 48,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-31T09:40:08.905Z"
+    "lastUpdate": "2024-12-31T09:44:49.471Z"
   },
   {
     "name": "UD RAHMAT",
@@ -284,14 +284,14 @@
     "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-31T09:40:51.466Z"
+    "lastUpdate": "2024-12-31T09:45:13.538Z"
   },
   {
     "name": "ULFA MARIA",
     "stock": 14,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2024-12-31T09:41:07.707Z"
+    "isAlive": false,
+    "lastUpdate": "2024-12-31T09:45:33.321Z"
   },
   {
     "name": "BAMBANG HARTONO",
