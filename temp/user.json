@@ -1,80 +1,80 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 1830,
+    "stock": 1826,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-01T13:59:19.622Z"
+    "lastUpdate": "2025-01-01T14:04:18.390Z"
   },
   {
     "name": "AKBAR RISQ",
-    "stock": 1711,
+    "stock": 1708,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-01T13:59:35.393Z"
+    "lastUpdate": "2025-01-01T14:04:35.273Z"
   },
   {
     "name": "ALFIAN DWI A.",
     "stock": 1840,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-01-01T13:59:50.491Z"
+    "isAlive": false,
+    "lastUpdate": "2025-01-01T14:04:51.503Z"
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 132,
+    "stock": 129,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-01T14:00:05.220Z"
+    "lastUpdate": "2025-01-01T14:04:52.799Z"
   },
   {
     "name": "CINDRAWATI",
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-01-01T13:50:34.970Z"
+    "lastUpdate": "2025-01-01T14:05:09.029Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-01-01T13:50:35.669Z"
+    "lastUpdate": "2025-01-01T14:05:09.752Z"
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 2356,
+    "stock": 2353,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-01T14:00:19.926Z"
+    "lastUpdate": "2025-01-01T14:05:10.625Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 2063,
-    "isTokenValid": true,
+    "stock": 0,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-01-01T12:15:27.340Z"
+    "lastUpdate": "2025-01-01T14:05:27.439Z"
   },
   {
     "name": "SUCIYONO",
-    "stock": 2474,
-    "isTokenValid": true,
+    "stock": 0,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-01-01T02:35:14.611Z"
+    "lastUpdate": "2025-01-01T14:05:28.713Z"
   },
   {
     "name": "SUMBER REJEKI",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2024-12-31T16:59:26.825Z"
+    "lastUpdate": "2025-01-01T14:05:29.519Z"
   },
   {
     "name": "JAENAL",
-    "stock": 0,
+    "stock": 2477,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-31T16:59:27.500Z"
+    "lastUpdate": "2025-01-01T14:05:30.197Z"
   },
   {
     "name": "JOKO SUWARNO",
