@@ -203,8 +203,11 @@ async function sheetTransaction(
     if (user) {
       // 10 minutes differences
       if (Math.abs(new Date(user.lastUpdate).getTime() - new Date().getTime()) < 10 * 60 * 1000) {
-        if (user.stock <= 0 || !user.isTokenValid) {
-          console.log("[-] Out of stock or token invalid!");
+        if (!user.isTokenValid) {
+          console.log("[-] Token invalid!");
+          continue;
+        } else if (user.stock <= 0 || user.stock >= 500) {
+          console.log("[-] Stock invalid!");
           continue;
         } else if (user.isAlive != undefined && !user.isAlive) {
           console.log("[-] No active NIK found!");
