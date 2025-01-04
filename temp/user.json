@@ -393,38 +393,38 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 91,
+    "stock": 88,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T17:56:47.044Z"
+    "lastUpdate": "2025-01-04T18:01:26.392Z"
   },
   {
     "name": "MOH HAFIF",
-    "stock": 7,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T17:57:06.071Z"
+    "lastUpdate": "2025-01-04T18:01:47.716Z"
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 3,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T17:57:18.393Z"
+    "lastUpdate": "2025-01-04T18:02:01.048Z"
   },
   {
     "name": "SUDJIONO",
-    "stock": 14,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-01-04T17:57:31.491Z"
-  },
-  {
-    "name": "SAMSUL ARIFIN",
     "stock": 12,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T17:57:45.180Z"
+    "lastUpdate": "2025-01-04T18:02:14.498Z"
+  },
+  {
+    "name": "SAMSUL ARIFIN",
+    "stock": 10,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2025-01-04T18:02:28.615Z"
   },
   {
     "name": "WIKAN K",
