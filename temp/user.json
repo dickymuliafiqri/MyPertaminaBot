@@ -1,108 +1,108 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 143,
+    "stock": 140,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-01-04T09:16:27.707Z"
+    "isAlive": true,
+    "lastUpdate": "2025-01-04T09:26:31.283Z"
   },
   {
     "name": "AKBAR RISQ",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T09:16:30.580Z"
+    "lastUpdate": "2025-01-04T09:26:52.242Z"
   },
   {
     "name": "ALFIAN DWI A.",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T09:16:31.663Z"
+    "lastUpdate": "2025-01-04T09:26:53.113Z"
   },
   {
     "name": "ATHI HANDAYANI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T09:16:33.111Z"
+    "lastUpdate": "2025-01-04T09:26:54.125Z"
   },
   {
     "name": "CINDRAWATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T09:16:34.190Z"
+    "lastUpdate": "2025-01-04T09:26:54.950Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T09:16:35.223Z"
+    "lastUpdate": "2025-01-04T09:26:55.717Z"
   },
   {
     "name": "BINA MAKMUR",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T09:16:36.541Z"
+    "lastUpdate": "2025-01-04T09:26:56.792Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T09:16:38.057Z"
+    "lastUpdate": "2025-01-04T09:26:57.835Z"
   },
   {
     "name": "SUCIYONO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T09:16:39.355Z"
+    "lastUpdate": "2025-01-04T09:26:58.838Z"
   },
   {
     "name": "SUMBER REJEKI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T09:16:40.395Z"
+    "lastUpdate": "2025-01-04T09:26:59.676Z"
   },
   {
     "name": "JAENAL",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T09:16:41.308Z"
+    "lastUpdate": "2025-01-04T09:27:00.342Z"
   },
   {
     "name": "JOKO SUWARNO",
     "stock": 7,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-01-04T09:21:33.698Z"
+    "isAlive": false,
+    "lastUpdate": "2025-01-04T09:27:01.480Z"
   },
   {
     "name": "KARSONO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T09:16:59.404Z"
+    "lastUpdate": "2025-01-04T09:27:02.678Z"
   },
   {
     "name": "LUTFI A.",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T09:17:02.377Z"
+    "lastUpdate": "2025-01-04T09:27:05.255Z"
   },
   {
     "name": "MOH SAID",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T09:17:03.574Z"
+    "lastUpdate": "2025-01-04T09:27:06.389Z"
   },
   {
     "name": "TITIK ISMIATIN",
@@ -113,10 +113,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 6,
+    "stock": 4,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T09:21:49.568Z"
+    "lastUpdate": "2025-01-04T09:27:09.181Z"
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -127,10 +127,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 73,
+    "stock": 70,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T09:22:05.422Z"
+    "lastUpdate": "2025-01-04T09:27:25.711Z"
   },
   {
     "name": "TOKO POJOK",
@@ -162,10 +162,10 @@
   },
   {
     "name": "HJ LILIK LAILIYAH",
-    "stock": 10,
+    "stock": 8,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T09:22:26.347Z"
+    "lastUpdate": "2025-01-04T09:27:46.170Z"
   },
   {
     "name": "ERNA PUJIATI",
@@ -183,10 +183,10 @@
   },
   {
     "name": "H. BAMBANG S",
-    "stock": 8,
+    "stock": 6,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T09:22:39.996Z"
+    "lastUpdate": "2025-01-04T09:27:59.585Z"
   },
   {
     "name": "ANDRI HERU CAHYONO",
