@@ -1,94 +1,94 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 13,
+    "stock": 11,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T13:06:32.594Z"
+    "lastUpdate": "2025-01-04T13:11:28.430Z"
   },
   {
     "name": "AKBAR RISQ",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T13:01:39.165Z"
+    "lastUpdate": "2025-01-04T13:11:41.190Z"
   },
   {
     "name": "ALFIAN DWI A.",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T13:01:39.919Z"
+    "lastUpdate": "2025-01-04T13:11:41.896Z"
   },
   {
     "name": "ATHI HANDAYANI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T13:01:40.784Z"
+    "lastUpdate": "2025-01-04T13:11:42.718Z"
   },
   {
     "name": "CINDRAWATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T13:01:41.512Z"
+    "lastUpdate": "2025-01-04T13:11:43.470Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T13:01:42.191Z"
+    "lastUpdate": "2025-01-04T13:11:44.099Z"
   },
   {
     "name": "BINA MAKMUR",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T13:01:43.024Z"
+    "lastUpdate": "2025-01-04T13:11:44.924Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T13:01:43.921Z"
+    "lastUpdate": "2025-01-04T13:11:45.838Z"
   },
   {
     "name": "SUCIYONO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T13:01:44.817Z"
+    "lastUpdate": "2025-01-04T13:11:46.722Z"
   },
   {
     "name": "SUMBER REJEKI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T13:01:45.551Z"
+    "lastUpdate": "2025-01-04T13:11:47.417Z"
   },
   {
     "name": "JAENAL",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T13:01:46.185Z"
+    "lastUpdate": "2025-01-04T13:11:48.006Z"
   },
   {
     "name": "JOKO SUWARNO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T13:01:46.919Z"
+    "lastUpdate": "2025-01-04T13:11:48.720Z"
   },
   {
     "name": "KARSONO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T13:01:47.688Z"
+    "lastUpdate": "2025-01-04T13:11:49.455Z"
   },
   {
     "name": "LUTFI A.",
@@ -190,10 +190,10 @@
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 12,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T13:06:44.567Z"
+    "lastUpdate": "2025-01-04T13:11:50.125Z"
   },
   {
     "name": "JONI H",
@@ -246,17 +246,17 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 9,
+    "stock": 6,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T13:06:56.423Z"
+    "lastUpdate": "2025-01-04T13:12:02.115Z"
   },
   {
     "name": "ROSIDI",
-    "stock": 13,
+    "stock": 11,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T13:07:07.967Z"
+    "lastUpdate": "2025-01-04T13:12:13.540Z"
   },
   {
     "name": "ALPAN SANYOTO",
@@ -277,35 +277,35 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T12:57:21.947Z"
+    "lastUpdate": "2025-01-04T13:12:24.806Z"
   },
   {
     "name": "SRI UTAMI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T12:57:22.690Z"
+    "lastUpdate": "2025-01-04T13:12:25.432Z"
   },
   {
     "name": "ULFA MARIA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T12:57:23.437Z"
+    "lastUpdate": "2025-01-04T13:12:26.067Z"
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 56,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-01-04T13:07:19.330Z"
+    "isAlive": false,
+    "lastUpdate": "2025-01-04T13:12:26.720Z"
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 0,
+    "stock": 17,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2024-12-31T16:59:57.136Z"
+    "lastUpdate": "2025-01-04T13:12:27.630Z"
   },
   {
     "name": "NADIFATUS SOLEHA",
