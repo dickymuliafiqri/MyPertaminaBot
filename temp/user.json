@@ -295,38 +295,38 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 19,
+    "stock": 17,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T14:26:26.296Z"
+    "lastUpdate": "2025-01-04T14:31:26.962Z"
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 3,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T14:26:42.575Z"
+    "lastUpdate": "2025-01-04T14:31:38.591Z"
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 18,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-01-04T14:26:53.631Z"
-  },
-  {
-    "name": "ISTIQOMAH",
-    "stock": 4,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-01-04T14:27:04.719Z"
-  },
-  {
-    "name": "SUROSO",
     "stock": 16,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-04T14:27:15.598Z"
+    "lastUpdate": "2025-01-04T14:31:50.003Z"
+  },
+  {
+    "name": "ISTIQOMAH",
+    "stock": 2,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2025-01-04T14:32:01.065Z"
+  },
+  {
+    "name": "SUROSO",
+    "stock": 14,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2025-01-04T14:32:12.296Z"
   },
   {
     "name": "HADI SUTOYO",
