@@ -1,10 +1,10 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 8,
+    "stock": 6,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-08T03:16:26.568Z"
+    "lastUpdate": "2025-01-08T03:21:27.104Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -23,51 +23,51 @@
   {
     "name": "ATHI HANDAYANI",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-01-08T03:07:02.232Z"
+    "lastUpdate": "2025-01-08T03:21:41.772Z"
   },
   {
     "name": "CINDRAWATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-08T03:07:03.109Z"
+    "lastUpdate": "2025-01-08T03:21:42.553Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-08T03:07:04.166Z"
+    "lastUpdate": "2025-01-08T03:21:43.353Z"
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 50,
+    "stock": 47,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-08T03:16:44.410Z"
+    "lastUpdate": "2025-01-08T03:21:44.610Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 55,
+    "stock": 52,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-08T03:17:05.009Z"
+    "lastUpdate": "2025-01-08T03:22:06.113Z"
   },
   {
     "name": "SUCIYONO",
-    "stock": 149,
+    "stock": 146,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-08T03:17:23.969Z"
+    "lastUpdate": "2025-01-08T03:22:26.803Z"
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 139,
+    "stock": 136,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-08T03:17:42.962Z"
+    "lastUpdate": "2025-01-08T03:22:47.806Z"
   },
   {
     "name": "JAENAL",
