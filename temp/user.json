@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 4,
+    "stock": 2,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T09:06:48.540Z"
+    "lastUpdate": "2025-01-09T09:11:27.371Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 52,
+    "stock": 49,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T09:07:03.941Z"
+    "lastUpdate": "2025-01-09T09:11:43.350Z"
   },
   {
     "name": "UD RAHMAT",
@@ -169,10 +169,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 2,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T09:07:28.726Z"
+    "lastUpdate": "2025-01-09T09:12:04.293Z"
   },
   {
     "name": "P. SUK",
@@ -246,10 +246,10 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 2,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T09:07:43.768Z"
+    "lastUpdate": "2025-01-09T09:12:19.008Z"
   },
   {
     "name": "ROSIDI",
@@ -372,10 +372,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 14,
+    "stock": 11,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-01-09T08:57:27.176Z"
+    "isAlive": true,
+    "lastUpdate": "2025-01-09T09:12:37.812Z"
   },
   {
     "name": "HARSININGSIH",
