@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 4,
+    "stock": 2,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T10:31:25.490Z"
+    "lastUpdate": "2025-01-09T10:36:34.091Z"
   },
   {
     "name": "UD RAHMAT",
@@ -172,7 +172,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T10:21:42.039Z"
+    "lastUpdate": "2025-01-09T10:36:50.001Z"
   },
   {
     "name": "P. SUK",
@@ -249,7 +249,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T10:21:42.849Z"
+    "lastUpdate": "2025-01-09T10:36:50.808Z"
   },
   {
     "name": "ROSIDI",
@@ -375,7 +375,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T10:21:43.661Z"
+    "lastUpdate": "2025-01-09T10:36:51.534Z"
   },
   {
     "name": "HARSININGSIH",
@@ -410,14 +410,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T10:21:44.515Z"
+    "lastUpdate": "2025-01-09T10:36:52.270Z"
   },
   {
     "name": "SUDJIONO",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T10:31:40.216Z"
+    "lastUpdate": "2025-01-09T10:36:52.999Z"
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -431,7 +431,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T10:22:02.422Z"
+    "lastUpdate": "2025-01-09T10:37:07.228Z"
   },
   {
     "name": "TUSOK",
@@ -458,8 +458,8 @@
     "name": "BUDI",
     "stock": 10,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-01-09T10:31:54.414Z"
+    "isAlive": false,
+    "lastUpdate": "2025-01-09T10:37:08.052Z"
   },
   {
     "name": "YULI SORAYA",
