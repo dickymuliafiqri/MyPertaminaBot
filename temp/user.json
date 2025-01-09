@@ -113,10 +113,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 5,
+    "stock": 3,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T08:51:30.854Z"
+    "lastUpdate": "2025-01-09T08:56:26.687Z"
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 10,
+    "stock": 8,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T08:51:48.478Z"
+    "lastUpdate": "2025-01-09T08:56:42.354Z"
   },
   {
     "name": "TOKO POJOK",
     "stock": 55,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-01-09T08:52:05.183Z"
+    "isAlive": false,
+    "lastUpdate": "2025-01-09T08:56:57.359Z"
   },
   {
     "name": "UD RAHMAT",
@@ -169,10 +169,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 8,
+    "stock": 6,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T08:52:34.358Z"
+    "lastUpdate": "2025-01-09T08:56:58.495Z"
   },
   {
     "name": "P. SUK",
@@ -246,10 +246,10 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 9,
+    "stock": 6,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T08:52:49.417Z"
+    "lastUpdate": "2025-01-09T08:57:12.867Z"
   },
   {
     "name": "ROSIDI",
@@ -374,43 +374,43 @@
     "name": "YOGA RAJAN",
     "stock": 14,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-01-09T08:48:15.201Z"
+    "isAlive": false,
+    "lastUpdate": "2025-01-09T08:57:27.176Z"
   },
   {
     "name": "HARSININGSIH",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T08:42:45.400Z"
+    "lastUpdate": "2025-01-09T08:57:28.483Z"
   },
   {
     "name": "ARIF FAUZI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T08:42:46.256Z"
+    "lastUpdate": "2025-01-09T08:57:29.304Z"
   },
   {
     "name": "TOKO SURYATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T08:42:47.259Z"
+    "lastUpdate": "2025-01-09T08:57:30.249Z"
   },
   {
     "name": "MOH HAFIF",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T08:42:48.007Z"
+    "lastUpdate": "2025-01-09T08:57:30.994Z"
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 30,
+    "stock": 26,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T08:42:48.760Z"
+    "lastUpdate": "2025-01-09T08:57:31.758Z"
   },
   {
     "name": "SUDJIONO",
