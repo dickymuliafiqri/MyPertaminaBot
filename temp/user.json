@@ -113,10 +113,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T09:01:45.017Z"
+    "lastUpdate": "2025-01-09T09:06:30.892Z"
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -127,52 +127,52 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 6,
+    "stock": 4,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T09:02:02.843Z"
+    "lastUpdate": "2025-01-09T09:06:48.540Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 55,
+    "stock": 52,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-01-09T08:56:57.359Z"
+    "isAlive": true,
+    "lastUpdate": "2025-01-09T09:07:03.941Z"
   },
   {
     "name": "UD RAHMAT",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T08:52:28.225Z"
+    "lastUpdate": "2025-01-09T09:07:25.793Z"
   },
   {
     "name": "SUPARMAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T08:52:28.973Z"
+    "lastUpdate": "2025-01-09T09:07:26.539Z"
   },
   {
     "name": "DJAMIAH",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T08:52:32.844Z"
+    "lastUpdate": "2025-01-09T09:07:27.254Z"
   },
   {
     "name": "HJ LILIK LAILIYAH",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T08:52:33.639Z"
+    "lastUpdate": "2025-01-09T09:07:27.975Z"
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 4,
+    "stock": 2,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T09:02:17.844Z"
+    "lastUpdate": "2025-01-09T09:07:28.726Z"
   },
   {
     "name": "P. SUK",
@@ -246,10 +246,10 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 4,
+    "stock": 2,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T09:02:40.015Z"
+    "lastUpdate": "2025-01-09T09:07:43.768Z"
   },
   {
     "name": "ROSIDI",
