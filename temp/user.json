@@ -113,10 +113,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 7,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T08:46:44.858Z"
+    "lastUpdate": "2025-01-09T08:51:30.854Z"
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -127,52 +127,52 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 12,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T08:47:01.827Z"
+    "lastUpdate": "2025-01-09T08:51:48.478Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 58,
+    "stock": 55,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T08:47:16.441Z"
+    "lastUpdate": "2025-01-09T08:52:05.183Z"
   },
   {
     "name": "UD RAHMAT",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T08:42:02.444Z"
+    "lastUpdate": "2025-01-09T08:52:28.225Z"
   },
   {
     "name": "SUPARMAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T08:42:03.297Z"
+    "lastUpdate": "2025-01-09T08:52:28.973Z"
   },
   {
     "name": "DJAMIAH",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T08:42:04.078Z"
+    "lastUpdate": "2025-01-09T08:52:32.844Z"
   },
   {
     "name": "HJ LILIK LAILIYAH",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T08:42:04.869Z"
+    "lastUpdate": "2025-01-09T08:52:33.639Z"
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 11,
+    "stock": 8,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-01-09T08:42:05.704Z"
+    "isAlive": true,
+    "lastUpdate": "2025-01-09T08:52:34.358Z"
   },
   {
     "name": "P. SUK",
@@ -246,10 +246,10 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 11,
+    "stock": 9,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-09T08:47:44.809Z"
+    "lastUpdate": "2025-01-09T08:52:49.417Z"
   },
   {
     "name": "ROSIDI",
