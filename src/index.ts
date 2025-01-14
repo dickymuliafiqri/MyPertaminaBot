@@ -203,7 +203,10 @@ async function sheetTransaction(
     if (user) {
       // 10 minutes differences
       if (Math.abs(new Date(user.lastUpdate).getTime() - new Date().getTime()) < 10 * 60 * 1000) {
-        if (user.stock <= 0 || user.stock >= 500) {
+        if (!user.isTokenValid) {
+          console.log("[-] Token invalid!");
+          continue;
+        } else if (user.stock <= 0 || user.stock >= 500) {
           console.log("[-] Stock invalid!");
           continue;
         } else if (user.isAlive != undefined && !user.isAlive) {
@@ -216,17 +219,11 @@ async function sheetTransaction(
     // Proceed user
     await sheet.loadCells();
 
+    const bearer = sheet.getCellByA1("B1").value?.toString() || "";
     const username = sheet.getCellByA1("B2").value?.toString() || "";
     const password = sheet.getCellByA1("B3").value?.toString() || "";
 
-    const pertamina = new Pertamina(username, password);
-
-    // Try to login
-    if ((await pertamina.login()).length < 500) {
-      console.log("[-] Failed to login");
-      continue;
-    }
-
+    const pertamina = new Pertamina(username, password, bearer);
     const isTokenValid = await pertamina.checkToken();
     const stock = await pertamina.checkStock();
 

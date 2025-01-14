@@ -12,13 +12,18 @@ export class Pertamina {
 
   private username: string;
   private password: string;
-  private bearer: string;
   private options: any;
 
-  constructor(username: string, password: string) {
+  constructor(username: string, password: string, bearer: string) {
     this.username = username;
     this.password = password;
-    this.bearer = "";
+
+    this.options = {
+      headers: {
+        Authorization: bearer,
+        "Content-Type": "application/json",
+      },
+    };
   }
 
   async login() {
@@ -65,14 +70,6 @@ export class Pertamina {
     }
 
     await browser.close();
-
-    this.bearer = message;
-    this.options = {
-      headers: {
-        Authorization: this.bearer,
-        "Content-Type": "application/json",
-      },
-    };
 
     return message;
   }
