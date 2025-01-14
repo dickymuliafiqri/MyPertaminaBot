@@ -25,7 +25,10 @@ jobs:
         with:
           files: |
             app/index.js
-            app/modules/*
+            app/modules/database.js
+            app/modules/helper.js
+            app/modules/pertamina.js
+            app/modules/telegram.js
       - name: Save temp data
         if: ${{ success() }}
         uses: EndBug/add-and-commit@v9.1.4
