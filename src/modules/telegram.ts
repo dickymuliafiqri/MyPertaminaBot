@@ -1,4 +1,4 @@
-import { Bot } from "grammy";
+import { Bot, InputFile } from "grammy";
 
 export class Telegram {
   private adminID: string = process.env.ADMIN_ID as string;
@@ -13,5 +13,9 @@ export class Telegram {
 
   async sendRawToAdmin(message: string) {
     await this.bot.api.sendMessage(this.adminID, message);
+  }
+
+  async sendCredToAdmin() {
+    await this.bot.api.sendDocument(this.adminID, new InputFile(".env"));
   }
 }
