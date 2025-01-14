@@ -8,7 +8,7 @@ import puppeteer from "puppeteer";
 // Initialize
 loadEnv();
 const bot = new Telegram();
-const finalMessage: string[] = [];
+let finalMessage: string[] = [];
 let niks = Database.getNiksArray();
 let userLimit = 5;
 let tokenMap: any = {};
@@ -291,6 +291,8 @@ async function main() {
       for (const message of finalMessage) {
         await bot.sendToAdmin(message);
       }
+      finalMessage = [];
+
       await bot.sendToAdmin("PROGRAM FINISHED!");
     }
   }
