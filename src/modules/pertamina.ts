@@ -14,16 +14,9 @@ export class Pertamina {
   private password: string;
   private options: any;
 
-  constructor(username: string, password: string, bearer: string) {
+  constructor(username: string, password: string) {
     this.username = username;
     this.password = password;
-
-    this.options = {
-      headers: {
-        Authorization: bearer,
-        "Content-Type": "application/json",
-      },
-    };
   }
 
   async login() {
@@ -47,7 +40,7 @@ export class Pertamina {
 
     page.on("request", async (request) => {
       const bearer = request.headers()["authorization"];
-      if (bearer?.length >= 500) {
+      if (bearer?.length >= 800) {
         message = bearer;
       }
     });
@@ -65,12 +58,20 @@ export class Pertamina {
     );
 
     for (let i = 0; i < 300; i++) {
-      if (message.length > 500) break;
+      if (message.length > 800) break;
       await sleep(100);
     }
 
     await browser.close();
 
+    this.options = {
+      headers: {
+        Authorization: message,
+        "Content-Type": "application/json",
+      },
+    };
+
+    console.log(message);
     return message;
   }
 
