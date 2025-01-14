@@ -22,11 +22,13 @@
     "@types/bun": "latest"
   },
   "dependencies": {
+    "@sparticuz/chromium": "^131.0.1",
     "@types/node": "^22.7.4",
     "axios": "^1.7.7",
     "dotenv": "^16.4.5",
     "google-auth-library": "^9.14.1",
     "google-spreadsheet": "^4.1.4",
-    "grammy": "^1.30.0"
+    "grammy": "^1.30.0",
+    "puppeteer-core": "^24.0.0"
   }
 }

@@ -1,4 +1,6 @@
 import axios from "axios";
+import chromium from "@sparticuz/chromium";
+import puppeteer from "puppeteer-core";
 
 export class Pertamina {
   private linkLogin = "https://pertamina-login.vercel.app";
@@ -10,18 +12,69 @@ export class Pertamina {
 
   private username: string;
   private password: string;
+  private bearer: string;
   private options: any;
 
-  constructor(username: string, password: string, bearer: string) {
+  constructor(username: string, password: string) {
     this.username = username;
     this.password = password;
+    this.bearer = "";
+  }
 
+  async login() {
+    let message = "Login Failed";
+    chromium.setHeadlessMode = true;
+
+    function sleep(ms: number) {
+      return new Promise((resolve) => setTimeout(resolve, ms));
+    }
+
+    console.log(`LOGIN USING ${this.username} | ${this.password}`);
+
+    const browser = await puppeteer.launch({
+      args: chromium.args,
+      defaultViewport: chromium.defaultViewport,
+      executablePath: await chromium.executablePath(),
+      headless: chromium.headless,
+    });
+
+    const page = await browser.newPage();
+
+    page.on("request", async (request) => {
+      const bearer = request.headers()["authorization"];
+      if (bearer?.length >= 500) {
+        message = bearer;
+      }
+    });
+
+    await page.goto("https://subsiditepatlpg.mypertamina.id/merchant/auth/login");
+
+    await page.setViewport({ width: 1080, height: 1024 });
+
+    await page.type("#mantine-r0", this.username);
+    await page.type("#mantine-r1", this.password);
+
+    await sleep(2000);
+    await page.click(
+      "#__next > div.mantine-Container-root.styles_root__3v9Qa.mantine-ceqycu > div.styles_LoginForm__QiuBs > form > div.styles_btnLogin__wsKTT > button"
+    );
+
+    for (let i = 0; i < 300; i++) {
+      if (message.length > 500) break;
+      await sleep(100);
+    }
+
+    await browser.close();
+
+    this.bearer = message;
     this.options = {
       headers: {
-        Authorization: bearer,
+        Authorization: this.bearer,
         "Content-Type": "application/json",
       },
     };
+
+    return message;
   }
 
   async checkToken() {
