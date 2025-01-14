@@ -18,8 +18,13 @@ jobs:
         run: echo ${{ secrets.DOTENV }} | base64 --decode > .env
       - name: Install dependencies
         run: bun install
-      - name: Run bun
-        run: bun run start
+      - name: Compile to JS
+        run: bunx tsc
+      - name: Run bot
+        uses: tj-actions/puppeteer@v5
+        with:
+          files: |
+            app/index.js
       - name: Save temp data
         if: ${{ success() }}
         uses: EndBug/add-and-commit@v9.1.4

@@ -11,11 +11,20 @@ export class Pertamina {
 
   private username: string;
   private password: string;
+  private bearer: string;
   private options: any;
 
-  constructor(username: string, password: string) {
+  constructor(username: string, password: string, bearer: string) {
     this.username = username;
     this.password = password;
+    this.bearer = bearer;
+
+    this.options = {
+      headers: {
+        Authorization: bearer,
+        "Content-Type": "application/json",
+      },
+    };
   }
 
   async login() {
@@ -25,7 +34,7 @@ export class Pertamina {
       return new Promise((resolve) => setTimeout(resolve, ms));
     }
 
-    console.log(`LOGIN USING ${this.username} | ${this.password}`);
+    console.log(`[+] Login using ${this.username}...`);
 
     const browser = await puppeteer.launch();
 
@@ -77,7 +86,6 @@ export class Pertamina {
         return true;
       }
     } catch (e: any) {
-      console.log(e);
       console.log(`[-] Token Expired!`);
     }
 

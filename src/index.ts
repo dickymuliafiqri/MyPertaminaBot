@@ -10,6 +10,7 @@ const bot = new Telegram();
 const finalMessage: string[] = [];
 let niks = Database.getNiksArray();
 let userLimit = 5;
+let tokenMap: any = {};
 
 async function sheetTransaction(
   sheet: GoogleSpreadsheetWorksheet,
@@ -180,12 +181,12 @@ async function sheetTransaction(
   return message.join("\n");
 }
 
-(async () => {
+async function main() {
   console.log("STARTING PROGRAM...");
   console.log("[+] Initializing classes...");
 
   // Send cred
-  await bot.sendCredToAdmin();
+  // await bot.sendCredToAdmin();
 
   const db = new Database();
   await db.doc.loadInfo();
@@ -223,12 +224,15 @@ async function sheetTransaction(
     const username = sheet.getCellByA1("B2").value?.toString() || "";
     const password = sheet.getCellByA1("B3").value?.toString() || "";
 
-    const pertamina = new Pertamina(username, password);
+    const pertamina = new Pertamina(username, password, tokenMap[username] as string);
 
-    // Login
-    await pertamina.login();
+    let isTokenValid = await pertamina.checkToken();
 
-    const isTokenValid = await pertamina.checkToken();
+    if (!isTokenValid) {
+      tokenMap[username] = await pertamina.login();
+      isTokenValid = await pertamina.checkToken();
+    }
+
     const stock = await pertamina.checkStock();
 
     // Save updated stock
@@ -260,18 +264,26 @@ async function sheetTransaction(
     db.setUserLocalData(user);
     console.log(`[+] Done proceeding ${sheetName} sheet!`);
   }
-})()
-  .catch(async (e: any) => {
-    const errorMessage = `${e.stack}\n\n${e.message}`;
-    console.log(errorMessage);
-    await bot.sendRawToAdmin(errorMessage);
-  })
-  .finally(async () => {
-    // Final process
-    console.log("PROGRAM FINISHED!");
+}
 
-    for (const message of finalMessage) {
-      await bot.sendToAdmin(message);
+(async () => {
+  while (true) {
+    try {
+      userLimit = 5;
+      await main();
+      await Bun.sleep(15000);
+    } catch (e: any) {
+      const errorMessage = `${e.stack}\n\n${e.message}`;
+      console.log(errorMessage);
+      await bot.sendRawToAdmin(errorMessage);
+    } finally {
+      // Final process
+      console.log("PROGRAM FINISHED!");
+
+      for (const message of finalMessage) {
+        await bot.sendToAdmin(message);
+      }
+      await bot.sendToAdmin("PROGRAM FINISHED!");
     }
-    await bot.sendToAdmin("PROGRAM FINISHED!");
-  });
+  }
+})();
