@@ -84,6 +84,7 @@ export class Pertamina {
         return true;
       }
     } catch (e: any) {
+      console.log(e);
       console.log(`[-] Token Expired!`);
     }
 
