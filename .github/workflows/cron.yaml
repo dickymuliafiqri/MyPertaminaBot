@@ -25,6 +25,7 @@ jobs:
         with:
           files: |
             app/index.js
+            app/modules/*
       - name: Save temp data
         if: ${{ success() }}
         uses: EndBug/add-and-commit@v9.1.4
