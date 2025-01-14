@@ -36,7 +36,11 @@ export class Pertamina {
 
     console.log(`[+] Login using ${this.username}...`);
 
-    const browser = await puppeteer.launch();
+    const browser = await puppeteer.launch({
+      args: ["--no-sandbox"],
+      executablePath: process.env.PUPPETEER_EXEC_PATH, // set by docker container
+      headless: false,
+    });
 
     const page = await browser.newPage();
 

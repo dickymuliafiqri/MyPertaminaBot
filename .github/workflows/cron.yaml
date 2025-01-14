@@ -18,17 +18,16 @@ jobs:
         run: echo ${{ secrets.DOTENV }} | base64 --decode > .env
       - name: Install dependencies
         run: bun install
+        env:
+          PUPPETEER_SKIP_CHROMIUM_DOWNLOAD: "true"
       - name: Compile to JS
         run: bunx tsc
       - name: Run bot
-        uses: tj-actions/puppeteer@v5
+        uses: mujo-code/puppeteer-headful@18.9.0
+        env:
+          CI: "true"
         with:
-          files: |
-            app/index.js
-            app/modules/database.js
-            app/modules/helper.js
-            app/modules/pertamina.js
-            app/modules/telegram.js
+          args: bun run start
       - name: Save temp data
         if: ${{ success() }}
         uses: EndBug/add-and-commit@v9.1.4
