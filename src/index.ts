@@ -3,6 +3,7 @@ import { Database, UserLocalData } from "./modules/database";
 import { Pertamina } from "./modules/pertamina";
 import { Telegram } from "./modules/telegram";
 import { config as loadEnv } from "dotenv";
+import puppeteer from "puppeteer";
 
 // Initialize
 loadEnv();
@@ -229,7 +230,14 @@ async function main() {
     let isTokenValid = await pertamina.checkToken();
 
     if (!isTokenValid) {
-      tokenMap[username] = await pertamina.login();
+      // Setup browser
+      const browser = await puppeteer.launch({
+        args: ["--no-sandbox"],
+        executablePath: process.env.PUPPETEER_EXEC_PATH, // set by docker container
+        headless: false,
+      });
+
+      tokenMap[username] = await pertamina.login(browser);
       isTokenValid = await pertamina.checkToken();
     }
 

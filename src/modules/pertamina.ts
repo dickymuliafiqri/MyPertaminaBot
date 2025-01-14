@@ -1,5 +1,5 @@
 import axios from "axios";
-import puppeteer from "puppeteer";
+import { Browser } from "puppeteer";
 
 export class Pertamina {
   private linkLogin = "https://pertamina-login.vercel.app";
@@ -27,7 +27,7 @@ export class Pertamina {
     };
   }
 
-  async login() {
+  async login(browser: Browser) {
     let message = "Login Failed";
 
     function sleep(ms: number) {
@@ -35,12 +35,6 @@ export class Pertamina {
     }
 
     console.log(`[+] Login using ${this.username}...`);
-
-    const browser = await puppeteer.launch({
-      args: ["--no-sandbox"],
-      executablePath: "google-chrome", // set by docker container
-      headless: false,
-    });
 
     const page = await browser.newPage();
 
