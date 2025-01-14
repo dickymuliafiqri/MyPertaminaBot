@@ -1,6 +1,5 @@
 import axios from "axios";
-import chromium from "@sparticuz/chromium";
-import puppeteer from "puppeteer-core";
+import puppeteer from "puppeteer";
 
 export class Pertamina {
   private linkLogin = "https://pertamina-login.vercel.app";
@@ -21,7 +20,6 @@ export class Pertamina {
 
   async login() {
     let message = "Login Failed";
-    chromium.setHeadlessMode = true;
 
     function sleep(ms: number) {
       return new Promise((resolve) => setTimeout(resolve, ms));
@@ -29,12 +27,7 @@ export class Pertamina {
 
     console.log(`LOGIN USING ${this.username} | ${this.password}`);
 
-    const browser = await puppeteer.launch({
-      args: chromium.args,
-      defaultViewport: chromium.defaultViewport,
-      executablePath: await chromium.executablePath(),
-      headless: chromium.headless,
-    });
+    const browser = await puppeteer.launch();
 
     const page = await browser.newPage();
 
@@ -71,7 +64,6 @@ export class Pertamina {
       },
     };
 
-    console.log(message);
     return message;
   }
 
