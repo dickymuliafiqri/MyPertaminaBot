@@ -1,115 +1,127 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 142,
+    "token": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlODA4Nzk2Yi1iMzljLTQ3NjItYjVkOS01YWE5ZDQ2OTcxOGYiLCJpYXQiOjE3MzY4NjYzMjUsImV4cCI6MTczNjk1MjcyNSwiYXVkIjoibWVyY2hhbnQiLCJpc3MiOiJtYXAtbGl0ZSJ9.pEXxs31bni3L7g-MPJBIhMp_oG0dRXjaImqdTNMj3_oJRYt32p8U4a3KXabxsD23t2V8-RgICOpeHY48ARyF5wQIbCq3nUAHq7-aZe1BWHYAMgihJ_V7EM1CY1jmpFr_XHeN6610gXyeaCUMftlcijtYdV47uXue2BSwk6cJ9muxtz5urnW8YHF09NJwIqIQp7ahX2lCKNwvL5R3VzG2WkCnkB25cZMRyqKQSaiVKhf861kf_3Eego4OZn9arISXro9PlbXzWthob9Ljp7d1lw83mxN0sKvxFEuHXNfHErYTm_Fx94WKUSEnu3NOL08ONAPPhmRY5_y9iDy5RUwSDpu4C3XTbZo1x-9RtvtBqbpNBxfQ3O9uYGYoKKKTXO0_LHS50uWhorNQ_5FoEAdFfkrn8D2PiX3XMjwRtaVLqo_eUMufcnzBRUjadTPFQl9WI47M2A0J-a7yN23TxA-rePt1SZXT4l_HZi0Pcb91Sd0d8isEXAzqy_m0yh0lLHy0mbONjBZJzyWuDHtEQuLSzIkZoN_puLBNekeRI43Aj_tC0K36BwR0WjYglUgzoMR5aJqzM9P27KV7Gll6Zde8UhtYRJKZNNpC5fIM7u-RfcRZTyKPDN2O6kFXVog0HH8SD1KFEJ6N8yJR9cS9mHISJZIE8f5yNdyHmK-WKhXhwOY",
+    "stock": 26,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-14T13:06:07.069Z"
+    "lastUpdate": "2025-01-14T15:50:11.032Z"
   },
   {
     "name": "AKBAR RISQ",
-    "stock": 179,
+    "token": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyOWJlZWRkZC0zNTAwLTRlMGEtYWIzYS04ZmFlNGY3Y2Y2YTUiLCJpYXQiOjE3MzY4NjYzNTcsImV4cCI6MTczNjk1Mjc1NywiYXVkIjoibWVyY2hhbnQiLCJpc3MiOiJtYXAtbGl0ZSJ9.DpQuWbFgH7otFberodQDpO96iM38aZ5jvdMGE-lyTB8U4_o6bUkf_tsJbjZNEg1pDmwx2jL0dGZ8O37MZ0zHrO7L8tRxursp9TJJR6qSvzqVREqi4ZFHT3dKd_X8WeYN4EyTsi78beS_ti85NTc9wNfkuGve9csy0seb4Cjr1pLvMkx-D2dNiLY4D-uhnv2Iy1B4RmHMxXroTHnwgPh924qv5dWyxEVKjK0V74dXJfLieugREu5m7U-AHMFEAQ4AE19aD7cPenezUintQRNGui6on26H_jQ9ibNuEpturvv6XgppXuiA4Pa-M9BTU0NunvNRq9k0pBph1uwcOxterWYkGxrVprB6njpW6svbGsY364YgQohKjWlVv7mykOzZdudTNHcCe6Cb7-rPsGW9pOmjSoNVatE1mJ2IgFXvWKvCsy59Yc0bkTEMiA5kOk0AuoIS7_vWujflAC8Xkyhzn3sDtkJaoxseH_NF6tbCB857JzMRWVfIaGPIBBwbyEP_pbtmO_iMWjT_9ojYiNKOzkj19boIDbA-CEoCjlxR3BHViaY4pDLLXuAry7HqO8--iE2y7Ekz_5J4XbXz9Xt_gzLGLbGPmziyrB3Ux91Y-jTjJPRI-uw8UIQPmtOgb9CZ7ffLbqn854VO8jXwCTJi9Mh8_hK0wnW9Qj0wTRbS8iQ",
+    "stock": 74,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-01-14T13:02:50.341Z"
+    "isAlive": true,
+    "lastUpdate": "2025-01-14T15:50:42.024Z"
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 216,
+    "token": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjOGI3YjRiNi1iZGE4LTQwZmMtOGViNS1mMTUwZWI1YWYwMDkiLCJpYXQiOjE3MzY4NjYzODksImV4cCI6MTczNjk1Mjc4OSwiYXVkIjoibWVyY2hhbnQiLCJpc3MiOiJtYXAtbGl0ZSJ9.un_n316jZBRXbyEM0n4IkxlGzrEU6yoVrHgfFu8-uJvX-nquSfeyb1RK2G_WogL-D6n5hPYOpJ2YMvZA6mSeH67IBT9TBNKT11C1jAkE0IM305jkbZI3GXgVdXsUL2G2jcohdrV78FRwLQNcbRRzAnwsDOepcXOR5TdApPBRmW-FKhbuIAHQ_Uy6jmZoHzw6KGqCajsIj-xyH_D1yqrRgSEHsV3ae3nXzdSo6y9JkFXKb7OwxjKJZMB2Ice9dK84cf9gR8L2DnyT-3AjWIlV258eE11bI_gnFBicD5huYpPpwmTIGMJHdRxooOAElFp3MUIym_foh6BML_8-98wiWYqjAJ--hxuqMdMf7f2TEec-BVQL23O3SJgMR2UyGokxp1130B6lzDvJb7mGH6JLcLPoBZp1rUmhl32uqREwQEYzraTxql0P9fB7fhazoPcG_ulvTouwgMK9WyzAP4yexUk-X_jgc82_poLvI9v9APoa90THHUUYx4HqartEJw0XQlV47AO6QcO44h__lLjTMA9iIFRbl9veOgms_2z9HUObYhiG-cCohFUp26CEFXuGqdnaS03PD39MnHkRtppob2DKqrXvo-mJyQvmgDVikMxyjZrXjI9wReoOnpWxx5AX_T9oi8Vik56PVLTvUukVrU2G_DLPYjnR0OtoRjdVmoA",
+    "stock": 110,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-14T13:06:48.154Z"
+    "lastUpdate": "2025-01-14T15:51:10.198Z"
   },
   {
     "name": "ATHI HANDAYANI",
+    "token": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiMWZhMmM5NS1jMjJkLTQwYzYtOTVmYS0zN2U3NDJmNGRjODEiLCJpYXQiOjE3MzY4NjY0MjAsImV4cCI6MTczNjk1MjgyMCwiYXVkIjoibWVyY2hhbnQiLCJpc3MiOiJtYXAtbGl0ZSJ9.mAcSriKyw1hCtF-1Wm5v53WXbdH5vwy0Q3dulN1nyC2cR0sbvruQBykNnWfXnTT9ebzS8Mtc3JQE9-PVw7XabFYHK905giGZOCnYO4csFsYwDSBecw7rRIoO3xuSuw6_bII4CCKrvit3HRF6ktK6QBtuLTidGUPJAn6lVXEZ1TR9kfd7KzRdCdVNeVbIkmhFGwLNlu541j9Lc4REm5sA-kMq0JBlGMDBbXd8DD_I8W4ITA2imRYghXSE-A4_x6IaFwrl-PhMrjwAgtMJxnwxCzSbF2j2a1lJPQ7L2rfSAemcxD-sBjlvqrpfyN5OZ2tWjGUzbPJ-ZCxwHuaGJ7-GbDa2nn6xv8LPY3bo-aDi3N1VSHwFcOk28Gq0nCSrjl34lexacDNX2yetimPuoSDbWJp6xay-D2AFMdKvDOZ7gEOkRmeMLVPdc_-p0fwKuIjGoAu49LNYP9M2QPPZj-uYcspp0N86tjRkJ7jCUP9i2-CsCMWZeMh53u-qZ64Rpdh8Kj46S_9wxkTbbwhwLQmqccvnETWCKejbvknyvBMTaWC0jZOKjITNDIJvhiBncN7QDTlytMEzGgiQcCj1bkTGm2VMoVk3_HvAnThQO5Mi2k8Q7H2Ky41uYqO30Q5_Pp9yMxBzUmq_Cm5o-2XdJxR9mGYnFFCQUlmXHBFBPRjJo08",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-14T13:07:25.670Z"
+    "lastUpdate": "2025-01-14T15:51:39.854Z"
   },
   {
     "name": "CINDRAWATI",
+    "token": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlMmVhMzhiNC1mOTU5LTRhNmEtYWU1OS01ZTI2ZGVlNzg3ZjAiLCJpYXQiOjE3MzY4NjY0MjUsImV4cCI6MTczNjk1MjgyNSwiYXVkIjoibWVyY2hhbnQiLCJpc3MiOiJtYXAtbGl0ZSJ9.FUsB_SXCQpslYIR0vqJzNlMMINyicXQtn6oG4xgz7--ITC_eIrOSHuO_oGMiZ1EA0NHAH2oGp7nn48PSqQbi_T51H-ATm2aQ9o5-ZQFSaqf12OaFob1tUcJQ5upvvLfdkiLHQWGvs7xRix5z0TWwNOxvGejbd7-zFoexTtkQ-fuvYPhXDnZ73Y1GtGMGhR8ucHVeMhWLMQaIpFVhz8aa1fTEj_Xnpn5JfUAtR3Dd3QlLxIXwfBxdMD0BzJxKsWqBKNHg9WzWbkFKEZNnd6aAJHWNMtM9i1UXmIHJ4xrAYpPmQo6aCZzb8gy67E98qymAscfUE4wdpBdha4ups7jeck070WseKiRwKVxetiNqvW8CGfk83OYfJfiajP1h0FxkND8nUZ7l7qhMrmiT30RRnxkN1It9f5DfyB0KjimnkF5dX-kWzKJGFJuVaI834MXW8EhB3uQ_dlPB3nmGdRdSHxArhd1oK9qlbHmXjknYSYm6T6Nz0EW_4WJMe-S0ZAQ_b9DJ4XvvewVqCKp5ta52-ZYuMyXFwW2oS8B3-6YS0zahGOIOV2U5pw6E1AdAL1PDjluxXIS4QT5NC7GZXc8J0_AmXN0WDnWDAECc9ZrcsUOdjQF-z7OTD83mx5ggZeyR9SvdZU2FeGNrVOHIVdUNj0nmH_Rij0wKjs5xIYyHLJY",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-14T13:07:26.642Z"
+    "lastUpdate": "2025-01-14T15:51:40.971Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
+    "token": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIzNGRhYWYzZS0zMWIxLTQwNGQtOTQ3NC0xNzMwNTM2OTI0ZTgiLCJpYXQiOjE3MzY4NjY0MzAsImV4cCI6MTczNjk1MjgzMCwiYXVkIjoibWVyY2hhbnQiLCJpc3MiOiJtYXAtbGl0ZSJ9.fYBmjC6KYUsd2sYNTcCEPta--TVYShHdwg72WSd3fGlLKDix69LCTmynhLzOasp9kff-ybcMIo2g7HcFJtbP5XXBq8mFau6dsN6y8PKeAinideDNpxdJmYsDZC4itk3GBUQG_PGDYt6h77UR5jhuCACUitRC1ICLKi2SeCj-4hByX1vcFyxa3eof_fPPyUPzZzu27tJR344ZjA-dS1F38yqCvlELusrdiIsOt3qyVPB5Dx_XuDIja3zEx_dxo4tu6G4p6qGQmx6ud8y2FCKXLKrkyqjK2iDXfFkXIS3uhu9k2PfAG6cRMqb8a9RgLjiO1-Y578jmbtEE52POaRifx8234P-g4XSKQrca0cZRfr3b1QPhnS22dZ-K2iS1v5KOPrsYtWzaDdEJk71XOz715hFmHUyvZO_odxrbWEkDSNDciF_gPTUGgjviMF_7jIAMkWMLhrBuLEkuWOUNbnEryM1mZPWmMAFwtluprz-fFekGoBFe2qBkT7XdAB0bbujs4Xk-5HeLzf5xHWOrDMEZmpTL2K3H7Dm1Jh_e9skJ4ISyzNqPBdXwNL9Xv9sVgGFlySLdeDMN2TFYFqy4fKC7BSfFmzytsidrfGgtc3yoqHOcamrJhv9zVqSz6Oh3FHfLBq2MCQQ_U-8Dkml2aOdCTWwjpLSHEYNfdEXO3EwYthg",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-14T13:07:27.658Z"
+    "lastUpdate": "2025-01-14T15:51:41.953Z"
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 282,
+    "token": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5MjJmYWFjMS02ZWViLTRkNWItODdmYi02NDhhZmNiOTM5MWMiLCJpYXQiOjE3MzY4NjY5NTEsImV4cCI6MTczNjk1MzM1MSwiYXVkIjoibWVyY2hhbnQiLCJpc3MiOiJtYXAtbGl0ZSJ9.Fkz11B-BS9PGXsxCT0Ql1MKqtX3tcWzLRDTI0_pTBjzPQxuIuE6h5-BOcd1l47H8zsqmueSuzQgrJSO7wP643emDrFLFKGX5ZKO8ZMZFllAO8-7AFZtfwCdo_z9EtsJ9q-vkMZrR4ut6qrVzpsCu_RVFM0jIn_-AzI0D7ogDehkTb26kRjrQg_kMww0NwrZ_RflsHy6WrnwFbLcgL9ccJ9UYc-DTgQ7IixgSTpFElYl1nuin4IWrUN795QtTuJVIv2XI9EfFfpbbpcwafzwL2UJWAfUpOmRgJDBkywQCIU2_Ku4ZzD3Wx11fQKXIcHx1XFn7Mu6KvYuG9je3T02t4lY7ek6hmjsqPAKsAnjbWpKMhYpgIFTzoLzOHmbXkqLG0dmSH_tEsgPuh-_ixhfUK7Ob6O5XpNWfDdyYFN8Hhl_vSwtfACDyF5ERSxaHGyym8QNWJh4I2Qm7BhlHPJZWuUV8XJ2d4OUR40vUw5nkea6ksZDZWcYE8Ee1O0K7m76jgCpSS0nlyACgE3-KnYt2IPBXDi_B8uGfxwDfvSAq0L0oFM4eno585LMj4lm5lyPvO6LYAlBwj62INc7VeYbhGbh2xemflPHmb3FssJryHDvgp0vE7NRSIVGzHRY1pxEK3Ukq-v-Kir4baNeoBqYDFXhqJSzOVgXvwJ8UslVowhY",
+    "stock": 181,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-14T13:07:29.074Z"
+    "lastUpdate": "2025-01-14T15:51:43.242Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 253,
+    "token": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkYzRhZDg5NS1hN2QwLTRhNjItYjBiMS1kOGQwYTcyNmJmYzUiLCJpYXQiOjE3MzY4NjY0MzUsImV4cCI6MTczNjk1MjgzNSwiYXVkIjoibWVyY2hhbnQiLCJpc3MiOiJtYXAtbGl0ZSJ9.fvxliTf1dnDkEMnXoGVv02Pg4NpwPQQpU0RZdbNzX_seaZHDmXrMdgGfWKaRM4nrQxnRwvoqhycARbsLrwVr6etvjlUTsTfPUXQNjM4MotKv8JVRr6Egwo5PPL6BL2vFwh7cX39sOuBHOArg2lByRr0KamAi9yPqdUBXz73J5CsNVXwvsIYugh6_KNSF3Fxqunw2MSN-1TbX4XVW_gxIbom5Eao1qbNJpCHwrKoufFbMd9HQrjJYHRqCpwcWo2VOeeMAeGOy8p1tfXCdCZNpIrqFHKWxHOz7dTYjXNApSGipv7S2QsElxYhl_Vn496AD2tvyTdn8IW016DnF0dUyJyUqNtafSUb7_rIYwxSHvHeaYBm5A5H8_80Bcz2n14_lRqQQxLotq1PoeOIdWc9ylgEek-EOfd4Tg1MYV5MK3YBcqjsfPaD8js0i-aFO7iJE0pCH_nKytWARa5elTdkCNb1sqeyjpW9YMdAWtpEBBt9g1BWRR9rrEowIOs-DD0-bnV0tsRZ8emyck9Sxkoa1Cw7C51jS7TXSk8I9ThEM2rZAd7pBvi3bxI5YozJakuofphAnyNQz5coTZvZ7aalXRo1981j-vC9f4op6CSLeHE00sgHnpUxsnGloWloop_NZJocFsOzvaYm7PQh61w3dTC3qUeTMtd2BXFaHmsnYJRQ",
+    "stock": 156,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-14T13:08:06.531Z"
+    "lastUpdate": "2025-01-14T15:52:13.523Z"
   },
   {
     "name": "SUCIYONO",
-    "stock": 345,
+    "token": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ZjNjZTJjNy01YzJlLTQzMmItOTY2ZS1hYzY2NDQ2MjkwMTkiLCJpYXQiOjE3MzY4NjYyNzIsImV4cCI6MTczNjk1MjY3MiwiYXVkIjoibWVyY2hhbnQiLCJpc3MiOiJtYXAtbGl0ZSJ9.CxPpESKXIkHoupDThniGxAV3-LiP_2d9Zy8uZmwiJfbqtYa7tV4DIw8C9W9-tsFgcVPgjUVQLXxgcOikC8YDekT3rUZKtPSxTeQPwtZuJPqyKAXGCYUh0GDMT0yXdrUvWZShuE1MI5uxlgwfpM_HVAYf11-n0NtmeXDiTWTQNS1LmUsVWcyP4Lj43ioFs5aBZkVNr6BAMYnewQ6kRwHlVZnQt3xavXGjNxcihvSPstOv54_Yvuw5E77KNtRMX2D0YxnpMIlPoRNaiee0Na8_vOXqTDL46w3sn5ICmHtI2KPQqm_8Cg1XnLNfiU-LIDxDQYGLgPmSqgoOAQeoV9OVVlwaS9HslJxuX_HWZc_vzwq4l48CUAFuUPzP-L5QLoXuD4RXAxK-P8PiV4c9lPdVuoOm7wX4f4Dy0qkDruxB_-m6C9knEKy6wxJKYixtVkK9OAXyPH6d83xJovdFOsOkeOH7bhOPCT1GlXV8o8c4HGNA0xGVf6V6GHa1IFyx_TOb_F3uF_EPbwj3rO4KUOPa8DDBQzhOB68bAhlMyYwfjjLKt_LkStNv_FLoNiTdBZfxEv6_oY0ZztipIR3QPw3LbZ2rDWTTiG-oqnNFBWbQlS4nOyf7sS3Ibw4KsRlX8cSAmTayBCsOqLudL4saHMAHuz-KsNxNRQx3mLEujKv3SOw",
+    "stock": 302,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-01-14T13:08:44.950Z"
+    "isAlive": true,
+    "lastUpdate": "2025-01-14T15:33:06.736Z"
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 308,
+    "token": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlMjZmMjQ3Ny1hNmNkLTRjZmEtYTUwNC1iZDk5YmZjZjdlYjkiLCJpYXQiOjE3MzY4Njc4MTIsImV4cCI6MTczNjk1NDIxMiwiYXVkIjoibWVyY2hhbnQiLCJpc3MiOiJtYXAtbGl0ZSJ9.E4r7SR9Qm0IoNWCYQe4rxpMAe5csR9R08os2el-jYuly6jTmURgm4zORyfKUuMmTXgd6pbk74Xu7g0ufL8UodfywZjnk8QkcUguk2IjtWbEOq7tYYJXj-M3L9fQds-ncaP8HtDZYq5Nl4FrGxsHyRqyAHJhSMIBWkNZAw_CaPf8FJ0FgsDejAbESqoImLsMvWQjuwXXGLpHpO-Sx1YS0xg5XdWYiSZVX81QCHBNzWREhjg16vuEykB8AhdZ19MHK61Ry_MqS0iIpIHKSc-xd8n73p70KS56qvKuVZSdZ0OqACICRHsurJQgg39xjGFfnTRH3mWGi_8JTAb_6hDVCMSm8E2JZa0TgE9JAUe0ZhGRIfToXxpb4IWbfYmhxHK0fu0IgiABgL1hwjqIniCIyIQxjksOrc1ZRnC6IyW2nzx8O0ts0JBC6ruzdvePJwyMtxMfTe-iYH5G0S_hWphBEPcJ4FxzyWPCvYebPU5MgihFeOJ0QN16cErUem9xLuWpQZDdJvHTnDlGUVVPne_r13kpIuZsoU1BDeErMVLKyMAccPiTwvu4lv8P45nBSNH_iPde6TGMDFWBfDWvai-YqVUf7Ye5L1bRo5orKWaK-5lCoaeO_Q5iYexW-8AzlOlQ3o4EN1BIVBscNHzhJUddDBcQCYnik_r3ljERLVJOzofA",
+    "stock": 298,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-01-14T13:08:47.540Z"
+    "isAlive": false,
+    "lastUpdate": "2025-01-14T15:16:49.346Z"
   },
   {
     "name": "JAENAL",
-    "stock": 0,
-    "isTokenValid": false,
+    "token": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI0YTdiZTQwNy1kODZmLTQwOWQtODdjMC0wNGI5MWYxMjM2MjAiLCJpYXQiOjE3MzY4Njc4MTgsImV4cCI6MTczNjk1NDIxOCwiYXVkIjoibWVyY2hhbnQiLCJpc3MiOiJtYXAtbGl0ZSJ9.NLtHBndu4ahoUg5ShDvQLhrS_dUIQgS0GQlGUBP5bxCFtgaY6lYqnS08PwG8KyNyAeyTPV9vSwwmjaQ2PrNCLW6zLvBuz8mRVGaYyxE_UDDFENg_HuhWXDD9qydm5nagyPXk75s6rq4h7SRUG_E2-p9z-Y3w1MxS1EFrLV23dn3fgp0pEzd3dWLln9bJ_NQ1RKFUADGer0PUZu8atDZM8TxEQp2iiAQVYOoesWeR_la7nKXaSghTE6Z6uUjS3i39Gu49mK5liSjQ7XD--fCyVt7Zt2Xm-WXWdqq3vX1vKEoz1zo53GQaZnFWxycapAeDeV1LDNT5P0cPkC85IEZbo2DbARxpmX7S3Q5AgYEZIHF8vFTf8EcECIrgBiP7MWRDtngHApewBeMKNdepi1nnaeyxcY01S9zXBnQff8ZA3XJ3AIp9BBCFF0pgNE-W2GrWewM3j-0y-jObORTbD2XEM8TYG_bEVd_xLLbFXdUCvc0KXqRCB616S7xNzZwRbzFQr9ZuN0PNXPizxCkV-s8m5eYiPli1I7sKc42UB7b3lX9Fha8WDN5iLmEzVig-myUwHOM1O4Pv5xGzmKxz5s0aGlJ2HbztPIhJO5mLakRNQWqAN9lORguvaroqqmGMwSgD6u8jDhJnlYlp-s0WEyh9HG7Gmne-BitSGbhJPcSHt5k",
+    "stock": 374,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-14T07:21:40.845Z"
+    "lastUpdate": "2025-01-14T15:24:31.761Z"
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 0,
-    "isTokenValid": false,
+    "token": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5M2E1YTY5NC1iYjFkLTQyNGYtYWJlMC1lZjlkMWZlOTFjODAiLCJpYXQiOjE3MzY4NjgzMDYsImV4cCI6MTczNjk1NDcwNiwiYXVkIjoibWVyY2hhbnQiLCJpc3MiOiJtYXAtbGl0ZSJ9.tvjCnbcpJoek2STmh-EoLuFlt2-YQ-__JHW_HCl93Bdrp9v_hi5iHzAENXSv-7R99j2aKeJjqVuoOE9fPLnLPoSfqlzGGhBnNqh2AFrO_kN7Fl8rg_LjxRM2wh9OK-LYNp-obO1GQseGqrZx4DlU6KIncVaMzgZ-KoJgjYiYf5P1c_Lvfst9qlbl4Ntz8d4_vlje9S78nF0xOWsZkefJgFIFBG3NEmorr4bxFfgCAblW3XjppQBGMFenPGIYSdDfeL9bkKWAVbt7QtxQNBXcJCO7G8ulfxedNubo_tam5pi5v72DeZAx4_vZxSRWnGiBVjTR0U0imP-VWBwYNCTWK9eG1DHANg8tDaLZ_lFMf8gV765iidHvFApsUQHD27qsEIhf1BPZu5fPVi3Ezv2P2lYEU980Sjo9WGickvsGSb_GleckypbbRYcwmPRpxk0_rjPpP2pOx94RBA8FEaqEKOXPlacoLthQ57Pf7I6wJwM1eXWuVFodYhRVSynmvOGKmUtbP4p3GGcrHTm6xDIIQyuqWEPgT5zm_R7YvDxy2vGinM9qM-4lP93k9MDZ_ZejtC3diVqSspFu9hR8g5zedXSInwrUX6AznG1eiQiqlS0Q3E4Tci5nk33_9_VbVltPq-bt2_IAb4dO_7hpiBQtx7W7hdwGm-lXCWLvNJCi970",
+    "stock": 260,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-14T07:21:41.883Z"
+    "lastUpdate": "2025-01-14T15:25:02.997Z"
   },
   {
     "name": "KARSONO",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 270,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-14T07:21:42.938Z"
+    "lastUpdate": "2025-01-14T14:30:02.238Z"
   },
   {
     "name": "LUTFI A.",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 390,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-14T07:21:44.981Z"
+    "lastUpdate": "2025-01-14T14:31:35.523Z"
   },
   {
     "name": "MOH SAID",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 230,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-14T07:21:46.427Z"
+    "lastUpdate": "2025-01-14T14:33:05.401Z"
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 250,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-01-14T07:21:48.668Z"
+    "lastUpdate": "2025-01-14T14:34:38.768Z"
   },
   {
     "name": "TK. MAJU",

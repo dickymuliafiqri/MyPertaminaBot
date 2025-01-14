@@ -221,11 +221,10 @@ async function main() {
     // Proceed user
     await sheet.loadCells();
 
-    const bearer = sheet.getCellByA1("B1").value?.toString() || "";
     const username = sheet.getCellByA1("B2").value?.toString() || "";
     const password = sheet.getCellByA1("B3").value?.toString() || "";
 
-    const pertamina = new Pertamina(username, password, tokenMap[username] as string);
+    const pertamina = new Pertamina(username, password, user?.token as string);
 
     let isTokenValid = await pertamina.checkToken();
 
@@ -246,6 +245,7 @@ async function main() {
     // Save updated stock
     user = {
       name: sheetName,
+      token: tokenMap[username],
       stock: stock,
       isTokenValid: isTokenValid,
       isAlive: true,

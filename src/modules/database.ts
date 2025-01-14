@@ -4,6 +4,7 @@ import { readFileSync, writeFileSync } from "fs";
 
 export interface UserLocalData {
   name: string;
+  token: string;
   stock: number;
   isTokenValid: boolean;
   isAlive: boolean;
