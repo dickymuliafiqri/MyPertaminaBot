@@ -13,6 +13,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4.1.0
+        env:
+          PUPPETEER_SKIP_CHROMIUM_DOWNLOAD: "true"
       - name: Get dotenv
         run: echo ${{ secrets.DOTENV }} | base64 --decode > .env
       - name: Install dependencies
