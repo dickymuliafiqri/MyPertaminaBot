@@ -137,6 +137,7 @@ async function sheetTransaction(
                 case 400:
                   if (transaction.message == "Transaksi melebihi stok yang dapat dijual") {
                     transactionLimit = 0;
+                    bansosLimit = 0;
                   } else {
                     niks.exceeded.data.push(nik);
                     cell.value = "End";
@@ -145,8 +146,10 @@ async function sheetTransaction(
                 case 404:
                   await row.delete();
                   break;
+                case 403:
                 case 429:
                   transactionLimit = 0;
+                  bansosLimit = 0;
                   break;
                 default:
                   cell.value = 0;
@@ -209,7 +212,7 @@ async function main() {
       // 10 minutes differences
       if (Math.abs(new Date(user.lastUpdate).getTime() - new Date().getTime()) < 10 * 60 * 1000) {
         if (user.stock <= 0 || user.stock >= 500) {
-          console.log("[-] Stock invalid!");
+          console.log("[-] Stock: " + user.stock);
           // continue;
         } else if (user.isAlive != undefined && !user.isAlive) {
           console.log("[-] No active NIK found!");
@@ -233,7 +236,7 @@ async function main() {
       const browser = await puppeteer.launch({
         args: ["--no-sandbox"],
         executablePath: process.env.PUPPETEER_EXEC_PATH, // set by docker container
-        headless: false,
+        headless: true,
       });
 
       tokenMap[username] = await pertamina.login(browser);

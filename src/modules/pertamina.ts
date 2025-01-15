@@ -59,7 +59,7 @@ export class Pertamina {
 
     for (let i = 0; i < 300; i++) {
       if (message.length > 800) break;
-      await sleep(100);
+      await sleep(10);
     }
 
     await browser.close();
