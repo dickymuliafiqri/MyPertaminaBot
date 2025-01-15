@@ -30,7 +30,7 @@ jobs:
         with:
           args: node app/index.js
       - name: Save temp data
-        if: ${{ success() }}
+        if: ${{ always() }}
         uses: EndBug/add-and-commit@v9.1.4
         with:
           add: '["./temp/user.json", "./temp/niks.json"]'

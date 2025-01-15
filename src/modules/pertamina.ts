@@ -1,5 +1,4 @@
-import axios from "axios";
-import { Browser } from "puppeteer";
+import { fetch } from "bun";
 
 export class Pertamina {
   private linkLogin = "https://pertamina-login.vercel.app";
@@ -12,7 +11,7 @@ export class Pertamina {
   private username: string;
   private password: string;
   private bearer: string;
-  private options: any;
+  private options: RequestInit;
 
   constructor(username: string, password: string, bearer: string) {
     this.username = username;
@@ -27,56 +26,29 @@ export class Pertamina {
     };
   }
 
-  async login(browser: Browser) {
-    let message = "Login Failed";
-
-    function sleep(ms: number) {
-      return new Promise((resolve) => setTimeout(resolve, ms));
-    }
-
+  async login() {
     console.log(`[+] Login using ${this.username}...`);
 
-    const page = await browser.newPage();
+    let message = "Login Failed";
+    const res = await fetch(`https://pertamina-login.vercel.app/?username=${this.username}&password=${this.password}`);
 
-    page.on("request", async (request) => {
-      const bearer = request.headers()["authorization"];
-      if (bearer?.length >= 800) {
-        message = bearer;
+    if (res.status == 200) {
+      message = await res.text();
+
+      if (this.options.headers) {
+        this.options.headers = {
+          ...this.options.headers,
+          Authorization: message,
+        };
       }
-    });
-
-    await page.goto("https://subsiditepatlpg.mypertamina.id/merchant/auth/login");
-
-    await page.setViewport({ width: 1080, height: 1024 });
-
-    await page.type("#mantine-r0", this.username);
-    await page.type("#mantine-r1", this.password);
-
-    await sleep(2000);
-    await page.click(
-      "#__next > div.mantine-Container-root.styles_root__3v9Qa.mantine-ceqycu > div.styles_LoginForm__QiuBs > form > div.styles_btnLogin__wsKTT > button"
-    );
-
-    for (let i = 0; i < 300; i++) {
-      if (message.length > 800) break;
-      await sleep(10);
     }
-
-    await browser.close();
-
-    this.options = {
-      headers: {
-        Authorization: message,
-        "Content-Type": "application/json",
-      },
-    };
 
     return message;
   }
 
   async checkToken() {
     try {
-      const req = await axios.get(this.linkProduct, {
+      const req = await fetch(this.linkProduct, {
         ...this.options,
       });
 
@@ -84,6 +56,7 @@ export class Pertamina {
         return true;
       }
     } catch (e: any) {
+      console.log(e);
       console.log(`[-] Token Expired!`);
     }
 
@@ -92,12 +65,12 @@ export class Pertamina {
 
   async checkStock() {
     try {
-      const req = await axios.get(this.linkProduct, {
+      const req = await fetch(this.linkProduct, {
         ...this.options,
       });
 
       if (req.status == 200) {
-        return req.data.data.stockAvailable;
+        return (await req.json()).data.stockAvailable;
       }
     } catch (e: any) {
       console.log(`[-] Error getting stock!`);
@@ -108,26 +81,26 @@ export class Pertamina {
 
   async getCustomer(nik: string) {
     try {
-      const req = await axios.get(this.linkCheckNIK + nik, {
+      const req = await fetch(this.linkCheckNIK + nik, {
         ...this.options,
       });
-      return req.data;
+      return await req.json();
     } catch (e: any) {
-      return e.response.data;
+      return e.message;
     }
   }
 
   async getProduct() {
     try {
-      const req = await axios.get(this.linkProduct, {
+      const req = await fetch(this.linkProduct, {
         ...this.options,
       });
 
       if (req.status == 200) {
-        return req.data;
+        return await req.json();
       }
     } catch (e: any) {
-      return e.response.data;
+      return e.message;
     }
   }
 
@@ -197,19 +170,23 @@ export class Pertamina {
       };
 
       try {
-        const req = await axios.post(this.linkTransaction, payload, {
+        const req = await fetch(this.linkTransaction, {
+          method: "post",
+          body: JSON.stringify(payload),
           ...this.options,
         });
 
         return {
-          ...req.data,
+          ...(await req.json()),
           payload: {
             ...payload,
           },
         };
       } catch (e: any) {
         return {
-          ...e.response.data,
+          success: false,
+          message: e.message,
+          code: 500,
           payload: {
             ...payload,
           },

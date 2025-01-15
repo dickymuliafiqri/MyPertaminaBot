@@ -3,7 +3,6 @@ import { Database, UserLocalData } from "./modules/database";
 import { Pertamina } from "./modules/pertamina";
 import { Telegram } from "./modules/telegram";
 import { config as loadEnv } from "dotenv";
-import puppeteer from "puppeteer";
 
 // Initialize
 loadEnv();
@@ -232,14 +231,7 @@ async function main() {
     let isTokenValid = await pertamina.checkToken();
 
     if (!isTokenValid) {
-      // Setup browser
-      const browser = await puppeteer.launch({
-        args: ["--no-sandbox", "--proxy-server=id1.foolvpn.me:53002"],
-        executablePath: process.env.PUPPETEER_EXEC_PATH, // set by docker container
-        headless: true,
-      });
-
-      tokenMap[username] = await pertamina.login(browser);
+      tokenMap[username] = await pertamina.login();
       isTokenValid = await pertamina.checkToken();
     }
 
@@ -254,6 +246,8 @@ async function main() {
       isAlive: true,
       lastUpdate: new Date(),
     };
+
+    db.setUserLocalData(user);
 
     if (user.isTokenValid && user.stock > 0 && user.isAlive) {
       let message: string = "";
@@ -278,25 +272,21 @@ async function main() {
 }
 
 (async () => {
-  while (true) {
-    try {
-      userLimit = 5;
-      await main();
-      await Bun.sleep(15000);
-    } catch (e: any) {
-      const errorMessage = `${e.stack}\n\n${e.message}`;
-      console.log(errorMessage);
-      await bot.sendRawToAdmin(errorMessage);
-    } finally {
-      // Final process
-      console.log("PROGRAM FINISHED!");
+  try {
+    await main();
+  } catch (e: any) {
+    const errorMessage = `${e.stack}\n\n${e.message}`;
+    console.log(errorMessage);
+    await bot.sendRawToAdmin(errorMessage);
+  } finally {
+    // Final process
+    console.log("PROGRAM FINISHED!");
 
-      for (const message of finalMessage) {
-        await bot.sendToAdmin(message);
-      }
-      finalMessage = [];
-
-      await bot.sendToAdmin("PROGRAM FINISHED!");
+    for (const message of finalMessage) {
+      await bot.sendToAdmin(message);
     }
+    finalMessage = [];
+
+    await bot.sendToAdmin("PROGRAM FINISHED!");
   }
 })();
