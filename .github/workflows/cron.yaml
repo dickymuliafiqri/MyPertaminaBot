@@ -12,23 +12,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4.1.0
-        env:
-          PUPPETEER_SKIP_CHROMIUM_DOWNLOAD: "true"
+      - uses: oven-sh/setup-bun@v2
+
       - name: Get dotenv
         run: echo ${{ secrets.DOTENV }} | base64 --decode > .env
       - name: Install dependencies
-        run: npm install
-        env:
-          PUPPETEER_SKIP_CHROMIUM_DOWNLOAD: "true"
-      - name: Compile to JS
-        run: npx tsc
-      - name: Run bot
-        uses: mujo-code/puppeteer-headful@18.9.0
-        env:
-          CI: "true"
-        with:
-          args: node app/index.js
+        run: bun install
+      - name: Run bun
+        run: HTTPS_PROXY=https://id1.foolvpn.me:53002 bun run start
       - name: Save temp data
         if: ${{ always() }}
         uses: EndBug/add-and-commit@v9.1.4

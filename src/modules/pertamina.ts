@@ -13,6 +13,11 @@ export class Pertamina {
   private bearer: string;
   private options: RequestInit;
 
+  private stockMap: any = {
+    "Usaha Mikro": 2,
+    "Rumah Tangga": 1,
+  };
+
   constructor(username: string, password: string, bearer: string) {
     this.username = username;
     this.password = password;
@@ -61,6 +66,80 @@ export class Pertamina {
     }
 
     return false;
+  }
+
+  async getReport(date: string) {
+    try {
+      const req = await fetch(`${this.linkReport}?startDate=${date}&endDate=${date}`, {
+        ...this.options,
+      });
+      if (req.status == 200) {
+        return await req.json();
+      }
+    } catch (e: any) {
+      return e.message;
+    }
+  }
+
+  async cancelDoubleTransaction() {
+    const messages = [];
+
+    try {
+      const [yyyy, mm, dd] = new Date().toISOString().split("T")[0].split("-");
+      const now = `${yyyy}-${mm}-${dd}`;
+      const yesterday = `${yyyy}-${mm}-${parseInt(dd) - 1}`;
+
+      for (const date of [now, yesterday]) {
+        const report = await this.getReport(date);
+        if (report && report.success) {
+          for (const customerReport of report.data.customersReport) {
+            if (customerReport.total > this.stockMap[customerReport.categories[0]]) {
+              try {
+                const req = await fetch(
+                  `${this.linkTransaction}?startDate=${date}&endDate=${date}&customerReportId=${customerReport.customerReportId}`,
+                  {
+                    ...this.options,
+                  }
+                );
+
+                if (req.status == 200) {
+                  const transactionReport = await req.json();
+                  if (transactionReport.success) {
+                    for (let i = 1; i < transactionReport.data.data.length; i++) {
+                      const transaction = transactionReport.data.data[i];
+                      if (!transaction.isCanceled) {
+                        try {
+                          const req = await fetch(`${this.linkTransaction}/${transaction.transactionId}/cancel`, {
+                            method: "post",
+                            body: JSON.stringify({
+                              reason: "Salah",
+                              pin: `${this.password}`,
+                            }),
+                            ...this.options,
+                          });
+
+                          if ((await req.json()).success) {
+                            messages.push(`[🟡] Transaction for ${transaction.customerName} canceled!`);
+                          }
+                        } catch (e: any) {
+                          console.log(`[-] ${e.message}`);
+                        }
+                      }
+                    }
+                  }
+                }
+              } catch (e: any) {
+                console.log(`[-] ${e.message}`);
+              }
+            }
+          }
+        }
+      }
+    } catch (e: any) {
+      return e.message;
+    }
+
+    return messages.join("\n");
   }
 
   async checkStock() {
@@ -127,7 +206,7 @@ export class Pertamina {
         };
       }
 
-      let buyQuantity = customerType.name == "Usaha Mikro" ? 2 : 1;
+      let buyQuantity = this.stockMap[customerType.name];
       if (customerType.name == "Usaha Mikro" && product.data.stockAvailable < 2)
         buyQuantity = product.data.stockAvailable;
 

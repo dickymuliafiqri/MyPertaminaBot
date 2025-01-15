@@ -240,7 +240,7 @@ async function main() {
     // Save updated stock
     user = {
       name: sheetName,
-      token: tokenMap[username],
+      token: tokenMap[username] || user?.token,
       stock: stock,
       isTokenValid: isTokenValid,
       isAlive: true,
@@ -251,8 +251,10 @@ async function main() {
 
     if (user.isTokenValid && user.stock > 0 && user.isAlive) {
       let message: string = "";
+      let cancelingMessage: string = "";
       try {
         message = await sheetTransaction(sheet, transactionLimit, pertamina, user);
+        cancelingMessage = await pertamina.cancelDoubleTransaction();
       } catch (e: any) {
         console.log(`[-] Error occured: ${e.message}`);
         message += `\n[🔴] Error occured: ${e.message}`;
@@ -262,6 +264,10 @@ async function main() {
           userLimit -= 1;
         } else if (!message.includes(">")) {
           user.isAlive = false;
+        }
+
+        if (cancelingMessage) {
+          finalMessage.push(cancelingMessage);
         }
       }
     }
