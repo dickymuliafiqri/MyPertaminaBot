@@ -234,7 +234,7 @@ async function main() {
     if (!isTokenValid) {
       // Setup browser
       const browser = await puppeteer.launch({
-        args: ["--no-sandbox"],
+        args: ["--no-sandbox", "--proxy-server=id1.foolvpn.me:53002"],
         executablePath: process.env.PUPPETEER_EXEC_PATH, // set by docker container
         headless: true,
       });
