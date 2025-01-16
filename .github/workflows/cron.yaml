@@ -13,7 +13,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: oven-sh/setup-bun@v2
-
       - name: Get dotenv
         run: echo ${{ secrets.DOTENV }} | base64 --decode > .env
       - name: Install dependencies

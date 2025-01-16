@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "@sparticuz/chromium": "^131.0.1",
+    "@types/got": "^9.6.12",
     "@types/node": "^22.7.4",
     "axios": "^1.7.7",
     "chromium": "^3.0.3",
@@ -30,6 +31,7 @@
     "google-auth-library": "^9.14.1",
     "google-spreadsheet": "^4.1.4",
     "got": "^14.4.5",
-    "grammy": "^1.30.0"
+    "grammy": "^1.30.0",
+    "hpagent": "^1.2.0"
   }
 }

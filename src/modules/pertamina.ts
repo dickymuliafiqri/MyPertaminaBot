@@ -1,4 +1,5 @@
-import { fetch } from "bun";
+import got, { GotBodyOptions } from "got";
+import { HttpsProxyAgent, HttpProxyAgent } from "hpagent";
 
 export class Pertamina {
   private linkLogin = "https://pertamina-login.vercel.app";
@@ -11,7 +12,27 @@ export class Pertamina {
   private username: string;
   private password: string;
   private bearer: string;
-  private options: RequestInit;
+  private options: GotBodyOptions<string>;
+
+  private proxyAgent = {
+    http: new HttpProxyAgent({
+      keepAlive: true,
+      keepAliveMsecs: 1000,
+      maxSockets: 256,
+      maxFreeSockets: 256,
+      scheduling: "lifo",
+      proxy: "http://id1.foolvpn.me:53002",
+    }),
+    https: new HttpsProxyAgent({
+      rejectUnauthorized: false,
+      keepAlive: true,
+      keepAliveMsecs: 1000,
+      maxSockets: 256,
+      maxFreeSockets: 256,
+      scheduling: "lifo",
+      proxy: "https://id1.foolvpn.me:53002",
+    }),
+  };
 
   private stockMap: any = {
     "Usaha Mikro": 2,
@@ -24,6 +45,8 @@ export class Pertamina {
     this.bearer = bearer;
 
     this.options = {
+      rejectUnauthorized: false,
+      agent: this.proxyAgent,
       headers: {
         Authorization: bearer,
         "Content-Type": "application/json",
@@ -53,15 +76,15 @@ export class Pertamina {
 
   async checkToken() {
     try {
-      const req = await fetch(this.linkProduct, {
+      const req = await got(this.linkProduct, {
         ...this.options,
       });
 
-      if (req.status == 200) {
+      if (req.statusCode == 200) {
         return true;
       }
     } catch (e: any) {
-      console.log(e);
+      console.log(e.message);
       console.log(`[-] Token Expired!`);
     }
 
@@ -70,11 +93,11 @@ export class Pertamina {
 
   async getReport(date: string) {
     try {
-      const req = await fetch(`${this.linkReport}?startDate=${date}&endDate=${date}`, {
+      const req = await got(`${this.linkReport}?startDate=${date}&endDate=${date}`, {
         ...this.options,
       });
-      if (req.status == 200) {
-        return await req.json();
+      if (req.statusCode == 200) {
+        return JSON.parse(req.body);
       }
     } catch (e: any) {
       return e.message;
@@ -95,21 +118,21 @@ export class Pertamina {
           for (const customerReport of report.data.customersReport) {
             if (customerReport.total > this.stockMap[customerReport.categories[0]]) {
               try {
-                const req = await fetch(
+                const req = await got(
                   `${this.linkTransaction}?startDate=${date}&endDate=${date}&customerReportId=${customerReport.customerReportId}`,
                   {
                     ...this.options,
                   }
                 );
 
-                if (req.status == 200) {
-                  const transactionReport = await req.json();
+                if (req.statusCode == 200) {
+                  const transactionReport = JSON.parse(req.body);
                   if (transactionReport.success) {
                     for (let i = 1; i < transactionReport.data.data.length; i++) {
                       const transaction = transactionReport.data.data[i];
                       if (!transaction.isCanceled) {
                         try {
-                          const req = await fetch(`${this.linkTransaction}/${transaction.transactionId}/cancel`, {
+                          const req = await got(`${this.linkTransaction}/${transaction.transactionId}/cancel`, {
                             method: "post",
                             body: JSON.stringify({
                               reason: "Salah",
@@ -118,7 +141,7 @@ export class Pertamina {
                             ...this.options,
                           });
 
-                          if ((await req.json()).success) {
+                          if (JSON.parse(req.body).success) {
                             messages.push(`[🟡] Transaction for ${transaction.customerName} canceled!`);
                           }
                         } catch (e: any) {
@@ -144,14 +167,15 @@ export class Pertamina {
 
   async checkStock() {
     try {
-      const req = await fetch(this.linkProduct, {
+      const req = await got(this.linkProduct, {
         ...this.options,
       });
 
-      if (req.status == 200) {
-        return (await req.json()).data.stockAvailable;
+      if (req.statusCode == 200) {
+        return JSON.parse(req.body).data.stockAvailable;
       }
     } catch (e: any) {
+      console.log(e.message);
       console.log(`[-] Error getting stock!`);
     }
 
@@ -160,10 +184,10 @@ export class Pertamina {
 
   async getCustomer(nik: string) {
     try {
-      const req = await fetch(this.linkCheckNIK + nik, {
+      const req = await got(this.linkCheckNIK + nik, {
         ...this.options,
       });
-      return await req.json();
+      return JSON.parse(req.body);
     } catch (e: any) {
       return e.message;
     }
@@ -171,12 +195,12 @@ export class Pertamina {
 
   async getProduct() {
     try {
-      const req = await fetch(this.linkProduct, {
+      const req = await got(this.linkProduct, {
         ...this.options,
       });
 
-      if (req.status == 200) {
-        return await req.json();
+      if (req.statusCode == 200) {
+        return JSON.parse(req.body);
       }
     } catch (e: any) {
       return e.message;
@@ -249,14 +273,14 @@ export class Pertamina {
       };
 
       try {
-        const req = await fetch(this.linkTransaction, {
+        const req = await got(this.linkTransaction, {
           method: "post",
           body: JSON.stringify(payload),
           ...this.options,
         });
 
         return {
-          ...(await req.json()),
+          ...JSON.parse(req.body),
           payload: {
             ...payload,
           },
