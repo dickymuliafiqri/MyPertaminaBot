@@ -1,0 +1,34 @@
+name: Cron Job
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [cron_job]
+concurrency:
+  group: ${{ github.workflow }}
+jobs:
+  cron-job:
+    name: cron job
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+      - name: Get dotenv
+        run: echo ${{ secrets.DOTENV }} | base64 --decode > .env
+      - name: Install dependencies
+        run: bun install
+      - name: Run bun
+        run: bun run start
+      - name: Reset git history
+        if: ${{ always() }}
+        run: |
+          git config --global user.name "Github Actions"
+          git config --global user.email "actions@github.com"
+          git add temp/*
+          git commit --amend --no-edit
+          git push origin main --force
+      - name: Call dispatch
+        if: ${{always()}}
+        uses: peter-evans/repository-dispatch@v3.0.0
+        with:
+          event-type: cron_job
