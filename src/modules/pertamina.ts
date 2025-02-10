@@ -89,7 +89,7 @@ export class Pertamina {
 
     for (let i = 0; i < 300; i++) {
       if (message.length > 800) break;
-      await sleep(200);
+      await sleep(50);
     }
 
     await this.bot.sendPhotoToAdmin(await page.screenshot());
