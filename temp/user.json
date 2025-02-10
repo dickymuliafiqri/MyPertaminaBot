@@ -120,17 +120,17 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 14,
+    "stock": 12,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-10T11:05:39.344Z"
+    "lastUpdate": "2025-02-10T11:08:32.268Z"
   },
   {
     "name": "TOKO IIN",
-    "stock": 26,
+    "stock": 23,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-10T11:06:05.581Z"
+    "lastUpdate": "2025-02-10T11:09:06.632Z"
   },
   {
     "name": "TOKO POJOK",
@@ -171,15 +171,15 @@
     "name": "ERNA PUJIATI",
     "stock": 28,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-02-10T11:07:20.631Z"
+    "isAlive": false,
+    "lastUpdate": "2025-02-10T11:10:19.287Z"
   },
   {
     "name": "P. SUK",
-    "stock": 0,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-09T17:21:05.261Z"
+    "lastUpdate": "2025-02-10T11:10:43.723Z"
   },
   {
     "name": "H. BAMBANG S",
