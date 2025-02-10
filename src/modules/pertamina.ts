@@ -79,6 +79,7 @@ export class Pertamina {
 
     await page.goto("https://subsiditepatlpg.mypertamina.id/merchant/auth/login");
 
+    await sleep(2000);
     await page.locator("#mantine-r0").pressSequentially(this.username);
     await page.locator("#mantine-r1").pressSequentially(this.password);
 
