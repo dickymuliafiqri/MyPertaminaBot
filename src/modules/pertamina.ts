@@ -98,9 +98,9 @@ export class Pertamina {
       };
     }
 
-    if (message.length < 800) {
-      await this.bot.sendPhotoToAdmin(await page.screenshot());
-    }
+    await page.goto(this.linkPersonal);
+    await sleep(3000);
+    await this.bot.sendPhotoToAdmin(await page.screenshot());
 
     await browser.close();
     return message;
