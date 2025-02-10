@@ -19,7 +19,9 @@ export class Telegram {
     await this.bot.api.sendDocument(this.adminID, new InputFile(".env"));
   }
 
-  async sendPhotoToAdmin(buffer: Buffer) {
-    await this.bot.api.sendPhoto(this.adminID, new InputFile(buffer));
+  async sendPhotoToAdmin(buffer: Buffer, caption: string) {
+    await this.bot.api.sendPhoto(this.adminID, new InputFile(buffer), {
+      caption: caption,
+    });
   }
 }

