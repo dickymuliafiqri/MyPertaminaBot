@@ -24,7 +24,7 @@ jobs:
       - name: Install dependencies
         run: bun install
       - name: Run bun
-        run: bun run start
+        run: bun start
       - name: Reset git history
         if: ${{ always() }}
         run: |
