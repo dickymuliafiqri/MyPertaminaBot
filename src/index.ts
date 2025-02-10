@@ -264,12 +264,14 @@ async function main() {
               await sheet.saveUpdatedCells();
               loginLimit -= 1;
 
+              console.log("[+] Logged In!");
               finalMessage.push(`[🟡] ${sheet.title} Logged In!`);
             } else {
               throw new Error("Unknown error");
             }
           }
         } catch (e: any) {
+          console.log(`[-] Login Failed: ${e.message}`);
           finalMessage.push(`[🔴] ${sheet.title} Login Failed: ${e.message}`);
         }
       }
