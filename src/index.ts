@@ -254,9 +254,9 @@ async function main() {
       const pertamina = new Pertamina(username, password, token, proxy);
 
       let isTokenValid = await pertamina.checkToken();
-      const newToken = await pertamina.login();
       if (!isTokenValid && loginLimit > 0) {
         try {
+          const newToken = await pertamina.login();
           if (newToken.length > 800) {
             isTokenValid = await pertamina.checkToken();
             if (isTokenValid) {
