@@ -3,6 +3,7 @@ import puppeteer from "puppeteer";
 import { HttpsProxyAgent, HttpProxyAgent } from "hpagent";
 import { sleep } from "bun";
 import { chromium, devices } from "playwright";
+import { Telegram } from "./telegram";
 
 export class Pertamina {
   private linkLogin = "https://pertamina-login.vercel.app";
@@ -17,6 +18,8 @@ export class Pertamina {
   private bearer: string;
   private options: GotBodyOptions<string>;
 
+  private bot: Telegram;
+
   private stockMap: any = {
     "Usaha Mikro": 2,
     "Rumah Tangga": 1,
@@ -26,6 +29,8 @@ export class Pertamina {
     this.username = username;
     this.password = password;
     this.bearer = bearer;
+
+    this.bot = new Telegram();
 
     this.options = {
       agent: {
@@ -86,6 +91,8 @@ export class Pertamina {
       if (message.length > 800) break;
       await sleep(200);
     }
+
+    await this.bot.sendPhotoToAdmin(await page.screenshot());
 
     await browser.close();
 
