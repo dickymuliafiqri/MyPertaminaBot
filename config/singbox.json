@@ -3,7 +3,7 @@
   "dns": {
     "independent_cache": true,
     "reverse_mapping": true,
-    "servers": [{ "detour": "direct", "address": "8.8.8.8", "tag": "Internet-dns" }],
+    "servers": [{ "detour": "Internet", "address": "https://8.8.8.8/dns-query", "tag": "Internet-dns" }],
     "strategy": "ipv4_only"
   },
   "experimental": {
