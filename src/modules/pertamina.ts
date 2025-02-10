@@ -91,8 +91,6 @@ export class Pertamina {
       await sleep(50);
     }
 
-    await this.bot.sendPhotoToAdmin(await page.screenshot());
-
     if (this.options.headers) {
       this.options.headers = {
         ...this.options.headers,
