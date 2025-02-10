@@ -34,7 +34,7 @@ jobs:
           git config --global user.name "Github Actions"
           git config --global user.email "actions@github.com"
           git add temp/*
-          git commit --amend --no-edit
+          git commit -m "update data"
           git push origin main --force
       - name: Call dispatch
         if: ${{always()}}
