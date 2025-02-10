@@ -68,3 +68,4 @@ package-lock.json
 # User defined
 app/
 .env
+*.db
