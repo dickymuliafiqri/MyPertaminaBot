@@ -17,12 +17,13 @@ jobs:
         run: echo ${{ secrets.DOTENV }} | base64 --decode > .env
       - name: Download & Install Sing-Box
         run: |
-          SINGBOX_VERSION=v1.11.1
           wget -q https://github.com/SagerNet/sing-box/releases/download/${SINGBOX_VERSION}/sing-box-${SINGBOX_VERSION}-linux-amd64.tar.gz
           tar -xzf sing-box-${SINGBOX_VERSION}-linux-amd64.tar.gz
           sudo mv sing-box-${SINGBOX_VERSION}-linux-amd64/sing-box /usr/local/bin/sing-box
           rm -rf sing-box-${SINGBOX_VERSION}-linux-amd64*
           sing-box version
+        env:
+          SINGBOX_VERSION: "v1.11.1"
       - name: Install dependencies
         run: bun install
       - name: Run bun
