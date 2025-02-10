@@ -95,8 +95,6 @@ export class Pertamina {
 
     await this.bot.sendPhotoToAdmin(await page.screenshot());
 
-    await browser.close();
-
     if (this.options.headers) {
       this.options.headers = {
         ...this.options.headers,
@@ -107,6 +105,8 @@ export class Pertamina {
     if (message.length < 800) {
       await this.bot.sendPhotoToAdmin(await page.screenshot());
     }
+
+    await browser.close();
     return message;
   }
 
