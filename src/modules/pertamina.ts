@@ -61,8 +61,7 @@ export class Pertamina {
       headless: true,
       args: ["--proxy-server=127.0.0.1:5353"],
     });
-    const context = await browser.newContext(devices["iPhone 11"]);
-    const page = await context.newPage();
+    const page = await browser.newPage();
 
     let message = "";
 
