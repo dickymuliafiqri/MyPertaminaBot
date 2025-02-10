@@ -8,7 +8,7 @@ export function sleep(ms: number) {
 }
 
 export async function getProxyList() {
-  const proxies: string[] = [process.env.PROXY!];
+  const proxies: string[] = ["127.0.0.1:5353"];
   const proxyListURL: string[] = [
     // "https://raw.githubusercontent.com/monosans/proxy-list/refs/heads/main/proxies.json"
   ];

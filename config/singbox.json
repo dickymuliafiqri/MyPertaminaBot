@@ -1,0 +1,41 @@
+{
+  "log": { "level": "info", "timestamp": true },
+  "dns": {
+    "independent_cache": true,
+    "reverse_mapping": true,
+    "servers": [{ "detour": "direct", "address": "8.8.8.8", "tag": "Internet-dns" }],
+    "strategy": "ipv4_only"
+  },
+  "experimental": {
+    "cache_file": { "enabled": true }
+  },
+  "inbounds": [
+    {
+      "type": "mixed",
+      "tag": "mixed-in",
+      "listen": "::",
+      "listen_port": 5353,
+      "set_system_proxy": false
+    }
+  ],
+  "outbounds": [
+    {
+      "server": "nautica.foolvpn.me",
+      "server_port": 443,
+      "tag": "Internet",
+      "tls": { "enabled": true, "insecure": true, "server_name": "nautica.foolvpn.me" },
+      "transport": { "headers": { "Host": "nautica.foolvpn.me" }, "path": "/ID", "type": "ws" },
+      "type": "vless",
+      "uuid": "e4549003-ebd0-43ba-8d51-f29ff77534bd"
+    },
+    { "tag": "direct", "type": "direct" }
+  ],
+  "route": {
+    "auto_detect_interface": true,
+    "final": "Internet",
+    "rules": [
+      { "action": "sniff", "inbound": "mixed-in" },
+      { "action": "hijack-dns", "mode": "or", "rules": [{ "protocol": "dns" }, { "port": 53 }], "type": "logical" }
+    ]
+  }
+}

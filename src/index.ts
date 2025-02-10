@@ -250,7 +250,7 @@ async function main() {
       const username = sheet.getCellByA1("B2").value?.toString() || "";
       const password = sheet.getCellByA1("B3").value?.toString() || "";
       const proxy = proxies[Math.floor(Math.random() * proxies.length)];
-      
+
       const pertamina = new Pertamina(username, password, token, proxy);
 
       let isTokenValid = await pertamina.checkToken();
@@ -263,10 +263,10 @@ async function main() {
               tokenCell.value = newToken;
               await sheet.saveUpdatedCells();
               loginLimit -= 1;
-  
+
               finalMessage.push(`[🟡] ${sheet.title} Logged In!`);
             } else {
-              throw new Error("Unknown error")
+              throw new Error("Unknown error");
             }
           }
         } catch (e: any) {
