@@ -102,7 +102,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-10T10:29:54.896Z"
+    "lastUpdate": "2025-02-10T11:02:10.870Z"
   },
   {
     "name": "TITIK ISMIATIN",
@@ -120,24 +120,24 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 18,
+    "stock": 16,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-10T10:59:34.319Z"
+    "lastUpdate": "2025-02-10T11:02:16.744Z"
   },
   {
     "name": "TOKO IIN",
-    "stock": 32,
+    "stock": 29,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-10T11:00:13.560Z"
+    "lastUpdate": "2025-02-10T11:02:48.593Z"
   },
   {
     "name": "TOKO POJOK",
     "stock": 70,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-02-10T11:00:58.370Z"
+    "isAlive": false,
+    "lastUpdate": "2025-02-10T11:03:26.491Z"
   },
   {
     "name": "UD RAHMAT",
@@ -169,10 +169,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 34,
+    "stock": 31,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-10T10:55:15.993Z"
+    "lastUpdate": "2025-02-10T11:04:12.153Z"
   },
   {
     "name": "P. SUK",
