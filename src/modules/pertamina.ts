@@ -104,8 +104,9 @@ export class Pertamina {
       };
     }
 
-    console.log(message);
-    process.exit(0);
+    if (message.length < 800) {
+      await this.bot.sendPhotoToAdmin(await page.screenshot());
+    }
     return message;
   }
 
