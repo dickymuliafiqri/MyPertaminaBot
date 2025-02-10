@@ -58,7 +58,7 @@ export class Pertamina {
     console.log(`[+] Login using ${this.username}...`);
 
     const browser = await chromium.launch({
-      headless: true,
+      headless: false,
       args: ["--proxy-server=127.0.0.1:5353"],
     });
     const page = await browser.newPage();
