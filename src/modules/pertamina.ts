@@ -1,5 +1,8 @@
 import got, { GotBodyOptions } from "got";
+import puppeteer from "puppeteer";
 import { HttpsProxyAgent, HttpProxyAgent } from "hpagent";
+import { sleep } from "bun";
+import { chromium, devices } from "playwright";
 
 export class Pertamina {
   private linkLogin = "https://pertamina-login.vercel.app";
@@ -54,22 +57,48 @@ export class Pertamina {
   async login() {
     console.log(`[+] Login using ${this.username}...`);
 
-    let message = "Login Failed";
-    const res = await fetch(`${this.linkLogin}/?username=${this.username}&password=${this.password}`, {
-      signal: AbortSignal.timeout(30000),
+    const browser = await chromium.launch({
+      headless: true,
+      args: ["--proxy-server=127.0.0.1:5353"],
+    });
+    const context = await browser.newContext(devices["iPhone 11"]);
+    const page = await context.newPage();
+
+    let message = "";
+
+    page.on("request", async (request) => {
+      const bearer = request.headers()["authorization"];
+      if (bearer?.length >= 800) {
+        message = bearer;
+      }
     });
 
-    if (res.status == 200) {
-      message = await res.text();
+    await page.goto("https://subsiditepatlpg.mypertamina.id/merchant/auth/login");
 
-      if (this.options.headers) {
-        this.options.headers = {
-          ...this.options.headers,
-          Authorization: message,
-        };
-      }
+    await page.locator("#mantine-r0").pressSequentially(this.username);
+    await page.locator("#mantine-r1").pressSequentially(this.password);
+
+    await sleep(2000);
+    await page.click(
+      "#__next > div.mantine-Container-root.styles_root__3v9Qa.mantine-ceqycu > div.styles_LoginForm__QiuBs > form > div.styles_btnLogin__wsKTT > button"
+    );
+
+    for (let i = 0; i < 300; i++) {
+      if (message.length > 800) break;
+      await sleep(100);
     }
 
+    await browser.close();
+
+    if (this.options.headers) {
+      this.options.headers = {
+        ...this.options.headers,
+        Authorization: message,
+      };
+    }
+
+    console.log(message);
+    process.exit(0);
     return message;
   }
 
