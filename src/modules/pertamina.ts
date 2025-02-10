@@ -98,8 +98,11 @@ export class Pertamina {
       };
     }
 
-    await page.goto(this.linkPersonal);
-    await sleep(3000);
+    if (message.length > 800) {
+      await page.goto(this.linkPersonal);
+      await sleep(3000);
+    }
+
     await this.bot.sendPhotoToAdmin(await page.screenshot());
 
     await browser.close();
