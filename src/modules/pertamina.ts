@@ -80,6 +80,7 @@ export class Pertamina {
     await page.goto("https://subsiditepatlpg.mypertamina.id/merchant/auth/login");
 
     await sleep(5000);
+    await page.waitForSelector("#mantine-r0");
     await page.locator("#mantine-r0").pressSequentially(this.username);
     await page.locator("#mantine-r1").pressSequentially(this.password);
     await page.click(
@@ -88,7 +89,7 @@ export class Pertamina {
 
     for (let i = 0; i < 300; i++) {
       if (message.length > 800) break;
-      await sleep(50);
+      await sleep(100);
     }
 
     if (this.options.headers) {
