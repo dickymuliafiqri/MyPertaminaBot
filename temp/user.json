@@ -134,17 +134,17 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 76,
+    "stock": 73,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-02-12T07:02:03.490Z"
+    "isAlive": true,
+    "lastUpdate": "2025-02-12T07:32:53.924Z"
   },
   {
     "name": "UD RAHMAT",
-    "stock": 30,
+    "stock": 27,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-12T07:28:54.988Z"
+    "lastUpdate": "2025-02-12T07:33:36.147Z"
   },
   {
     "name": "SUPARMAN",
@@ -197,10 +197,10 @@
   },
   {
     "name": "JONI H",
-    "stock": 42,
+    "stock": 39,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-12T07:30:22.959Z"
+    "lastUpdate": "2025-02-12T07:35:01.148Z"
   },
   {
     "name": "EVI DIANA SARI",
