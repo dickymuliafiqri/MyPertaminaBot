@@ -136,15 +136,15 @@
     "name": "TOKO POJOK",
     "stock": 9,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-02-12T09:35:00.879Z"
+    "isAlive": false,
+    "lastUpdate": "2025-02-12T09:38:25.181Z"
   },
   {
     "name": "UD RAHMAT",
-    "stock": 6,
+    "stock": 4,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-12T09:35:36.532Z"
+    "lastUpdate": "2025-02-12T09:38:34.759Z"
   },
   {
     "name": "SUPARMAN",
@@ -197,10 +197,10 @@
   },
   {
     "name": "JONI H",
-    "stock": 12,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-12T09:36:49.226Z"
+    "lastUpdate": "2025-02-12T09:40:37.603Z"
   },
   {
     "name": "EVI DIANA SARI",
@@ -211,10 +211,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 30,
+    "stock": 27,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-12T09:17:39.432Z"
+    "lastUpdate": "2025-02-12T09:41:19.991Z"
   },
   {
     "name": "TK MUSTAPA",
