@@ -123,21 +123,21 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-15T13:41:13.859Z"
+    "lastUpdate": "2025-02-15T14:20:02.135Z"
   },
   {
     "name": "TOKO IIN",
-    "stock": 26,
+    "stock": 23,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-02-15T13:44:23.809Z"
+    "isAlive": true,
+    "lastUpdate": "2025-02-15T14:20:08.429Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 49,
+    "stock": 46,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-02-15T13:44:32.235Z"
+    "isAlive": true,
+    "lastUpdate": "2025-02-15T14:20:47.723Z"
   },
   {
     "name": "UD RAHMAT",
@@ -151,7 +151,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-15T13:44:41.394Z"
+    "lastUpdate": "2025-02-15T14:21:27.353Z"
   },
   {
     "name": "DJAMIAH",
@@ -165,21 +165,21 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-15T13:44:44.961Z"
+    "lastUpdate": "2025-02-15T14:21:30.755Z"
   },
   {
     "name": "ERNA PUJIATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-15T13:51:30.374Z"
+    "lastUpdate": "2025-02-15T14:21:34.725Z"
   },
   {
     "name": "P. SUK",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-15T13:44:52.925Z"
+    "lastUpdate": "2025-02-15T14:21:39.002Z"
   },
   {
     "name": "H. BAMBANG S",
@@ -193,14 +193,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-15T13:45:38.834Z"
+    "lastUpdate": "2025-02-15T14:22:24.816Z"
   },
   {
     "name": "JONI H",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-15T13:45:42.819Z"
+    "lastUpdate": "2025-02-15T14:22:28.635Z"
   },
   {
     "name": "EVI DIANA SARI",
@@ -214,7 +214,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-15T13:45:45.812Z"
+    "lastUpdate": "2025-02-15T14:22:33.496Z"
   },
   {
     "name": "TK MUSTAPA",
@@ -225,10 +225,10 @@
   },
   {
     "name": "YUNIS WAHYUNI",
-    "stock": 20,
+    "stock": 18,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-02-15T13:45:49.336Z"
+    "isAlive": true,
+    "lastUpdate": "2025-02-15T14:22:37.307Z"
   },
   {
     "name": "ROSA V",
