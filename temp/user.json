@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 2,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-15T15:15:57.090Z"
+    "lastUpdate": "2025-02-15T15:19:40.538Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 19,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-15T15:16:30.937Z"
+    "lastUpdate": "2025-02-15T15:20:37.710Z"
   },
   {
     "name": "UD RAHMAT",
@@ -235,28 +235,28 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-15T14:36:01.998Z"
+    "lastUpdate": "2025-02-15T15:21:41.144Z"
   },
   {
     "name": "LUKMAN BS",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-15T14:36:06.365Z"
+    "lastUpdate": "2025-02-15T15:21:49.591Z"
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-15T14:36:10.932Z"
+    "lastUpdate": "2025-02-15T15:21:58.127Z"
   },
   {
     "name": "ROSIDI",
     "stock": 7,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-02-15T14:40:46.116Z"
+    "isAlive": false,
+    "lastUpdate": "2025-02-15T15:22:08.313Z"
   },
   {
     "name": "ALPAN SANYOTO",
@@ -270,84 +270,84 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-15T13:46:58.943Z"
+    "lastUpdate": "2025-02-15T15:22:27.346Z"
   },
   {
     "name": "YUDA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-15T13:47:29.028Z"
+    "lastUpdate": "2025-02-15T15:22:34.006Z"
   },
   {
     "name": "SRI UTAMI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-15T13:59:47.368Z"
+    "lastUpdate": "2025-02-15T15:22:39.254Z"
   },
   {
     "name": "ULFA MARIA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-15T13:52:40.820Z"
+    "lastUpdate": "2025-02-15T15:22:46.142Z"
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-15T13:52:44.161Z"
+    "lastUpdate": "2025-02-15T15:22:53.958Z"
   },
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-15T13:52:50.818Z"
+    "lastUpdate": "2025-02-15T15:23:01.600Z"
   },
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-15T13:53:16.626Z"
+    "lastUpdate": "2025-02-15T15:23:05.863Z"
   },
   {
     "name": "ISTIQOMAH",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-15T14:14:58.875Z"
+    "lastUpdate": "2025-02-15T15:23:10.809Z"
   },
   {
     "name": "SUROSO",
-    "stock": 3,
+    "stock": 1,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-15T14:15:03.524Z"
+    "lastUpdate": "2025-02-15T15:23:16.715Z"
   },
   {
     "name": "HADI SUTOYO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-15T13:54:23.857Z"
+    "lastUpdate": "2025-02-15T15:23:54.631Z"
   },
   {
     "name": "SRI HIDAYATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-15T10:59:59.264Z"
+    "lastUpdate": "2025-02-15T15:24:23.862Z"
   },
   {
     "name": "ONG SWI GIOK",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-15T14:02:17.183Z"
+    "lastUpdate": "2025-02-15T15:24:29.281Z"
   },
   {
     "name": "YUSUF ISMAIL",
@@ -361,14 +361,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-15T14:17:27.879Z"
+    "lastUpdate": "2025-02-15T15:25:18.743Z"
   },
   {
     "name": "H. JUMAT",
-    "stock": 25,
+    "stock": 22,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-15T14:17:31.181Z"
+    "lastUpdate": "2025-02-15T15:25:25.883Z"
   },
   {
     "name": "YOGA RAJAN",
