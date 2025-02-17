@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 2,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-17T11:41:41.287Z"
+    "lastUpdate": "2025-02-17T11:44:47.050Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 28,
+    "stock": 25,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-17T11:42:21.967Z"
+    "lastUpdate": "2025-02-17T11:45:26.968Z"
   },
   {
     "name": "UD RAHMAT",
@@ -169,10 +169,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 3,
+    "stock": 1,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-17T11:43:03.980Z"
+    "lastUpdate": "2025-02-17T11:46:18.681Z"
   },
   {
     "name": "P. SUK",
