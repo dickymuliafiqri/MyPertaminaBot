@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 8,
+    "stock": 6,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-18T10:43:02.411Z"
+    "lastUpdate": "2025-02-18T10:47:55.207Z"
   },
   {
     "name": "TOKO POJOK",
     "stock": 55,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-02-18T10:43:39.187Z"
+    "isAlive": false,
+    "lastUpdate": "2025-02-18T10:48:33.004Z"
   },
   {
     "name": "UD RAHMAT",
@@ -151,7 +151,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-18T10:16:37.868Z"
+    "lastUpdate": "2025-02-18T10:49:31.149Z"
   },
   {
     "name": "DJAMIAH",
@@ -165,21 +165,21 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-18T10:16:41.407Z"
+    "lastUpdate": "2025-02-18T10:49:35.620Z"
   },
   {
     "name": "ERNA PUJIATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-18T10:16:46.255Z"
+    "lastUpdate": "2025-02-18T10:49:40.114Z"
   },
   {
     "name": "P. SUK",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-18T10:16:51.787Z"
+    "lastUpdate": "2025-02-18T10:49:45.774Z"
   },
   {
     "name": "H. BAMBANG S",
@@ -193,14 +193,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-18T10:17:39.381Z"
+    "lastUpdate": "2025-02-18T10:50:34.879Z"
   },
   {
     "name": "JONI H",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-18T10:17:47.761Z"
+    "lastUpdate": "2025-02-18T10:50:38.410Z"
   },
   {
     "name": "EVI DIANA SARI",
@@ -214,7 +214,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-18T10:17:53.868Z"
+    "lastUpdate": "2025-02-18T10:50:41.818Z"
   },
   {
     "name": "TK MUSTAPA",
@@ -228,35 +228,35 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-18T10:17:59.521Z"
+    "lastUpdate": "2025-02-18T10:50:45.226Z"
   },
   {
     "name": "ROSA V",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-18T10:18:04.604Z"
+    "lastUpdate": "2025-02-18T10:50:50.970Z"
   },
   {
     "name": "LUKMAN BS",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-18T10:18:09.161Z"
+    "lastUpdate": "2025-02-18T10:50:56.657Z"
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-18T10:18:14.870Z"
+    "lastUpdate": "2025-02-18T10:51:01.653Z"
   },
   {
     "name": "ROSIDI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-18T10:18:20.500Z"
+    "lastUpdate": "2025-02-18T10:51:05.335Z"
   },
   {
     "name": "ALPAN SANYOTO",
@@ -270,42 +270,42 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-18T10:18:25.625Z"
+    "lastUpdate": "2025-02-18T10:51:11.106Z"
   },
   {
     "name": "YUDA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-18T10:18:31.806Z"
+    "lastUpdate": "2025-02-18T10:51:16.132Z"
   },
   {
     "name": "SRI UTAMI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-18T10:18:36.929Z"
+    "lastUpdate": "2025-02-18T10:51:20.923Z"
   },
   {
     "name": "ULFA MARIA",
-    "stock": 13,
+    "stock": 11,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-18T10:45:14.120Z"
+    "lastUpdate": "2025-02-18T10:51:26.818Z"
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-17T20:51:17.173Z"
+    "lastUpdate": "2025-02-18T10:52:15.527Z"
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 0,
+    "stock": 19,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-17T20:41:35.515Z"
+    "lastUpdate": "2025-02-18T10:52:19.591Z"
   },
   {
     "name": "NADIFATUS SOLEHA",
