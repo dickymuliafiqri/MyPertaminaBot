@@ -526,10 +526,10 @@
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 35,
+    "stock": 32,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-19T21:27:34.453Z"
+    "lastUpdate": "2025-02-19T21:30:31.269Z"
   },
   {
     "name": "SOEKAMTO",
@@ -542,8 +542,8 @@
     "name": "TOKO TIARA",
     "stock": 31,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-02-19T21:28:17.833Z"
+    "isAlive": false,
+    "lastUpdate": "2025-02-19T21:31:13.211Z"
   },
   {
     "name": "TOKO POJOK-DISABLE",
