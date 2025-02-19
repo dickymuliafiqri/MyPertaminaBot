@@ -141,10 +141,10 @@
   },
   {
     "name": "UD RAHMAT",
-    "stock": 6,
+    "stock": 4,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-02-19T11:17:12.625Z"
+    "isAlive": true,
+    "lastUpdate": "2025-02-19T11:50:45.241Z"
   },
   {
     "name": "SUPARMAN",
@@ -197,10 +197,10 @@
   },
   {
     "name": "JONI H",
-    "stock": 2,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-19T11:47:22.405Z"
+    "lastUpdate": "2025-02-19T11:52:04.366Z"
   },
   {
     "name": "EVI DIANA SARI",
@@ -228,21 +228,21 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-19T11:19:01.205Z"
+    "lastUpdate": "2025-02-19T11:52:50.470Z"
   },
   {
     "name": "ROSA V",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-19T11:19:04.858Z"
+    "lastUpdate": "2025-02-19T11:52:55.053Z"
   },
   {
     "name": "LUKMAN BS",
-    "stock": 30,
+    "stock": 27,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-19T11:48:06.700Z"
+    "lastUpdate": "2025-02-19T11:52:58.934Z"
   },
   {
     "name": "BISTON MANURUNG",
