@@ -123,14 +123,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-19T12:12:37.165Z"
+    "lastUpdate": "2025-02-19T12:56:56.989Z"
   },
   {
     "name": "TOKO IIN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-19T12:18:01.545Z"
+    "lastUpdate": "2025-02-19T12:57:08.120Z"
   },
   {
     "name": "TOKO POJOK",
@@ -200,7 +200,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-19T12:23:55.715Z"
+    "lastUpdate": "2025-02-19T12:58:00.045Z"
   },
   {
     "name": "EVI DIANA SARI",
@@ -211,10 +211,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 2,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-19T12:47:22.566Z"
+    "lastUpdate": "2025-02-19T12:58:08.215Z"
   },
   {
     "name": "TK MUSTAPA",
@@ -228,21 +228,21 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-19T12:24:47.153Z"
+    "lastUpdate": "2025-02-19T12:58:52.073Z"
   },
   {
     "name": "ROSA V",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-19T12:24:52.716Z"
+    "lastUpdate": "2025-02-19T12:58:57.375Z"
   },
   {
     "name": "LUKMAN BS",
-    "stock": 12,
+    "stock": 10,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-02-19T12:24:58.602Z"
+    "isAlive": true,
+    "lastUpdate": "2025-02-19T12:59:03.424Z"
   },
   {
     "name": "BISTON MANURUNG",
@@ -270,7 +270,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-19T12:25:07.078Z"
+    "lastUpdate": "2025-02-19T12:59:42.842Z"
   },
   {
     "name": "YUDA",
@@ -311,8 +311,8 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 31,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-02-19T12:49:19.342Z"
+    "isAlive": false,
+    "lastUpdate": "2025-02-19T12:59:47.242Z"
   },
   {
     "name": "ISTIQOMAH",
@@ -347,14 +347,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-18T20:45:51.574Z"
+    "lastUpdate": "2025-02-19T13:01:08.723Z"
   },
   {
     "name": "YUSUF ISMAIL",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-18T20:45:56.819Z"
+    "lastUpdate": "2025-02-19T13:01:41.963Z"
   },
   {
     "name": "SUPARNI",
