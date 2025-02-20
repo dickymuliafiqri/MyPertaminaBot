@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-20T11:31:21.269Z"
+    "lastUpdate": "2025-02-20T11:37:38.704Z"
   },
   {
     "name": "UD RAHMAT",
@@ -494,7 +494,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-20T11:03:44.134Z"
+    "lastUpdate": "2025-02-20T11:38:42.131Z"
   },
   {
     "name": "DIYAH UTAMI",
@@ -519,17 +519,17 @@
   },
   {
     "name": "TK. LUCKY",
-    "stock": 3,
+    "stock": 1,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-20T11:35:24.764Z"
+    "lastUpdate": "2025-02-20T11:38:47.287Z"
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 2,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-20T11:36:12.395Z"
+    "lastUpdate": "2025-02-20T11:39:38.743Z"
   },
   {
     "name": "SOEKAMTO",
