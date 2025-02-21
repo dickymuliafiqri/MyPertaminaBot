@@ -18,14 +18,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-21T09:19:15.992Z"
+    "lastUpdate": "2025-02-21T09:50:34.649Z"
   },
   {
     "name": "ATHI HANDAYANI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-21T09:19:22.348Z"
+    "lastUpdate": "2025-02-21T09:50:38.556Z"
   },
   {
     "name": "CINDRAWATI",
@@ -67,7 +67,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-21T09:19:25.647Z"
+    "lastUpdate": "2025-02-21T09:50:41.714Z"
   },
   {
     "name": "JAENAL",
@@ -95,7 +95,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-21T09:19:30.844Z"
+    "lastUpdate": "2025-02-21T09:50:46.692Z"
   },
   {
     "name": "MOH SAID",
@@ -109,7 +109,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-21T09:19:35.337Z"
+    "lastUpdate": "2025-02-21T09:50:57.604Z"
   },
   {
     "name": "TK. MAJU",
@@ -136,8 +136,8 @@
     "name": "TOKO POJOK",
     "stock": 28,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-02-21T09:44:56.989Z"
+    "isAlive": false,
+    "lastUpdate": "2025-02-21T09:51:01.163Z"
   },
   {
     "name": "UD RAHMAT",
@@ -351,10 +351,10 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 35,
+    "stock": 32,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-21T09:48:12.796Z"
+    "lastUpdate": "2025-02-21T09:51:52.806Z"
   },
   {
     "name": "SUPARNI",
@@ -393,24 +393,24 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 26,
+    "stock": 23,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-21T09:48:53.297Z"
+    "lastUpdate": "2025-02-21T09:52:33.499Z"
   },
   {
     "name": "MOH HAFIF",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-20T20:50:44.891Z"
+    "lastUpdate": "2025-02-21T09:53:14.715Z"
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 0,
+    "stock": 33,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-20T20:50:48.446Z"
+    "lastUpdate": "2025-02-21T09:53:32.571Z"
   },
   {
     "name": "SUDJIONO",
