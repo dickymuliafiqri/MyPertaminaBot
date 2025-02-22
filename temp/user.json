@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 6,
+    "stock": 4,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-22T21:57:04.824Z"
+    "lastUpdate": "2025-02-22T22:02:08.548Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 54,
+    "stock": 51,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-22T21:57:36.793Z"
+    "lastUpdate": "2025-02-22T22:02:41.212Z"
   },
   {
     "name": "UD RAHMAT",
@@ -291,14 +291,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-22T21:31:47.913Z"
+    "lastUpdate": "2025-02-22T22:03:18.623Z"
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-22T21:32:09.966Z"
+    "lastUpdate": "2025-02-22T22:03:23.258Z"
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -340,7 +340,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-21T11:15:12.528Z"
+    "lastUpdate": "2025-02-22T22:03:45.287Z"
   },
   {
     "name": "ONG SWI GIOK",
@@ -351,10 +351,10 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 2,
+    "stock": 0,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-02-21T10:55:38.141Z"
+    "isAlive": true,
+    "lastUpdate": "2025-02-22T22:04:07.758Z"
   },
   {
     "name": "SUPARNI",
