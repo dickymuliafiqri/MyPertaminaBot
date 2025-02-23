@@ -463,10 +463,10 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 38,
+    "stock": 35,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-23T02:23:33.747Z"
+    "lastUpdate": "2025-02-23T02:25:47.315Z"
   },
   {
     "name": "SUSILO",
@@ -507,8 +507,8 @@
     "name": "SALMAH",
     "stock": 58,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-02-23T02:24:18.329Z"
+    "isAlive": false,
+    "lastUpdate": "2025-02-23T02:26:31.996Z"
   },
   {
     "name": "TOKO ANITA",
@@ -536,7 +536,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-23T01:56:36.836Z"
+    "lastUpdate": "2025-02-23T02:26:41.966Z"
   },
   {
     "name": "TOKO TIARA",
