@@ -241,8 +241,8 @@
     "name": "LUKMAN BS",
     "stock": 50,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-02-24T12:09:42.998Z"
+    "isAlive": false,
+    "lastUpdate": "2025-02-24T12:13:00.765Z"
   },
   {
     "name": "BISTON MANURUNG",
@@ -281,10 +281,10 @@
   },
   {
     "name": "SRI UTAMI",
-    "stock": 8,
+    "stock": 6,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-24T12:10:34.047Z"
+    "lastUpdate": "2025-02-24T12:13:12.061Z"
   },
   {
     "name": "ULFA MARIA",
@@ -295,17 +295,17 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 31,
+    "stock": 28,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-24T12:11:06.673Z"
+    "lastUpdate": "2025-02-24T12:13:48.233Z"
   },
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-24T11:29:24.401Z"
+    "lastUpdate": "2025-02-24T12:14:57.577Z"
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -319,7 +319,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-24T11:29:29.429Z"
+    "lastUpdate": "2025-02-24T12:15:02.873Z"
   },
   {
     "name": "SUROSO",
@@ -347,7 +347,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-23T20:39:00.456Z"
+    "lastUpdate": "2025-02-24T12:17:26.348Z"
   },
   {
     "name": "YUSUF ISMAIL",
@@ -361,7 +361,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-23T20:50:27.450Z"
+    "lastUpdate": "2025-02-24T12:17:57.363Z"
   },
   {
     "name": "H. JUMAT",
@@ -445,14 +445,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-24T11:30:13.655Z"
+    "lastUpdate": "2025-02-24T12:18:29.371Z"
   },
   {
     "name": "HERDIANA DIYAH S",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-24T11:30:17.021Z"
+    "lastUpdate": "2025-02-24T12:18:34.271Z"
   },
   {
     "name": "BUDI",
@@ -508,14 +508,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-24T11:30:36.374Z"
+    "lastUpdate": "2025-02-24T12:18:56.420Z"
   },
   {
     "name": "TOKO ANITA",
-    "stock": 14,
+    "stock": 12,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-24T11:54:00.637Z"
+    "lastUpdate": "2025-02-24T12:19:02.326Z"
   },
   {
     "name": "TK. LUCKY",
