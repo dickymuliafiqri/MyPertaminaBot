@@ -136,8 +136,8 @@
     "name": "TOKO POJOK",
     "stock": 25,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-02-24T09:10:58.167Z"
+    "isAlive": false,
+    "lastUpdate": "2025-02-24T09:14:09.427Z"
   },
   {
     "name": "UD RAHMAT",
@@ -169,17 +169,17 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 18,
+    "stock": 16,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-24T09:12:07.982Z"
+    "lastUpdate": "2025-02-24T09:14:18.733Z"
   },
   {
     "name": "P. SUK",
-    "stock": 6,
+    "stock": 4,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-24T09:12:43.911Z"
+    "lastUpdate": "2025-02-24T09:14:57.073Z"
   },
   {
     "name": "H. BAMBANG S",
@@ -190,10 +190,10 @@
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 0,
+    "stock": 39,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-24T08:13:56.386Z"
+    "lastUpdate": "2025-02-24T09:15:35.296Z"
   },
   {
     "name": "JONI H",
