@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 9,
+    "stock": 7,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-24T10:10:34.740Z"
+    "lastUpdate": "2025-02-24T10:13:16.210Z"
   },
   {
     "name": "UD RAHMAT",
@@ -192,8 +192,8 @@
     "name": "ANDRI HERU CAHYONO",
     "stock": 12,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-02-24T10:11:14.165Z"
+    "isAlive": false,
+    "lastUpdate": "2025-02-24T10:13:52.985Z"
   },
   {
     "name": "JONI H",
@@ -232,17 +232,17 @@
   },
   {
     "name": "ROSA V",
-    "stock": 6,
+    "stock": 4,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-24T10:11:51.582Z"
+    "lastUpdate": "2025-02-24T10:13:59.899Z"
   },
   {
     "name": "LUKMAN BS",
-    "stock": 96,
+    "stock": 93,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-24T08:28:15.893Z"
+    "lastUpdate": "2025-02-24T10:14:36.801Z"
   },
   {
     "name": "BISTON MANURUNG",
