@@ -136,8 +136,8 @@
     "name": "TOKO POJOK",
     "stock": 1,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-02-25T13:32:30.443Z"
+    "isAlive": false,
+    "lastUpdate": "2025-02-25T13:35:54.527Z"
   },
   {
     "name": "UD RAHMAT",
@@ -256,7 +256,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-25T13:03:19.673Z"
+    "lastUpdate": "2025-02-25T13:36:07.438Z"
   },
   {
     "name": "ALPAN SANYOTO",
@@ -347,14 +347,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-25T13:05:28.984Z"
+    "lastUpdate": "2025-02-25T13:36:12.942Z"
   },
   {
     "name": "YUSUF ISMAIL",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-25T13:05:35.410Z"
+    "lastUpdate": "2025-02-25T13:36:16.726Z"
   },
   {
     "name": "SUPARNI",
@@ -382,7 +382,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-25T12:56:51.969Z"
+    "lastUpdate": "2025-02-25T13:36:51.618Z"
   },
   {
     "name": "ARIF FAUZI",
@@ -533,10 +533,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 10,
+    "stock": 8,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-02-25T13:34:30.147Z"
+    "lastUpdate": "2025-02-25T13:36:59.450Z"
   },
   {
     "name": "TOKO TIARA",
