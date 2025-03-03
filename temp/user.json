@@ -127,10 +127,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 5,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-03T03:54:08.750Z"
+    "lastUpdate": "2025-03-03T03:58:15.733Z"
   },
   {
     "name": "TOKO POJOK",
@@ -141,17 +141,17 @@
   },
   {
     "name": "UD RAHMAT",
-    "stock": 55,
+    "stock": 50,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-03T03:49:15.993Z"
+    "lastUpdate": "2025-03-03T04:00:06.526Z"
   },
   {
     "name": "SUPARMAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-02T20:38:19.828Z"
+    "lastUpdate": "2025-03-03T04:01:16.179Z"
   },
   {
     "name": "DJAMIAH",
@@ -165,21 +165,21 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-02T21:01:05.621Z"
+    "lastUpdate": "2025-03-03T04:01:20.278Z"
   },
   {
     "name": "ERNA PUJIATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-02T20:38:24.373Z"
+    "lastUpdate": "2025-03-03T04:01:25.430Z"
   },
   {
     "name": "P. SUK",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-02T20:38:28.423Z"
+    "lastUpdate": "2025-03-03T04:01:30.113Z"
   },
   {
     "name": "H. BAMBANG S",
@@ -193,14 +193,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-02T20:38:32.418Z"
+    "lastUpdate": "2025-03-03T04:01:34.194Z"
   },
   {
     "name": "JONI H",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-02T20:38:35.907Z"
+    "lastUpdate": "2025-03-03T04:01:39.051Z"
   },
   {
     "name": "EVI DIANA SARI",
@@ -214,7 +214,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-02T20:38:41.870Z"
+    "lastUpdate": "2025-03-03T04:02:10.776Z"
   },
   {
     "name": "TK MUSTAPA",
@@ -228,14 +228,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-02T20:38:45.798Z"
+    "lastUpdate": "2025-03-03T04:02:37.789Z"
   },
   {
     "name": "ROSA V",
-    "stock": 0,
+    "stock": 21,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-02T20:54:50.954Z"
+    "lastUpdate": "2025-03-03T04:02:42.082Z"
   },
   {
     "name": "LUKMAN BS",
