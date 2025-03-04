@@ -25,7 +25,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-04T04:46:58.278Z"
+    "lastUpdate": "2025-03-04T05:19:03.733Z"
   },
   {
     "name": "CINDRAWATI",
@@ -116,21 +116,21 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-04T04:43:58.439Z"
+    "lastUpdate": "2025-03-04T05:19:10.995Z"
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 20,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-04T05:13:15.065Z"
+    "lastUpdate": "2025-03-04T05:19:15.029Z"
   },
   {
     "name": "TOKO IIN",
-    "stock": 55,
+    "stock": 50,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-03-04T04:44:58.984Z"
+    "isAlive": true,
+    "lastUpdate": "2025-03-04T05:20:17.239Z"
   },
   {
     "name": "TOKO POJOK",
@@ -144,7 +144,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-04T04:49:33.521Z"
+    "lastUpdate": "2025-03-04T05:21:20.638Z"
   },
   {
     "name": "SUPARMAN",
@@ -241,8 +241,8 @@
     "name": "LUKMAN BS",
     "stock": 40,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-03-04T05:14:38.232Z"
+    "isAlive": false,
+    "lastUpdate": "2025-03-04T05:21:25.885Z"
   },
   {
     "name": "BISTON MANURUNG",
@@ -288,10 +288,10 @@
   },
   {
     "name": "ULFA MARIA",
-    "stock": 23,
+    "stock": 18,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-04T05:16:51.277Z"
+    "lastUpdate": "2025-03-04T05:22:18.084Z"
   },
   {
     "name": "BAMBANG HARTONO",
