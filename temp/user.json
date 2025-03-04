@@ -344,10 +344,10 @@
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 20,
+    "stock": 15,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-03-04T06:26:27.098Z"
+    "isAlive": true,
+    "lastUpdate": "2025-03-04T07:00:49.544Z"
   },
   {
     "name": "YUSUF ISMAIL",
@@ -382,7 +382,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-04T06:28:29.592Z"
+    "lastUpdate": "2025-03-04T07:02:48.112Z"
   },
   {
     "name": "ARIF FAUZI",
