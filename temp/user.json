@@ -109,7 +109,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-04T05:28:03.248Z"
+    "lastUpdate": "2025-03-04T06:00:03.512Z"
   },
   {
     "name": "TK. MAJU",
@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-04T05:56:09.095Z"
+    "lastUpdate": "2025-03-04T06:00:08.907Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 45,
+    "stock": 40,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-04T05:57:19.420Z"
+    "lastUpdate": "2025-03-04T06:01:18.756Z"
   },
   {
     "name": "UD RAHMAT",
@@ -239,10 +239,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 40,
+    "stock": 35,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-03-04T05:21:25.885Z"
+    "isAlive": true,
+    "lastUpdate": "2025-03-04T06:02:31.735Z"
   },
   {
     "name": "BISTON MANURUNG",
