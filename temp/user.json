@@ -242,7 +242,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-05T10:59:45.099Z"
+    "lastUpdate": "2025-03-05T11:33:17.229Z"
   },
   {
     "name": "BISTON MANURUNG",
@@ -354,7 +354,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-05T11:00:16.424Z"
+    "lastUpdate": "2025-03-05T11:34:16.331Z"
   },
   {
     "name": "SUPARNI",
@@ -368,7 +368,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-05T11:00:20.538Z"
+    "lastUpdate": "2025-03-05T11:34:20.946Z"
   },
   {
     "name": "YOGA RAJAN",
@@ -389,7 +389,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-05T11:00:24.884Z"
+    "lastUpdate": "2025-03-05T11:34:26.000Z"
   },
   {
     "name": "TOKO SURYATI",
@@ -428,10 +428,10 @@
   },
   {
     "name": "WIKAN K",
-    "stock": 20,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-05T11:29:42.306Z"
+    "lastUpdate": "2025-03-05T11:34:30.423Z"
   },
   {
     "name": "TUSOK",
@@ -442,17 +442,17 @@
   },
   {
     "name": "MISRI CICI",
-    "stock": 5,
+    "stock": 0,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-03-05T11:01:49.089Z"
+    "isAlive": true,
+    "lastUpdate": "2025-03-05T11:35:49.902Z"
   },
   {
     "name": "HERDIANA DIYAH S",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-05T11:02:26.033Z"
+    "lastUpdate": "2025-03-05T11:35:55.061Z"
   },
   {
     "name": "BUDI",
@@ -512,10 +512,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 13,
+    "stock": 8,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-05T11:31:23.446Z"
+    "lastUpdate": "2025-03-05T11:35:59.185Z"
   },
   {
     "name": "TK. LUCKY",
@@ -536,14 +536,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-05T10:36:05.772Z"
+    "lastUpdate": "2025-03-05T11:37:23.931Z"
   },
   {
     "name": "TOKO TIARA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-04T20:57:13.454Z"
+    "lastUpdate": "2025-03-05T11:37:52.009Z"
   },
   {
     "name": "TOKO POJOK-DISABLE",
