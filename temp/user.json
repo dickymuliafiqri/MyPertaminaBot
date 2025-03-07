@@ -225,17 +225,17 @@
   },
   {
     "name": "YUNIS WAHYUNI",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-03-07T07:54:59.801Z"
+    "isAlive": true,
+    "lastUpdate": "2025-03-07T08:27:31.976Z"
   },
   {
     "name": "ROSA V",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-07T07:55:06.847Z"
+    "lastUpdate": "2025-03-07T08:28:32.913Z"
   },
   {
     "name": "LUKMAN BS",
@@ -253,10 +253,10 @@
   },
   {
     "name": "ROSIDI",
-    "stock": 5,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-07T08:22:50.368Z"
+    "lastUpdate": "2025-03-07T08:28:37.569Z"
   },
   {
     "name": "ALPAN SANYOTO",
@@ -312,7 +312,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-07T06:33:14.378Z"
+    "lastUpdate": "2025-03-07T08:30:01.425Z"
   },
   {
     "name": "ISTIQOMAH",
@@ -337,10 +337,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 95,
+    "stock": 90,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-07T08:25:40.254Z"
+    "lastUpdate": "2025-03-07T08:30:04.820Z"
   },
   {
     "name": "ONG SWI GIOK",
