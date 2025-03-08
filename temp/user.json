@@ -32,7 +32,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-08T05:20:11.335Z"
+    "lastUpdate": "2025-03-08T05:52:32.527Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -46,21 +46,21 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-08T05:20:17.016Z"
+    "lastUpdate": "2025-03-08T05:52:38.123Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-08T05:20:22.189Z"
+    "lastUpdate": "2025-03-08T05:52:43.940Z"
   },
   {
     "name": "SUCIYONO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-08T05:20:28.281Z"
+    "lastUpdate": "2025-03-08T05:52:49.797Z"
   },
   {
     "name": "SUMBER REJEKI",
@@ -74,7 +74,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-08T05:20:33.292Z"
+    "lastUpdate": "2025-03-08T05:52:57.369Z"
   },
   {
     "name": "JOKO SUWARNO",
@@ -127,10 +127,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-03-08T05:20:40.362Z"
+    "isAlive": true,
+    "lastUpdate": "2025-03-08T05:53:01.752Z"
   },
   {
     "name": "TOKO POJOK",
@@ -375,7 +375,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-08T05:22:52.212Z"
+    "lastUpdate": "2025-03-08T05:55:06.395Z"
   },
   {
     "name": "HARSININGSIH",
@@ -459,28 +459,28 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-08T05:24:17.276Z"
+    "lastUpdate": "2025-03-08T05:55:13.129Z"
   },
   {
     "name": "YULI SORAYA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-08T05:24:20.918Z"
+    "lastUpdate": "2025-03-08T05:55:16.621Z"
   },
   {
     "name": "SUSILO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-08T05:24:24.684Z"
+    "lastUpdate": "2025-03-08T05:55:22.373Z"
   },
   {
     "name": "HJ. HAERONI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-08T05:24:28.276Z"
+    "lastUpdate": "2025-03-08T05:55:26.177Z"
   },
   {
     "name": "IMA",
