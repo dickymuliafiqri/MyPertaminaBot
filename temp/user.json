@@ -102,7 +102,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-08T03:59:49.368Z"
+    "lastUpdate": "2025-03-08T04:33:29.609Z"
   },
   {
     "name": "TITIK ISMIATIN",
@@ -120,17 +120,17 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 30,
+    "stock": 25,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-03-08T04:02:19.308Z"
+    "isAlive": true,
+    "lastUpdate": "2025-03-08T04:33:33.618Z"
   },
   {
     "name": "TOKO IIN",
-    "stock": 50,
+    "stock": 45,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-08T04:27:44.458Z"
+    "lastUpdate": "2025-03-08T04:35:16.758Z"
   },
   {
     "name": "TOKO POJOK",
@@ -365,10 +365,10 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 18,
+    "stock": 13,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-08T04:29:04.077Z"
+    "lastUpdate": "2025-03-08T04:36:26.731Z"
   },
   {
     "name": "YOGA RAJAN",
