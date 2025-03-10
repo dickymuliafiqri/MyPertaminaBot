@@ -57,10 +57,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 55,
+    "stock": 50,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-10T10:36:24.544Z"
+    "lastUpdate": "2025-03-10T10:43:14.290Z"
   },
   {
     "name": "SUMBER REJEKI",
@@ -297,15 +297,15 @@
     "name": "BAMBANG HARTONO",
     "stock": 17,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-03-10T10:38:35.130Z"
+    "isAlive": false,
+    "lastUpdate": "2025-03-10T10:44:56.289Z"
   },
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-10T10:12:51.762Z"
+    "lastUpdate": "2025-03-10T10:45:04.927Z"
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -319,14 +319,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-10T10:13:47.958Z"
+    "lastUpdate": "2025-03-10T10:45:08.549Z"
   },
   {
     "name": "SUROSO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-08T21:34:14.744Z"
+    "lastUpdate": "2025-03-10T10:45:36.700Z"
   },
   {
     "name": "HADI SUTOYO",
@@ -347,7 +347,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-08T21:34:25.883Z"
+    "lastUpdate": "2025-03-10T10:46:43.799Z"
   },
   {
     "name": "YUSUF ISMAIL",
