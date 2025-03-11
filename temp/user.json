@@ -95,7 +95,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-11T03:45:46.183Z"
+    "lastUpdate": "2025-03-11T04:17:11.118Z"
   },
   {
     "name": "MOH SAID",
@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 15,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-11T04:12:40.835Z"
+    "lastUpdate": "2025-03-11T04:17:15.746Z"
   },
   {
     "name": "TOKO POJOK",
     "stock": 55,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-03-11T04:13:54.073Z"
+    "isAlive": false,
+    "lastUpdate": "2025-03-11T04:18:19.612Z"
   },
   {
     "name": "UD RAHMAT",
@@ -239,24 +239,24 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 45,
+    "stock": 40,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-11T04:15:25.959Z"
+    "lastUpdate": "2025-03-11T04:18:27.709Z"
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-10T21:03:24.121Z"
+    "lastUpdate": "2025-03-11T04:19:59.450Z"
   },
   {
     "name": "ROSIDI",
-    "stock": 0,
+    "stock": 22,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-10T21:03:27.416Z"
+    "lastUpdate": "2025-03-11T04:20:04.522Z"
   },
   {
     "name": "ALPAN SANYOTO",
