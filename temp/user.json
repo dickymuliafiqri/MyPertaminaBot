@@ -11,14 +11,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-11T04:39:59.890Z"
+    "lastUpdate": "2025-03-11T05:13:28.793Z"
   },
   {
     "name": "ALFIAN DWI A.",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-11T04:43:20.425Z"
+    "lastUpdate": "2025-03-11T05:13:31.698Z"
   },
   {
     "name": "ATHI HANDAYANI",
@@ -39,21 +39,21 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-11T04:40:02.941Z"
+    "lastUpdate": "2025-03-11T05:13:34.829Z"
   },
   {
     "name": "BINA MAKMUR",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-11T04:43:24.968Z"
+    "lastUpdate": "2025-03-11T05:13:38.007Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-11T04:40:06.185Z"
+    "lastUpdate": "2025-03-11T05:13:41.201Z"
   },
   {
     "name": "SUCIYONO",
@@ -67,7 +67,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-11T04:43:28.827Z"
+    "lastUpdate": "2025-03-11T05:13:44.499Z"
   },
   {
     "name": "JAENAL",
@@ -109,7 +109,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-11T04:40:10.260Z"
+    "lastUpdate": "2025-03-11T05:13:48.547Z"
   },
   {
     "name": "TK. MAJU",
@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 30,
+    "stock": 25,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-11T05:09:29.016Z"
+    "lastUpdate": "2025-03-11T05:13:51.407Z"
   },
   {
     "name": "UD RAHMAT",
@@ -211,10 +211,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 15,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-11T05:10:34.383Z"
+    "lastUpdate": "2025-03-11T05:15:18.759Z"
   },
   {
     "name": "TK MUSTAPA",
@@ -256,7 +256,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-11T04:42:09.975Z"
+    "lastUpdate": "2025-03-11T05:16:15.080Z"
   },
   {
     "name": "ALPAN SANYOTO",
@@ -542,8 +542,8 @@
     "name": "TOKO TIARA",
     "stock": 1,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-03-11T05:11:43.377Z"
+    "isAlive": false,
+    "lastUpdate": "2025-03-11T05:16:17.981Z"
   },
   {
     "name": "TOKO POJOK-DISABLE",
