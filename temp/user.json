@@ -60,7 +60,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-11T01:06:27.348Z"
+    "lastUpdate": "2025-03-11T01:39:18.694Z"
   },
   {
     "name": "SUMBER REJEKI",
@@ -71,10 +71,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 5,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-11T01:35:23.008Z"
+    "lastUpdate": "2025-03-11T01:39:22.308Z"
   },
   {
     "name": "JOKO SUWARNO",
@@ -85,24 +85,24 @@
   },
   {
     "name": "KARSONO",
-    "stock": 35,
+    "stock": 30,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-11T01:36:25.918Z"
+    "lastUpdate": "2025-03-11T01:40:25.155Z"
   },
   {
     "name": "LUTFI A.",
     "stock": 70,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-03-11T01:37:30.199Z"
+    "isAlive": false,
+    "lastUpdate": "2025-03-11T01:41:30.377Z"
   },
   {
     "name": "MOH SAID",
-    "stock": 0,
+    "stock": 52,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-10T21:01:04.091Z"
+    "lastUpdate": "2025-03-11T01:41:39.580Z"
   },
   {
     "name": "TITIK ISMIATIN",
