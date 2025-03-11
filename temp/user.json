@@ -81,14 +81,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-11T05:17:14.472Z"
+    "lastUpdate": "2025-03-11T05:48:24.981Z"
   },
   {
     "name": "KARSONO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-11T05:17:18.945Z"
+    "lastUpdate": "2025-03-11T05:48:27.941Z"
   },
   {
     "name": "LUTFI A.",
@@ -123,7 +123,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-11T05:17:22.852Z"
+    "lastUpdate": "2025-03-11T05:48:31.698Z"
   },
   {
     "name": "TOKO IIN",
@@ -256,7 +256,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-11T05:16:15.080Z"
+    "lastUpdate": "2025-03-11T05:48:35.116Z"
   },
   {
     "name": "ALPAN SANYOTO",
@@ -540,10 +540,10 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-03-11T05:16:17.981Z"
+    "isAlive": true,
+    "lastUpdate": "2025-03-11T05:48:37.941Z"
   },
   {
     "name": "TOKO POJOK-DISABLE",
