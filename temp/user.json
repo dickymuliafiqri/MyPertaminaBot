@@ -395,8 +395,8 @@
     "name": "TOKO SURYATI",
     "stock": 6,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-03-12T10:08:47.320Z"
+    "isAlive": false,
+    "lastUpdate": "2025-03-12T10:10:40.881Z"
   },
   {
     "name": "MOH HAFIF",
