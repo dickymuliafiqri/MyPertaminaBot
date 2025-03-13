@@ -39,7 +39,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-13T01:42:09.524Z"
+    "lastUpdate": "2025-03-13T02:15:22.005Z"
   },
   {
     "name": "BINA MAKMUR",
@@ -71,24 +71,24 @@
   },
   {
     "name": "JAENAL",
-    "stock": 20,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-03-13T02:11:34.185Z"
-  },
-  {
-    "name": "JOKO SUWARNO",
-    "stock": 20,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-03-13T02:12:34.052Z"
-  },
-  {
-    "name": "KARSONO",
     "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-13T02:13:33.784Z"
+    "lastUpdate": "2025-03-13T02:15:25.337Z"
+  },
+  {
+    "name": "JOKO SUWARNO",
+    "stock": 15,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2025-03-13T02:16:28.164Z"
+  },
+  {
+    "name": "KARSONO",
+    "stock": 10,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2025-03-13T02:17:25.502Z"
   },
   {
     "name": "LUTFI A.",
