@@ -25,14 +25,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-13T04:49:44.335Z"
+    "lastUpdate": "2025-03-13T05:20:35.388Z"
   },
   {
     "name": "CINDRAWATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-13T04:49:48.452Z"
+    "lastUpdate": "2025-03-13T05:20:38.617Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -95,7 +95,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-13T04:49:52.629Z"
+    "lastUpdate": "2025-03-13T05:21:00.378Z"
   },
   {
     "name": "MOH SAID",
@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 15,
+    "stock": 10,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-03-13T04:49:56.761Z"
+    "isAlive": true,
+    "lastUpdate": "2025-03-13T05:21:03.609Z"
   },
   {
     "name": "UD RAHMAT",
@@ -456,10 +456,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 8,
+    "stock": 3,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-13T05:18:48.963Z"
+    "lastUpdate": "2025-03-13T05:22:11.380Z"
   },
   {
     "name": "YULI SORAYA",
