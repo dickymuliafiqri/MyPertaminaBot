@@ -57,10 +57,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 90,
+    "stock": 85,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-14T05:17:31.934Z"
+    "lastUpdate": "2025-03-14T05:20:16.692Z"
   },
   {
     "name": "SUMBER REJEKI",
@@ -115,8 +115,8 @@
     "name": "TK. MAJU",
     "stock": 70,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-03-14T05:18:31.850Z"
+    "isAlive": false,
+    "lastUpdate": "2025-03-14T05:21:22.163Z"
   },
   {
     "name": "TOKO 2 PUTRI",
