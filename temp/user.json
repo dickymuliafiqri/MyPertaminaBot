@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 35,
+    "stock": 30,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-15T04:28:20.986Z"
+    "lastUpdate": "2025-03-15T04:33:22.848Z"
   },
   {
     "name": "UD RAHMAT",
@@ -312,35 +312,35 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-15T04:01:55.293Z"
+    "lastUpdate": "2025-03-15T04:34:21.335Z"
   },
   {
     "name": "ISTIQOMAH",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-15T04:01:58.602Z"
+    "lastUpdate": "2025-03-15T04:34:24.205Z"
   },
   {
     "name": "SUROSO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-15T04:02:02.004Z"
+    "lastUpdate": "2025-03-15T04:34:27.089Z"
   },
   {
     "name": "HADI SUTOYO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-15T04:02:24.359Z"
+    "lastUpdate": "2025-03-15T04:34:29.892Z"
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 30,
+    "stock": 25,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-15T04:29:50.014Z"
+    "lastUpdate": "2025-03-15T04:34:33.018Z"
   },
   {
     "name": "ONG SWI GIOK",
@@ -423,36 +423,36 @@
     "name": "SAMSUL ARIFIN",
     "stock": 20,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-03-15T04:31:24.808Z"
+    "isAlive": false,
+    "lastUpdate": "2025-03-15T04:35:31.506Z"
   },
   {
     "name": "WIKAN K",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-14T20:52:47.817Z"
+    "lastUpdate": "2025-03-15T04:35:37.401Z"
   },
   {
     "name": "TUSOK",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-14T21:00:55.742Z"
+    "lastUpdate": "2025-03-15T04:35:40.294Z"
   },
   {
     "name": "MISRI CICI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-14T21:00:59.295Z"
+    "lastUpdate": "2025-03-15T04:35:43.184Z"
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 0,
+    "stock": 35,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-14T21:01:02.775Z"
+    "lastUpdate": "2025-03-15T04:35:46.131Z"
   },
   {
     "name": "BUDI",
