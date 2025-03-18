@@ -129,15 +129,15 @@
     "name": "TOKO IIN",
     "stock": 5,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-03-18T06:21:31.956Z"
+    "isAlive": false,
+    "lastUpdate": "2025-03-18T06:29:11.112Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 70,
+    "stock": 65,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-18T06:23:16.709Z"
+    "lastUpdate": "2025-03-18T06:29:19.943Z"
   },
   {
     "name": "UD RAHMAT",
@@ -211,10 +211,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 0,
+    "stock": 56,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-17T20:56:35.536Z"
+    "lastUpdate": "2025-03-18T06:31:38.664Z"
   },
   {
     "name": "TK MUSTAPA",
@@ -249,7 +249,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-17T20:56:53.793Z"
+    "lastUpdate": "2025-03-18T06:35:35.018Z"
   },
   {
     "name": "ROSIDI",
@@ -270,7 +270,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-18T06:02:29.414Z"
+    "lastUpdate": "2025-03-18T06:35:40.536Z"
   },
   {
     "name": "YUDA",
@@ -361,7 +361,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-18T06:03:00.961Z"
+    "lastUpdate": "2025-03-18T06:36:21.671Z"
   },
   {
     "name": "H. JUMAT",
@@ -375,21 +375,21 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-18T06:03:06.301Z"
+    "lastUpdate": "2025-03-18T06:36:27.079Z"
   },
   {
     "name": "HARSININGSIH",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-18T06:03:09.562Z"
+    "lastUpdate": "2025-03-18T06:36:31.289Z"
   },
   {
     "name": "ARIF FAUZI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-18T06:03:15.127Z"
+    "lastUpdate": "2025-03-18T06:36:34.956Z"
   },
   {
     "name": "TOKO SURYATI",
@@ -403,7 +403,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-18T06:03:21.824Z"
+    "lastUpdate": "2025-03-18T06:36:42.724Z"
   },
   {
     "name": "CAHYA HERAWATI",
@@ -421,10 +421,10 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 8,
+    "stock": 3,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-18T06:26:51.609Z"
+    "lastUpdate": "2025-03-18T06:36:51.257Z"
   },
   {
     "name": "WIKAN K",
