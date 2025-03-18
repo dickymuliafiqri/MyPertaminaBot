@@ -164,15 +164,15 @@
     "name": "HJ LILIK LAILIYAH",
     "stock": 32,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-03-18T21:39:20.567Z"
+    "isAlive": false,
+    "lastUpdate": "2025-03-18T21:43:19.518Z"
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 12,
+    "stock": 7,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-18T21:40:25.855Z"
+    "lastUpdate": "2025-03-18T21:43:26.069Z"
   },
   {
     "name": "P. SUK",
@@ -197,10 +197,10 @@
   },
   {
     "name": "JONI H",
-    "stock": 25,
+    "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-18T21:41:30.203Z"
+    "lastUpdate": "2025-03-18T21:44:28.847Z"
   },
   {
     "name": "EVI DIANA SARI",
@@ -214,7 +214,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-18T21:00:40.880Z"
+    "lastUpdate": "2025-03-18T21:45:31.787Z"
   },
   {
     "name": "TK MUSTAPA",
@@ -228,35 +228,35 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-18T21:00:44.096Z"
+    "lastUpdate": "2025-03-18T21:45:34.671Z"
   },
   {
     "name": "ROSA V",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-18T21:00:47.304Z"
+    "lastUpdate": "2025-03-18T21:45:37.591Z"
   },
   {
     "name": "LUKMAN BS",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-18T21:00:50.650Z"
+    "lastUpdate": "2025-03-18T21:45:40.527Z"
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-18T21:00:53.950Z"
+    "lastUpdate": "2025-03-18T21:45:43.560Z"
   },
   {
     "name": "ROSIDI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-18T21:00:57.272Z"
+    "lastUpdate": "2025-03-18T21:45:46.512Z"
   },
   {
     "name": "ALPAN SANYOTO",
@@ -267,10 +267,10 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 7,
+    "stock": 2,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-18T21:26:18.913Z"
+    "lastUpdate": "2025-03-18T21:45:49.340Z"
   },
   {
     "name": "YUDA",
