@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 45,
+    "stock": 40,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-20T19:32:52.373Z"
+    "lastUpdate": "2025-03-20T19:36:38.890Z"
   },
   {
     "name": "UD RAHMAT",
@@ -305,42 +305,42 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-20T19:06:35.686Z"
+    "lastUpdate": "2025-03-20T19:37:45.415Z"
   },
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-20T19:06:38.924Z"
+    "lastUpdate": "2025-03-20T19:37:48.713Z"
   },
   {
     "name": "ISTIQOMAH",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-20T19:06:42.202Z"
+    "lastUpdate": "2025-03-20T19:37:51.978Z"
   },
   {
     "name": "SUROSO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-20T19:06:45.514Z"
+    "lastUpdate": "2025-03-20T19:37:55.256Z"
   },
   {
     "name": "HADI SUTOYO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-20T19:06:48.649Z"
+    "lastUpdate": "2025-03-20T19:37:58.546Z"
   },
   {
     "name": "SRI HIDAYATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-20T19:06:51.964Z"
+    "lastUpdate": "2025-03-20T19:38:01.846Z"
   },
   {
     "name": "ONG SWI GIOK",
@@ -354,21 +354,21 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-20T19:06:55.262Z"
+    "lastUpdate": "2025-03-20T19:38:05.104Z"
   },
   {
     "name": "SUPARNI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-20T19:06:58.601Z"
+    "lastUpdate": "2025-03-20T19:38:09.059Z"
   },
   {
     "name": "H. JUMAT",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-20T19:07:01.709Z"
+    "lastUpdate": "2025-03-20T19:38:12.388Z"
   },
   {
     "name": "YOGA RAJAN",
@@ -386,17 +386,17 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 2,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-03-20T19:34:48.959Z"
-  },
-  {
-    "name": "TOKO SURYATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-20T04:32:53.660Z"
+    "lastUpdate": "2025-03-20T19:38:15.637Z"
+  },
+  {
+    "name": "TOKO SURYATI",
+    "stock": 49,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2025-03-20T19:38:45.033Z"
   },
   {
     "name": "MOH HAFIF",
