@@ -449,10 +449,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-03-21T14:10:56.117Z"
+    "isAlive": true,
+    "lastUpdate": "2025-03-21T14:41:34.128Z"
   },
   {
     "name": "BUDI",
@@ -487,7 +487,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-21T14:11:25.772Z"
+    "lastUpdate": "2025-03-21T14:41:55.596Z"
   },
   {
     "name": "DARMAWAN P",
@@ -508,7 +508,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-21T14:11:50.882Z"
+    "lastUpdate": "2025-03-21T14:42:00.115Z"
   },
   {
     "name": "TOKO ANITA",
