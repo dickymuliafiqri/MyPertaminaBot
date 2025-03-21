@@ -18,7 +18,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-21T08:31:07.788Z"
+    "lastUpdate": "2025-03-21T09:04:56.835Z"
   },
   {
     "name": "ATHI HANDAYANI",
@@ -32,21 +32,21 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-21T08:31:11.910Z"
+    "lastUpdate": "2025-03-21T09:05:00.213Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-21T08:31:15.459Z"
+    "lastUpdate": "2025-03-21T09:05:04.716Z"
   },
   {
     "name": "BINA MAKMUR",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-21T08:31:19.487Z"
+    "lastUpdate": "2025-03-21T09:05:09.278Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -60,7 +60,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-21T08:31:23.167Z"
+    "lastUpdate": "2025-03-21T09:05:13.009Z"
   },
   {
     "name": "SUMBER REJEKI",
@@ -94,29 +94,29 @@
     "name": "LUTFI A.",
     "stock": 90,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-03-21T09:00:38.786Z"
+    "isAlive": false,
+    "lastUpdate": "2025-03-21T09:05:18.380Z"
   },
   {
     "name": "MOH SAID",
-    "stock": 17,
+    "stock": 9,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-21T09:01:59.911Z"
+    "lastUpdate": "2025-03-21T09:05:27.406Z"
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 60,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-03-21T09:03:04.858Z"
-  },
-  {
-    "name": "TK. MAJU",
     "stock": 55,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-21T08:52:34.570Z"
+    "lastUpdate": "2025-03-21T09:06:56.174Z"
+  },
+  {
+    "name": "TK. MAJU",
+    "stock": 50,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2025-03-21T09:08:07.001Z"
   },
   {
     "name": "TOKO 2 PUTRI",
