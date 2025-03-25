@@ -431,7 +431,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-25T11:01:36.028Z"
+    "lastUpdate": "2025-03-25T11:33:09.727Z"
   },
   {
     "name": "TUSOK",
@@ -514,8 +514,8 @@
     "name": "TOKO ANITA",
     "stock": 12,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-03-25T11:30:39.636Z"
+    "isAlive": false,
+    "lastUpdate": "2025-03-25T11:33:13.052Z"
   },
   {
     "name": "TK. LUCKY",
@@ -540,10 +540,10 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 4,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-25T11:31:34.715Z"
+    "lastUpdate": "2025-03-25T11:33:19.894Z"
   },
   {
     "name": "TOKO POJOK-DISABLE",
