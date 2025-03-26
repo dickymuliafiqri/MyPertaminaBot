@@ -60,7 +60,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-26T06:08:20.968Z"
+    "lastUpdate": "2025-03-26T06:41:31.217Z"
   },
   {
     "name": "SUMBER REJEKI",
@@ -106,17 +106,17 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 20,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-03-26T06:36:52.504Z"
-  },
-  {
-    "name": "TK. MAJU",
     "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-26T06:38:22.164Z"
+    "lastUpdate": "2025-03-26T06:41:36.091Z"
+  },
+  {
+    "name": "TK. MAJU",
+    "stock": 10,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2025-03-26T06:42:36.400Z"
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -127,10 +127,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 75,
+    "stock": 70,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-26T06:39:50.388Z"
+    "lastUpdate": "2025-03-26T06:43:36.185Z"
   },
   {
     "name": "TOKO POJOK",
