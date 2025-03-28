@@ -11,7 +11,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-28T08:18:46.037Z"
+    "lastUpdate": "2025-03-28T08:49:32.877Z"
   },
   {
     "name": "ALFIAN DWI A.",
@@ -53,7 +53,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-28T08:18:49.877Z"
+    "lastUpdate": "2025-03-28T08:49:36.898Z"
   },
   {
     "name": "SUCIYONO",
@@ -74,7 +74,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-28T08:18:54.315Z"
+    "lastUpdate": "2025-03-28T08:49:40.515Z"
   },
   {
     "name": "JOKO SUWARNO",
@@ -115,29 +115,29 @@
     "name": "TK. MAJU",
     "stock": 20,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-03-28T08:46:51.917Z"
+    "isAlive": false,
+    "lastUpdate": "2025-03-28T08:49:46.339Z"
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 50,
+    "stock": 45,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-28T08:47:54.399Z"
+    "lastUpdate": "2025-03-28T08:49:56.062Z"
   },
   {
     "name": "TOKO IIN",
-    "stock": 0,
+    "stock": 75,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-28T02:32:04.964Z"
+    "lastUpdate": "2025-03-28T08:51:25.305Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 0,
+    "stock": 95,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-03-28T02:32:08.040Z"
+    "lastUpdate": "2025-03-28T08:52:44.339Z"
   },
   {
     "name": "UD RAHMAT",
