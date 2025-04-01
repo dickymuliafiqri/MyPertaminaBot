@@ -1,10 +1,10 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 90,
+    "stock": 85,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-04-01T21:43:35.306Z"
+    "isAlive": true,
+    "lastUpdate": "2025-04-01T22:13:54.967Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -15,10 +15,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 50,
+    "stock": 45,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-01T22:10:12.787Z"
+    "lastUpdate": "2025-04-01T22:14:55.911Z"
   },
   {
     "name": "ATHI HANDAYANI",
@@ -39,14 +39,14 @@
     "stock": -35,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-01T21:45:46.095Z"
+    "lastUpdate": "2025-04-01T22:15:56.955Z"
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 50,
+    "stock": 45,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-01T22:11:16.525Z"
+    "lastUpdate": "2025-04-01T22:16:00.664Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
