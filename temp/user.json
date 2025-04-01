@@ -25,14 +25,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-01T09:27:19.913Z"
+    "lastUpdate": "2025-04-01T09:58:04.275Z"
   },
   {
     "name": "CINDRAWATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-01T09:27:23.543Z"
+    "lastUpdate": "2025-04-01T09:58:07.488Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -53,14 +53,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-01T09:27:27.403Z"
+    "lastUpdate": "2025-04-01T09:58:11.401Z"
   },
   {
     "name": "SUCIYONO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-01T09:27:31.785Z"
+    "lastUpdate": "2025-04-01T09:58:16.092Z"
   },
   {
     "name": "SUMBER REJEKI",
@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-04-01T09:27:35.739Z"
+    "isAlive": true,
+    "lastUpdate": "2025-04-01T09:58:19.254Z"
   },
   {
     "name": "MOH HAFIF",
