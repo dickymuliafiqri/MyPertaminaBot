@@ -129,8 +129,8 @@
     "name": "TOKO IIN",
     "stock": 10,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-04-03T03:39:58.143Z"
+    "isAlive": false,
+    "lastUpdate": "2025-04-03T03:43:08.622Z"
   },
   {
     "name": "TOKO POJOK",
