@@ -295,10 +295,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 3,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-04T09:52:52.409Z"
+    "lastUpdate": "2025-04-04T09:55:29.413Z"
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -393,17 +393,17 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 30,
+    "stock": 25,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-04T09:27:27.777Z"
+    "lastUpdate": "2025-04-04T09:57:39.146Z"
   },
   {
     "name": "MOH HAFIF",
-    "stock": 30,
+    "stock": 25,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-04T09:15:02.000Z"
+    "lastUpdate": "2025-04-04T09:59:10.165Z"
   },
   {
     "name": "CAHYA HERAWATI",
