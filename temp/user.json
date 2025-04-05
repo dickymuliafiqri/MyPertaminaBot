@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-05T05:12:56.334Z"
+    "lastUpdate": "2025-04-05T05:20:34.260Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 20,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-05T05:14:11.308Z"
+    "lastUpdate": "2025-04-05T05:21:43.560Z"
   },
   {
     "name": "UD RAHMAT",
@@ -449,10 +449,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 25,
+    "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-05T05:18:45.055Z"
+    "lastUpdate": "2025-04-05T05:24:29.875Z"
   },
   {
     "name": "BUDI",
