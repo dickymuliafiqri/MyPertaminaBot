@@ -32,7 +32,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-07T02:43:01.656Z"
+    "lastUpdate": "2025-04-07T03:14:21.222Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -102,35 +102,35 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-07T02:39:58.153Z"
+    "lastUpdate": "2025-04-07T03:14:29.885Z"
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 45,
+    "stock": 40,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-07T03:09:50.289Z"
+    "lastUpdate": "2025-04-07T03:14:35.269Z"
   },
   {
     "name": "TK. MAJU",
-    "stock": 50,
+    "stock": 45,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-07T03:10:59.408Z"
+    "lastUpdate": "2025-04-07T03:15:57.433Z"
   },
   {
     "name": "TOKO 2 PUTRI",
     "stock": 45,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-04-07T03:12:17.863Z"
+    "isAlive": false,
+    "lastUpdate": "2025-04-07T03:17:05.598Z"
   },
   {
     "name": "TOKO IIN",
-    "stock": 0,
+    "stock": 75,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-06T20:37:10.189Z"
+    "lastUpdate": "2025-04-07T03:17:16.471Z"
   },
   {
     "name": "TOKO POJOK",
