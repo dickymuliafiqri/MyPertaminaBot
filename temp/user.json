@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 15,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-08T01:40:24.984Z"
+    "lastUpdate": "2025-04-08T01:45:07.889Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 60,
+    "stock": 55,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-08T01:41:58.661Z"
+    "lastUpdate": "2025-04-08T01:46:42.097Z"
   },
   {
     "name": "UD RAHMAT",
@@ -213,8 +213,8 @@
     "name": "TOKO IRAWAN",
     "stock": 45,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-04-08T01:43:12.792Z"
+    "isAlive": false,
+    "lastUpdate": "2025-04-08T01:47:57.165Z"
   },
   {
     "name": "TK MUSTAPA",
@@ -228,21 +228,21 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-07T20:50:54.663Z"
+    "lastUpdate": "2025-04-08T01:48:04.171Z"
   },
   {
     "name": "ROSA V",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-07T20:50:58.227Z"
+    "lastUpdate": "2025-04-08T01:48:07.669Z"
   },
   {
     "name": "LUKMAN BS",
-    "stock": 0,
+    "stock": 55,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-07T20:53:42.074Z"
+    "lastUpdate": "2025-04-08T01:48:11.123Z"
   },
   {
     "name": "BISTON MANURUNG",
