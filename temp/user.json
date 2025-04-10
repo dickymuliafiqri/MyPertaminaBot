@@ -57,10 +57,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 15,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-10T00:54:58.584Z"
+    "lastUpdate": "2025-04-10T00:59:11.229Z"
   },
   {
     "name": "SUMBER REJEKI",
@@ -73,22 +73,22 @@
     "name": "JAENAL",
     "stock": 50,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-04-10T00:56:13.757Z"
+    "isAlive": false,
+    "lastUpdate": "2025-04-10T01:00:18.458Z"
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 25,
+    "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-10T00:57:21.672Z"
+    "lastUpdate": "2025-04-10T01:00:25.340Z"
   },
   {
     "name": "KARSONO",
-    "stock": 55,
+    "stock": 50,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-10T00:49:03.815Z"
+    "lastUpdate": "2025-04-10T01:01:28.772Z"
   },
   {
     "name": "LUTFI A.",
