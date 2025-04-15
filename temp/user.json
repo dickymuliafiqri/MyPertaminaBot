@@ -414,10 +414,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 6,
+    "stock": 1,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-15T10:41:09.714Z"
+    "lastUpdate": "2025-04-15T10:43:51.748Z"
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -528,8 +528,8 @@
     "name": "UD SAMAN HADI",
     "stock": 25,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-04-15T10:42:12.654Z"
+    "isAlive": false,
+    "lastUpdate": "2025-04-15T10:45:01.552Z"
   },
   {
     "name": "SOEKAMTO",
