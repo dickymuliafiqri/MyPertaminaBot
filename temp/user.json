@@ -197,10 +197,10 @@
   },
   {
     "name": "JONI H",
-    "stock": 20,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-16T06:41:23.440Z"
+    "lastUpdate": "2025-04-16T06:45:37.059Z"
   },
   {
     "name": "EVI DIANA SARI",
@@ -381,8 +381,8 @@
     "name": "HARSININGSIH",
     "stock": 11,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-04-16T06:43:02.464Z"
+    "isAlive": false,
+    "lastUpdate": "2025-04-16T06:46:38.962Z"
   },
   {
     "name": "ARIF FAUZI",
