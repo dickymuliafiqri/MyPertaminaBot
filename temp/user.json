@@ -25,7 +25,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-21T01:57:35.007Z"
+    "lastUpdate": "2025-04-21T02:44:29.407Z"
   },
   {
     "name": "CINDRAWATI",
@@ -46,7 +46,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-21T01:44:05.324Z"
+    "lastUpdate": "2025-04-21T02:44:56.735Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -213,8 +213,8 @@
     "name": "TOKO IRAWAN",
     "stock": 47,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-04-21T02:39:42.812Z"
+    "isAlive": false,
+    "lastUpdate": "2025-04-21T02:45:35.308Z"
   },
   {
     "name": "TK MUSTAPA",
@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 44,
+    "stock": 39,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-21T02:40:46.706Z"
+    "lastUpdate": "2025-04-21T02:45:46.106Z"
   },
   {
     "name": "MOH HAFIF",
