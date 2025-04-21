@@ -45,29 +45,29 @@
     "name": "BINA MAKMUR",
     "stock": 75,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-04-21T23:18:42.938Z"
+    "isAlive": false,
+    "lastUpdate": "2025-04-21T23:22:20.235Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 75,
+    "stock": 70,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-21T23:19:41.969Z"
+    "lastUpdate": "2025-04-21T23:22:27.376Z"
   },
   {
     "name": "SUCIYONO",
-    "stock": 95,
+    "stock": 90,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-21T23:20:39.873Z"
+    "lastUpdate": "2025-04-21T23:23:21.404Z"
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 0,
+    "stock": 75,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-21T21:01:52.357Z"
+    "lastUpdate": "2025-04-21T23:24:17.914Z"
   },
   {
     "name": "JAENAL",
