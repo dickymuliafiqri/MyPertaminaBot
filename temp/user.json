@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 15,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-22T04:41:09.554Z"
+    "lastUpdate": "2025-04-22T04:45:01.528Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 35,
+    "stock": 30,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-22T04:42:10.254Z"
+    "lastUpdate": "2025-04-22T04:46:04.839Z"
   },
   {
     "name": "UD RAHMAT",
@@ -253,10 +253,10 @@
   },
   {
     "name": "ROSIDI",
-    "stock": 4,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-22T04:43:15.379Z"
+    "lastUpdate": "2025-04-22T04:47:07.818Z"
   },
   {
     "name": "ALPAN SANYOTO",
