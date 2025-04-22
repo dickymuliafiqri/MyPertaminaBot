@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 9,
+    "stock": 4,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-22T05:39:01.915Z"
+    "lastUpdate": "2025-04-22T05:42:01.361Z"
   },
   {
     "name": "MOH HAFIF",
@@ -533,17 +533,17 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 3,
+    "stock": 0,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-04-22T05:12:40.964Z"
+    "isAlive": true,
+    "lastUpdate": "2025-04-22T05:42:57.241Z"
   },
   {
     "name": "TOKO TIARA",
-    "stock": 34,
+    "stock": 29,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-22T05:40:16.807Z"
+    "lastUpdate": "2025-04-22T05:43:35.046Z"
   },
   {
     "name": "TOKO POJOK-DISABLE",
