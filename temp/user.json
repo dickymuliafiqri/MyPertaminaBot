@@ -276,8 +276,8 @@
     "name": "YUDA",
     "stock": 12,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-04-24T09:07:08.297Z"
+    "isAlive": false,
+    "lastUpdate": "2025-04-24T09:11:36.491Z"
   },
   {
     "name": "SRI UTAMI",
@@ -435,10 +435,10 @@
   },
   {
     "name": "TUSOK",
-    "stock": 19,
+    "stock": 14,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-24T09:09:24.005Z"
+    "lastUpdate": "2025-04-24T09:12:24.278Z"
   },
   {
     "name": "MISRI CICI",
