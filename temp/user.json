@@ -120,31 +120,31 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 20,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-25T03:47:29.424Z"
+    "lastUpdate": "2025-04-25T03:52:18.065Z"
   },
   {
     "name": "TOKO IIN",
     "stock": 35,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-04-25T03:48:40.293Z"
+    "isAlive": false,
+    "lastUpdate": "2025-04-25T03:53:28.092Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 70,
+    "stock": 65,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-25T03:49:47.309Z"
+    "lastUpdate": "2025-04-25T03:53:36.070Z"
   },
   {
     "name": "UD RAHMAT",
-    "stock": 40,
+    "stock": 35,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-25T03:45:33.046Z"
+    "lastUpdate": "2025-04-25T03:54:41.885Z"
   },
   {
     "name": "SUPARMAN",
