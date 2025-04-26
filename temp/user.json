@@ -116,7 +116,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-26T04:51:36.526Z"
+    "lastUpdate": "2025-04-26T05:22:58.135Z"
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -136,8 +136,8 @@
     "name": "TOKO POJOK",
     "stock": 10,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-04-26T05:19:20.841Z"
+    "isAlive": false,
+    "lastUpdate": "2025-04-26T05:23:03.399Z"
   },
   {
     "name": "UD RAHMAT",
@@ -337,10 +337,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 9,
+    "stock": 4,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-04-26T04:52:54.974Z"
+    "isAlive": true,
+    "lastUpdate": "2025-04-26T05:23:13.182Z"
   },
   {
     "name": "ONG SWI GIOK",
@@ -368,7 +368,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-26T04:53:32.849Z"
+    "lastUpdate": "2025-04-26T05:24:19.220Z"
   },
   {
     "name": "YOGA RAJAN",
@@ -451,8 +451,8 @@
     "name": "HERDIANA DIYAH S",
     "stock": 43,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-04-26T05:20:19.311Z"
+    "isAlive": false,
+    "lastUpdate": "2025-04-26T05:24:23.687Z"
   },
   {
     "name": "BUDI",
@@ -470,24 +470,24 @@
   },
   {
     "name": "SUSILO",
-    "stock": 9,
+    "stock": 4,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-26T05:21:15.746Z"
+    "lastUpdate": "2025-04-26T05:24:31.819Z"
   },
   {
     "name": "HJ. HAERONI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-25T20:55:18.258Z"
+    "lastUpdate": "2025-04-26T05:25:33.849Z"
   },
   {
     "name": "IMA",
-    "stock": 0,
+    "stock": 24,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-25T20:46:30.152Z"
+    "lastUpdate": "2025-04-26T05:25:37.450Z"
   },
   {
     "name": "DARMAWAN P",
