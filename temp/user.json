@@ -116,7 +116,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-26T05:22:58.135Z"
+    "lastUpdate": "2025-04-26T05:53:18.640Z"
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-04-26T05:23:03.399Z"
+    "isAlive": true,
+    "lastUpdate": "2025-04-26T05:53:21.776Z"
   },
   {
     "name": "UD RAHMAT",
