@@ -200,7 +200,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-29T10:10:39.299Z"
+    "lastUpdate": "2025-04-29T10:42:20.695Z"
   },
   {
     "name": "EVI DIANA SARI",
@@ -395,8 +395,8 @@
     "name": "TOKO SURYATI",
     "stock": 24,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-04-29T10:39:42.928Z"
+    "isAlive": false,
+    "lastUpdate": "2025-04-29T10:42:24.607Z"
   },
   {
     "name": "MOH HAFIF",
@@ -519,10 +519,10 @@
   },
   {
     "name": "TK. LUCKY",
-    "stock": 12,
+    "stock": 7,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-04-29T07:57:52.830Z"
+    "isAlive": true,
+    "lastUpdate": "2025-04-29T10:42:50.691Z"
   },
   {
     "name": "UD SAMAN HADI",
