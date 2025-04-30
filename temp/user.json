@@ -32,14 +32,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-30T15:02:11.811Z"
+    "lastUpdate": "2025-04-30T15:51:59.069Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-30T15:02:17.367Z"
+    "lastUpdate": "2025-04-30T15:52:21.131Z"
   },
   {
     "name": "BINA MAKMUR",
@@ -269,8 +269,8 @@
     "name": "JAMILAH",
     "stock": 14,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-04-30T15:48:25.746Z"
+    "isAlive": false,
+    "lastUpdate": "2025-04-30T15:52:55.503Z"
   },
   {
     "name": "YUDA",
