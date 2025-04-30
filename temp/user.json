@@ -409,8 +409,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 19,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-04-30T04:04:49.314Z"
+    "isAlive": false,
+    "lastUpdate": "2025-04-30T04:09:31.785Z"
   },
   {
     "name": "SUDJIONO",
@@ -428,10 +428,10 @@
   },
   {
     "name": "WIKAN K",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-30T04:06:14.864Z"
+    "lastUpdate": "2025-04-30T04:09:43.208Z"
   },
   {
     "name": "TUSOK",
@@ -463,59 +463,59 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 35,
+    "stock": 30,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-30T04:07:35.026Z"
+    "lastUpdate": "2025-04-30T04:10:58.749Z"
   },
   {
     "name": "SUSILO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-30T03:26:28.384Z"
+    "lastUpdate": "2025-04-30T04:12:13.984Z"
   },
   {
     "name": "HJ. HAERONI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-30T03:26:32.634Z"
+    "lastUpdate": "2025-04-30T04:12:17.889Z"
   },
   {
     "name": "IMA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-30T03:37:44.499Z"
+    "lastUpdate": "2025-04-30T04:12:24.277Z"
   },
   {
     "name": "DARMAWAN P",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-30T03:39:18.862Z"
+    "lastUpdate": "2025-04-30T04:12:30.174Z"
   },
   {
     "name": "DIYAH UTAMI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-30T03:39:21.801Z"
+    "lastUpdate": "2025-04-30T04:12:36.263Z"
   },
   {
     "name": "SALMAH",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-30T03:39:24.749Z"
+    "lastUpdate": "2025-04-30T04:12:40.952Z"
   },
   {
     "name": "TOKO ANITA",
-    "stock": 0,
+    "stock": 52,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-30T03:39:27.824Z"
+    "lastUpdate": "2025-04-30T04:12:46.502Z"
   },
   {
     "name": "TK. LUCKY",
