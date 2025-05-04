@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 22,
+    "stock": 17,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-04T12:43:05.745Z"
+    "lastUpdate": "2025-05-04T12:50:09.062Z"
   },
   {
     "name": "MOH HAFIF",
@@ -423,8 +423,8 @@
     "name": "SAMSUL ARIFIN",
     "stock": 4,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-05-04T12:44:08.337Z"
+    "isAlive": false,
+    "lastUpdate": "2025-05-04T12:51:14.359Z"
   },
   {
     "name": "WIKAN K",
@@ -435,17 +435,17 @@
   },
   {
     "name": "TUSOK",
-    "stock": 15,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-04T12:46:34.065Z"
+    "lastUpdate": "2025-05-04T12:51:21.750Z"
   },
   {
     "name": "MISRI CICI",
-    "stock": 0,
+    "stock": 9,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-30T03:57:50.924Z"
+    "lastUpdate": "2025-05-04T12:52:47.699Z"
   },
   {
     "name": "HERDIANA DIYAH S",
