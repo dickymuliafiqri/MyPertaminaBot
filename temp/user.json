@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 52,
+    "stock": 47,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-04T12:03:04.833Z"
+    "lastUpdate": "2025-05-04T12:05:50.082Z"
   },
   {
     "name": "MOH HAFIF",
@@ -407,10 +407,10 @@
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 19,
+    "stock": 0,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-04-30T04:09:31.785Z"
+    "isAlive": true,
+    "lastUpdate": "2025-05-04T12:07:11.231Z"
   },
   {
     "name": "SUDJIONO",
@@ -421,10 +421,10 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 0,
+    "stock": 19,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-04-30T03:54:25.891Z"
+    "lastUpdate": "2025-05-04T12:08:05.751Z"
   },
   {
     "name": "WIKAN K",
