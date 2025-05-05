@@ -25,14 +25,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-05T03:01:58.789Z"
+    "lastUpdate": "2025-05-05T03:48:35.749Z"
   },
   {
     "name": "CINDRAWATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-05T03:14:45.264Z"
+    "lastUpdate": "2025-05-05T03:48:41.199Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -74,7 +74,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-05T03:05:57.393Z"
+    "lastUpdate": "2025-05-05T03:48:45.407Z"
   },
   {
     "name": "JOKO SUWARNO",
@@ -94,29 +94,29 @@
     "name": "LUTFI A.",
     "stock": 10,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-05-05T03:33:23.765Z"
+    "isAlive": false,
+    "lastUpdate": "2025-05-05T03:48:50.779Z"
   },
   {
     "name": "MOH SAID",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-05-05T03:06:03.457Z"
+    "isAlive": true,
+    "lastUpdate": "2025-05-05T03:49:01.364Z"
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-05T03:34:30.180Z"
+    "lastUpdate": "2025-05-05T03:50:10.073Z"
   },
   {
     "name": "TK. MAJU",
-    "stock": 20,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-05T03:35:34.181Z"
+    "lastUpdate": "2025-05-05T03:51:18.971Z"
   },
   {
     "name": "TOKO 2 PUTRI",
