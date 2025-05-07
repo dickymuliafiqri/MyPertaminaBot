@@ -1,17 +1,17 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 25,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-05-07T23:10:53.194Z"
-  },
-  {
-    "name": "AKBAR RISQ",
     "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-07T23:11:58.355Z"
+    "lastUpdate": "2025-05-07T23:14:59.369Z"
+  },
+  {
+    "name": "AKBAR RISQ",
+    "stock": 19,
+    "isTokenValid": true,
+    "isAlive": false,
+    "lastUpdate": "2025-05-07T23:16:16.416Z"
   },
   {
     "name": "ALFIAN DWI A.",
