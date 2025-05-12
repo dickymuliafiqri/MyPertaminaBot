@@ -25,6 +25,9 @@ jobs:
         run: |
           bun install
           bunx playwright install
+      - name: Edit proxy config
+        run: |
+          sed -i "s/PROXY_PASSWORD/${{ secrets.PROXY_PASSWORD }}/" config/singbox.json
       - name: Run bun
         run: bun start
       - name: Reset git history
