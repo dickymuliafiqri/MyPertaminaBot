@@ -288,10 +288,10 @@
   },
   {
     "name": "ULFA MARIA",
-    "stock": 3,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-12T19:01:13.530Z"
+    "lastUpdate": "2025-05-12T19:05:55.048Z"
   },
   {
     "name": "BAMBANG HARTONO",
@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 54,
+    "stock": 49,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-12T19:03:06.674Z"
+    "lastUpdate": "2025-05-12T19:06:29.670Z"
   },
   {
     "name": "MOH HAFIF",
@@ -410,7 +410,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-11T20:40:41.286Z"
+    "lastUpdate": "2025-05-12T19:07:39.730Z"
   },
   {
     "name": "SUDJIONO",
@@ -424,7 +424,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-11T21:03:57.342Z"
+    "lastUpdate": "2025-05-12T19:08:38.580Z"
   },
   {
     "name": "WIKAN K",
