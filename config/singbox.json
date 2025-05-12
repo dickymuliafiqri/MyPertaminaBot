@@ -32,7 +32,7 @@
   ],
   "route": {
     "auto_detect_interface": true,
-    "final": "Internet",
+    "final": "direct",
     "rules": [
       { "action": "sniff", "inbound": "mixed-in" },
       { "action": "hijack-dns", "mode": "or", "rules": [{ "protocol": "dns" }, { "port": 53 }], "type": "logical" }
