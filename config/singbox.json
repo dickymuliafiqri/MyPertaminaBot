@@ -20,19 +20,18 @@
   ],
   "outbounds": [
     {
-      "password": "t.me/foolvpn",
-      "server": "nautica.foolvpn.me",
-      "server_port": 443,
+      "username": "damaralaedy",
+      "password": "PROXY_PASSWORD",
+      "server": "id1.foolvpn.me",
+      "server_port": 53004,
       "tag": "Internet",
-      "tls": { "enabled": true, "insecure": true, "server_name": "id1.foolvpn.me" },
-      "transport": { "headers": { "Host": "id1.foolvpn.me" }, "path": "/trojan-udp", "type": "ws" },
-      "type": "trojan"
+      "type": "socks"
     },
     { "tag": "direct", "type": "direct" }
   ],
   "route": {
     "auto_detect_interface": true,
-    "final": "direct",
+    "final": "Internet",
     "rules": [
       { "action": "sniff", "inbound": "mixed-in" },
       { "action": "hijack-dns", "mode": "or", "rules": [{ "protocol": "dns" }, { "port": 53 }], "type": "logical" }
