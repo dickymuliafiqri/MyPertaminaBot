@@ -43,10 +43,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 15,
+    "stock": 14,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-05-12T13:57:59.625Z"
+    "isAlive": false,
+    "lastUpdate": "2025-05-12T14:02:21.309Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -78,17 +78,17 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 45,
+    "stock": 40,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-11T21:33:35.703Z"
+    "lastUpdate": "2025-05-12T14:10:40.053Z"
   },
   {
     "name": "KARSONO",
-    "stock": 30,
+    "stock": 25,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-11T21:28:03.267Z"
+    "lastUpdate": "2025-05-12T14:12:07.605Z"
   },
   {
     "name": "LUTFI A.",
@@ -200,7 +200,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-12T13:13:20.769Z"
+    "lastUpdate": "2025-05-12T14:13:49.562Z"
   },
   {
     "name": "EVI DIANA SARI",
@@ -344,10 +344,10 @@
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 5,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-12T13:29:07.290Z"
+    "lastUpdate": "2025-05-12T14:14:24.729Z"
   },
   {
     "name": "YUSUF ISMAIL",
