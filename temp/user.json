@@ -11,7 +11,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-12T23:40:26.920Z"
+    "lastUpdate": "2025-05-13T00:13:48.443Z"
   },
   {
     "name": "ALFIAN DWI A.",
@@ -32,7 +32,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-12T23:40:30.841Z"
+    "lastUpdate": "2025-05-13T00:13:52.523Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -74,7 +74,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-12T23:42:27.106Z"
+    "lastUpdate": "2025-05-13T00:13:56.505Z"
   },
   {
     "name": "JOKO SUWARNO",
@@ -85,31 +85,31 @@
   },
   {
     "name": "KARSONO",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-13T00:09:54.833Z"
+    "lastUpdate": "2025-05-13T00:14:00.599Z"
   },
   {
     "name": "LUTFI A.",
     "stock": 40,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-05-13T00:10:52.192Z"
+    "isAlive": false,
+    "lastUpdate": "2025-05-13T00:14:59.766Z"
   },
   {
     "name": "MOH SAID",
-    "stock": 8,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-05-13T00:11:49.696Z"
-  },
-  {
-    "name": "TITIK ISMIATIN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-12T20:59:48.747Z"
+    "lastUpdate": "2025-05-13T00:15:09.532Z"
+  },
+  {
+    "name": "TITIK ISMIATIN",
+    "stock": 45,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2025-05-13T00:16:25.357Z"
   },
   {
     "name": "TK. MAJU",
