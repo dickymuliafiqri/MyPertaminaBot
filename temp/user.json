@@ -102,7 +102,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-13T01:19:48.884Z"
+    "lastUpdate": "2025-05-13T01:52:58.297Z"
   },
   {
     "name": "TITIK ISMIATIN",
@@ -127,10 +127,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 15,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-13T01:49:13.579Z"
+    "lastUpdate": "2025-05-13T01:53:02.568Z"
   },
   {
     "name": "TOKO POJOK",
@@ -297,8 +297,8 @@
     "name": "BAMBANG HARTONO",
     "stock": 12,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-05-13T01:51:10.710Z"
+    "isAlive": false,
+    "lastUpdate": "2025-05-13T01:53:58.440Z"
   },
   {
     "name": "HJ. ASLAMIYAH",
