@@ -395,8 +395,8 @@
     "name": "TOKO SURYATI",
     "stock": 35,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-05-14T05:11:27.058Z"
+    "isAlive": false,
+    "lastUpdate": "2025-05-14T05:14:27.329Z"
   },
   {
     "name": "MOH HAFIF",
@@ -512,17 +512,17 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 0,
+    "stock": 42,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-13T20:21:44.641Z"
+    "lastUpdate": "2025-05-14T05:14:53.283Z"
   },
   {
     "name": "TK. LUCKY",
-    "stock": 0,
+    "stock": 35,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-13T20:53:44.462Z"
+    "lastUpdate": "2025-05-14T05:16:25.775Z"
   },
   {
     "name": "UD SAMAN HADI",
