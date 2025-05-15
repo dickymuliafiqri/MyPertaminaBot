@@ -414,10 +414,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-15T07:27:28.469Z"
+    "lastUpdate": "2025-05-15T07:30:48.148Z"
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -465,8 +465,8 @@
     "name": "YULI SORAYA",
     "stock": 5,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-05-15T07:28:33.492Z"
+    "isAlive": false,
+    "lastUpdate": "2025-05-15T07:31:48.853Z"
   },
   {
     "name": "SUSILO",
