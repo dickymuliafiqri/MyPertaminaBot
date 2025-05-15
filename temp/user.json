@@ -416,8 +416,8 @@
     "name": "SUDJIONO",
     "stock": 20,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-05-15T06:42:11.196Z"
+    "isAlive": false,
+    "lastUpdate": "2025-05-15T06:46:09.824Z"
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -463,10 +463,10 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 35,
+    "stock": 30,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-15T06:43:59.637Z"
+    "lastUpdate": "2025-05-15T06:47:00.141Z"
   },
   {
     "name": "SUSILO",
@@ -494,14 +494,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-14T20:53:22.342Z"
+    "lastUpdate": "2025-05-15T06:50:55.443Z"
   },
   {
     "name": "DIYAH UTAMI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-14T20:53:26.152Z"
+    "lastUpdate": "2025-05-15T06:51:19.611Z"
   },
   {
     "name": "SALMAH",
