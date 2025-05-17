@@ -6,7 +6,7 @@ import { chromium, devices } from "playwright";
 import { Telegram } from "./telegram";
 
 export class Pertamina {
-  private linkLogin = "https://pertamina-login.vercel.app";
+  private linkLogin = "https://subsiditepatlpg.mypertamina.id/merchant-login";
   private linkReport = "https://api-map.my-pertamina.id/general/v1/transactions/report";
   private linkProduct = "https://api-map.my-pertamina.id/general/v2/products";
   private linkPersonal = "https://subsiditepatlpg.mypertamina.id/merchant/app/profile-merchant";
@@ -77,7 +77,7 @@ export class Pertamina {
       }
     });
 
-    await page.goto("https://subsiditepatlpg.mypertamina.id/merchant/auth/login");
+    await page.goto(this.linkLogin);
 
     await sleep(5000);
     await page.waitForSelector("#mantine-r0");
