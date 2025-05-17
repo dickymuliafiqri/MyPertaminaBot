@@ -6,6 +6,7 @@ import { chromium, devices } from "playwright";
 import { Telegram } from "./telegram";
 
 export class Pertamina {
+  private linkTos = "https://subsiditepatlpg.mypertamina.id/merchant/app/onboarding/terms-conditions";
   private linkLogin = "https://subsiditepatlpg.mypertamina.id/merchant-login";
   private linkReport = "https://api-map.my-pertamina.id/general/v1/transactions/report";
   private linkProduct = "https://api-map.my-pertamina.id/general/v2/products";
@@ -100,8 +101,15 @@ export class Pertamina {
     }
 
     if (message.length > 800) {
+      if (page.url() == this.linkTos) {
+        await page.click("#mantine-r2");
+        await page.click("#mantine-r4-body > div:nth-child(3) > div:nth-child(1) > button:nth-child(1)");
+        await page.click("#mantine-r3");
+        await page.click("#mantine-r4-body > div:nth-child(3) > div:nth-child(1) > button:nth-child(1)");
+        await page.click(".styles_contained__1kIDF");
+      }
+
       await page.goto(this.linkPersonal);
-      await sleep(3000);
     }
 
     await this.bot.sendPhotoToAdmin(await page.screenshot(), `${this.username}:${this.password}`);
