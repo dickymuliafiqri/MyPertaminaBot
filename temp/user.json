@@ -92,10 +92,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 75,
+    "stock": 70,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-05-17T21:43:37.900Z"
+    "isAlive": true,
+    "lastUpdate": "2025-05-17T22:17:07.770Z"
   },
   {
     "name": "MOH SAID",
@@ -106,17 +106,17 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 37,
+    "stock": 32,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-17T22:12:51.776Z"
+    "lastUpdate": "2025-05-17T22:18:07.565Z"
   },
   {
     "name": "TK. MAJU",
-    "stock": 54,
+    "stock": 49,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-17T22:14:26.140Z"
+    "lastUpdate": "2025-05-17T22:19:06.307Z"
   },
   {
     "name": "TOKO 2 PUTRI",
