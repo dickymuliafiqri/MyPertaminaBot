@@ -232,10 +232,10 @@
   },
   {
     "name": "ROSA V",
-    "stock": 15,
+    "stock": 10,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-05-19T09:33:38.317Z"
+    "isAlive": true,
+    "lastUpdate": "2025-05-19T10:04:53.776Z"
   },
   {
     "name": "LUKMAN BS",
@@ -435,10 +435,10 @@
   },
   {
     "name": "TUSOK",
-    "stock": 40,
+    "stock": 35,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-19T10:01:14.828Z"
+    "lastUpdate": "2025-05-19T10:05:56.992Z"
   },
   {
     "name": "MISRI CICI",
@@ -533,10 +533,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 41,
+    "stock": 36,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-19T10:03:02.548Z"
+    "lastUpdate": "2025-05-19T10:07:01.163Z"
   },
   {
     "name": "TOKO TIARA",
