@@ -81,7 +81,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-23T02:29:35.265Z"
+    "lastUpdate": "2025-05-23T03:03:18.871Z"
   },
   {
     "name": "KARSONO",
@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 50,
+    "stock": 45,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-05-23T02:29:41.565Z"
+    "isAlive": true,
+    "lastUpdate": "2025-05-23T03:03:22.456Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 35,
+    "stock": 30,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-23T02:59:38.184Z"
+    "lastUpdate": "2025-05-23T03:04:19.915Z"
   },
   {
     "name": "UD RAHMAT",
@@ -151,7 +151,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-23T02:31:38.613Z"
+    "lastUpdate": "2025-05-23T03:05:16.595Z"
   },
   {
     "name": "DJAMIAH",
@@ -165,21 +165,21 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-23T02:31:41.878Z"
+    "lastUpdate": "2025-05-23T03:05:19.924Z"
   },
   {
     "name": "ERNA PUJIATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-23T02:31:45.199Z"
+    "lastUpdate": "2025-05-23T03:05:23.326Z"
   },
   {
     "name": "P. SUK",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-23T02:31:48.430Z"
+    "lastUpdate": "2025-05-23T03:05:26.499Z"
   },
   {
     "name": "H. BAMBANG S",
@@ -193,14 +193,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-23T02:31:51.767Z"
+    "lastUpdate": "2025-05-23T03:05:29.747Z"
   },
   {
     "name": "JONI H",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-23T02:31:55.032Z"
+    "lastUpdate": "2025-05-23T03:05:32.944Z"
   },
   {
     "name": "EVI DIANA SARI",
@@ -211,10 +211,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 15,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-23T03:00:39.762Z"
+    "lastUpdate": "2025-05-23T03:05:36.393Z"
   },
   {
     "name": "TK MUSTAPA",
