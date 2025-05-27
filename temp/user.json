@@ -127,10 +127,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 13,
+    "stock": 8,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-27T10:47:28.541Z"
+    "lastUpdate": "2025-05-27T10:51:09.708Z"
   },
   {
     "name": "TOKO POJOK",
@@ -290,15 +290,15 @@
     "name": "ULFA MARIA",
     "stock": 42,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-05-27T02:12:35.121Z"
+    "isAlive": false,
+    "lastUpdate": "2025-05-27T10:52:27.974Z"
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-26T23:41:10.215Z"
+    "lastUpdate": "2025-05-27T10:52:52.303Z"
   },
   {
     "name": "HJ. ASLAMIYAH",
