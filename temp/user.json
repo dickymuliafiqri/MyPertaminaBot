@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 28,
+    "stock": 23,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-27T10:36:43.316Z"
+    "lastUpdate": "2025-05-27T10:40:23.363Z"
   },
   {
     "name": "TOKO POJOK",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-27T10:08:43.774Z"
+    "lastUpdate": "2025-05-27T10:41:23.112Z"
   },
   {
     "name": "UD RAHMAT",
@@ -199,8 +199,8 @@
     "name": "JONI H",
     "stock": 35,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-05-27T10:38:39.601Z"
+    "isAlive": false,
+    "lastUpdate": "2025-05-27T10:41:26.180Z"
   },
   {
     "name": "EVI DIANA SARI",
@@ -242,14 +242,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-27T02:12:16.663Z"
+    "lastUpdate": "2025-05-27T10:41:48.823Z"
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-27T02:12:19.684Z"
+    "lastUpdate": "2025-05-27T10:42:07.942Z"
   },
   {
     "name": "ROSIDI",
