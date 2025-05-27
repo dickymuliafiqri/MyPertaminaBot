@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 5,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-27T10:05:07.607Z"
+    "lastUpdate": "2025-05-27T10:08:43.774Z"
   },
   {
     "name": "UD RAHMAT",
@@ -162,17 +162,17 @@
   },
   {
     "name": "HJ LILIK LAILIYAH",
-    "stock": 25,
+    "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-27T10:06:05.890Z"
+    "lastUpdate": "2025-05-27T10:09:42.954Z"
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-27T10:07:04.906Z"
+    "lastUpdate": "2025-05-27T10:10:41.133Z"
   },
   {
     "name": "P. SUK",
