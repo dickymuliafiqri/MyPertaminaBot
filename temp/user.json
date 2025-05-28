@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 20,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-28T07:00:46.778Z"
+    "lastUpdate": "2025-05-28T07:04:39.995Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 77,
+    "stock": 72,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-05-28T06:34:22.696Z"
+    "isAlive": true,
+    "lastUpdate": "2025-05-28T07:05:47.924Z"
   },
   {
     "name": "UD RAHMAT",
@@ -239,10 +239,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 59,
+    "stock": 54,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-28T07:02:46.025Z"
+    "lastUpdate": "2025-05-28T07:06:55.533Z"
   },
   {
     "name": "BISTON MANURUNG",
