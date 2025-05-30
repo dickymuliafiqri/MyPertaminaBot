@@ -337,10 +337,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 2,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-30T10:22:17.488Z"
+    "lastUpdate": "2025-05-30T10:26:19.846Z"
   },
   {
     "name": "ONG SWI GIOK",
@@ -351,10 +351,10 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 2,
+    "stock": 0,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-05-30T09:54:32.214Z"
+    "isAlive": true,
+    "lastUpdate": "2025-05-30T10:26:51.305Z"
   },
   {
     "name": "SUPARNI",
@@ -463,10 +463,10 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 20,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-30T10:23:19.145Z"
+    "lastUpdate": "2025-05-30T10:27:22.854Z"
   },
   {
     "name": "SUSILO",
