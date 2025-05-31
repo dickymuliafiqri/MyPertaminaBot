@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-31T11:40:45.853Z"
+    "lastUpdate": "2025-05-31T11:45:50.382Z"
   },
   {
     "name": "UD RAHMAT",
@@ -389,14 +389,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-31T11:14:28.962Z"
+    "lastUpdate": "2025-05-31T11:46:59.690Z"
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 23,
+    "stock": 18,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-05-31T11:14:32.615Z"
+    "isAlive": true,
+    "lastUpdate": "2025-05-31T11:47:02.889Z"
   },
   {
     "name": "MOH HAFIF",
@@ -424,21 +424,21 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-31T11:14:58.677Z"
+    "lastUpdate": "2025-05-31T11:48:10.831Z"
   },
   {
     "name": "WIKAN K",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-31T11:15:18.743Z"
+    "lastUpdate": "2025-05-31T11:48:14.051Z"
   },
   {
     "name": "TUSOK",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-31T11:18:02.895Z"
+    "lastUpdate": "2025-05-31T11:48:17.226Z"
   },
   {
     "name": "MISRI CICI",
@@ -536,7 +536,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-30T23:56:12.755Z"
+    "lastUpdate": "2025-05-31T11:53:42.376Z"
   },
   {
     "name": "TOKO TIARA",
