@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 35,
+    "stock": 30,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-31T11:07:28.379Z"
+    "lastUpdate": "2025-05-31T11:13:15.799Z"
   },
   {
     "name": "UD RAHMAT",
@@ -389,14 +389,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-31T10:40:43.671Z"
+    "lastUpdate": "2025-05-31T11:14:28.962Z"
   },
   {
     "name": "TOKO SURYATI",
     "stock": 23,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-05-31T11:10:23.342Z"
+    "isAlive": false,
+    "lastUpdate": "2025-05-31T11:14:32.615Z"
   },
   {
     "name": "MOH HAFIF",
@@ -424,14 +424,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-30T21:22:04.742Z"
+    "lastUpdate": "2025-05-31T11:14:58.677Z"
   },
   {
     "name": "WIKAN K",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-05-30T23:54:50.230Z"
+    "lastUpdate": "2025-05-31T11:15:18.743Z"
   },
   {
     "name": "TUSOK",
