@@ -458,15 +458,15 @@
     "name": "BUDI",
     "stock": 30,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-06-01T08:35:54.724Z"
+    "isAlive": false,
+    "lastUpdate": "2025-06-01T08:38:49.484Z"
   },
   {
     "name": "YULI SORAYA",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-01T08:36:59.801Z"
+    "lastUpdate": "2025-06-01T08:38:56.130Z"
   },
   {
     "name": "SUSILO",
