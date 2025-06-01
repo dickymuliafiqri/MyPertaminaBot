@@ -456,10 +456,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 30,
+    "stock": 25,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-06-01T08:38:49.484Z"
+    "isAlive": true,
+    "lastUpdate": "2025-06-01T09:09:25.778Z"
   },
   {
     "name": "YULI SORAYA",
