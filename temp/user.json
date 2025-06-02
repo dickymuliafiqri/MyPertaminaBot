@@ -11,7 +11,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-02T03:07:31.483Z"
+    "lastUpdate": "2025-06-02T03:44:01.222Z"
   },
   {
     "name": "ALFIAN DWI A.",
@@ -46,7 +46,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-02T03:03:05.979Z"
+    "lastUpdate": "2025-06-02T03:44:04.540Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -60,7 +60,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-02T02:58:42.363Z"
+    "lastUpdate": "2025-06-02T03:44:07.976Z"
   },
   {
     "name": "SUMBER REJEKI",
@@ -88,21 +88,21 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-02T03:07:34.948Z"
+    "lastUpdate": "2025-06-02T03:44:11.171Z"
   },
   {
     "name": "LUTFI A.",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-02T03:07:40.141Z"
+    "lastUpdate": "2025-06-02T03:44:16.222Z"
   },
   {
     "name": "MOH SAID",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-02T03:07:44.949Z"
+    "lastUpdate": "2025-06-02T03:44:20.875Z"
   },
   {
     "name": "TITIK ISMIATIN",
@@ -113,10 +113,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-06-02T03:03:11.790Z"
+    "isAlive": true,
+    "lastUpdate": "2025-06-02T03:44:24.305Z"
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 15,
+    "stock": 10,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-06-02T03:13:07.585Z"
+    "isAlive": true,
+    "lastUpdate": "2025-06-02T03:45:29.260Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 65,
+    "stock": 60,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-02T03:28:38.051Z"
+    "lastUpdate": "2025-06-02T03:46:33.669Z"
   },
   {
     "name": "UD RAHMAT",
