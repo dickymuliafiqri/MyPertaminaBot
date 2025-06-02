@@ -421,10 +421,10 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 18,
+    "stock": 13,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-06-02T10:19:05.118Z"
+    "isAlive": true,
+    "lastUpdate": "2025-06-02T10:51:13.730Z"
   },
   {
     "name": "WIKAN K",
@@ -508,35 +508,35 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-02T10:20:19.611Z"
+    "lastUpdate": "2025-06-02T10:52:27.434Z"
   },
   {
     "name": "TOKO ANITA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-02T10:20:22.582Z"
+    "lastUpdate": "2025-06-02T10:52:31.181Z"
   },
   {
     "name": "TK. LUCKY",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-02T10:20:25.381Z"
+    "lastUpdate": "2025-06-02T10:52:35.538Z"
   },
   {
     "name": "UD SAMAN HADI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-02T10:20:27.999Z"
+    "lastUpdate": "2025-06-02T10:52:38.526Z"
   },
   {
     "name": "SOEKAMTO",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-02T10:49:07.569Z"
+    "lastUpdate": "2025-06-02T10:52:41.527Z"
   },
   {
     "name": "TOKO TIARA",
