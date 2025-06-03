@@ -169,10 +169,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 20,
+    "stock": 15,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-06-03T09:35:34.331Z"
+    "isAlive": true,
+    "lastUpdate": "2025-06-03T10:05:47.554Z"
   },
   {
     "name": "P. SUK",
@@ -249,14 +249,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-03T09:36:27.991Z"
+    "lastUpdate": "2025-06-03T10:06:34.040Z"
   },
   {
     "name": "ROSIDI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-03T09:36:30.903Z"
+    "lastUpdate": "2025-06-03T10:06:36.663Z"
   },
   {
     "name": "ALPAN SANYOTO",
@@ -270,21 +270,21 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-03T09:36:33.956Z"
+    "lastUpdate": "2025-06-03T10:06:39.329Z"
   },
   {
     "name": "YUDA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-03T09:36:37.176Z"
+    "lastUpdate": "2025-06-03T10:06:41.900Z"
   },
   {
     "name": "SRI UTAMI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-03T09:36:40.365Z"
+    "lastUpdate": "2025-06-03T10:06:44.507Z"
   },
   {
     "name": "ULFA MARIA",
@@ -305,7 +305,7 @@
     "stock": -13,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-03T09:36:43.564Z"
+    "lastUpdate": "2025-06-03T10:06:47.168Z"
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 32,
+    "stock": 27,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-06-03T09:36:46.771Z"
+    "isAlive": true,
+    "lastUpdate": "2025-06-03T10:06:49.822Z"
   },
   {
     "name": "MOH HAFIF",
