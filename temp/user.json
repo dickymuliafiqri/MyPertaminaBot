@@ -81,7 +81,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-03T02:18:49.567Z"
+    "lastUpdate": "2025-06-03T02:49:16.414Z"
   },
   {
     "name": "KARSONO",
@@ -99,10 +99,10 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 17,
+    "stock": 12,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-06-03T02:16:19.176Z"
+    "isAlive": true,
+    "lastUpdate": "2025-06-03T02:49:20.167Z"
   },
   {
     "name": "TITIK ISMIATIN",
@@ -113,17 +113,17 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 30,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-06-03T02:45:53.290Z"
-  },
-  {
-    "name": "TOKO 2 PUTRI",
     "stock": 25,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-03T02:46:48.253Z"
+    "lastUpdate": "2025-06-03T02:50:14.694Z"
+  },
+  {
+    "name": "TOKO 2 PUTRI",
+    "stock": 20,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2025-06-03T02:51:08.739Z"
   },
   {
     "name": "TOKO IIN",
