@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 24,
+    "stock": 19,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-06-03T04:21:48.285Z"
+    "isAlive": true,
+    "lastUpdate": "2025-06-03T04:52:31.118Z"
   },
   {
     "name": "UD RAHMAT",
@@ -295,10 +295,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 24,
+    "stock": 19,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-03T04:50:56.512Z"
+    "lastUpdate": "2025-06-03T04:53:26.261Z"
   },
   {
     "name": "HJ. ASLAMIYAH",
