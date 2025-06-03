@@ -162,17 +162,17 @@
   },
   {
     "name": "HJ LILIK LAILIYAH",
-    "stock": 20,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-03T09:31:27.243Z"
+    "lastUpdate": "2025-06-03T09:34:48.473Z"
   },
   {
     "name": "ERNA PUJIATI",
     "stock": 20,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-06-03T09:32:18.372Z"
+    "isAlive": false,
+    "lastUpdate": "2025-06-03T09:35:34.331Z"
   },
   {
     "name": "P. SUK",
@@ -239,24 +239,24 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 40,
+    "stock": 35,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-03T09:33:10.159Z"
+    "lastUpdate": "2025-06-03T09:35:40.261Z"
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-03T08:51:59.022Z"
+    "lastUpdate": "2025-06-03T09:36:27.991Z"
   },
   {
     "name": "ROSIDI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-03T08:52:01.988Z"
+    "lastUpdate": "2025-06-03T09:36:30.903Z"
   },
   {
     "name": "ALPAN SANYOTO",
@@ -270,21 +270,21 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-03T08:52:04.935Z"
+    "lastUpdate": "2025-06-03T09:36:33.956Z"
   },
   {
     "name": "YUDA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-03T08:52:07.859Z"
+    "lastUpdate": "2025-06-03T09:36:37.176Z"
   },
   {
     "name": "SRI UTAMI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-03T08:52:10.885Z"
+    "lastUpdate": "2025-06-03T09:36:40.365Z"
   },
   {
     "name": "ULFA MARIA",
@@ -305,7 +305,7 @@
     "stock": -13,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-03T08:53:42.644Z"
+    "lastUpdate": "2025-06-03T09:36:43.564Z"
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -395,8 +395,8 @@
     "name": "TOKO SURYATI",
     "stock": 32,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-06-03T09:18:30.183Z"
+    "isAlive": false,
+    "lastUpdate": "2025-06-03T09:36:46.771Z"
   },
   {
     "name": "MOH HAFIF",
