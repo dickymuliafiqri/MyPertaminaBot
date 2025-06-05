@@ -8,17 +8,17 @@
   },
   {
     "name": "AKBAR RISQ",
-    "stock": 15,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-05T00:56:05.887Z"
+    "lastUpdate": "2025-06-05T00:59:12.181Z"
   },
   {
     "name": "ALFIAN DWI A.",
     "stock": 20,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-06-05T00:56:52.836Z"
+    "isAlive": false,
+    "lastUpdate": "2025-06-05T01:00:03.813Z"
   },
   {
     "name": "ATHI HANDAYANI",
@@ -38,22 +38,22 @@
     "name": "EDI SUGENG SARIPAN",
     "stock": 30,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-06-05T00:57:38.282Z"
+    "isAlive": false,
+    "lastUpdate": "2025-06-05T01:00:10.578Z"
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 0,
+    "stock": 95,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-04T22:06:07.690Z"
+    "lastUpdate": "2025-06-05T01:00:17.251Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 0,
+    "stock": 80,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-04T21:51:33.351Z"
+    "lastUpdate": "2025-06-05T01:01:08.067Z"
   },
   {
     "name": "SUCIYONO",
