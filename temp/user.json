@@ -22,10 +22,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-06-08T00:20:25.585Z"
+    "isAlive": true,
+    "lastUpdate": "2025-06-08T00:53:07.085Z"
   },
   {
     "name": "CINDRAWATI",
@@ -57,17 +57,17 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-08T00:49:52.130Z"
+    "lastUpdate": "2025-06-08T00:53:57.985Z"
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 25,
+    "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-08T00:50:42.694Z"
+    "lastUpdate": "2025-06-08T00:54:48.827Z"
   },
   {
     "name": "JAENAL",
