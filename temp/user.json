@@ -165,7 +165,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-10T08:46:00.305Z"
+    "lastUpdate": "2025-06-10T09:25:30.576Z"
   },
   {
     "name": "ERNA PUJIATI",
@@ -239,10 +239,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 59,
+    "stock": 54,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-10T09:21:08.848Z"
+    "lastUpdate": "2025-06-10T09:25:33.822Z"
   },
   {
     "name": "BISTON MANURUNG",
@@ -269,8 +269,8 @@
     "name": "JAMILAH",
     "stock": 20,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-06-10T09:22:05.188Z"
+    "isAlive": false,
+    "lastUpdate": "2025-06-10T09:26:39.963Z"
   },
   {
     "name": "YUDA",
@@ -519,10 +519,10 @@
   },
   {
     "name": "TK. LUCKY",
-    "stock": 5,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-10T09:23:21.645Z"
+    "lastUpdate": "2025-06-10T09:26:45.688Z"
   },
   {
     "name": "UD SAMAN HADI",
