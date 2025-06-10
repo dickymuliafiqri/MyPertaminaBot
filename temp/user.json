@@ -60,7 +60,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-10T05:48:23.734Z"
+    "lastUpdate": "2025-06-10T06:19:52.799Z"
   },
   {
     "name": "SUMBER REJEKI",
@@ -74,7 +74,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-10T05:48:26.959Z"
+    "lastUpdate": "2025-06-10T06:19:56.919Z"
   },
   {
     "name": "JOKO SUWARNO",
@@ -116,7 +116,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-10T05:48:31.136Z"
+    "lastUpdate": "2025-06-10T06:20:01.187Z"
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 5,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-10T06:15:13.640Z"
+    "lastUpdate": "2025-06-10T06:20:04.864Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 70,
+    "stock": 65,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-10T06:16:00.723Z"
+    "lastUpdate": "2025-06-10T06:20:53.644Z"
   },
   {
     "name": "UD RAHMAT",
@@ -403,7 +403,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-10T05:50:42.604Z"
+    "lastUpdate": "2025-06-10T06:21:43.468Z"
   },
   {
     "name": "CAHYA HERAWATI",
@@ -540,10 +540,10 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 28,
+    "stock": 23,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-10T06:18:11.497Z"
+    "lastUpdate": "2025-06-10T06:21:46.434Z"
   },
   {
     "name": "TOKO POJOK-DISABLE",
