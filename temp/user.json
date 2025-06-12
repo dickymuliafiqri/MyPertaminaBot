@@ -67,7 +67,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-12T05:43:52.744Z"
+    "lastUpdate": "2025-06-12T06:16:39.708Z"
   },
   {
     "name": "JAENAL",
@@ -109,7 +109,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-12T05:43:57.824Z"
+    "lastUpdate": "2025-06-12T06:16:45.218Z"
   },
   {
     "name": "TK. MAJU",
@@ -120,10 +120,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 25,
+    "stock": 20,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-06-12T05:45:44.869Z"
+    "isAlive": true,
+    "lastUpdate": "2025-06-12T06:16:48.786Z"
   },
   {
     "name": "TOKO IIN",
@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 75,
+    "stock": 70,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-12T06:12:27.840Z"
+    "lastUpdate": "2025-06-12T06:17:45.918Z"
   },
   {
     "name": "UD RAHMAT",
@@ -246,10 +246,10 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 24,
+    "stock": 19,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-12T06:13:29.250Z"
+    "lastUpdate": "2025-06-12T06:18:42.412Z"
   },
   {
     "name": "ROSIDI",
