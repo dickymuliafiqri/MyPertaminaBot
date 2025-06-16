@@ -43,10 +43,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-06-16T15:27:56.403Z"
+    "isAlive": true,
+    "lastUpdate": "2025-06-16T15:58:01.803Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -64,17 +64,17 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 35,
+    "stock": 30,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-16T15:54:20.435Z"
+    "lastUpdate": "2025-06-16T15:59:01.505Z"
   },
   {
     "name": "JAENAL",
-    "stock": 105,
+    "stock": 100,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-16T15:55:20.258Z"
+    "lastUpdate": "2025-06-16T16:00:01.089Z"
   },
   {
     "name": "JOKO SUWARNO",
