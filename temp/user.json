@@ -32,7 +32,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-17T02:13:26.619Z"
+    "lastUpdate": "2025-06-17T02:46:47.155Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -92,10 +92,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 25,
+    "stock": 20,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-06-17T02:13:31.533Z"
+    "isAlive": true,
+    "lastUpdate": "2025-06-17T02:46:50.208Z"
   },
   {
     "name": "MOH SAID",
@@ -106,17 +106,17 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 25,
+    "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-17T02:43:11.015Z"
+    "lastUpdate": "2025-06-17T02:47:42.603Z"
   },
   {
     "name": "TK. MAJU",
-    "stock": 40,
+    "stock": 35,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-17T02:44:09.031Z"
+    "lastUpdate": "2025-06-17T02:48:36.936Z"
   },
   {
     "name": "TOKO 2 PUTRI",
