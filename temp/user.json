@@ -67,7 +67,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-17T04:22:40.795Z"
+    "lastUpdate": "2025-06-17T04:55:39.432Z"
   },
   {
     "name": "JAENAL",
@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 45,
+    "stock": 40,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-17T04:51:54.971Z"
+    "lastUpdate": "2025-06-17T04:55:46.264Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 195,
+    "stock": 190,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-06-17T04:23:43.925Z"
+    "isAlive": true,
+    "lastUpdate": "2025-06-17T04:56:52.107Z"
   },
   {
     "name": "UD RAHMAT",
@@ -200,7 +200,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-17T04:25:06.873Z"
+    "lastUpdate": "2025-06-17T04:57:52.343Z"
   },
   {
     "name": "EVI DIANA SARI",
@@ -211,10 +211,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 30,
+    "stock": 25,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-17T04:53:00.965Z"
+    "lastUpdate": "2025-06-17T04:57:55.627Z"
   },
   {
     "name": "TK MUSTAPA",
