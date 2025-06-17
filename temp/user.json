@@ -449,10 +449,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 29,
+    "stock": 24,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-17T11:34:29.333Z"
+    "lastUpdate": "2025-06-17T11:38:22.428Z"
   },
   {
     "name": "BUDI",
@@ -472,8 +472,8 @@
     "name": "SUSILO",
     "stock": 5,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-06-17T11:35:34.224Z"
+    "isAlive": false,
+    "lastUpdate": "2025-06-17T11:39:37.528Z"
   },
   {
     "name": "HJ. HAERONI",
@@ -486,22 +486,22 @@
     "name": "IMA",
     "stock": 5,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-06-17T11:36:34.586Z"
+    "isAlive": false,
+    "lastUpdate": "2025-06-17T11:39:45.432Z"
   },
   {
     "name": "DARMAWAN P",
-    "stock": 0,
+    "stock": 23,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-13T03:00:07.836Z"
+    "lastUpdate": "2025-06-17T11:40:12.164Z"
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 0,
+    "stock": 24,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-13T03:00:11.574Z"
+    "lastUpdate": "2025-06-17T11:41:33.033Z"
   },
   {
     "name": "SALMAH",
