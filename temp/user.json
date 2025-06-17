@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 65,
+    "stock": 60,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-17T07:37:13.502Z"
+    "lastUpdate": "2025-06-17T07:40:50.906Z"
   },
   {
     "name": "UD RAHMAT",
@@ -339,15 +339,15 @@
     "name": "SRI HIDAYATI",
     "stock": 17,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-06-17T07:38:12.997Z"
+    "isAlive": false,
+    "lastUpdate": "2025-06-17T07:41:50.273Z"
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-17T07:39:10.172Z"
+    "lastUpdate": "2025-06-17T07:41:56.684Z"
   },
   {
     "name": "YUSUF ISMAIL",
@@ -375,14 +375,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-13T02:49:15.324Z"
+    "lastUpdate": "2025-06-17T07:45:22.629Z"
   },
   {
     "name": "HARSININGSIH",
-    "stock": 0,
+    "stock": 35,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-13T02:49:18.261Z"
+    "lastUpdate": "2025-06-17T07:45:43.860Z"
   },
   {
     "name": "ARIF FAUZI",
