@@ -340,7 +340,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-17T08:42:32.652Z"
+    "lastUpdate": "2025-06-17T09:16:21.604Z"
   },
   {
     "name": "ONG SWI GIOK",
@@ -400,17 +400,17 @@
   },
   {
     "name": "MOH HAFIF",
-    "stock": 15,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-17T09:12:19.716Z"
+    "lastUpdate": "2025-06-17T09:16:24.421Z"
   },
   {
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-13T02:49:28.551Z"
+    "lastUpdate": "2025-06-17T09:17:35.706Z"
   },
   {
     "name": "SUDJIONO",
@@ -421,10 +421,10 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 0,
+    "stock": 33,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-13T02:49:35.933Z"
+    "lastUpdate": "2025-06-17T09:17:53.483Z"
   },
   {
     "name": "WIKAN K",
@@ -437,8 +437,8 @@
     "name": "TUSOK",
     "stock": 15,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-06-17T09:14:38.560Z"
+    "isAlive": false,
+    "lastUpdate": "2025-06-17T09:18:50.476Z"
   },
   {
     "name": "MISRI CICI",
@@ -449,10 +449,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 74,
+    "stock": 69,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-17T08:22:39.347Z"
+    "lastUpdate": "2025-06-17T09:18:57.768Z"
   },
   {
     "name": "BUDI",
