@@ -150,8 +150,8 @@
     "name": "SUPARMAN",
     "stock": 30,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-06-18T09:08:53.175Z"
+    "isAlive": false,
+    "lastUpdate": "2025-06-18T09:13:35.856Z"
   },
   {
     "name": "DJAMIAH",
@@ -340,21 +340,21 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-18T08:43:05.735Z"
+    "lastUpdate": "2025-06-18T09:13:41.914Z"
   },
   {
     "name": "ONG SWI GIOK",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-18T08:43:08.491Z"
+    "lastUpdate": "2025-06-18T09:13:44.742Z"
   },
   {
     "name": "YUSUF ISMAIL",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-18T08:43:11.779Z"
+    "lastUpdate": "2025-06-18T09:13:47.666Z"
   },
   {
     "name": "SUPARNI",
@@ -368,14 +368,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-18T08:43:14.412Z"
+    "lastUpdate": "2025-06-18T09:13:50.560Z"
   },
   {
     "name": "YOGA RAJAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-18T08:43:33.272Z"
+    "lastUpdate": "2025-06-18T09:13:53.507Z"
   },
   {
     "name": "HARSININGSIH",
@@ -393,17 +393,17 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 0,
+    "stock": 60,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-18T08:39:56.111Z"
+    "lastUpdate": "2025-06-18T09:14:14.961Z"
   },
   {
     "name": "MOH HAFIF",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-18T08:39:59.564Z"
+    "lastUpdate": "2025-06-18T09:15:24.379Z"
   },
   {
     "name": "CAHYA HERAWATI",
@@ -417,7 +417,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-18T08:43:50.092Z"
+    "lastUpdate": "2025-06-18T09:15:27.265Z"
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -438,7 +438,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-18T08:45:01.447Z"
+    "lastUpdate": "2025-06-18T09:15:30.040Z"
   },
   {
     "name": "MISRI CICI",
