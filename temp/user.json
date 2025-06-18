@@ -512,10 +512,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 20,
+    "stock": 15,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-06-18T06:18:01.978Z"
+    "isAlive": true,
+    "lastUpdate": "2025-06-18T06:48:40.151Z"
   },
   {
     "name": "TK. LUCKY",
