@@ -358,10 +358,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-18T06:11:42.637Z"
+    "lastUpdate": "2025-06-18T06:15:07.693Z"
   },
   {
     "name": "H. JUMAT",
@@ -512,17 +512,17 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 25,
+    "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-18T06:12:35.657Z"
+    "lastUpdate": "2025-06-18T06:15:24.452Z"
   },
   {
     "name": "TK. LUCKY",
-    "stock": 37,
+    "stock": 32,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-18T06:13:28.795Z"
+    "lastUpdate": "2025-06-18T06:16:23.836Z"
   },
   {
     "name": "UD SAMAN HADI",
