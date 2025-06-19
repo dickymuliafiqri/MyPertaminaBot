@@ -46,7 +46,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-19T05:13:17.474Z"
+    "lastUpdate": "2025-06-19T05:46:42.280Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -88,7 +88,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-19T05:13:20.237Z"
+    "lastUpdate": "2025-06-19T05:46:44.992Z"
   },
   {
     "name": "LUTFI A.",
@@ -106,10 +106,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 20,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-19T05:42:45.533Z"
+    "lastUpdate": "2025-06-19T05:46:49.093Z"
   },
   {
     "name": "TK. MAJU",
@@ -120,17 +120,17 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 25,
+    "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-19T05:43:50.970Z"
+    "lastUpdate": "2025-06-19T05:47:53.456Z"
   },
   {
     "name": "TOKO IIN",
     "stock": 60,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-06-19T05:44:55.658Z"
+    "isAlive": false,
+    "lastUpdate": "2025-06-19T05:48:54.325Z"
   },
   {
     "name": "TOKO POJOK",
@@ -144,7 +144,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-18T21:04:03.087Z"
+    "lastUpdate": "2025-06-19T05:49:41.408Z"
   },
   {
     "name": "SUPARMAN",
@@ -193,7 +193,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-18T23:37:42.196Z"
+    "lastUpdate": "2025-06-19T05:53:09.952Z"
   },
   {
     "name": "JONI H",
@@ -242,14 +242,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-18T22:37:23.241Z"
+    "lastUpdate": "2025-06-19T05:56:39.172Z"
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 0,
+    "stock": 34,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-18T23:23:12.266Z"
+    "lastUpdate": "2025-06-19T05:56:42.096Z"
   },
   {
     "name": "ROSIDI",
