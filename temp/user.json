@@ -136,15 +136,15 @@
     "name": "TOKO POJOK",
     "stock": 15,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-06-20T04:06:53.061Z"
+    "isAlive": false,
+    "lastUpdate": "2025-06-20T04:11:02.688Z"
   },
   {
     "name": "UD RAHMAT",
-    "stock": 5,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-20T04:07:57.186Z"
+    "lastUpdate": "2025-06-20T04:11:10.373Z"
   },
   {
     "name": "SUPARMAN",
@@ -211,10 +211,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 23,
+    "stock": 18,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-20T04:09:20.393Z"
+    "lastUpdate": "2025-06-20T04:12:09.102Z"
   },
   {
     "name": "TK MUSTAPA",
@@ -225,10 +225,10 @@
   },
   {
     "name": "YUNIS WAHYUNI",
-    "stock": 0,
+    "stock": 25,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-19T20:48:41.201Z"
+    "lastUpdate": "2025-06-20T04:13:07.227Z"
   },
   {
     "name": "ROSA V",
