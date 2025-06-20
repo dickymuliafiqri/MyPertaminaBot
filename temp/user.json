@@ -130,14 +130,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-20T08:42:17.475Z"
+    "lastUpdate": "2025-06-20T09:28:18.973Z"
   },
   {
     "name": "TOKO POJOK",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-20T08:36:27.084Z"
+    "lastUpdate": "2025-06-20T09:28:40.790Z"
   },
   {
     "name": "UD RAHMAT",
@@ -192,8 +192,8 @@
     "name": "ANDRI HERU CAHYONO",
     "stock": 53,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-06-20T09:22:25.827Z"
+    "isAlive": false,
+    "lastUpdate": "2025-06-20T09:28:44.398Z"
   },
   {
     "name": "JONI H",
@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 49,
+    "stock": 44,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-20T09:24:43.999Z"
+    "lastUpdate": "2025-06-20T09:28:55.771Z"
   },
   {
     "name": "MOH HAFIF",
@@ -407,17 +407,17 @@
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 35,
+    "stock": 30,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-20T09:26:01.687Z"
+    "lastUpdate": "2025-06-20T09:30:06.748Z"
   },
   {
     "name": "SUDJIONO",
-    "stock": 0,
+    "stock": 28,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-20T08:40:23.586Z"
+    "lastUpdate": "2025-06-20T09:31:15.764Z"
   },
   {
     "name": "SAMSUL ARIFIN",
