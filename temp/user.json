@@ -102,7 +102,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-20T04:18:51.949Z"
+    "lastUpdate": "2025-06-20T04:52:36.041Z"
   },
   {
     "name": "TITIK ISMIATIN",
@@ -134,17 +134,17 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 15,
+    "stock": 10,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-06-20T04:11:02.688Z"
+    "isAlive": true,
+    "lastUpdate": "2025-06-20T04:52:38.938Z"
   },
   {
     "name": "UD RAHMAT",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-20T04:11:10.373Z"
+    "lastUpdate": "2025-06-20T04:53:44.610Z"
   },
   {
     "name": "SUPARMAN",
@@ -235,28 +235,28 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-20T04:16:48.692Z"
+    "lastUpdate": "2025-06-20T04:53:47.625Z"
   },
   {
     "name": "LUKMAN BS",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-20T04:16:52.133Z"
+    "lastUpdate": "2025-06-20T04:53:50.463Z"
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-20T04:16:55.617Z"
+    "lastUpdate": "2025-06-20T04:53:53.450Z"
   },
   {
     "name": "ROSIDI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-20T04:16:59.633Z"
+    "lastUpdate": "2025-06-20T04:53:56.400Z"
   },
   {
     "name": "ALPAN SANYOTO",
@@ -270,7 +270,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-20T04:17:03.200Z"
+    "lastUpdate": "2025-06-20T04:54:02.024Z"
   },
   {
     "name": "YUDA",
@@ -351,10 +351,10 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 32,
+    "stock": 27,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-20T04:40:51.683Z"
+    "lastUpdate": "2025-06-20T04:54:04.864Z"
   },
   {
     "name": "SUPARNI",
@@ -386,10 +386,10 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 7,
+    "stock": 2,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-20T04:50:47.585Z"
+    "lastUpdate": "2025-06-20T04:55:06.141Z"
   },
   {
     "name": "TOKO SURYATI",
