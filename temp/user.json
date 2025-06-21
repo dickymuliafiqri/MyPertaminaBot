@@ -67,7 +67,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-21T08:49:41.804Z"
+    "lastUpdate": "2025-06-21T09:30:52.106Z"
   },
   {
     "name": "JAENAL",
@@ -123,7 +123,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-21T08:49:59.131Z"
+    "lastUpdate": "2025-06-21T09:31:14.745Z"
   },
   {
     "name": "TOKO IIN",
@@ -323,10 +323,10 @@
   },
   {
     "name": "SUROSO",
-    "stock": 35,
+    "stock": 30,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-21T09:25:15.419Z"
+    "lastUpdate": "2025-06-21T09:31:18.085Z"
   },
   {
     "name": "HADI SUTOYO",
@@ -451,8 +451,8 @@
     "name": "HERDIANA DIYAH S",
     "stock": 55,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-06-21T09:26:33.288Z"
+    "isAlive": false,
+    "lastUpdate": "2025-06-21T09:32:19.080Z"
   },
   {
     "name": "BUDI",
