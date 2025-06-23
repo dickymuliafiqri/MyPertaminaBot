@@ -533,10 +533,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 3,
+    "stock": 0,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-06-23T12:24:55.894Z"
+    "isAlive": true,
+    "lastUpdate": "2025-06-23T12:55:03.765Z"
   },
   {
     "name": "TOKO TIARA",
