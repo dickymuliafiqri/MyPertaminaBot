@@ -451,8 +451,8 @@
     "name": "HERDIANA DIYAH S",
     "stock": 13,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-06-29T11:25:01.457Z"
+    "isAlive": false,
+    "lastUpdate": "2025-06-29T11:29:09.846Z"
   },
   {
     "name": "BUDI",
@@ -473,7 +473,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-29T10:54:30.890Z"
+    "lastUpdate": "2025-06-29T11:29:29.946Z"
   },
   {
     "name": "HJ. HAERONI",
@@ -484,10 +484,10 @@
   },
   {
     "name": "IMA",
-    "stock": 14,
+    "stock": 9,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-29T11:26:36.737Z"
+    "lastUpdate": "2025-06-29T11:29:32.646Z"
   },
   {
     "name": "DARMAWAN P",
@@ -505,17 +505,17 @@
   },
   {
     "name": "SALMAH",
-    "stock": 25,
+    "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-29T11:27:29.286Z"
+    "lastUpdate": "2025-06-29T11:30:21.004Z"
   },
   {
     "name": "TOKO ANITA",
-    "stock": 0,
+    "stock": 64,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-23T23:46:13.181Z"
+    "lastUpdate": "2025-06-29T11:31:25.235Z"
   },
   {
     "name": "TK. LUCKY",
