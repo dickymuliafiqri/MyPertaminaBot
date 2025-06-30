@@ -211,10 +211,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 23,
+    "stock": 18,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-30T09:46:21.429Z"
+    "lastUpdate": "2025-06-30T09:51:53.309Z"
   },
   {
     "name": "TK MUSTAPA",
@@ -290,8 +290,8 @@
     "name": "ULFA MARIA",
     "stock": 36,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-06-30T09:47:16.591Z"
+    "isAlive": false,
+    "lastUpdate": "2025-06-30T09:52:48.724Z"
   },
   {
     "name": "BAMBANG HARTONO",
@@ -340,14 +340,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-29T22:50:35.832Z"
+    "lastUpdate": "2025-06-30T09:53:15.675Z"
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 0,
+    "stock": 25,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-30T07:46:12.323Z"
+    "lastUpdate": "2025-06-30T09:53:37.133Z"
   },
   {
     "name": "YUSUF ISMAIL",
@@ -498,10 +498,10 @@
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 23,
+    "stock": 18,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-06-30T09:50:14.776Z"
+    "lastUpdate": "2025-06-30T09:54:56.491Z"
   },
   {
     "name": "SALMAH",
