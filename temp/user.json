@@ -169,10 +169,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 5,
+    "stock": 0,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-07-02T04:57:07.320Z"
+    "isAlive": true,
+    "lastUpdate": "2025-07-02T05:27:52.669Z"
   },
   {
     "name": "P. SUK",
@@ -358,24 +358,24 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 26,
+    "stock": 21,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-07-02T04:58:07.657Z"
+    "isAlive": true,
+    "lastUpdate": "2025-07-02T05:28:51.973Z"
   },
   {
     "name": "H. JUMAT",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-02T04:58:13.645Z"
+    "lastUpdate": "2025-07-02T05:29:48.826Z"
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 5,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-02T05:26:16.127Z"
+    "lastUpdate": "2025-07-02T05:29:52.222Z"
   },
   {
     "name": "HARSININGSIH",
