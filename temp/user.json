@@ -144,14 +144,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-08T03:59:17.951Z"
+    "lastUpdate": "2025-07-08T04:31:56.583Z"
   },
   {
     "name": "SUPARMAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-08T03:59:21.325Z"
+    "lastUpdate": "2025-07-08T04:31:59.346Z"
   },
   {
     "name": "DJAMIAH",
@@ -318,8 +318,8 @@
     "name": "ISTIQOMAH",
     "stock": 5,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-07-08T04:27:45.791Z"
+    "isAlive": false,
+    "lastUpdate": "2025-07-08T04:32:02.064Z"
   },
   {
     "name": "SUROSO",
@@ -498,10 +498,10 @@
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 13,
+    "stock": 8,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-08T04:28:53.315Z"
+    "lastUpdate": "2025-07-08T04:32:07.585Z"
   },
   {
     "name": "SALMAH",
@@ -533,17 +533,17 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 35,
+    "stock": 30,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-08T04:30:06.663Z"
+    "lastUpdate": "2025-07-08T04:33:05.600Z"
   },
   {
     "name": "TOKO TIARA",
-    "stock": 0,
+    "stock": 27,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-07T20:50:30.902Z"
+    "lastUpdate": "2025-07-08T04:34:02.949Z"
   },
   {
     "name": "TOKO POJOK-DISABLE",
