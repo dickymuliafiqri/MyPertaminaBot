@@ -46,7 +46,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-08T03:03:18.584Z"
+    "lastUpdate": "2025-07-08T03:36:25.017Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -113,10 +113,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-07-08T03:03:23.903Z"
+    "isAlive": true,
+    "lastUpdate": "2025-07-08T03:36:28.555Z"
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 25,
+    "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-08T03:32:27.600Z"
+    "lastUpdate": "2025-07-08T03:37:31.622Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 60,
+    "stock": 55,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-08T03:33:27.479Z"
+    "lastUpdate": "2025-07-08T03:38:30.752Z"
   },
   {
     "name": "UD RAHMAT",
