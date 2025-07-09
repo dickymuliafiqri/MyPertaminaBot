@@ -4,7 +4,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T04:55:39.174Z"
+    "lastUpdate": "2025-07-09T05:28:33.405Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -18,7 +18,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T04:55:41.918Z"
+    "lastUpdate": "2025-07-09T05:28:36.407Z"
   },
   {
     "name": "ATHI HANDAYANI",
@@ -53,7 +53,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T04:55:44.900Z"
+    "lastUpdate": "2025-07-09T05:28:39.645Z"
   },
   {
     "name": "SUCIYONO",
@@ -67,7 +67,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T04:55:48.083Z"
+    "lastUpdate": "2025-07-09T05:28:43.015Z"
   },
   {
     "name": "JAENAL",
@@ -116,7 +116,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T04:56:07.725Z"
+    "lastUpdate": "2025-07-09T05:28:47.779Z"
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -144,7 +144,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T04:56:10.809Z"
+    "lastUpdate": "2025-07-09T05:28:51.089Z"
   },
   {
     "name": "SUPARMAN",
@@ -211,10 +211,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 5,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T05:24:22.818Z"
+    "lastUpdate": "2025-07-09T05:28:54.324Z"
   },
   {
     "name": "TK MUSTAPA",
@@ -228,35 +228,35 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T04:58:07.072Z"
+    "lastUpdate": "2025-07-09T05:29:55.907Z"
   },
   {
     "name": "ROSA V",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T04:58:09.843Z"
+    "lastUpdate": "2025-07-09T05:29:58.957Z"
   },
   {
     "name": "LUKMAN BS",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T04:58:12.618Z"
+    "lastUpdate": "2025-07-09T05:30:02.029Z"
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T04:58:15.578Z"
+    "lastUpdate": "2025-07-09T05:30:05.179Z"
   },
   {
     "name": "ROSIDI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T04:58:18.457Z"
+    "lastUpdate": "2025-07-09T05:30:08.149Z"
   },
   {
     "name": "ALPAN SANYOTO",
@@ -381,8 +381,8 @@
     "name": "HARSININGSIH",
     "stock": 20,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-07-09T05:25:24.497Z"
+    "isAlive": false,
+    "lastUpdate": "2025-07-09T05:30:11.348Z"
   },
   {
     "name": "ARIF FAUZI",
@@ -393,52 +393,52 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 60,
+    "stock": 55,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T05:26:45.772Z"
+    "lastUpdate": "2025-07-09T05:30:17.419Z"
   },
   {
     "name": "MOH HAFIF",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-08T21:02:04.603Z"
+    "lastUpdate": "2025-07-09T05:31:19.351Z"
   },
   {
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-08T20:49:01.834Z"
+    "lastUpdate": "2025-07-09T05:31:23.022Z"
   },
   {
     "name": "SUDJIONO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-08T20:49:05.170Z"
+    "lastUpdate": "2025-07-09T05:31:25.997Z"
   },
   {
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-08T21:02:07.634Z"
+    "lastUpdate": "2025-07-09T05:31:29.223Z"
   },
   {
     "name": "WIKAN K",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-08T20:49:08.534Z"
+    "lastUpdate": "2025-07-09T05:31:32.254Z"
   },
   {
     "name": "TUSOK",
-    "stock": 0,
+    "stock": 45,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-08T20:49:11.816Z"
+    "lastUpdate": "2025-07-09T05:31:35.222Z"
   },
   {
     "name": "MISRI CICI",
