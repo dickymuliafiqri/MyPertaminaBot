@@ -95,7 +95,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T04:38:54.691Z"
+    "lastUpdate": "2025-07-09T05:11:42.999Z"
   },
   {
     "name": "MOH SAID",
@@ -109,7 +109,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T04:38:59.407Z"
+    "lastUpdate": "2025-07-09T05:11:47.140Z"
   },
   {
     "name": "TK. MAJU",
@@ -130,7 +130,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T04:39:04.195Z"
+    "lastUpdate": "2025-07-09T05:11:51.114Z"
   },
   {
     "name": "TOKO POJOK",
@@ -211,10 +211,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 25,
+    "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T05:08:50.909Z"
+    "lastUpdate": "2025-07-09T05:11:53.822Z"
   },
   {
     "name": "TK MUSTAPA",
@@ -358,10 +358,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 15,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T05:09:53.454Z"
+    "lastUpdate": "2025-07-09T05:12:53.546Z"
   },
   {
     "name": "H. JUMAT",
@@ -374,15 +374,15 @@
     "name": "YOGA RAJAN",
     "stock": 40,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-07-09T05:02:09.053Z"
+    "isAlive": false,
+    "lastUpdate": "2025-07-09T05:13:56.088Z"
   },
   {
     "name": "HARSININGSIH",
-    "stock": 35,
+    "stock": 30,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T04:49:54.204Z"
+    "lastUpdate": "2025-07-09T05:14:01.693Z"
   },
   {
     "name": "ARIF FAUZI",
