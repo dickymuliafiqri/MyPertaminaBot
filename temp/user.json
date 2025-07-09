@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 15,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-07-09T04:24:21.991Z"
-  },
-  {
-    "name": "TOKO POJOK",
     "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T04:25:31.103Z"
+    "lastUpdate": "2025-07-09T04:29:25.941Z"
+  },
+  {
+    "name": "TOKO POJOK",
+    "stock": 6,
+    "isTokenValid": true,
+    "isAlive": false,
+    "lastUpdate": "2025-07-09T04:30:27.802Z"
   },
   {
     "name": "UD RAHMAT",
@@ -151,7 +151,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T03:58:44.463Z"
+    "lastUpdate": "2025-07-09T04:31:19.470Z"
   },
   {
     "name": "DJAMIAH",
@@ -165,21 +165,21 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T03:58:47.807Z"
+    "lastUpdate": "2025-07-09T04:31:22.178Z"
   },
   {
     "name": "ERNA PUJIATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T03:58:51.249Z"
+    "lastUpdate": "2025-07-09T04:31:24.873Z"
   },
   {
     "name": "P. SUK",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T03:58:54.715Z"
+    "lastUpdate": "2025-07-09T04:31:47.992Z"
   },
   {
     "name": "H. BAMBANG S",
@@ -193,14 +193,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T03:58:58.057Z"
+    "lastUpdate": "2025-07-09T04:31:50.727Z"
   },
   {
     "name": "JONI H",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T03:59:01.515Z"
+    "lastUpdate": "2025-07-09T04:31:53.473Z"
   },
   {
     "name": "EVI DIANA SARI",
@@ -267,17 +267,17 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 18,
+    "stock": 13,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T04:27:21.113Z"
+    "lastUpdate": "2025-07-09T04:31:56.160Z"
   },
   {
     "name": "YUDA",
-    "stock": 0,
+    "stock": 11,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-08T20:48:12.156Z"
+    "lastUpdate": "2025-07-09T04:32:57.308Z"
   },
   {
     "name": "SRI UTAMI",
