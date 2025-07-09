@@ -25,28 +25,28 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T03:40:35.213Z"
+    "lastUpdate": "2025-07-09T04:15:16.353Z"
   },
   {
     "name": "CINDRAWATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T03:40:38.086Z"
+    "lastUpdate": "2025-07-09T04:15:19.638Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T03:40:40.954Z"
+    "lastUpdate": "2025-07-09T04:15:23.657Z"
   },
   {
     "name": "BINA MAKMUR",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T03:40:43.845Z"
+    "lastUpdate": "2025-07-09T04:15:26.938Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -60,7 +60,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T03:40:46.717Z"
+    "lastUpdate": "2025-07-09T04:15:31.146Z"
   },
   {
     "name": "SUMBER REJEKI",
@@ -74,7 +74,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T03:40:49.450Z"
+    "lastUpdate": "2025-07-09T04:15:34.223Z"
   },
   {
     "name": "JOKO SUWARNO",
@@ -88,7 +88,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T03:40:52.253Z"
+    "lastUpdate": "2025-07-09T04:15:37.423Z"
   },
   {
     "name": "LUTFI A.",
@@ -127,24 +127,24 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 30,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-07-09T04:10:35.057Z"
-  },
-  {
-    "name": "TOKO POJOK",
     "stock": 25,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T04:11:45.689Z"
+    "lastUpdate": "2025-07-09T04:15:41.501Z"
+  },
+  {
+    "name": "TOKO POJOK",
+    "stock": 20,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2025-07-09T04:16:47.518Z"
   },
   {
     "name": "UD RAHMAT",
     "stock": 10,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-07-09T04:12:54.411Z"
+    "isAlive": false,
+    "lastUpdate": "2025-07-09T04:17:53.184Z"
   },
   {
     "name": "SUPARMAN",
@@ -211,10 +211,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 55,
+    "stock": 50,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T03:59:04.993Z"
+    "lastUpdate": "2025-07-09T04:17:59.610Z"
   },
   {
     "name": "TK MUSTAPA",
