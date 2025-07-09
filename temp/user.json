@@ -123,7 +123,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T05:15:48.774Z"
+    "lastUpdate": "2025-07-09T05:46:17.757Z"
   },
   {
     "name": "TOKO IIN",
@@ -372,10 +372,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 40,
+    "stock": 35,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-07-09T05:13:56.088Z"
+    "isAlive": true,
+    "lastUpdate": "2025-07-09T05:46:21.078Z"
   },
   {
     "name": "HARSININGSIH",
@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 40,
+    "stock": 35,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T05:42:27.170Z"
+    "lastUpdate": "2025-07-09T05:47:26.398Z"
   },
   {
     "name": "MOH HAFIF",
@@ -435,10 +435,10 @@
   },
   {
     "name": "TUSOK",
-    "stock": 30,
+    "stock": 25,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-09T05:43:30.018Z"
+    "lastUpdate": "2025-07-09T05:48:32.381Z"
   },
   {
     "name": "MISRI CICI",
