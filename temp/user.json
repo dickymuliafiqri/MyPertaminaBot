@@ -407,10 +407,10 @@
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-07-10T15:24:55.816Z"
+    "isAlive": true,
+    "lastUpdate": "2025-07-10T15:57:25.069Z"
   },
   {
     "name": "SUDJIONO",
@@ -463,10 +463,10 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 30,
+    "stock": 25,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-10T15:54:34.364Z"
+    "lastUpdate": "2025-07-10T15:58:29.457Z"
   },
   {
     "name": "SUSILO",
@@ -519,10 +519,10 @@
   },
   {
     "name": "TK. LUCKY",
-    "stock": 27,
+    "stock": 22,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-10T15:55:34.702Z"
+    "lastUpdate": "2025-07-10T15:59:34.460Z"
   },
   {
     "name": "UD SAMAN HADI",
