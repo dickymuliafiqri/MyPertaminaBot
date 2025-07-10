@@ -284,7 +284,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-10T15:03:58.415Z"
+    "lastUpdate": "2025-07-10T15:34:42.079Z"
   },
   {
     "name": "ULFA MARIA",
@@ -403,7 +403,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-10T14:59:23.666Z"
+    "lastUpdate": "2025-07-10T15:34:45.487Z"
   },
   {
     "name": "CAHYA HERAWATI",
@@ -417,14 +417,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-10T15:00:49.933Z"
+    "lastUpdate": "2025-07-10T15:34:48.679Z"
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 5,
+    "stock": 0,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-07-10T15:00:53.356Z"
+    "isAlive": true,
+    "lastUpdate": "2025-07-10T15:34:51.729Z"
   },
   {
     "name": "WIKAN K",
@@ -452,14 +452,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-10T15:01:05.834Z"
+    "lastUpdate": "2025-07-10T15:35:52.677Z"
   },
   {
     "name": "BUDI",
-    "stock": 25,
+    "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-10T15:30:28.498Z"
+    "lastUpdate": "2025-07-10T15:35:55.849Z"
   },
   {
     "name": "YULI SORAYA",
@@ -473,7 +473,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-10T04:01:26.042Z"
+    "lastUpdate": "2025-07-10T15:38:06.734Z"
   },
   {
     "name": "HJ. HAERONI",
@@ -494,7 +494,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-10T04:01:34.199Z"
+    "lastUpdate": "2025-07-10T15:38:27.368Z"
   },
   {
     "name": "DIYAH UTAMI",
@@ -519,10 +519,10 @@
   },
   {
     "name": "TK. LUCKY",
-    "stock": 52,
+    "stock": 47,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-10T15:32:12.011Z"
+    "lastUpdate": "2025-07-10T15:38:32.075Z"
   },
   {
     "name": "UD SAMAN HADI",
