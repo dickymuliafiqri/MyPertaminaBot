@@ -449,10 +449,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 46,
+    "stock": 41,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-07-11T10:09:11.176Z"
+    "isAlive": true,
+    "lastUpdate": "2025-07-11T10:40:45.608Z"
   },
   {
     "name": "BUDI",
@@ -477,10 +477,10 @@
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 5,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-11T10:38:22.514Z"
+    "lastUpdate": "2025-07-11T10:41:57.614Z"
   },
   {
     "name": "IMA",
