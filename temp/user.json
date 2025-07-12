@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 45,
+    "stock": 40,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-12T05:41:42.140Z"
+    "lastUpdate": "2025-07-12T05:45:02.512Z"
   },
   {
     "name": "UD RAHMAT",
@@ -514,8 +514,8 @@
     "name": "TOKO ANITA",
     "stock": 25,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-07-12T05:43:00.425Z"
+    "isAlive": false,
+    "lastUpdate": "2025-07-12T05:46:22.500Z"
   },
   {
     "name": "TK. LUCKY",
