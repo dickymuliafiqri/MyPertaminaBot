@@ -8,31 +8,31 @@
   },
   {
     "name": "AKBAR RISQ",
-    "stock": 30,
+    "stock": 25,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-07-15T10:45:01.710Z"
+    "isAlive": true,
+    "lastUpdate": "2025-07-15T11:19:10.706Z"
   },
   {
     "name": "ALFIAN DWI A.",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-15T10:45:08.038Z"
+    "lastUpdate": "2025-07-15T11:20:19.646Z"
   },
   {
     "name": "ATHI HANDAYANI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-15T10:45:11.336Z"
+    "lastUpdate": "2025-07-15T11:20:22.986Z"
   },
   {
     "name": "CINDRAWATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-15T10:45:14.149Z"
+    "lastUpdate": "2025-07-15T11:20:26.294Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -71,17 +71,17 @@
   },
   {
     "name": "JAENAL",
-    "stock": 60,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-07-15T11:14:26.634Z"
-  },
-  {
-    "name": "JOKO SUWARNO",
     "stock": 55,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-15T11:15:32.140Z"
+    "lastUpdate": "2025-07-15T11:20:29.458Z"
+  },
+  {
+    "name": "JOKO SUWARNO",
+    "stock": 50,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2025-07-15T11:21:36.235Z"
   },
   {
     "name": "KARSONO",
