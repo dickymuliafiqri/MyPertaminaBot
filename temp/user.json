@@ -1,10 +1,10 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 25,
+    "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-15T22:55:26.077Z"
+    "lastUpdate": "2025-07-15T22:58:27.605Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -15,10 +15,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 25,
+    "stock": 20,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-07-15T22:26:29.928Z"
+    "isAlive": true,
+    "lastUpdate": "2025-07-15T22:59:16.357Z"
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,10 +29,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 40,
+    "stock": 35,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-07-15T22:26:37.122Z"
+    "isAlive": true,
+    "lastUpdate": "2025-07-15T23:00:04.068Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
