@@ -309,10 +309,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 2,
+    "stock": 0,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-07-15T18:20:08.841Z"
+    "isAlive": true,
+    "lastUpdate": "2025-07-15T18:50:37.839Z"
   },
   {
     "name": "ISTIQOMAH",
@@ -347,7 +347,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-15T18:17:48.882Z"
+    "lastUpdate": "2025-07-15T18:51:01.334Z"
   },
   {
     "name": "YUSUF ISMAIL",
@@ -368,7 +368,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-15T18:18:28.169Z"
+    "lastUpdate": "2025-07-15T18:51:04.389Z"
   },
   {
     "name": "YOGA RAJAN",
@@ -389,7 +389,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-15T18:18:31.438Z"
+    "lastUpdate": "2025-07-15T18:51:07.350Z"
   },
   {
     "name": "TOKO SURYATI",
@@ -421,10 +421,10 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 7,
+    "stock": 2,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-15T18:47:08.970Z"
+    "lastUpdate": "2025-07-15T18:51:10.313Z"
   },
   {
     "name": "WIKAN K",
@@ -512,10 +512,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 35,
+    "stock": 30,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-15T18:48:17.232Z"
+    "lastUpdate": "2025-07-15T18:51:54.707Z"
   },
   {
     "name": "TK. LUCKY",
