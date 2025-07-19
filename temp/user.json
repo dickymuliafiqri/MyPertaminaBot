@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 50,
+    "stock": 45,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-07-19T12:44:23.999Z"
+    "isAlive": true,
+    "lastUpdate": "2025-07-19T13:16:44.860Z"
   },
   {
     "name": "UD RAHMAT",
@@ -151,7 +151,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-19T12:44:31.347Z"
+    "lastUpdate": "2025-07-19T13:17:38.699Z"
   },
   {
     "name": "DJAMIAH",
@@ -165,14 +165,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-19T12:44:34.814Z"
+    "lastUpdate": "2025-07-19T13:17:42.830Z"
   },
   {
     "name": "ERNA PUJIATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-19T12:44:38.919Z"
+    "lastUpdate": "2025-07-19T13:17:46.371Z"
   },
   {
     "name": "P. SUK",
@@ -277,14 +277,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-19T12:45:57.135Z"
+    "lastUpdate": "2025-07-19T13:17:49.771Z"
   },
   {
     "name": "SRI UTAMI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-19T12:46:40.402Z"
+    "lastUpdate": "2025-07-19T13:17:54.158Z"
   },
   {
     "name": "ULFA MARIA",
@@ -323,10 +323,10 @@
   },
   {
     "name": "SUROSO",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-19T13:13:30.352Z"
+    "lastUpdate": "2025-07-19T13:17:57.571Z"
   },
   {
     "name": "HADI SUTOYO",
@@ -337,10 +337,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 27,
+    "stock": 22,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-19T13:14:19.146Z"
+    "lastUpdate": "2025-07-19T13:18:51.387Z"
   },
   {
     "name": "ONG SWI GIOK",
