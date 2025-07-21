@@ -234,8 +234,8 @@
     "name": "ROSA V",
     "stock": 10,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-07-21T09:44:10.746Z"
+    "isAlive": false,
+    "lastUpdate": "2025-07-21T09:47:22.326Z"
   },
   {
     "name": "LUKMAN BS",
@@ -288,66 +288,66 @@
   },
   {
     "name": "ULFA MARIA",
-    "stock": 29,
+    "stock": 24,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-21T09:44:59.466Z"
+    "lastUpdate": "2025-07-21T09:47:27.807Z"
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 43,
+    "stock": 38,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-21T09:45:44.066Z"
+    "lastUpdate": "2025-07-21T09:48:13.225Z"
   },
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-21T09:02:58.988Z"
+    "lastUpdate": "2025-07-21T09:49:00.869Z"
   },
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-21T09:03:01.716Z"
+    "lastUpdate": "2025-07-21T09:49:03.574Z"
   },
   {
     "name": "ISTIQOMAH",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-21T09:03:04.477Z"
+    "lastUpdate": "2025-07-21T09:49:06.307Z"
   },
   {
     "name": "SUROSO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-21T09:03:07.279Z"
+    "lastUpdate": "2025-07-21T09:49:09.227Z"
   },
   {
     "name": "HADI SUTOYO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-21T09:03:10.022Z"
+    "lastUpdate": "2025-07-21T09:49:11.850Z"
   },
   {
     "name": "SRI HIDAYATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-21T09:07:38.803Z"
+    "lastUpdate": "2025-07-21T09:49:14.638Z"
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 0,
+    "stock": 24,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-21T09:07:42.365Z"
+    "lastUpdate": "2025-07-21T09:49:17.338Z"
   },
   {
     "name": "YUSUF ISMAIL",
