@@ -211,10 +211,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 43,
+    "stock": 38,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-21T21:18:36.963Z"
+    "lastUpdate": "2025-07-21T21:21:51.465Z"
   },
   {
     "name": "TK MUSTAPA",
@@ -449,10 +449,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 25,
+    "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-21T21:19:28.459Z"
+    "lastUpdate": "2025-07-21T21:22:43.936Z"
   },
   {
     "name": "BUDI",
@@ -500,8 +500,8 @@
     "name": "DIYAH UTAMI",
     "stock": 13,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-07-21T21:20:20.046Z"
+    "isAlive": false,
+    "lastUpdate": "2025-07-21T21:23:37.005Z"
   },
   {
     "name": "SALMAH",
