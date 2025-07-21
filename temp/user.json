@@ -213,8 +213,8 @@
     "name": "TOKO IRAWAN",
     "stock": 38,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-07-21T21:21:51.465Z"
+    "isAlive": false,
+    "lastUpdate": "2025-07-21T21:24:28.712Z"
   },
   {
     "name": "TK MUSTAPA",
@@ -449,10 +449,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 20,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-21T21:22:43.936Z"
+    "lastUpdate": "2025-07-21T21:24:35.355Z"
   },
   {
     "name": "BUDI",
