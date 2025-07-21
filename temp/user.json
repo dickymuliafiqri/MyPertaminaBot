@@ -239,10 +239,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 49,
+    "stock": 44,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-07-21T09:44:54.049Z"
+    "isAlive": true,
+    "lastUpdate": "2025-07-21T10:16:28.482Z"
   },
   {
     "name": "BISTON MANURUNG",
@@ -253,10 +253,10 @@
   },
   {
     "name": "ROSIDI",
-    "stock": 25,
+    "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-21T10:14:48.262Z"
+    "lastUpdate": "2025-07-21T10:17:18.710Z"
   },
   {
     "name": "ALPAN SANYOTO",
