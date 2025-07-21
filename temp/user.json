@@ -232,17 +232,17 @@
   },
   {
     "name": "ROSA V",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-07-21T09:47:22.326Z"
+    "isAlive": true,
+    "lastUpdate": "2025-07-21T10:18:51.615Z"
   },
   {
     "name": "LUKMAN BS",
-    "stock": 44,
+    "stock": 39,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-21T10:16:28.482Z"
+    "lastUpdate": "2025-07-21T10:19:35.277Z"
   },
   {
     "name": "BISTON MANURUNG",
@@ -253,10 +253,10 @@
   },
   {
     "name": "ROSIDI",
-    "stock": 20,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-21T10:17:18.710Z"
+    "lastUpdate": "2025-07-21T10:20:19.953Z"
   },
   {
     "name": "ALPAN SANYOTO",
