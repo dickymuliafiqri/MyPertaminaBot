@@ -127,10 +127,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-25T03:32:42.322Z"
+    "lastUpdate": "2025-07-25T03:36:28.559Z"
   },
   {
     "name": "TOKO POJOK",
@@ -316,17 +316,17 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 15,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-25T03:33:39.056Z"
+    "lastUpdate": "2025-07-25T03:37:27.416Z"
   },
   {
     "name": "SUROSO",
-    "stock": 25,
+    "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-25T03:34:47.259Z"
+    "lastUpdate": "2025-07-25T03:38:23.784Z"
   },
   {
     "name": "HADI SUTOYO",
