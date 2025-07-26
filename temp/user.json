@@ -470,10 +470,10 @@
   },
   {
     "name": "SUSILO",
-    "stock": 2,
+    "stock": 0,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-07-26T21:32:11.075Z"
+    "isAlive": true,
+    "lastUpdate": "2025-07-26T22:02:42.380Z"
   },
   {
     "name": "HJ. HAERONI",
