@@ -32,7 +32,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-29T10:26:21.852Z"
+    "lastUpdate": "2025-07-29T11:00:11.745Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -81,7 +81,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-29T10:26:24.850Z"
+    "lastUpdate": "2025-07-29T11:00:16.370Z"
   },
   {
     "name": "KARSONO",
@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 38,
+    "stock": 33,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-29T10:57:09.299Z"
+    "lastUpdate": "2025-07-29T11:00:20.491Z"
   },
   {
     "name": "MOH HAFIF",
@@ -458,15 +458,15 @@
     "name": "BUDI",
     "stock": 50,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-07-29T10:58:18.484Z"
+    "isAlive": false,
+    "lastUpdate": "2025-07-29T11:01:49.324Z"
   },
   {
     "name": "YULI SORAYA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-29T05:42:02.963Z"
+    "lastUpdate": "2025-07-29T11:01:57.956Z"
   },
   {
     "name": "SUSILO",
@@ -494,28 +494,28 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-29T05:42:17.533Z"
+    "lastUpdate": "2025-07-29T11:04:35.556Z"
   },
   {
     "name": "DIYAH UTAMI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-29T05:42:20.905Z"
+    "lastUpdate": "2025-07-29T11:04:39.216Z"
   },
   {
     "name": "SALMAH",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-29T05:42:24.273Z"
+    "lastUpdate": "2025-07-29T11:04:43.081Z"
   },
   {
     "name": "TOKO ANITA",
-    "stock": 0,
+    "stock": 42,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-29T05:42:27.757Z"
+    "lastUpdate": "2025-07-29T11:04:47.143Z"
   },
   {
     "name": "TK. LUCKY",
@@ -526,10 +526,10 @@
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 0,
+    "stock": 45,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-29T05:42:34.591Z"
+    "lastUpdate": "2025-07-29T11:07:25.040Z"
   },
   {
     "name": "SOEKAMTO",
