@@ -18,7 +18,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-30T09:04:03.843Z"
+    "lastUpdate": "2025-07-30T09:36:40.695Z"
   },
   {
     "name": "ATHI HANDAYANI",
@@ -53,7 +53,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-30T09:04:07.568Z"
+    "lastUpdate": "2025-07-30T09:36:43.985Z"
   },
   {
     "name": "SUCIYONO",
@@ -102,14 +102,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-30T09:04:19.992Z"
+    "lastUpdate": "2025-07-30T09:36:49.140Z"
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 65,
+    "stock": 60,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-30T09:33:16.921Z"
+    "lastUpdate": "2025-07-30T09:36:54.257Z"
   },
   {
     "name": "TK. MAJU",
@@ -381,8 +381,8 @@
     "name": "HARSININGSIH",
     "stock": 10,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-07-30T09:34:38.283Z"
+    "isAlive": false,
+    "lastUpdate": "2025-07-30T09:38:01.753Z"
   },
   {
     "name": "ARIF FAUZI",
