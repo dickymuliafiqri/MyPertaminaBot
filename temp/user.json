@@ -32,7 +32,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-31T09:31:58.219Z"
+    "lastUpdate": "2025-07-31T10:02:23.805Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -60,7 +60,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-31T09:32:05.433Z"
+    "lastUpdate": "2025-07-31T10:02:27.775Z"
   },
   {
     "name": "SUMBER REJEKI",
@@ -130,7 +130,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-07-31T09:32:27.163Z"
+    "lastUpdate": "2025-07-31T10:02:33.551Z"
   },
   {
     "name": "TOKO POJOK",
@@ -323,10 +323,10 @@
   },
   {
     "name": "SUROSO",
-    "stock": 22,
+    "stock": 17,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-07-31T09:32:29.885Z"
+    "isAlive": true,
+    "lastUpdate": "2025-07-31T10:02:36.952Z"
   },
   {
     "name": "HADI SUTOYO",
