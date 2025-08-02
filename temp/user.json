@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 45,
+    "stock": 40,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-02T04:07:27.810Z"
+    "lastUpdate": "2025-08-02T04:10:46.053Z"
   },
   {
     "name": "UD RAHMAT",
@@ -353,50 +353,50 @@
     "name": "YUSUF ISMAIL",
     "stock": 40,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-08-02T04:08:53.936Z"
+    "isAlive": false,
+    "lastUpdate": "2025-08-02T04:11:48.236Z"
   },
   {
     "name": "SUPARNI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-01T20:41:42.202Z"
+    "lastUpdate": "2025-08-02T04:11:53.679Z"
   },
   {
     "name": "H. JUMAT",
-    "stock": 0,
+    "stock": 53,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-01T20:44:50.072Z"
+    "lastUpdate": "2025-08-02T04:12:14.399Z"
   },
   {
     "name": "YOGA RAJAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-01T20:43:11.863Z"
+    "lastUpdate": "2025-08-02T04:13:19.994Z"
   },
   {
     "name": "HARSININGSIH",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-01T20:43:14.589Z"
+    "lastUpdate": "2025-08-02T04:13:22.618Z"
   },
   {
     "name": "ARIF FAUZI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-01T20:43:17.453Z"
+    "lastUpdate": "2025-08-02T04:13:39.590Z"
   },
   {
     "name": "TOKO SURYATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-01T20:49:33.238Z"
+    "lastUpdate": "2025-08-02T04:13:42.484Z"
   },
   {
     "name": "MOH HAFIF",
