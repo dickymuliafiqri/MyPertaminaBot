@@ -402,8 +402,8 @@
     "name": "MOH HAFIF",
     "stock": 4,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-08-02T09:44:01.675Z"
+    "isAlive": false,
+    "lastUpdate": "2025-08-02T09:47:02.283Z"
   },
   {
     "name": "CAHYA HERAWATI",
@@ -505,10 +505,10 @@
   },
   {
     "name": "SALMAH",
-    "stock": 15,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-02T09:45:10.580Z"
+    "lastUpdate": "2025-08-02T09:47:08.045Z"
   },
   {
     "name": "TOKO ANITA",
