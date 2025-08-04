@@ -239,10 +239,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 55,
+    "stock": 50,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-08-04T09:34:53.289Z"
+    "isAlive": true,
+    "lastUpdate": "2025-08-04T10:07:17.468Z"
   },
   {
     "name": "BISTON MANURUNG",
@@ -288,10 +288,10 @@
   },
   {
     "name": "ULFA MARIA",
-    "stock": 17,
+    "stock": 12,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-08-04T09:34:59.587Z"
+    "isAlive": true,
+    "lastUpdate": "2025-08-04T10:08:03.734Z"
   },
   {
     "name": "BAMBANG HARTONO",
@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 20,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-04T10:04:33.942Z"
+    "lastUpdate": "2025-08-04T10:08:52.348Z"
   },
   {
     "name": "MOH HAFIF",
