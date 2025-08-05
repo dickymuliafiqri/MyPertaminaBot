@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-05T03:02:58.108Z"
+    "lastUpdate": "2025-08-05T03:06:42.624Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 25,
+    "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-05T03:03:52.308Z"
+    "lastUpdate": "2025-08-05T03:07:34.561Z"
   },
   {
     "name": "UD RAHMAT",
@@ -302,10 +302,10 @@
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 15,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-05T03:05:05.237Z"
+    "lastUpdate": "2025-08-05T03:08:24.660Z"
   },
   {
     "name": "NADIFATUS SOLEHA",
