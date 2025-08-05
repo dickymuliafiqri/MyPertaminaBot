@@ -169,10 +169,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 30,
+    "stock": 25,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-05T09:34:28.816Z"
+    "lastUpdate": "2025-08-05T09:37:45.746Z"
   },
   {
     "name": "P. SUK",
@@ -199,8 +199,8 @@
     "name": "JONI H",
     "stock": 35,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-08-05T09:35:19.286Z"
+    "isAlive": false,
+    "lastUpdate": "2025-08-05T09:38:34.906Z"
   },
   {
     "name": "EVI DIANA SARI",
@@ -213,8 +213,8 @@
     "name": "TOKO IRAWAN",
     "stock": 34,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-08-05T09:36:11.623Z"
+    "isAlive": false,
+    "lastUpdate": "2025-08-05T09:38:41.009Z"
   },
   {
     "name": "TK MUSTAPA",
@@ -228,35 +228,35 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-05T08:51:23.871Z"
+    "lastUpdate": "2025-08-05T09:38:47.036Z"
   },
   {
     "name": "ROSA V",
-    "stock": 0,
+    "stock": 25,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-05T08:51:50.675Z"
+    "lastUpdate": "2025-08-05T09:38:50.002Z"
   },
   {
     "name": "LUKMAN BS",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-05T08:52:14.356Z"
+    "lastUpdate": "2025-08-05T09:39:38.513Z"
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-05T08:53:59.674Z"
+    "lastUpdate": "2025-08-05T09:39:41.692Z"
   },
   {
     "name": "ROSIDI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-05T08:57:44.119Z"
+    "lastUpdate": "2025-08-05T09:39:44.759Z"
   },
   {
     "name": "ALPAN SANYOTO",
@@ -267,10 +267,10 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 0,
+    "stock": 18,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-05T08:52:20.420Z"
+    "lastUpdate": "2025-08-05T09:39:47.751Z"
   },
   {
     "name": "YUDA",
