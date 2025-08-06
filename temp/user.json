@@ -109,7 +109,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-06T04:35:46.758Z"
+    "lastUpdate": "2025-08-06T05:08:18.849Z"
   },
   {
     "name": "TK. MAJU",
@@ -228,7 +228,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-06T04:35:50.134Z"
+    "lastUpdate": "2025-08-06T05:08:22.240Z"
   },
   {
     "name": "ROSA V",
@@ -358,10 +358,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 17,
+    "stock": 12,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-06T05:05:48.713Z"
+    "lastUpdate": "2025-08-06T05:08:25.615Z"
   },
   {
     "name": "H. JUMAT",
@@ -521,8 +521,8 @@
     "name": "TK. LUCKY",
     "stock": 4,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-08-06T05:06:41.672Z"
+    "isAlive": false,
+    "lastUpdate": "2025-08-06T05:09:18.703Z"
   },
   {
     "name": "UD SAMAN HADI",
