@@ -409,8 +409,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 35,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-08-06T09:20:45.647Z"
+    "isAlive": false,
+    "lastUpdate": "2025-08-06T09:24:17.940Z"
   },
   {
     "name": "SUDJIONO",
@@ -435,10 +435,10 @@
   },
   {
     "name": "TUSOK",
-    "stock": 20,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-06T09:21:50.525Z"
+    "lastUpdate": "2025-08-06T09:24:24.835Z"
   },
   {
     "name": "MISRI CICI",
@@ -494,7 +494,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-06T08:06:27.112Z"
+    "lastUpdate": "2025-08-06T09:25:41.189Z"
   },
   {
     "name": "DIYAH UTAMI",
