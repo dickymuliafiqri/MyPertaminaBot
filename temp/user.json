@@ -32,14 +32,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-05T23:46:56.710Z"
+    "lastUpdate": "2025-08-06T00:17:16.348Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-05T23:42:32.924Z"
+    "lastUpdate": "2025-08-06T00:17:19.661Z"
   },
   {
     "name": "BINA MAKMUR",
@@ -53,21 +53,21 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-05T23:42:35.855Z"
+    "lastUpdate": "2025-08-06T00:17:23.146Z"
   },
   {
     "name": "SUCIYONO",
-    "stock": 5,
+    "stock": 0,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-08-05T23:44:33.701Z"
+    "isAlive": true,
+    "lastUpdate": "2025-08-06T00:17:26.441Z"
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 45,
+    "stock": 35,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-06T00:10:24.934Z"
+    "lastUpdate": "2025-08-06T00:18:17.137Z"
   },
   {
     "name": "JAENAL",
@@ -78,10 +78,10 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 25,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-06T00:11:12.922Z"
+    "lastUpdate": "2025-08-06T00:19:07.600Z"
   },
   {
     "name": "KARSONO",
