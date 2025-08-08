@@ -116,7 +116,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-08T03:18:48.192Z"
+    "lastUpdate": "2025-08-08T03:51:18.511Z"
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -127,10 +127,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 50,
+    "stock": 45,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-08-08T03:19:58.694Z"
+    "isAlive": true,
+    "lastUpdate": "2025-08-08T03:51:22.321Z"
   },
   {
     "name": "TOKO POJOK",
@@ -351,10 +351,10 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 27,
+    "stock": 22,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-08T03:48:45.300Z"
+    "lastUpdate": "2025-08-08T03:52:15.895Z"
   },
   {
     "name": "SUPARNI",
@@ -386,10 +386,10 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 17,
+    "stock": 12,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-08T03:49:38.313Z"
+    "lastUpdate": "2025-08-08T03:53:07.207Z"
   },
   {
     "name": "TOKO SURYATI",
