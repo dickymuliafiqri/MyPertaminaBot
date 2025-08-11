@@ -171,8 +171,8 @@
     "name": "ERNA PUJIATI",
     "stock": 25,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-08-11T09:35:26.047Z"
+    "isAlive": false,
+    "lastUpdate": "2025-08-11T09:38:52.805Z"
   },
   {
     "name": "P. SUK",
@@ -239,24 +239,24 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 49,
+    "stock": 44,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-11T09:36:22.406Z"
+    "lastUpdate": "2025-08-11T09:38:59.222Z"
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 24,
+    "stock": 19,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-11T09:37:15.550Z"
+    "lastUpdate": "2025-08-11T09:39:58.842Z"
   },
   {
     "name": "ROSIDI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-11T08:56:30.136Z"
+    "lastUpdate": "2025-08-11T09:40:57.308Z"
   },
   {
     "name": "ALPAN SANYOTO",
@@ -270,7 +270,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-11T08:56:33.293Z"
+    "lastUpdate": "2025-08-11T09:41:00.507Z"
   },
   {
     "name": "YUDA",
@@ -284,14 +284,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-11T08:56:36.483Z"
+    "lastUpdate": "2025-08-11T09:41:03.549Z"
   },
   {
     "name": "ULFA MARIA",
-    "stock": 0,
+    "stock": 40,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-11T08:56:39.605Z"
+    "lastUpdate": "2025-08-11T09:41:06.552Z"
   },
   {
     "name": "BAMBANG HARTONO",
