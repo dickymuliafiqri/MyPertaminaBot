@@ -127,10 +127,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 5,
+    "stock": 0,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-08-13T04:53:13.579Z"
+    "isAlive": true,
+    "lastUpdate": "2025-08-13T05:24:37.988Z"
   },
   {
     "name": "TOKO POJOK",
@@ -162,24 +162,24 @@
   },
   {
     "name": "HJ LILIK LAILIYAH",
-    "stock": 8,
+    "stock": 3,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-08-13T04:54:15.976Z"
+    "isAlive": true,
+    "lastUpdate": "2025-08-13T05:25:30.615Z"
   },
   {
     "name": "ERNA PUJIATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-13T04:54:22.621Z"
+    "lastUpdate": "2025-08-13T05:26:23.550Z"
   },
   {
     "name": "P. SUK",
     "stock": -18,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-13T04:54:25.925Z"
+    "lastUpdate": "2025-08-13T05:26:26.881Z"
   },
   {
     "name": "H. BAMBANG S",
@@ -193,14 +193,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-13T04:54:29.253Z"
+    "lastUpdate": "2025-08-13T05:26:30.283Z"
   },
   {
     "name": "JONI H",
-    "stock": 5,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-13T05:21:09.272Z"
+    "lastUpdate": "2025-08-13T05:26:33.600Z"
   },
   {
     "name": "EVI DIANA SARI",
