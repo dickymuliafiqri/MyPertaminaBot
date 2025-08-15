@@ -4,7 +4,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-15T04:23:12.786Z"
+    "lastUpdate": "2025-08-15T04:56:02.879Z"
   },
   {
     "name": "AKBAR RISQ",
@@ -25,7 +25,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-15T04:23:34.740Z"
+    "lastUpdate": "2025-08-15T04:56:05.906Z"
   },
   {
     "name": "CINDRAWATI",
@@ -60,7 +60,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-15T04:23:38.475Z"
+    "lastUpdate": "2025-08-15T04:56:09.199Z"
   },
   {
     "name": "SUMBER REJEKI",
@@ -74,7 +74,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-15T04:23:41.791Z"
+    "lastUpdate": "2025-08-15T04:56:12.123Z"
   },
   {
     "name": "JOKO SUWARNO",
@@ -116,21 +116,21 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-15T04:19:21.800Z"
+    "lastUpdate": "2025-08-15T04:56:34.078Z"
   },
   {
     "name": "TOKO 2 PUTRI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-15T04:19:25.676Z"
+    "lastUpdate": "2025-08-15T04:56:52.995Z"
   },
   {
     "name": "TOKO IIN",
-    "stock": 40,
+    "stock": 35,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-08-15T04:23:47.688Z"
+    "isAlive": true,
+    "lastUpdate": "2025-08-15T04:56:56.329Z"
   },
   {
     "name": "TOKO POJOK",
@@ -351,10 +351,10 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 32,
+    "stock": 27,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-15T04:52:36.629Z"
+    "lastUpdate": "2025-08-15T04:57:55.396Z"
   },
   {
     "name": "SUPARNI",
@@ -435,10 +435,10 @@
   },
   {
     "name": "TUSOK",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-15T04:53:35.481Z"
+    "lastUpdate": "2025-08-15T04:58:51.171Z"
   },
   {
     "name": "MISRI CICI",
