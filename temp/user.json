@@ -169,10 +169,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 20,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-16T09:46:28.059Z"
+    "lastUpdate": "2025-08-16T09:51:12.291Z"
   },
   {
     "name": "P. SUK",
@@ -339,8 +339,8 @@
     "name": "SRI HIDAYATI",
     "stock": 32,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-08-16T09:47:29.367Z"
+    "isAlive": false,
+    "lastUpdate": "2025-08-16T09:52:15.506Z"
   },
   {
     "name": "ONG SWI GIOK",
@@ -512,38 +512,38 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-16T09:49:28.477Z"
+    "lastUpdate": "2025-08-16T09:52:22.644Z"
   },
   {
     "name": "TK. LUCKY",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-16T08:45:02.294Z"
+    "lastUpdate": "2025-08-16T09:53:24.559Z"
   },
   {
     "name": "UD SAMAN HADI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-16T08:45:04.918Z"
+    "lastUpdate": "2025-08-16T09:53:28.192Z"
   },
   {
     "name": "SOEKAMTO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-16T08:45:07.563Z"
+    "lastUpdate": "2025-08-16T09:53:31.547Z"
   },
   {
     "name": "TOKO TIARA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-16T08:45:10.239Z"
+    "lastUpdate": "2025-08-16T09:53:34.996Z"
   },
   {
     "name": "TOKO POJOK-DISABLE",
