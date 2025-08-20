@@ -11,7 +11,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-20T00:11:23.229Z"
+    "lastUpdate": "2025-08-20T00:43:26.541Z"
   },
   {
     "name": "ALFIAN DWI A.",
@@ -53,7 +53,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-20T00:12:28.262Z"
+    "lastUpdate": "2025-08-20T00:43:30.105Z"
   },
   {
     "name": "SUCIYONO",
@@ -64,24 +64,24 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 45,
-    "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-08-20T00:09:27.060Z"
-  },
-  {
-    "name": "JAENAL",
-    "stock": 55,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-08-20T00:39:22.483Z"
-  },
-  {
-    "name": "JOKO SUWARNO",
     "stock": 40,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-20T00:40:26.952Z"
+    "lastUpdate": "2025-08-20T00:43:33.364Z"
+  },
+  {
+    "name": "JAENAL",
+    "stock": 50,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2025-08-20T00:44:35.093Z"
+  },
+  {
+    "name": "JOKO SUWARNO",
+    "stock": 35,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2025-08-20T00:45:37.217Z"
   },
   {
     "name": "KARSONO",
