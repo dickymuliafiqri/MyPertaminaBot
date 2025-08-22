@@ -379,10 +379,10 @@
   },
   {
     "name": "HARSININGSIH",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-22T09:29:12.886Z"
+    "lastUpdate": "2025-08-22T09:31:28.436Z"
   },
   {
     "name": "ARIF FAUZI",
@@ -451,8 +451,8 @@
     "name": "HERDIANA DIYAH S",
     "stock": 65,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-08-22T09:29:57.644Z"
+    "isAlive": false,
+    "lastUpdate": "2025-08-22T09:32:22.585Z"
   },
   {
     "name": "BUDI",
