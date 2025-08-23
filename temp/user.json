@@ -25,7 +25,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-23T03:03:59.886Z"
+    "lastUpdate": "2025-08-23T03:34:18.247Z"
   },
   {
     "name": "CINDRAWATI",
@@ -60,7 +60,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-23T03:04:02.725Z"
+    "lastUpdate": "2025-08-23T03:34:22.381Z"
   },
   {
     "name": "SUMBER REJEKI",
@@ -116,7 +116,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-23T03:04:06.116Z"
+    "lastUpdate": "2025-08-23T03:34:26.658Z"
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 25,
+    "stock": 20,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-08-23T03:04:08.868Z"
+    "isAlive": true,
+    "lastUpdate": "2025-08-23T03:34:30.167Z"
   },
   {
     "name": "UD RAHMAT",
