@@ -365,10 +365,10 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 39,
+    "stock": 34,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-08-23T10:08:40.972Z"
+    "isAlive": true,
+    "lastUpdate": "2025-08-23T10:39:21.895Z"
   },
   {
     "name": "YOGA RAJAN",
@@ -382,7 +382,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-23T10:09:04.818Z"
+    "lastUpdate": "2025-08-23T10:40:08.326Z"
   },
   {
     "name": "ARIF FAUZI",
@@ -480,7 +480,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-23T10:09:07.736Z"
+    "lastUpdate": "2025-08-23T10:40:11.149Z"
   },
   {
     "name": "IMA",
@@ -494,14 +494,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-23T10:09:55.431Z"
+    "lastUpdate": "2025-08-23T10:40:13.878Z"
   },
   {
     "name": "DIYAH UTAMI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-23T10:09:58.394Z"
+    "lastUpdate": "2025-08-23T10:40:16.651Z"
   },
   {
     "name": "SALMAH",
