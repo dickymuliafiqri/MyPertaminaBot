@@ -169,17 +169,17 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 40,
+    "stock": 35,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-23T21:24:51.619Z"
+    "lastUpdate": "2025-08-23T21:28:00.267Z"
   },
   {
     "name": "P. SUK",
-    "stock": 3,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-23T21:25:37.946Z"
+    "lastUpdate": "2025-08-23T21:28:44.633Z"
   },
   {
     "name": "H. BAMBANG S",
@@ -283,15 +283,15 @@
     "name": "SRI UTAMI",
     "stock": 3,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-08-23T21:26:25.321Z"
+    "isAlive": false,
+    "lastUpdate": "2025-08-23T21:29:13.762Z"
   },
   {
     "name": "ULFA MARIA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-23T20:50:23.310Z"
+    "lastUpdate": "2025-08-23T21:29:19.082Z"
   },
   {
     "name": "BAMBANG HARTONO",
@@ -319,7 +319,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-23T20:50:26.594Z"
+    "lastUpdate": "2025-08-23T21:29:21.692Z"
   },
   {
     "name": "SUROSO",
@@ -330,10 +330,10 @@
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 13,
+    "stock": 8,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-23T21:18:56.846Z"
+    "lastUpdate": "2025-08-23T21:29:24.315Z"
   },
   {
     "name": "SRI HIDAYATI",
