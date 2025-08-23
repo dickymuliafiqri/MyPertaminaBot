@@ -281,17 +281,17 @@
   },
   {
     "name": "SRI UTAMI",
-    "stock": 3,
+    "stock": 0,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-08-23T21:29:13.762Z"
+    "isAlive": true,
+    "lastUpdate": "2025-08-23T21:59:46.074Z"
   },
   {
     "name": "ULFA MARIA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-23T21:29:19.082Z"
+    "lastUpdate": "2025-08-23T22:00:17.518Z"
   },
   {
     "name": "BAMBANG HARTONO",
@@ -319,7 +319,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-23T21:29:21.692Z"
+    "lastUpdate": "2025-08-23T22:00:20.656Z"
   },
   {
     "name": "SUROSO",
