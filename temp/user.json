@@ -18,7 +18,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-25T03:13:48.256Z"
+    "lastUpdate": "2025-08-25T03:46:59.488Z"
   },
   {
     "name": "ATHI HANDAYANI",
@@ -60,7 +60,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-25T03:13:52.137Z"
+    "lastUpdate": "2025-08-25T03:47:02.791Z"
   },
   {
     "name": "SUMBER REJEKI",
@@ -95,7 +95,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-25T03:13:56.231Z"
+    "lastUpdate": "2025-08-25T03:47:06.430Z"
   },
   {
     "name": "MOH SAID",
@@ -109,14 +109,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-25T03:14:01.577Z"
+    "lastUpdate": "2025-08-25T03:47:11.493Z"
   },
   {
     "name": "TK. MAJU",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-25T03:14:08.340Z"
+    "lastUpdate": "2025-08-25T03:47:17.270Z"
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -136,8 +136,8 @@
     "name": "TOKO POJOK",
     "stock": 5,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-08-25T03:42:27.414Z"
+    "isAlive": false,
+    "lastUpdate": "2025-08-25T03:47:20.606Z"
   },
   {
     "name": "UD RAHMAT",
@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 5,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-25T03:43:25.831Z"
+    "lastUpdate": "2025-08-25T03:47:27.303Z"
   },
   {
     "name": "MOH HAFIF",
