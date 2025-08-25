@@ -277,7 +277,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-25T11:13:17.096Z"
+    "lastUpdate": "2025-08-25T11:43:47.926Z"
   },
   {
     "name": "SRI UTAMI",
@@ -291,7 +291,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-25T11:13:20.470Z"
+    "lastUpdate": "2025-08-25T11:43:51.350Z"
   },
   {
     "name": "BAMBANG HARTONO",
@@ -456,10 +456,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 15,
+    "stock": 10,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-08-25T11:13:24.033Z"
+    "isAlive": true,
+    "lastUpdate": "2025-08-25T11:43:54.999Z"
   },
   {
     "name": "YULI SORAYA",
