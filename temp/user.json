@@ -11,7 +11,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-26T02:15:21.863Z"
+    "lastUpdate": "2025-08-26T02:51:40.871Z"
   },
   {
     "name": "ALFIAN DWI A.",
@@ -53,7 +53,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-26T02:15:25.522Z"
+    "lastUpdate": "2025-08-26T02:51:59.612Z"
   },
   {
     "name": "SUCIYONO",
@@ -113,10 +113,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 55,
+    "stock": 50,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-26T02:48:00.343Z"
+    "lastUpdate": "2025-08-26T02:52:03.004Z"
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -129,15 +129,15 @@
     "name": "TOKO IIN",
     "stock": 25,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-08-26T02:48:56.420Z"
+    "isAlive": false,
+    "lastUpdate": "2025-08-26T02:52:55.753Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 65,
+    "stock": 60,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-26T02:49:47.030Z"
+    "lastUpdate": "2025-08-26T02:53:02.521Z"
   },
   {
     "name": "UD RAHMAT",
@@ -500,29 +500,29 @@
     "name": "DIYAH UTAMI",
     "stock": 25,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-08-26T02:44:45.769Z"
+    "isAlive": false,
+    "lastUpdate": "2025-08-26T02:53:52.581Z"
   },
   {
     "name": "SALMAH",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-25T20:54:31.507Z"
+    "lastUpdate": "2025-08-26T02:53:58.956Z"
   },
   {
     "name": "TOKO ANITA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-25T20:54:34.970Z"
+    "lastUpdate": "2025-08-26T02:54:02.512Z"
   },
   {
     "name": "TK. LUCKY",
-    "stock": 0,
+    "stock": 34,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-25T20:54:38.357Z"
+    "lastUpdate": "2025-08-26T02:54:05.748Z"
   },
   {
     "name": "UD SAMAN HADI",
