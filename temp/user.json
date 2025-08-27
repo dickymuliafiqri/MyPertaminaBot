@@ -60,7 +60,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-27T03:41:37.718Z"
+    "lastUpdate": "2025-08-27T04:12:19.365Z"
   },
   {
     "name": "SUMBER REJEKI",
@@ -130,7 +130,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-27T03:41:43.770Z"
+    "lastUpdate": "2025-08-27T04:12:25.180Z"
   },
   {
     "name": "TOKO POJOK",
@@ -267,10 +267,10 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-27T04:09:51.746Z"
+    "lastUpdate": "2025-08-27T04:12:28.510Z"
   },
   {
     "name": "YUDA",
@@ -514,8 +514,8 @@
     "name": "TOKO ANITA",
     "stock": 27,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-08-27T04:10:45.614Z"
+    "isAlive": false,
+    "lastUpdate": "2025-08-27T04:12:52.595Z"
   },
   {
     "name": "TK. LUCKY",
