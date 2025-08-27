@@ -232,10 +232,10 @@
   },
   {
     "name": "ROSA V",
-    "stock": 20,
+    "stock": 15,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-08-27T09:42:40.644Z"
+    "isAlive": true,
+    "lastUpdate": "2025-08-27T10:13:11.479Z"
   },
   {
     "name": "LUKMAN BS",
@@ -389,7 +389,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-27T09:43:44.497Z"
+    "lastUpdate": "2025-08-27T10:14:03.848Z"
   },
   {
     "name": "TOKO SURYATI",
@@ -519,10 +519,10 @@
   },
   {
     "name": "TK. LUCKY",
-    "stock": 9,
+    "stock": 4,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-27T10:11:11.068Z"
+    "lastUpdate": "2025-08-27T10:14:06.968Z"
   },
   {
     "name": "UD SAMAN HADI",
