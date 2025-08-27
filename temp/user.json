@@ -120,10 +120,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 50,
+    "stock": 45,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-27T21:14:46.345Z"
+    "lastUpdate": "2025-08-27T21:17:29.984Z"
   },
   {
     "name": "TOKO IIN",
@@ -227,8 +227,8 @@
     "name": "YUNIS WAHYUNI",
     "stock": 15,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-08-27T21:15:33.055Z"
+    "isAlive": false,
+    "lastUpdate": "2025-08-27T21:18:21.510Z"
   },
   {
     "name": "ROSA V",
