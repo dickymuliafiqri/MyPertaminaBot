@@ -116,7 +116,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-28T03:05:40.252Z"
+    "lastUpdate": "2025-08-28T03:36:47.383Z"
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 24,
+    "stock": 19,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-28T03:33:23.101Z"
+    "lastUpdate": "2025-08-28T03:36:52.104Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 60,
+    "stock": 55,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-08-28T03:06:48.778Z"
+    "isAlive": true,
+    "lastUpdate": "2025-08-28T03:37:55.002Z"
   },
   {
     "name": "UD RAHMAT",
@@ -477,10 +477,10 @@
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 25,
+    "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-28T03:34:25.863Z"
+    "lastUpdate": "2025-08-28T03:39:00.112Z"
   },
   {
     "name": "IMA",
