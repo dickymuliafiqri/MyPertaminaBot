@@ -451,8 +451,8 @@
     "name": "HERDIANA DIYAH S",
     "stock": 23,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-08-29T10:57:22.613Z"
+    "isAlive": false,
+    "lastUpdate": "2025-08-29T10:59:04.782Z"
   },
   {
     "name": "BUDI",
@@ -522,7 +522,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-29T09:45:18.508Z"
+    "lastUpdate": "2025-08-29T10:59:30.502Z"
   },
   {
     "name": "UD SAMAN HADI",
