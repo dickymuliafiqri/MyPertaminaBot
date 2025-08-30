@@ -484,10 +484,10 @@
   },
   {
     "name": "IMA",
-    "stock": 22,
+    "stock": 17,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-08-30T05:51:33.236Z"
+    "isAlive": true,
+    "lastUpdate": "2025-08-30T06:22:11.065Z"
   },
   {
     "name": "DARMAWAN P",
@@ -501,7 +501,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-30T05:52:36.749Z"
+    "lastUpdate": "2025-08-30T06:23:03.399Z"
   },
   {
     "name": "SALMAH",
