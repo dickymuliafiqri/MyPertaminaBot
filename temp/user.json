@@ -18,7 +18,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-30T05:54:36.594Z"
+    "lastUpdate": "2025-08-30T06:25:29.306Z"
   },
   {
     "name": "ATHI HANDAYANI",
@@ -39,7 +39,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-30T05:54:39.761Z"
+    "lastUpdate": "2025-08-30T06:25:32.812Z"
   },
   {
     "name": "BINA MAKMUR",
@@ -102,14 +102,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-30T05:54:44.402Z"
+    "lastUpdate": "2025-08-30T06:25:37.838Z"
   },
   {
     "name": "TITIK ISMIATIN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-30T05:54:49.669Z"
+    "lastUpdate": "2025-08-30T06:25:43.102Z"
   },
   {
     "name": "TK. MAJU",
@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 20,
+    "stock": 15,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-08-30T05:54:53.089Z"
+    "isAlive": true,
+    "lastUpdate": "2025-08-30T06:25:46.537Z"
   },
   {
     "name": "UD RAHMAT",
@@ -466,7 +466,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-30T05:56:15.762Z"
+    "lastUpdate": "2025-08-30T06:26:50.054Z"
   },
   {
     "name": "SUSILO",
@@ -484,17 +484,17 @@
   },
   {
     "name": "IMA",
-    "stock": 12,
+    "stock": 7,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-30T06:23:50.061Z"
+    "lastUpdate": "2025-08-30T06:26:53.961Z"
   },
   {
     "name": "DARMAWAN P",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-30T05:56:35.492Z"
+    "lastUpdate": "2025-08-30T06:27:58.447Z"
   },
   {
     "name": "DIYAH UTAMI",
@@ -505,10 +505,10 @@
   },
   {
     "name": "SALMAH",
-    "stock": 25,
+    "stock": 20,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-08-30T05:56:38.853Z"
+    "isAlive": true,
+    "lastUpdate": "2025-08-30T06:28:01.880Z"
   },
   {
     "name": "TOKO ANITA",
