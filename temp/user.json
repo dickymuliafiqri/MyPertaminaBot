@@ -81,7 +81,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-30T21:13:32.419Z"
+    "lastUpdate": "2025-08-30T21:45:32.387Z"
   },
   {
     "name": "KARSONO",
@@ -95,7 +95,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-08-30T21:13:35.805Z"
+    "lastUpdate": "2025-08-30T21:45:35.864Z"
   },
   {
     "name": "MOH SAID",
@@ -402,8 +402,8 @@
     "name": "MOH HAFIF",
     "stock": 23,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-08-30T21:43:33.988Z"
+    "isAlive": false,
+    "lastUpdate": "2025-08-30T21:45:38.697Z"
   },
   {
     "name": "CAHYA HERAWATI",
