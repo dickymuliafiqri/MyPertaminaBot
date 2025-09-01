@@ -17,8 +17,8 @@
     "name": "ALFIAN DWI A.",
     "stock": 25,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-09-01T22:11:31.872Z"
+    "isAlive": false,
+    "lastUpdate": "2025-09-01T22:14:48.488Z"
   },
   {
     "name": "ATHI HANDAYANI",
@@ -36,24 +36,24 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 30,
+    "stock": 25,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-01T22:12:22.486Z"
+    "lastUpdate": "2025-09-01T22:14:55.440Z"
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 75,
+    "stock": 70,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-01T22:13:14.767Z"
+    "lastUpdate": "2025-09-01T22:15:47.774Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 0,
+    "stock": 80,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-01T20:56:39.588Z"
+    "lastUpdate": "2025-09-01T22:16:42.965Z"
   },
   {
     "name": "SUCIYONO",
