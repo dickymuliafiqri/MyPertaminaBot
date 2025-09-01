@@ -134,10 +134,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 75,
+    "stock": 70,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-01T10:55:51.954Z"
+    "lastUpdate": "2025-09-01T11:00:41.365Z"
   },
   {
     "name": "UD RAHMAT",
@@ -235,14 +235,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-01T04:04:03.784Z"
+    "lastUpdate": "2025-09-01T11:01:51.794Z"
   },
   {
     "name": "LUKMAN BS",
     "stock": 55,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-09-01T10:57:49.527Z"
+    "isAlive": false,
+    "lastUpdate": "2025-09-01T11:01:55.262Z"
   },
   {
     "name": "BISTON MANURUNG",
@@ -288,10 +288,10 @@
   },
   {
     "name": "ULFA MARIA",
-    "stock": 34,
+    "stock": 29,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-01T10:59:04.788Z"
+    "lastUpdate": "2025-09-01T11:02:42.761Z"
   },
   {
     "name": "BAMBANG HARTONO",
@@ -305,21 +305,21 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-01T04:21:58.534Z"
+    "lastUpdate": "2025-09-01T11:04:17.594Z"
   },
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-01T04:04:07.103Z"
+    "lastUpdate": "2025-09-01T11:04:20.994Z"
   },
   {
     "name": "ISTIQOMAH",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-01T04:22:01.890Z"
+    "lastUpdate": "2025-09-01T11:04:24.352Z"
   },
   {
     "name": "SUROSO",
@@ -333,7 +333,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-01T04:22:08.467Z"
+    "lastUpdate": "2025-09-01T11:05:09.457Z"
   },
   {
     "name": "SRI HIDAYATI",
@@ -344,10 +344,10 @@
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 0,
+    "stock": 24,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-01T04:04:13.650Z"
+    "lastUpdate": "2025-09-01T11:05:54.440Z"
   },
   {
     "name": "YUSUF ISMAIL",
