@@ -25,7 +25,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-02T03:29:49.961Z"
+    "lastUpdate": "2025-09-02T04:00:00.020Z"
   },
   {
     "name": "CINDRAWATI",
@@ -39,14 +39,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-02T03:29:53.335Z"
+    "lastUpdate": "2025-09-02T04:00:03.356Z"
   },
   {
     "name": "BINA MAKMUR",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-02T03:29:56.684Z"
+    "lastUpdate": "2025-09-02T04:00:06.890Z"
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -81,7 +81,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-02T03:30:00.338Z"
+    "lastUpdate": "2025-09-02T04:00:10.405Z"
   },
   {
     "name": "KARSONO",
@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 15,
+    "stock": 10,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-09-02T03:28:00.316Z"
+    "isAlive": true,
+    "lastUpdate": "2025-09-02T04:00:14.111Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 60,
+    "stock": 55,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-02T03:55:57.104Z"
+    "lastUpdate": "2025-09-02T04:01:09.669Z"
   },
   {
     "name": "UD RAHMAT",
@@ -190,10 +190,10 @@
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 4,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-02T03:56:49.401Z"
+    "lastUpdate": "2025-09-02T04:02:06.212Z"
   },
   {
     "name": "JONI H",
