@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-02T04:00:14.111Z"
+    "lastUpdate": "2025-09-02T04:03:42.199Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 55,
+    "stock": 50,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-02T04:01:09.669Z"
+    "lastUpdate": "2025-09-02T04:04:38.464Z"
   },
   {
     "name": "UD RAHMAT",
@@ -333,7 +333,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-01T20:47:12.453Z"
+    "lastUpdate": "2025-09-02T04:05:53.311Z"
   },
   {
     "name": "SRI HIDAYATI",
@@ -361,7 +361,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-01T20:59:33.264Z"
+    "lastUpdate": "2025-09-02T04:06:14.072Z"
   },
   {
     "name": "H. JUMAT",
@@ -512,10 +512,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 7,
+    "stock": 2,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-02T03:58:23.127Z"
+    "lastUpdate": "2025-09-02T04:06:20.859Z"
   },
   {
     "name": "TK. LUCKY",
