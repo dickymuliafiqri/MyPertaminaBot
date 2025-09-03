@@ -102,7 +102,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-03T03:46:16.077Z"
+    "lastUpdate": "2025-09-03T04:19:19.712Z"
   },
   {
     "name": "TITIK ISMIATIN",
@@ -130,14 +130,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-03T03:46:21.656Z"
+    "lastUpdate": "2025-09-03T04:19:25.291Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 50,
+    "stock": 45,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-03T04:14:45.287Z"
+    "lastUpdate": "2025-09-03T04:19:28.387Z"
   },
   {
     "name": "UD RAHMAT",
@@ -197,10 +197,10 @@
   },
   {
     "name": "JONI H",
-    "stock": 0,
+    "stock": 48,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-09-02T20:51:02.322Z"
+    "isAlive": false,
+    "lastUpdate": "2025-09-03T04:21:08.673Z"
   },
   {
     "name": "EVI DIANA SARI",
@@ -242,7 +242,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-02T21:04:51.580Z"
+    "lastUpdate": "2025-09-03T04:27:37.358Z"
   },
   {
     "name": "BISTON MANURUNG",
@@ -528,22 +528,22 @@
     "name": "UD SAMAN HADI",
     "stock": 30,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-09-03T04:17:21.699Z"
+    "isAlive": false,
+    "lastUpdate": "2025-09-03T04:27:46.875Z"
   },
   {
     "name": "SOEKAMTO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-02T21:08:10.773Z"
+    "lastUpdate": "2025-09-03T04:27:52.657Z"
   },
   {
     "name": "TOKO TIARA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-02T21:08:14.165Z"
+    "lastUpdate": "2025-09-03T04:27:55.543Z"
   },
   {
     "name": "TOKO POJOK-DISABLE",
