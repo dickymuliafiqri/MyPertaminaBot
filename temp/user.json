@@ -232,10 +232,10 @@
   },
   {
     "name": "ROSA V",
-    "stock": 2,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-06T21:53:47.059Z"
+    "lastUpdate": "2025-09-06T21:58:22.686Z"
   },
   {
     "name": "LUKMAN BS",
@@ -330,17 +330,17 @@
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 15,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-06T21:55:21.909Z"
+    "lastUpdate": "2025-09-06T21:58:54.332Z"
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 25,
+    "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-06T21:56:33.153Z"
+    "lastUpdate": "2025-09-06T22:00:02.145Z"
   },
   {
     "name": "ONG SWI GIOK",
