@@ -39,7 +39,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-06T04:00:45.659Z"
+    "lastUpdate": "2025-09-06T04:30:54.180Z"
   },
   {
     "name": "BINA MAKMUR",
@@ -81,7 +81,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-06T04:00:48.870Z"
+    "lastUpdate": "2025-09-06T04:30:57.887Z"
   },
   {
     "name": "KARSONO",
@@ -95,14 +95,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-06T03:56:16.248Z"
+    "lastUpdate": "2025-09-06T04:31:04.111Z"
   },
   {
     "name": "MOH SAID",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-06T04:00:52.814Z"
+    "lastUpdate": "2025-09-06T04:31:08.548Z"
   },
   {
     "name": "TITIK ISMIATIN",
@@ -116,7 +116,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-06T04:00:57.722Z"
+    "lastUpdate": "2025-09-06T04:31:13.930Z"
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 55,
+    "stock": 50,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-09-06T03:56:22.608Z"
+    "isAlive": true,
+    "lastUpdate": "2025-09-06T04:31:17.808Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 55,
+    "stock": 50,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-06T04:23:17.634Z"
+    "lastUpdate": "2025-09-06T04:32:27.038Z"
   },
   {
     "name": "UD RAHMAT",
@@ -165,7 +165,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-06T03:52:33.724Z"
+    "lastUpdate": "2025-09-06T04:33:53.197Z"
   },
   {
     "name": "ERNA PUJIATI",
@@ -375,14 +375,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-06T03:58:45.925Z"
+    "lastUpdate": "2025-09-06T04:34:36.851Z"
   },
   {
     "name": "HARSININGSIH",
-    "stock": 5,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-06T04:27:46.504Z"
+    "lastUpdate": "2025-09-06T04:34:40.039Z"
   },
   {
     "name": "ARIF FAUZI",
