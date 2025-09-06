@@ -316,10 +316,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 5,
+    "stock": 0,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-09-06T09:29:38.766Z"
+    "isAlive": true,
+    "lastUpdate": "2025-09-06T09:59:48.169Z"
   },
   {
     "name": "SUROSO",
