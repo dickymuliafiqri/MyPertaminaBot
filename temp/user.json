@@ -344,10 +344,10 @@
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 5,
+    "stock": 0,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-09-08T10:27:30.487Z"
+    "isAlive": true,
+    "lastUpdate": "2025-09-08T10:59:54.113Z"
   },
   {
     "name": "YUSUF ISMAIL",
@@ -403,21 +403,21 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-08T10:28:45.699Z"
+    "lastUpdate": "2025-09-08T11:01:02.632Z"
   },
   {
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-08T10:28:49.072Z"
+    "lastUpdate": "2025-09-08T11:01:05.716Z"
   },
   {
     "name": "SUDJIONO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-08T10:28:52.441Z"
+    "lastUpdate": "2025-09-08T11:01:08.806Z"
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -540,10 +540,10 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 28,
+    "stock": 23,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-08T10:57:56.248Z"
+    "lastUpdate": "2025-09-08T11:01:11.920Z"
   },
   {
     "name": "TOKO POJOK-DISABLE",
