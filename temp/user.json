@@ -116,7 +116,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-10T02:27:15.609Z"
+    "lastUpdate": "2025-09-10T02:59:20.011Z"
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -127,17 +127,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 50,
+    "stock": 45,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-09-10T02:28:57.784Z"
+    "isAlive": true,
+    "lastUpdate": "2025-09-10T02:59:23.886Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 55,
+    "stock": 50,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-10T02:55:20.863Z"
+    "lastUpdate": "2025-09-10T03:00:17.278Z"
   },
   {
     "name": "UD RAHMAT",
@@ -372,10 +372,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 55,
+    "stock": 50,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-10T02:56:33.207Z"
+    "lastUpdate": "2025-09-10T03:01:09.424Z"
   },
   {
     "name": "HARSININGSIH",
