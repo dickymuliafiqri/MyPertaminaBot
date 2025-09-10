@@ -134,17 +134,17 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 40,
+    "stock": 35,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-09-10T03:10:23.144Z"
+    "isAlive": true,
+    "lastUpdate": "2025-09-10T03:41:10.706Z"
   },
   {
     "name": "UD RAHMAT",
-    "stock": 5,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-10T03:38:07.150Z"
+    "lastUpdate": "2025-09-10T03:41:58.559Z"
   },
   {
     "name": "SUPARMAN",
@@ -358,10 +358,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 25,
+    "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-10T03:38:52.574Z"
+    "lastUpdate": "2025-09-10T03:42:43.927Z"
   },
   {
     "name": "H. JUMAT",
