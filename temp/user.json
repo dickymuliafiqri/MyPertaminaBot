@@ -316,10 +316,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 15,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-12T09:19:23.785Z"
+    "lastUpdate": "2025-09-12T09:21:42.058Z"
   },
   {
     "name": "SUROSO",
@@ -395,8 +395,8 @@
     "name": "TOKO SURYATI",
     "stock": 17,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-09-12T09:20:08.840Z"
+    "isAlive": false,
+    "lastUpdate": "2025-09-12T09:22:28.762Z"
   },
   {
     "name": "MOH HAFIF",
