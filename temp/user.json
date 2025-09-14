@@ -1,24 +1,24 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 45,
+    "stock": 40,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-14T22:48:45.329Z"
+    "lastUpdate": "2025-09-14T22:52:19.066Z"
   },
   {
     "name": "AKBAR RISQ",
-    "stock": 65,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-09-14T22:49:36.537Z"
-  },
-  {
-    "name": "ALFIAN DWI A.",
     "stock": 60,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-14T22:50:42.073Z"
+    "lastUpdate": "2025-09-14T22:53:10.685Z"
+  },
+  {
+    "name": "ALFIAN DWI A.",
+    "stock": 55,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2025-09-14T22:54:02.205Z"
   },
   {
     "name": "ATHI HANDAYANI",
