@@ -32,14 +32,14 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-14T03:38:17.946Z"
+    "lastUpdate": "2025-09-14T04:14:42.427Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-14T03:38:39.151Z"
+    "lastUpdate": "2025-09-14T04:15:02.121Z"
   },
   {
     "name": "BINA MAKMUR",
@@ -129,15 +129,15 @@
     "name": "TOKO IIN",
     "stock": 45,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-09-14T04:10:08.227Z"
+    "isAlive": false,
+    "lastUpdate": "2025-09-14T04:15:11.195Z"
   },
   {
     "name": "TOKO POJOK",
-    "stock": 20,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-14T04:11:03.250Z"
+    "lastUpdate": "2025-09-14T04:15:17.840Z"
   },
   {
     "name": "UD RAHMAT",
