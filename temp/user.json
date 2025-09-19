@@ -71,17 +71,17 @@
   },
   {
     "name": "JAENAL",
-    "stock": 125,
+    "stock": 120,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-19T18:34:49.374Z"
+    "lastUpdate": "2025-09-19T21:00:11.671Z"
   },
   {
     "name": "JOKO SUWARNO",
     "stock": 25,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-09-19T19:20:05.209Z"
+    "isAlive": false,
+    "lastUpdate": "2025-09-19T21:01:23.684Z"
   },
   {
     "name": "KARSONO",
