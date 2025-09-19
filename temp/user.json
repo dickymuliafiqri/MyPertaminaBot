@@ -57,17 +57,17 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 7,
+    "stock": 2,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-09-19T09:45:58.971Z"
+    "isAlive": true,
+    "lastUpdate": "2025-09-19T10:28:41.095Z"
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 40,
+    "stock": 35,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-19T09:51:29.361Z"
+    "lastUpdate": "2025-09-19T10:30:42.693Z"
   },
   {
     "name": "JAENAL",
