@@ -18,7 +18,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-20T12:18:27.433Z"
+    "lastUpdate": "2025-09-20T13:03:00.216Z"
   },
   {
     "name": "ATHI HANDAYANI",
@@ -39,7 +39,7 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-20T12:01:59.590Z"
+    "lastUpdate": "2025-09-20T13:03:19.388Z"
   },
   {
     "name": "BINA MAKMUR",
@@ -248,8 +248,8 @@
     "name": "BISTON MANURUNG",
     "stock": 34,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-09-20T12:49:44.186Z"
+    "isAlive": false,
+    "lastUpdate": "2025-09-20T13:04:11.437Z"
   },
   {
     "name": "ROSIDI",
@@ -274,10 +274,10 @@
   },
   {
     "name": "YUDA",
-    "stock": 9,
+    "stock": 4,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-20T12:52:27.085Z"
+    "lastUpdate": "2025-09-20T13:04:20.987Z"
   },
   {
     "name": "SRI UTAMI",
