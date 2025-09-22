@@ -29,17 +29,17 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 20,
+    "stock": 15,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-09-22T00:58:05.786Z"
+    "isAlive": true,
+    "lastUpdate": "2025-09-22T02:03:14.945Z"
   },
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-22T00:55:07.499Z"
+    "lastUpdate": "2025-09-22T02:04:25.975Z"
   },
   {
     "name": "BINA MAKMUR",
