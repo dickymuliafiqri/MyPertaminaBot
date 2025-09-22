@@ -78,17 +78,17 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 2,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-22T15:52:17.798Z"
+    "lastUpdate": "2025-09-22T16:27:26.776Z"
   },
   {
     "name": "KARSONO",
-    "stock": 16,
+    "stock": 11,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-09-22T15:43:16.575Z"
+    "isAlive": true,
+    "lastUpdate": "2025-09-22T16:28:10.437Z"
   },
   {
     "name": "LUTFI A.",
