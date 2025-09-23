@@ -277,13 +277,10 @@ async function main() {
           }
         }
 
-        // If token is still not valid
-        if (!isTokenValid) continue;
-
         // Save updated stock
         user = {
           name: sheetName,
-          stock: await pertamina.checkStock(),
+          stock: isTokenValid ? await pertamina.checkStock() : user?.stock,
           isTokenValid: isTokenValid,
           isAlive: true,
           lastUpdate: new Date(),
