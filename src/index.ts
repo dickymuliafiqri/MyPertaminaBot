@@ -226,7 +226,7 @@ async function main() {
 
       // Check user on local temp data
       let user = db.getUserLocalData(sheetName);
-      if (user) {
+      if (user && user.cycle % 2) {
         // 30 minutes differences
         if (Math.abs(new Date(user.lastUpdate).getTime() - new Date().getTime()) < 30 * 60 * 1000) {
           if (!user.isTokenValid) {
@@ -286,6 +286,7 @@ async function main() {
         isTokenValid: isTokenValid,
         isAlive: true,
         lastUpdate: new Date(),
+        cycle: (user?.cycle ?? 0) + 1,
       };
 
       if (user.isTokenValid && user.stock > 0 && user.isAlive) {

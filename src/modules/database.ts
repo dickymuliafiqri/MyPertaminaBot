@@ -8,6 +8,7 @@ export interface UserLocalData {
   isTokenValid: boolean;
   isAlive: boolean;
   lastUpdate: Date;
+  cycle: number;
 }
 
 interface NIKsData {
