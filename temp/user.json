@@ -99,17 +99,17 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 7,
+    "stock": 2,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-23T15:24:18.856Z"
+    "lastUpdate": "2025-09-23T16:00:46.958Z"
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 20,
+    "stock": 15,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-09-23T15:07:06.971Z"
+    "isAlive": true,
+    "lastUpdate": "2025-09-23T16:02:12.424Z"
   },
   {
     "name": "TK. MAJU",
