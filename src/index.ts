@@ -226,7 +226,7 @@ async function main() {
 
       // Check user on local temp data
       let user = db.getUserLocalData(sheetName);
-      if (user && user.cycle % 2) {
+      if (user) {
         // 30 minutes differences
         if (Math.abs(new Date(user.lastUpdate).getTime() - new Date().getTime()) < 30 * 60 * 1000) {
           if (!user.isTokenValid) {
@@ -242,77 +242,83 @@ async function main() {
         }
       }
 
-      // Proceed user
-      await sheet.loadCells();
+      if ((user?.cycle ?? 0) % 2) {
+        // Proceed user
+        await sheet.loadCells();
 
-      const tokenCell = sheet.getCellByA1("B1");
-      const token = tokenCell.value?.toString() || "";
-      const username = sheet.getCellByA1("B2").value?.toString() || "";
-      const password = sheet.getCellByA1("B3").value?.toString() || "";
-      const proxy = proxies[Math.floor(Math.random() * proxies.length)];
+        const tokenCell = sheet.getCellByA1("B1");
+        const token = tokenCell.value?.toString() || "";
+        const username = sheet.getCellByA1("B2").value?.toString() || "";
+        const password = sheet.getCellByA1("B3").value?.toString() || "";
+        const proxy = proxies[Math.floor(Math.random() * proxies.length)];
 
-      const pertamina = new Pertamina(username, password, token, proxy);
+        const pertamina = new Pertamina(username, password, token, proxy);
 
-      let isTokenValid = await pertamina.checkToken();
-      if (!isTokenValid && loginLimit > 0) {
-        try {
-          const newToken = await pertamina.login();
-          if (newToken.length > 800) {
-            isTokenValid = await pertamina.checkToken();
-            if (isTokenValid) {
-              tokenCell.value = newToken;
-              await sheet.saveUpdatedCells();
-              loginLimit -= 1;
+        let isTokenValid = await pertamina.checkToken();
+        if (!isTokenValid && loginLimit > 0) {
+          try {
+            const newToken = await pertamina.login();
+            if (newToken.length > 800) {
+              isTokenValid = await pertamina.checkToken();
+              if (isTokenValid) {
+                tokenCell.value = newToken;
+                await sheet.saveUpdatedCells();
+                loginLimit -= 1;
 
-              console.log("[+] Logged In!");
-              finalMessage.push(`[🟡] ${sheet.title} Logged In!`);
-            } else {
-              throw new Error("Unknown error");
+                console.log("[+] Logged In!");
+                finalMessage.push(`[🟡] ${sheet.title} Logged In!`);
+              } else {
+                throw new Error("Unknown error");
+              }
+            }
+          } catch (e: any) {
+            console.log(`[-] Login Failed: ${e.message}`);
+            finalMessage.push(`[🔴] ${sheet.title} Login Failed: ${e.message}`);
+          }
+        }
+
+        // If token is still not valid
+        if (!isTokenValid) continue;
+
+        // Save updated stock
+        user = {
+          name: sheetName,
+          stock: await pertamina.checkStock(),
+          isTokenValid: isTokenValid,
+          isAlive: true,
+          lastUpdate: new Date(),
+          cycle: user?.cycle ?? 0,
+        };
+
+        if (user.isTokenValid && user.stock > 0 && user.isAlive) {
+          let message: string = "";
+          let cancelingMessage: string = "";
+          try {
+            message = await sheetTransaction(sheet, transactionLimit, pertamina, user);
+            cancelingMessage = await pertamina.cancelDoubleTransaction();
+          } catch (e: any) {
+            console.log(`[-] Error occured: ${e.message}`);
+            message += `\n[🔴] Error occured: ${e.message}`;
+          } finally {
+            finalMessage.push(message);
+            if (message.includes("success")) {
+              userLimit -= 1;
+            } else if (!message.includes(">")) {
+              user.isAlive = false;
+            }
+
+            if (cancelingMessage) {
+              finalMessage.push(cancelingMessage);
             }
           }
-        } catch (e: any) {
-          console.log(`[-] Login Failed: ${e.message}`);
-          finalMessage.push(`[🔴] ${sheet.title} Login Failed: ${e.message}`);
         }
       }
 
-      // If token is still not valid
-      if (!isTokenValid) continue;
-
-      // Save updated stock
-      user = {
-        name: sheetName,
-        stock: await pertamina.checkStock(),
-        isTokenValid: isTokenValid,
-        isAlive: true,
-        lastUpdate: new Date(),
-        cycle: (user?.cycle ?? 0) + 1,
-      };
-
-      if (user.isTokenValid && user.stock > 0 && user.isAlive) {
-        let message: string = "";
-        let cancelingMessage: string = "";
-        try {
-          message = await sheetTransaction(sheet, transactionLimit, pertamina, user);
-          cancelingMessage = await pertamina.cancelDoubleTransaction();
-        } catch (e: any) {
-          console.log(`[-] Error occured: ${e.message}`);
-          message += `\n[🔴] Error occured: ${e.message}`;
-        } finally {
-          finalMessage.push(message);
-          if (message.includes("success")) {
-            userLimit -= 1;
-          } else if (!message.includes(">")) {
-            user.isAlive = false;
-          }
-
-          if (cancelingMessage) {
-            finalMessage.push(cancelingMessage);
-          }
-        }
+      if (user) {
+        user.cycle = (user.cycle ?? 0) + 1;
+        db.setUserLocalData(user);
       }
 
-      db.setUserLocalData(user);
       console.log(`[+] Done proceeding ${sheetName} sheet!`);
     } catch (e: any) {
       console.log(`[-] Error occured: ${e.message}`);
