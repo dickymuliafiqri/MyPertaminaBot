@@ -238,14 +238,8 @@ async function main() {
       if (user) {
         // 120 minutes differences
         if (Math.abs(new Date(user.lastUpdate).getTime() - new Date().getTime()) < 2 * 60 * 60 * 1000) {
-          if (!user.isTokenValid) {
-            console.log("[-] Token Invalid!");
-            continue;
-          } else if (user.stock <= 0 || user.stock >= 500) {
+          if (user.stock <= 0 || user.stock >= 500) {
             console.log("[-] Stock: " + user.stock);
-            continue;
-          } else if (user.isAlive != undefined && !user.isAlive) {
-            console.log("[-] No active NIK found!");
             continue;
           }
         }
