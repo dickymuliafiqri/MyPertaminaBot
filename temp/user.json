@@ -73,11 +73,11 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 65,
+    "stock": 60,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T22:04:55.290Z",
-    "cycle": 19
+    "lastUpdate": "2025-09-24T22:08:25.038Z",
+    "cycle": 20
   },
   {
     "name": "JAENAL",
@@ -89,11 +89,11 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 30,
+    "stock": 25,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T22:06:13.345Z",
-    "cycle": 20
+    "lastUpdate": "2025-09-24T22:09:20.405Z",
+    "cycle": 21
   },
   {
     "name": "KARSONO",
@@ -186,10 +186,10 @@
   {
     "name": "HJ LILIK LAILIYAH",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T20:08:43.453Z",
-    "cycle": 8
+    "lastUpdate": "2025-09-24T22:10:30.201Z",
+    "cycle": 9
   },
   {
     "name": "ERNA PUJIATI",
