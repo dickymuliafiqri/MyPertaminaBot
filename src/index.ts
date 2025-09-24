@@ -318,11 +318,11 @@ async function main() {
             }
           }
         }
-      }
 
-      if (user) {
-        user.cycle = (user.cycle ?? 0) + 1;
-        db.setUserLocalData(user);
+        if (user) {
+          user.cycle = (user.cycle ?? 0) + 1;
+          db.setUserLocalData(user);
+        }
       }
 
       console.log(`[+] Done proceeding ${sheetName} sheet!`);
