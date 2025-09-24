@@ -244,8 +244,8 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T11:45:54.728Z",
-    "cycle": 2
+    "lastUpdate": "2025-09-24T12:17:44.843Z",
+    "cycle": 3
   },
   {
     "name": "TK MUSTAPA",
@@ -258,10 +258,10 @@
   {
     "name": "YUNIS WAHYUNI",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T11:46:14.705Z",
-    "cycle": 2
+    "lastUpdate": "2025-09-24T12:18:32.597Z",
+    "cycle": 3
   },
   {
     "name": "ROSA V",
@@ -276,24 +276,24 @@
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T11:47:43.646Z",
-    "cycle": 2
+    "lastUpdate": "2025-09-24T12:19:16.024Z",
+    "cycle": 3
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T11:48:52.781Z",
-    "cycle": 2
+    "lastUpdate": "2025-09-24T12:19:59.337Z",
+    "cycle": 3
   },
   {
     "name": "ROSIDI",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T11:49:12.499Z",
-    "cycle": 2
+    "lastUpdate": "2025-09-24T12:20:41.760Z",
+    "cycle": 3
   },
   {
     "name": "ALPAN SANYOTO",
@@ -308,32 +308,32 @@
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T11:49:14.195Z",
-    "cycle": 2
+    "lastUpdate": "2025-09-24T12:22:22.919Z",
+    "cycle": 3
   },
   {
     "name": "YUDA",
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T11:50:45.127Z",
-    "cycle": 2
+    "lastUpdate": "2025-09-24T12:23:05.564Z",
+    "cycle": 3
   },
   {
     "name": "SRI UTAMI",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 31,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T11:52:12.865Z",
-    "cycle": 2
+    "lastUpdate": "2025-09-24T12:23:25.996Z",
+    "cycle": 3
   },
   {
     "name": "ULFA MARIA",
     "stock": 34,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T12:15:43.237Z",
-    "cycle": 10
+    "lastUpdate": "2025-09-24T12:24:23.077Z",
+    "cycle": 11
   },
   {
     "name": "BAMBANG HARTONO",
