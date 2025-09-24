@@ -370,10 +370,10 @@
   {
     "name": "SUROSO",
     "stock": 32,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T16:40:09.954Z",
-    "cycle": 19
+    "lastUpdate": "2025-09-24T16:43:14.304Z",
+    "cycle": 20
   },
   {
     "name": "HADI SUTOYO",
