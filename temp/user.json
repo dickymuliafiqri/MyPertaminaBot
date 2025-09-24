@@ -28,8 +28,8 @@
     "stock": 25,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T23:06:11.200Z",
-    "cycle": 15
+    "lastUpdate": "2025-09-24T23:10:09.247Z",
+    "cycle": 16
   },
   {
     "name": "CINDRAWATI",
@@ -116,8 +116,8 @@
     "stock": 45,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T23:07:11.102Z",
-    "cycle": 19
+    "lastUpdate": "2025-09-24T23:11:50.034Z",
+    "cycle": 20
   },
   {
     "name": "TITIK ISMIATIN",
@@ -409,11 +409,11 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 14,
+    "stock": 9,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T23:08:22.603Z",
-    "cycle": 13
+    "lastUpdate": "2025-09-24T23:13:30.102Z",
+    "cycle": 14
   },
   {
     "name": "H. JUMAT",
@@ -465,43 +465,43 @@
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 30,
+    "stock": 25,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T23:00:27.704Z",
-    "cycle": 9
+    "lastUpdate": "2025-09-24T23:14:45.356Z",
+    "cycle": 10
   },
   {
     "name": "SUDJIONO",
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T20:46:02.113Z",
-    "cycle": 7
+    "lastUpdate": "2025-09-24T23:16:16.473Z",
+    "cycle": 8
   },
   {
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T20:46:03.820Z",
-    "cycle": 7
+    "lastUpdate": "2025-09-24T23:16:58.334Z",
+    "cycle": 8
   },
   {
     "name": "WIKAN K",
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T20:46:05.471Z",
-    "cycle": 7
+    "lastUpdate": "2025-09-24T23:17:40.029Z",
+    "cycle": 8
   },
   {
     "name": "TUSOK",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 20,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T20:46:07.106Z",
-    "cycle": 7
+    "lastUpdate": "2025-09-24T23:17:57.501Z",
+    "cycle": 8
   },
   {
     "name": "MISRI CICI",
