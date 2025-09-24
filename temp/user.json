@@ -5,7 +5,7 @@
     "isTokenValid": false,
     "isAlive": true,
     "lastUpdate": "2025-09-24T01:50:00.855Z",
-    "cycle": 32
+    "cycle": 33
   },
   {
     "name": "AKBAR RISQ",
@@ -34,10 +34,10 @@
   {
     "name": "CINDRAWATI",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T02:27:51.824Z",
-    "cycle": 15
+    "lastUpdate": "2025-09-24T02:58:59.433Z",
+    "cycle": 16
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -69,7 +69,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-24T02:39:21.878Z",
-    "cycle": 26
+    "cycle": 27
   },
   {
     "name": "SUMBER REJEKI",
@@ -105,11 +105,11 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 85,
+    "stock": 80,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T02:56:21.867Z",
-    "cycle": 10
+    "lastUpdate": "2025-09-24T02:59:04.295Z",
+    "cycle": 11
   },
   {
     "name": "MOH SAID",
