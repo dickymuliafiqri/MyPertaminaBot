@@ -170,6 +170,7 @@ async function sheetTransaction(
               if (errorCount >= 5) {
                 transactionLimit = 0;
                 bansosLimit = 0;
+                loopLimit = 0;
               }
             }
           }
