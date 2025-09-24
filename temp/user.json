@@ -258,10 +258,10 @@
   {
     "name": "YUNIS WAHYUNI",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T14:33:50.929Z",
-    "cycle": 4
+    "lastUpdate": "2025-09-24T16:34:25.074Z",
+    "cycle": 5
   },
   {
     "name": "ROSA V",
@@ -369,11 +369,11 @@
   },
   {
     "name": "SUROSO",
-    "stock": 42,
+    "stock": 37,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T16:32:24.010Z",
-    "cycle": 16
+    "lastUpdate": "2025-09-24T16:34:28.287Z",
+    "cycle": 17
   },
   {
     "name": "HADI SUTOYO",
