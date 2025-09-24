@@ -170,10 +170,10 @@
   {
     "name": "SUPARMAN",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T10:41:20.949Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-24T11:11:57.474Z",
+    "cycle": 1
   },
   {
     "name": "DJAMIAH",
