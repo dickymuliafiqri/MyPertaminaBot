@@ -25,11 +25,11 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 55,
+    "stock": 50,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T22:40:24.332Z",
-    "cycle": 9
+    "lastUpdate": "2025-09-24T22:42:36.524Z",
+    "cycle": 10
   },
   {
     "name": "CINDRAWATI",
@@ -404,32 +404,32 @@
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T20:42:58.635Z",
-    "cycle": 7
+    "lastUpdate": "2025-09-24T22:44:09.570Z",
+    "cycle": 8
   },
   {
     "name": "SUPARNI",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 34,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T20:43:38.190Z",
-    "cycle": 7
+    "lastUpdate": "2025-09-24T22:44:29.444Z",
+    "cycle": 8
   },
   {
     "name": "H. JUMAT",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T20:43:57.886Z",
-    "cycle": 7
+    "lastUpdate": "2025-09-24T22:45:37.477Z",
+    "cycle": 8
   },
   {
     "name": "YOGA RAJAN",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T20:44:41.620Z",
-    "cycle": 7
+    "lastUpdate": "2025-09-24T22:45:38.973Z",
+    "cycle": 8
   },
   {
     "name": "HARSININGSIH",
