@@ -5,7 +5,7 @@
     "isTokenValid": false,
     "isAlive": true,
     "lastUpdate": "2025-09-24T01:50:00.855Z",
-    "cycle": 60
+    "cycle": 61
   },
   {
     "name": "AKBAR RISQ",
@@ -13,7 +13,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-24T02:42:32.680Z",
-    "cycle": 44
+    "cycle": 45
   },
   {
     "name": "ALFIAN DWI A.",
@@ -21,7 +21,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-24T03:45:14.766Z",
-    "cycle": 35
+    "cycle": 36
   },
   {
     "name": "ATHI HANDAYANI",
@@ -34,18 +34,18 @@
   {
     "name": "CINDRAWATI",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T04:36:47.664Z",
-    "cycle": 19
+    "lastUpdate": "2025-09-24T05:08:59.209Z",
+    "cycle": 20
   },
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T04:37:05.328Z",
-    "cycle": 11
+    "lastUpdate": "2025-09-24T05:09:19.677Z",
+    "cycle": 12
   },
   {
     "name": "BINA MAKMUR",
@@ -61,7 +61,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-24T04:54:11.058Z",
-    "cycle": 23
+    "cycle": 24
   },
   {
     "name": "SUCIYONO",
@@ -69,7 +69,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-24T02:39:21.878Z",
-    "cycle": 54
+    "cycle": 55
   },
   {
     "name": "SUMBER REJEKI",
@@ -77,15 +77,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-24T05:05:16.887Z",
-    "cycle": 21
+    "cycle": 22
   },
   {
     "name": "JAENAL",
     "stock": 55,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T04:38:41.906Z",
-    "cycle": 20
+    "lastUpdate": "2025-09-24T05:09:21.475Z",
+    "cycle": 21
   },
   {
     "name": "JOKO SUWARNO",
@@ -186,9 +186,9 @@
     "name": "HJ LILIK LAILIYAH",
     "stock": 20,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-09-24T05:06:56.495Z",
-    "cycle": 16
+    "isAlive": false,
+    "lastUpdate": "2025-09-24T05:09:24.763Z",
+    "cycle": 17
   },
   {
     "name": "ERNA PUJIATI",
