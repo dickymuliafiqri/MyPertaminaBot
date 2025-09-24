@@ -29,6 +29,7 @@ async function sheetTransaction(
   let loopLimit = 5;
   let bansosLimit = 5;
   let maxColumnIndex = 0;
+  let errorCount = 0;
 
   let rows = await sheet.getRows();
 
@@ -163,6 +164,12 @@ async function sheetTransaction(
                   break;
                 default:
                   cell.value = 0;
+              }
+
+              errorCount += 1;
+              if (errorCount >= 5) {
+                transactionLimit = 0;
+                bansosLimit = 0;
               }
             }
           }
