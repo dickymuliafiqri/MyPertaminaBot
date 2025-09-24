@@ -131,7 +131,7 @@ async function sheetTransaction(
               niks.done.data.push(nik);
               transactionLimit -= 1;
             } else {
-              console.log(`[-] Error ${transaction.code}: ${transaction.message}`);
+              console.log(`[-] Error: ${transaction}`);
               message.push(
                 `[🔴] ${sheetName} > Error ${transaction.code}: ${transaction.message} > ${nik} > ${sheetA1Notation}`
               );
@@ -210,6 +210,7 @@ async function main() {
 
   const db = new Database();
   await db.doc.loadInfo();
+  db.resetUserCycleSafe();
 
   await bot.sendToAdmin("BOT STARTED!");
 
@@ -242,7 +243,7 @@ async function main() {
         }
       }
 
-      if ((user?.cycle ?? 0) % 2) {
+      if ((user?.cycle ?? 0) <= 20) {
         // Proceed user
         await sheet.loadCells();
 

@@ -51,6 +51,24 @@ export class Database {
     writeFileSync("./temp/user.json", JSON.stringify(this.userLocalData, null, "  "));
   }
 
+  resetUserCycleSafe() {
+    let doReset = true;
+
+    for (const user of this.userLocalData) {
+      if (!isNaN(user.cycle) && user.cycle <= 20) {
+        doReset = false;
+        break;
+      }
+    }
+
+    if (doReset) {
+      for (let user of this.userLocalData) {
+        user.cycle = 0;
+        this.setUserLocalData(user);
+      }
+    }
+  }
+
   static getNiksArray(): NIKsLocalData {
     return JSON.parse(readFileSync("./temp/niks.json").toString()) as NIKsLocalData;
   }
