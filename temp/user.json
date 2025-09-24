@@ -5,7 +5,7 @@
     "isTokenValid": false,
     "isAlive": true,
     "lastUpdate": "2025-09-24T01:50:00.855Z",
-    "cycle": 52
+    "cycle": 53
   },
   {
     "name": "AKBAR RISQ",
@@ -13,7 +13,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-24T02:42:32.680Z",
-    "cycle": 36
+    "cycle": 37
   },
   {
     "name": "ALFIAN DWI A.",
@@ -21,15 +21,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-24T03:45:14.766Z",
-    "cycle": 27
+    "cycle": 28
   },
   {
     "name": "ATHI HANDAYANI",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T03:54:22.448Z",
-    "cycle": 11
+    "lastUpdate": "2025-09-24T04:27:43.489Z",
+    "cycle": 12
   },
   {
     "name": "CINDRAWATI",
@@ -49,11 +49,11 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 70,
-    "isTokenValid": false,
+    "stock": 60,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T03:55:04.726Z",
-    "cycle": 13
+    "lastUpdate": "2025-09-24T04:28:05.082Z",
+    "cycle": 14
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -69,15 +69,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-24T02:39:21.878Z",
-    "cycle": 46
+    "cycle": 47
   },
   {
     "name": "SUMBER REJEKI",
     "stock": 37,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T03:55:46.614Z",
-    "cycle": 18
+    "lastUpdate": "2025-09-24T04:29:00.471Z",
+    "cycle": 19
   },
   {
     "name": "JAENAL",
@@ -89,19 +89,19 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 20,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T04:24:10.739Z",
-    "cycle": 18
+    "lastUpdate": "2025-09-24T04:29:03.758Z",
+    "cycle": 19
   },
   {
     "name": "KARSONO",
     "stock": 30,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T03:56:26.113Z",
-    "cycle": 18
+    "lastUpdate": "2025-09-24T04:29:58.681Z",
+    "cycle": 19
   },
   {
     "name": "LUTFI A.",
@@ -113,11 +113,11 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 30,
+    "stock": 25,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T04:25:43.487Z",
-    "cycle": 15
+    "lastUpdate": "2025-09-24T04:30:02.528Z",
+    "cycle": 16
   },
   {
     "name": "TITIK ISMIATIN",
