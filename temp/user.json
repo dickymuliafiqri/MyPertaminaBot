@@ -5,7 +5,7 @@
     "isTokenValid": false,
     "isAlive": true,
     "lastUpdate": "2025-09-24T01:50:00.855Z",
-    "cycle": 100
+    "cycle": 101
   },
   {
     "name": "AKBAR RISQ",
@@ -13,7 +13,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-24T02:42:32.680Z",
-    "cycle": 84
+    "cycle": 85
   },
   {
     "name": "ALFIAN DWI A.",
@@ -21,7 +21,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-24T03:45:14.766Z",
-    "cycle": 75
+    "cycle": 76
   },
   {
     "name": "ATHI HANDAYANI",
@@ -37,7 +37,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-24T05:40:06.675Z",
-    "cycle": 37
+    "cycle": 38
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -53,7 +53,7 @@
     "isTokenValid": true,
     "isAlive": false,
     "lastUpdate": "2025-09-24T05:56:07.384Z",
-    "cycle": 32
+    "cycle": 33
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -61,7 +61,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-24T04:54:11.058Z",
-    "cycle": 63
+    "cycle": 64
   },
   {
     "name": "SUCIYONO",
@@ -69,7 +69,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-24T02:39:21.878Z",
-    "cycle": 94
+    "cycle": 95
   },
   {
     "name": "SUMBER REJEKI",
@@ -77,7 +77,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-24T05:05:16.887Z",
-    "cycle": 61
+    "cycle": 62
   },
   {
     "name": "JAENAL",
@@ -85,7 +85,7 @@
     "isTokenValid": false,
     "isAlive": true,
     "lastUpdate": "2025-09-24T05:09:21.475Z",
-    "cycle": 51
+    "cycle": 52
   },
   {
     "name": "JOKO SUWARNO",
@@ -93,7 +93,7 @@
     "isTokenValid": false,
     "isAlive": true,
     "lastUpdate": "2025-09-24T04:39:23.366Z",
-    "cycle": 60
+    "cycle": 61
   },
   {
     "name": "KARSONO",
@@ -101,7 +101,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-24T05:35:50.867Z",
-    "cycle": 52
+    "cycle": 53
   },
   {
     "name": "LUTFI A.",
@@ -109,7 +109,7 @@
     "isTokenValid": false,
     "isAlive": true,
     "lastUpdate": "2025-09-24T05:36:44.188Z",
-    "cycle": 38
+    "cycle": 39
   },
   {
     "name": "MOH SAID",
@@ -117,7 +117,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-24T05:23:01.562Z",
-    "cycle": 54
+    "cycle": 55
   },
   {
     "name": "TITIK ISMIATIN",
@@ -125,7 +125,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-24T05:43:55.904Z",
-    "cycle": 48
+    "cycle": 49
   },
   {
     "name": "TK. MAJU",
@@ -133,7 +133,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-24T06:21:53.513Z",
-    "cycle": 33
+    "cycle": 34
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -141,7 +141,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-24T06:33:02.266Z",
-    "cycle": 25
+    "cycle": 26
   },
   {
     "name": "TOKO IIN",
@@ -149,23 +149,23 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-24T06:25:44.241Z",
-    "cycle": 32
+    "cycle": 33
   },
   {
     "name": "TOKO POJOK",
-    "stock": 85,
-    "isTokenValid": false,
+    "stock": 80,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T06:09:21.358Z",
-    "cycle": 16
+    "lastUpdate": "2025-09-24T06:40:16.637Z",
+    "cycle": 17
   },
   {
     "name": "UD RAHMAT",
     "stock": 55,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T06:09:23.516Z",
-    "cycle": 14
+    "lastUpdate": "2025-09-24T06:41:55.153Z",
+    "cycle": 15
   },
   {
     "name": "SUPARMAN",
@@ -188,15 +188,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-24T06:20:09.425Z",
-    "cycle": 34
+    "cycle": 35
   },
   {
     "name": "ERNA PUJIATI",
     "stock": 24,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T06:09:25.145Z",
-    "cycle": 16
+    "lastUpdate": "2025-09-24T06:42:37.655Z",
+    "cycle": 17
   },
   {
     "name": "P. SUK",
