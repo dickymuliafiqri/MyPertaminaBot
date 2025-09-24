@@ -18,10 +18,10 @@
   {
     "name": "ALFIAN DWI A.",
     "stock": 20,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T01:59:46.764Z",
-    "cycle": 16
+    "lastUpdate": "2025-09-24T02:05:47.065Z",
+    "cycle": 17
   },
   {
     "name": "ATHI HANDAYANI",
@@ -68,8 +68,8 @@
     "stock": 65,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T02:01:38.011Z",
-    "cycle": 12
+    "lastUpdate": "2025-09-24T02:05:50.843Z",
+    "cycle": 13
   },
   {
     "name": "SUMBER REJEKI",
@@ -84,8 +84,8 @@
     "stock": 75,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T02:02:37.704Z",
-    "cycle": 10
+    "lastUpdate": "2025-09-24T02:07:45.791Z",
+    "cycle": 11
   },
   {
     "name": "JOKO SUWARNO",
