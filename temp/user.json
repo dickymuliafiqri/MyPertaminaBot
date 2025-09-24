@@ -129,43 +129,43 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 38,
+    "stock": 33,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T15:34:28.583Z",
-    "cycle": 20
+    "lastUpdate": "2025-09-24T15:38:53.680Z",
+    "cycle": 21
   },
   {
     "name": "TOKO 2 PUTRI",
     "stock": 115,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T15:36:22.705Z",
-    "cycle": 19
+    "lastUpdate": "2025-09-24T15:39:53.747Z",
+    "cycle": 20
   },
   {
     "name": "TOKO IIN",
-    "stock": 62,
-    "isTokenValid": false,
+    "stock": 57,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T15:37:25.096Z",
-    "cycle": 14
+    "lastUpdate": "2025-09-24T15:41:52.422Z",
+    "cycle": 15
   },
   {
     "name": "TOKO POJOK",
     "stock": 45,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T15:37:27.009Z",
-    "cycle": 14
+    "lastUpdate": "2025-09-24T15:42:50.380Z",
+    "cycle": 15
   },
   {
     "name": "UD RAHMAT",
     "stock": 10,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T15:37:29.985Z",
-    "cycle": 12
+    "lastUpdate": "2025-09-24T15:42:53.208Z",
+    "cycle": 13
   },
   {
     "name": "SUPARMAN",
@@ -196,8 +196,8 @@
     "stock": 9,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T15:37:33.598Z",
-    "cycle": 9
+    "lastUpdate": "2025-09-24T15:42:54.823Z",
+    "cycle": 10
   },
   {
     "name": "P. SUK",
@@ -268,8 +268,8 @@
     "stock": 3,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T15:37:40.706Z",
-    "cycle": 8
+    "lastUpdate": "2025-09-24T15:42:56.663Z",
+    "cycle": 9
   },
   {
     "name": "LUKMAN BS",
@@ -332,8 +332,8 @@
     "stock": 34,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T15:37:44.221Z",
-    "cycle": 14
+    "lastUpdate": "2025-09-24T15:42:58.223Z",
+    "cycle": 15
   },
   {
     "name": "BAMBANG HARTONO",
@@ -372,8 +372,8 @@
     "stock": 22,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T15:37:45.984Z",
-    "cycle": 6
+    "lastUpdate": "2025-09-24T15:42:59.771Z",
+    "cycle": 7
   },
   {
     "name": "HADI SUTOYO",
