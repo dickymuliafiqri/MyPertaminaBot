@@ -226,10 +226,10 @@
   {
     "name": "JONI H",
     "stock": 35,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T10:56:46.329Z",
-    "cycle": 3
+    "lastUpdate": "2025-09-24T10:59:54.677Z",
+    "cycle": 4
   },
   {
     "name": "EVI DIANA SARI",
