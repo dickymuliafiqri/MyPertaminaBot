@@ -265,11 +265,11 @@
   },
   {
     "name": "ROSA V",
-    "stock": 3,
-    "isTokenValid": false,
+    "stock": 0,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T16:21:11.210Z",
-    "cycle": 13
+    "lastUpdate": "2025-09-24T16:23:40.685Z",
+    "cycle": 14
   },
   {
     "name": "LUKMAN BS",
@@ -329,11 +329,11 @@
   },
   {
     "name": "ULFA MARIA",
-    "stock": 34,
-    "isTokenValid": false,
+    "stock": 29,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T16:21:52.632Z",
-    "cycle": 19
+    "lastUpdate": "2025-09-24T16:24:35.338Z",
+    "cycle": 20
   },
   {
     "name": "BAMBANG HARTONO",
@@ -372,8 +372,8 @@
     "stock": 22,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T16:22:36.291Z",
-    "cycle": 11
+    "lastUpdate": "2025-09-24T16:25:32.171Z",
+    "cycle": 12
   },
   {
     "name": "HADI SUTOYO",
