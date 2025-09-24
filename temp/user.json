@@ -242,10 +242,10 @@
   {
     "name": "TOKO IRAWAN",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T14:23:56.961Z",
-    "cycle": 4
+    "lastUpdate": "2025-09-24T16:26:38.807Z",
+    "cycle": 5
   },
   {
     "name": "TK MUSTAPA",
@@ -331,9 +331,9 @@
     "name": "ULFA MARIA",
     "stock": 29,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-09-24T16:24:35.338Z",
-    "cycle": 20
+    "isAlive": false,
+    "lastUpdate": "2025-09-24T16:26:41.905Z",
+    "cycle": 21
   },
   {
     "name": "BAMBANG HARTONO",
@@ -369,11 +369,11 @@
   },
   {
     "name": "SUROSO",
-    "stock": 22,
-    "isTokenValid": false,
+    "stock": 57,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T16:25:32.171Z",
-    "cycle": 12
+    "lastUpdate": "2025-09-24T16:27:06.531Z",
+    "cycle": 13
   },
   {
     "name": "HADI SUTOYO",
