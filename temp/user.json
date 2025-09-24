@@ -5,7 +5,7 @@
     "isTokenValid": false,
     "isAlive": true,
     "lastUpdate": "2025-09-24T01:50:00.855Z",
-    "cycle": 44
+    "cycle": 45
   },
   {
     "name": "AKBAR RISQ",
@@ -13,15 +13,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-24T02:42:32.680Z",
-    "cycle": 28
+    "cycle": 29
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 20,
-    "isTokenValid": false,
+    "stock": 15,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T03:10:22.333Z",
-    "cycle": 19
+    "lastUpdate": "2025-09-24T03:41:41.674Z",
+    "cycle": 20
   },
   {
     "name": "ATHI HANDAYANI",
@@ -69,15 +69,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-24T02:39:21.878Z",
-    "cycle": 38
+    "cycle": 39
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 42,
+    "stock": 37,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T03:37:34.828Z",
-    "cycle": 15
+    "lastUpdate": "2025-09-24T03:42:37.189Z",
+    "cycle": 16
   },
   {
     "name": "JAENAL",
@@ -97,11 +97,11 @@
   },
   {
     "name": "KARSONO",
-    "stock": 40,
+    "stock": 35,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T03:38:44.762Z",
-    "cycle": 15
+    "lastUpdate": "2025-09-24T03:43:32.104Z",
+    "cycle": 16
   },
   {
     "name": "LUTFI A.",
