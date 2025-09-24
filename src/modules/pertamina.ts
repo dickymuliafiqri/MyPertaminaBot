@@ -84,7 +84,15 @@ export class Pertamina {
     await page.waitForSelector("#mantine-r0");
     await page.locator("#mantine-r0").pressSequentially(this.username);
     await page.locator("#mantine-r1").pressSequentially(this.password);
-    await page.locator("#mantine-r1").press("Enter");
+
+    try {
+      for (let i = 0; i < 3; i++) {
+        await page.locator("#mantine-r1").press("Enter");
+        await sleep(300);
+      }
+    } catch (e) {
+      console.log(e);
+    }
 
     for (let i = 0; i < 300; i++) {
       if (message.length > 800) break;
