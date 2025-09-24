@@ -314,10 +314,10 @@
   {
     "name": "YUDA",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T11:20:00.945Z",
-    "cycle": 1
+    "lastUpdate": "2025-09-24T11:50:45.127Z",
+    "cycle": 2
   },
   {
     "name": "SRI UTAMI",
