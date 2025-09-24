@@ -57,11 +57,11 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 70,
+    "stock": 65,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T23:45:20.139Z",
-    "cycle": 18
+    "lastUpdate": "2025-09-24T23:49:47.552Z",
+    "cycle": 19
   },
   {
     "name": "SUCIYONO",
@@ -467,9 +467,9 @@
     "name": "CAHYA HERAWATI",
     "stock": 15,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-09-24T23:46:41.550Z",
-    "cycle": 15
+    "isAlive": false,
+    "lastUpdate": "2025-09-24T23:50:48.482Z",
+    "cycle": 16
   },
   {
     "name": "SUDJIONO",
@@ -497,11 +497,11 @@
   },
   {
     "name": "TUSOK",
-    "stock": 15,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T23:47:56.274Z",
-    "cycle": 12
+    "lastUpdate": "2025-09-24T23:50:54.675Z",
+    "cycle": 13
   },
   {
     "name": "MISRI CICI",
