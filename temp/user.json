@@ -266,10 +266,10 @@
   {
     "name": "ROSA V",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T18:24:45.809Z",
-    "cycle": 15
+    "lastUpdate": "2025-09-24T20:25:51.446Z",
+    "cycle": 16
   },
   {
     "name": "LUKMAN BS",
