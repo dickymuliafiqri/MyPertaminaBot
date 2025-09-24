@@ -25,11 +25,11 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 5,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T23:38:48.990Z",
-    "cycle": 19
+    "lastUpdate": "2025-09-24T23:42:02.244Z",
+    "cycle": 20
   },
   {
     "name": "CINDRAWATI",
@@ -57,11 +57,11 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 80,
+    "stock": 75,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T23:39:59.606Z",
-    "cycle": 16
+    "lastUpdate": "2025-09-24T23:42:57.594Z",
+    "cycle": 17
   },
   {
     "name": "SUCIYONO",
@@ -204,8 +204,8 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T21:41:05.423Z",
-    "cycle": 8
+    "lastUpdate": "2025-09-24T23:44:05.358Z",
+    "cycle": 9
   },
   {
     "name": "H. BAMBANG S",
@@ -218,18 +218,18 @@
   {
     "name": "ANDRI HERU CAHYONO",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T21:41:06.852Z",
-    "cycle": 8
+    "lastUpdate": "2025-09-24T23:44:23.217Z",
+    "cycle": 9
   },
   {
     "name": "JONI H",
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T21:43:34.426Z",
-    "cycle": 17
+    "lastUpdate": "2025-09-24T23:44:24.712Z",
+    "cycle": 18
   },
   {
     "name": "EVI DIANA SARI",
@@ -324,8 +324,8 @@
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T21:44:16.567Z",
-    "cycle": 15
+    "lastUpdate": "2025-09-24T23:44:26.200Z",
+    "cycle": 16
   },
   {
     "name": "ULFA MARIA",
@@ -468,8 +468,8 @@
     "stock": 20,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T23:40:53.364Z",
-    "cycle": 13
+    "lastUpdate": "2025-09-24T23:44:27.699Z",
+    "cycle": 14
   },
   {
     "name": "SUDJIONO",
@@ -500,8 +500,8 @@
     "stock": 20,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T23:40:54.920Z",
-    "cycle": 10
+    "lastUpdate": "2025-09-24T23:44:29.132Z",
+    "cycle": 11
   },
   {
     "name": "MISRI CICI",
