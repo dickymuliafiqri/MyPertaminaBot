@@ -162,10 +162,10 @@
   {
     "name": "UD RAHMAT",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T18:03:08.394Z",
-    "cycle": 17
+    "lastUpdate": "2025-09-24T20:04:33.266Z",
+    "cycle": 18
   },
   {
     "name": "SUPARMAN",
