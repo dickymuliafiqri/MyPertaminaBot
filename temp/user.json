@@ -1,11 +1,11 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 20,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T00:27:17.800Z",
-    "cycle": 13
+    "lastUpdate": "2025-09-24T00:33:16.293Z",
+    "cycle": 14
   },
   {
     "name": "AKBAR RISQ",
@@ -13,7 +13,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-24T00:29:26.758Z",
-    "cycle": 14
+    "cycle": 15
   },
   {
     "name": "ALFIAN DWI A.",
@@ -21,7 +21,7 @@
     "isTokenValid": true,
     "isAlive": false,
     "lastUpdate": "2025-09-24T00:01:34.683Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "ATHI HANDAYANI",
@@ -37,7 +37,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-24T00:30:23.532Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -101,23 +101,23 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-24T00:31:33.257Z",
-    "cycle": 4
+    "cycle": 5
   },
   {
     "name": "LUTFI A.",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 95,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-23T23:56:30.373Z",
-    "cycle": 3
+    "lastUpdate": "2025-09-24T00:34:31.701Z",
+    "cycle": 4
   },
   {
     "name": "MOH SAID",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 55,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-23T23:56:34.024Z",
-    "cycle": 3
+    "lastUpdate": "2025-09-24T00:35:46.212Z",
+    "cycle": 4
   },
   {
     "name": "TITIK ISMIATIN",
