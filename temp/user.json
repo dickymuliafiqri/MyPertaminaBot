@@ -74,10 +74,10 @@
   {
     "name": "SUMBER REJEKI",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T13:47:52.581Z",
-    "cycle": 13
+    "lastUpdate": "2025-09-24T15:54:51.915Z",
+    "cycle": 14
   },
   {
     "name": "JAENAL",
@@ -147,25 +147,25 @@
     "name": "TOKO IIN",
     "stock": 57,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-09-24T15:44:56.561Z",
-    "cycle": 16
+    "isAlive": true,
+    "lastUpdate": "2025-09-24T15:54:55.084Z",
+    "cycle": 17
   },
   {
     "name": "TOKO POJOK",
-    "stock": 45,
-    "isTokenValid": false,
+    "stock": 40,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T15:45:42.204Z",
-    "cycle": 16
+    "lastUpdate": "2025-09-24T15:56:46.641Z",
+    "cycle": 17
   },
   {
     "name": "UD RAHMAT",
-    "stock": 10,
-    "isTokenValid": false,
+    "stock": 5,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T15:46:25.392Z",
-    "cycle": 14
+    "lastUpdate": "2025-09-24T15:57:56.452Z",
+    "cycle": 15
   },
   {
     "name": "SUPARMAN",
@@ -196,8 +196,8 @@
     "stock": 9,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T15:47:07.541Z",
-    "cycle": 11
+    "lastUpdate": "2025-09-24T15:58:50.299Z",
+    "cycle": 12
   },
   {
     "name": "P. SUK",
@@ -268,8 +268,8 @@
     "stock": 3,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T15:47:49.567Z",
-    "cycle": 10
+    "lastUpdate": "2025-09-24T15:58:51.750Z",
+    "cycle": 11
   },
   {
     "name": "LUKMAN BS",
@@ -332,8 +332,8 @@
     "stock": 34,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T15:48:31.614Z",
-    "cycle": 16
+    "lastUpdate": "2025-09-24T15:58:53.243Z",
+    "cycle": 17
   },
   {
     "name": "BAMBANG HARTONO",
@@ -372,8 +372,8 @@
     "stock": 22,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T15:49:42.276Z",
-    "cycle": 8
+    "lastUpdate": "2025-09-24T15:58:54.721Z",
+    "cycle": 9
   },
   {
     "name": "HADI SUTOYO",
