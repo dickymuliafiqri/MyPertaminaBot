@@ -52,8 +52,8 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T13:18:10.157Z",
-    "cycle": 11
+    "lastUpdate": "2025-09-24T15:19:31.505Z",
+    "cycle": 12
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -121,43 +121,43 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 15,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T15:16:17.650Z",
-    "cycle": 16
+    "lastUpdate": "2025-09-24T15:19:36.336Z",
+    "cycle": 17
   },
   {
     "name": "TK. MAJU",
-    "stock": 53,
-    "isTokenValid": false,
+    "stock": 48,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T15:17:16.944Z",
-    "cycle": 16
+    "lastUpdate": "2025-09-24T15:20:50.370Z",
+    "cycle": 17
   },
   {
     "name": "TOKO 2 PUTRI",
     "stock": 130,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T15:17:19.750Z",
-    "cycle": 15
+    "lastUpdate": "2025-09-24T15:21:52.153Z",
+    "cycle": 16
   },
   {
     "name": "TOKO IIN",
     "stock": 62,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T15:17:23.603Z",
-    "cycle": 12
+    "lastUpdate": "2025-09-24T15:21:56.146Z",
+    "cycle": 13
   },
   {
     "name": "TOKO POJOK",
-    "stock": 50,
+    "stock": 45,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T15:17:26.652Z",
-    "cycle": 12
+    "lastUpdate": "2025-09-24T15:21:59.122Z",
+    "cycle": 13
   },
   {
     "name": "UD RAHMAT",
