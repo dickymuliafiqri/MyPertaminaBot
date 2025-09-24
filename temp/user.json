@@ -25,11 +25,11 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 50,
+    "stock": 45,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T22:42:36.524Z",
-    "cycle": 10
+    "lastUpdate": "2025-09-24T22:46:28.876Z",
+    "cycle": 11
   },
   {
     "name": "CINDRAWATI",
@@ -409,11 +409,11 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 34,
+    "stock": 29,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T22:44:29.444Z",
-    "cycle": 8
+    "lastUpdate": "2025-09-24T22:47:29.127Z",
+    "cycle": 9
   },
   {
     "name": "H. JUMAT",
@@ -436,24 +436,24 @@
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T20:45:53.799Z",
-    "cycle": 7
+    "lastUpdate": "2025-09-24T22:49:05.683Z",
+    "cycle": 8
   },
   {
     "name": "ARIF FAUZI",
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T20:45:55.519Z",
-    "cycle": 7
+    "lastUpdate": "2025-09-24T22:49:48.065Z",
+    "cycle": 8
   },
   {
     "name": "TOKO SURYATI",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T20:45:57.176Z",
-    "cycle": 7
+    "lastUpdate": "2025-09-24T22:50:09.360Z",
+    "cycle": 8
   },
   {
     "name": "MOH HAFIF",
