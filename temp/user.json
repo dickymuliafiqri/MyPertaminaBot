@@ -82,10 +82,10 @@
   {
     "name": "JAENAL",
     "stock": 12,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T14:14:32.210Z",
-    "cycle": 15
+    "lastUpdate": "2025-09-24T14:25:38.097Z",
+    "cycle": 16
   },
   {
     "name": "JOKO SUWARNO",
@@ -108,64 +108,64 @@
     "stock": 35,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T14:15:33.482Z",
-    "cycle": 11
+    "lastUpdate": "2025-09-24T14:25:42.064Z",
+    "cycle": 12
   },
   {
     "name": "MOH SAID",
     "stock": 10,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T14:17:15.406Z",
-    "cycle": 8
+    "lastUpdate": "2025-09-24T14:28:11.752Z",
+    "cycle": 9
   },
   {
     "name": "TITIK ISMIATIN",
     "stock": 35,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T14:17:58.708Z",
-    "cycle": 8
+    "lastUpdate": "2025-09-24T14:28:54.667Z",
+    "cycle": 9
   },
   {
     "name": "TK. MAJU",
     "stock": 68,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T14:18:41.917Z",
-    "cycle": 8
+    "lastUpdate": "2025-09-24T14:29:37.383Z",
+    "cycle": 9
   },
   {
     "name": "TOKO 2 PUTRI",
     "stock": 145,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T14:19:25.826Z",
-    "cycle": 8
+    "lastUpdate": "2025-09-24T14:30:19.581Z",
+    "cycle": 9
   },
   {
     "name": "TOKO IIN",
     "stock": 62,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T14:20:09.735Z",
-    "cycle": 7
+    "lastUpdate": "2025-09-24T14:31:03.368Z",
+    "cycle": 8
   },
   {
     "name": "TOKO POJOK",
     "stock": 60,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T14:21:21.150Z",
-    "cycle": 7
+    "lastUpdate": "2025-09-24T14:31:45.531Z",
+    "cycle": 8
   },
   {
     "name": "UD RAHMAT",
     "stock": 15,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T14:22:03.923Z",
-    "cycle": 7
+    "lastUpdate": "2025-09-24T14:32:27.855Z",
+    "cycle": 8
   },
   {
     "name": "SUPARMAN",
@@ -196,8 +196,8 @@
     "stock": 9,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T14:22:45.354Z",
-    "cycle": 5
+    "lastUpdate": "2025-09-24T14:33:09.254Z",
+    "cycle": 6
   },
   {
     "name": "P. SUK",
@@ -260,16 +260,16 @@
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T12:18:32.597Z",
-    "cycle": 3
+    "lastUpdate": "2025-09-24T14:33:50.929Z",
+    "cycle": 4
   },
   {
     "name": "ROSA V",
     "stock": 3,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T12:29:12.229Z",
-    "cycle": 4
+    "lastUpdate": "2025-09-24T14:34:32.983Z",
+    "cycle": 5
   },
   {
     "name": "LUKMAN BS",
