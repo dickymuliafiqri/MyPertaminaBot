@@ -68,8 +68,8 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T13:29:55.538Z",
-    "cycle": 12
+    "lastUpdate": "2025-09-24T15:33:24.278Z",
+    "cycle": 13
   },
   {
     "name": "SUMBER REJEKI",
@@ -121,59 +121,59 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 3,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T15:28:47.031Z",
-    "cycle": 19
+    "lastUpdate": "2025-09-24T15:33:47.771Z",
+    "cycle": 20
   },
   {
     "name": "TK. MAJU",
     "stock": 38,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T15:30:16.808Z",
-    "cycle": 19
+    "lastUpdate": "2025-09-24T15:34:28.583Z",
+    "cycle": 20
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 120,
+    "stock": 115,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T15:31:18.434Z",
-    "cycle": 18
+    "lastUpdate": "2025-09-24T15:36:22.705Z",
+    "cycle": 19
   },
   {
     "name": "TOKO IIN",
     "stock": 62,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T15:21:56.146Z",
-    "cycle": 13
+    "lastUpdate": "2025-09-24T15:37:25.096Z",
+    "cycle": 14
   },
   {
     "name": "TOKO POJOK",
     "stock": 45,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T15:21:59.122Z",
-    "cycle": 13
+    "lastUpdate": "2025-09-24T15:37:27.009Z",
+    "cycle": 14
   },
   {
     "name": "UD RAHMAT",
     "stock": 10,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T15:12:46.223Z",
-    "cycle": 11
+    "lastUpdate": "2025-09-24T15:37:29.985Z",
+    "cycle": 12
   },
   {
     "name": "SUPARMAN",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T12:46:04.960Z",
-    "cycle": 4
+    "lastUpdate": "2025-09-24T15:37:31.762Z",
+    "cycle": 5
   },
   {
     "name": "DJAMIAH",
@@ -196,16 +196,16 @@
     "stock": 9,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T14:41:45.864Z",
-    "cycle": 8
+    "lastUpdate": "2025-09-24T15:37:33.598Z",
+    "cycle": 9
   },
   {
     "name": "P. SUK",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T12:46:23.831Z",
-    "cycle": 4
+    "lastUpdate": "2025-09-24T15:37:35.370Z",
+    "cycle": 5
   },
   {
     "name": "H. BAMBANG S",
@@ -220,16 +220,16 @@
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T12:46:25.460Z",
-    "cycle": 4
+    "lastUpdate": "2025-09-24T15:37:37.129Z",
+    "cycle": 5
   },
   {
     "name": "JONI H",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T12:44:03.580Z",
-    "cycle": 13
+    "lastUpdate": "2025-09-24T15:37:38.942Z",
+    "cycle": 14
   },
   {
     "name": "EVI DIANA SARI",
@@ -268,8 +268,8 @@
     "stock": 3,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T14:41:47.569Z",
-    "cycle": 7
+    "lastUpdate": "2025-09-24T15:37:40.706Z",
+    "cycle": 8
   },
   {
     "name": "LUKMAN BS",
@@ -322,18 +322,18 @@
   {
     "name": "SRI UTAMI",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T12:44:06.611Z",
-    "cycle": 11
+    "lastUpdate": "2025-09-24T15:37:42.462Z",
+    "cycle": 12
   },
   {
     "name": "ULFA MARIA",
     "stock": 34,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T14:41:49.239Z",
-    "cycle": 13
+    "lastUpdate": "2025-09-24T15:37:44.221Z",
+    "cycle": 14
   },
   {
     "name": "BAMBANG HARTONO",
@@ -372,8 +372,8 @@
     "stock": 22,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T14:41:50.981Z",
-    "cycle": 5
+    "lastUpdate": "2025-09-24T15:37:45.984Z",
+    "cycle": 6
   },
   {
     "name": "HADI SUTOYO",
