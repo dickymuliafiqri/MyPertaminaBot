@@ -274,10 +274,10 @@
   {
     "name": "LUKMAN BS",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T10:45:41.307Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-24T11:16:30.452Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
