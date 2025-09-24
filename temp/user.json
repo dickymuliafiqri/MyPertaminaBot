@@ -393,11 +393,11 @@
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 27,
-    "isTokenValid": false,
+    "stock": 22,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T18:58:49.178Z",
-    "cycle": 14
+    "lastUpdate": "2025-09-24T18:59:56.285Z",
+    "cycle": 15
   },
   {
     "name": "YUSUF ISMAIL",
