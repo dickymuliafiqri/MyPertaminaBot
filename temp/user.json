@@ -282,18 +282,18 @@
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T11:18:00.392Z",
-    "cycle": 1
+    "lastUpdate": "2025-09-24T11:48:52.781Z",
+    "cycle": 2
   },
   {
     "name": "ROSIDI",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T11:18:42.325Z",
-    "cycle": 1
+    "lastUpdate": "2025-09-24T11:49:12.499Z",
+    "cycle": 2
   },
   {
     "name": "ALPAN SANYOTO",
@@ -306,10 +306,10 @@
   {
     "name": "JAMILAH",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T11:19:00.102Z",
-    "cycle": 1
+    "lastUpdate": "2025-09-24T11:49:14.195Z",
+    "cycle": 2
   },
   {
     "name": "YUDA",
