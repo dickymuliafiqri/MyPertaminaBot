@@ -202,10 +202,10 @@
   {
     "name": "P. SUK",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T10:42:01.830Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-24T11:12:58.676Z",
+    "cycle": 1
   },
   {
     "name": "H. BAMBANG S",
@@ -220,8 +220,8 @@
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-24T10:42:42.633Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-24T11:13:40.234Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
