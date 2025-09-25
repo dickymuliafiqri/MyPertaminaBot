@@ -564,8 +564,8 @@
     "stock": 14,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T20:00:45.168Z",
-    "cycle": 24
+    "lastUpdate": "2025-09-25T20:04:23.112Z",
+    "cycle": 25
   },
   {
     "name": "DIYAH UTAMI",
@@ -586,10 +586,10 @@
   {
     "name": "TOKO ANITA",
     "stock": 40,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T20:01:47.457Z",
-    "cycle": 21
+    "lastUpdate": "2025-09-25T20:06:41.766Z",
+    "cycle": 22
   },
   {
     "name": "TK. LUCKY",
