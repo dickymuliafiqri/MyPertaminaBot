@@ -314,10 +314,10 @@
   {
     "name": "YUDA",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T14:49:06.768Z",
-    "cycle": 18
+    "lastUpdate": "2025-09-25T16:50:01.538Z",
+    "cycle": 19
   },
   {
     "name": "SRI UTAMI",
@@ -353,11 +353,11 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 14,
+    "stock": 9,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T16:46:54.057Z",
-    "cycle": 16
+    "lastUpdate": "2025-09-25T16:50:04.881Z",
+    "cycle": 17
   },
   {
     "name": "ISTIQOMAH",
