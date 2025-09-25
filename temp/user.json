@@ -579,9 +579,9 @@
     "name": "SALMAH",
     "stock": 15,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-09-25T21:58:22.428Z",
-    "cycle": 22
+    "isAlive": false,
+    "lastUpdate": "2025-09-25T22:00:13.305Z",
+    "cycle": 23
   },
   {
     "name": "TOKO ANITA",
