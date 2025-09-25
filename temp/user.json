@@ -202,10 +202,10 @@
   {
     "name": "P. SUK",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T21:23:12.276Z",
-    "cycle": 19
+    "lastUpdate": "2025-09-25T23:24:24.050Z",
+    "cycle": 20
   },
   {
     "name": "H. BAMBANG S",
@@ -218,10 +218,10 @@
   {
     "name": "ANDRI HERU CAHYONO",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T21:23:29.117Z",
-    "cycle": 19
+    "lastUpdate": "2025-09-25T23:25:05.168Z",
+    "cycle": 20
   },
   {
     "name": "JONI H",
@@ -244,8 +244,8 @@
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T21:23:30.651Z",
-    "cycle": 19
+    "lastUpdate": "2025-09-25T23:25:46.521Z",
+    "cycle": 20
   },
   {
     "name": "TK MUSTAPA",
