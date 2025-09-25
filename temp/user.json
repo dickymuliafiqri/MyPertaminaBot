@@ -130,10 +130,10 @@
   {
     "name": "TK. MAJU",
     "stock": 22,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T07:29:52.981Z",
-    "cycle": 64
+    "lastUpdate": "2025-09-25T07:34:15.696Z",
+    "cycle": 65
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -153,11 +153,11 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 95,
+    "stock": 90,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T07:31:04.094Z",
-    "cycle": 41
+    "lastUpdate": "2025-09-25T07:34:18.873Z",
+    "cycle": 42
   },
   {
     "name": "UD RAHMAT",
@@ -329,11 +329,11 @@
   },
   {
     "name": "ULFA MARIA",
-    "stock": 19,
+    "stock": 14,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T07:31:56.078Z",
-    "cycle": 39
+    "lastUpdate": "2025-09-25T07:35:14.511Z",
+    "cycle": 40
   },
   {
     "name": "BAMBANG HARTONO",
@@ -372,8 +372,8 @@
     "stock": 27,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T07:23:55.589Z",
-    "cycle": 37
+    "lastUpdate": "2025-09-25T07:36:49.383Z",
+    "cycle": 38
   },
   {
     "name": "HADI SUTOYO",
