@@ -377,11 +377,11 @@
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 25,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T21:01:03.697Z",
-    "cycle": 18
+    "lastUpdate": "2025-09-25T23:02:11.215Z",
+    "cycle": 19
   },
   {
     "name": "SRI HIDAYATI",
