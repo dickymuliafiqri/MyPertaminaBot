@@ -481,11 +481,11 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 30,
+    "stock": 25,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-09-25T11:32:42.984Z",
-    "cycle": 20
+    "isAlive": true,
+    "lastUpdate": "2025-09-25T11:33:37.351Z",
+    "cycle": 21
   },
   {
     "name": "WIKAN K",
