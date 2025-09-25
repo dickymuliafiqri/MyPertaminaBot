@@ -18,10 +18,10 @@
   {
     "name": "ALFIAN DWI A.",
     "stock": 80,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T05:00:00.990Z",
-    "cycle": 17
+    "lastUpdate": "2025-09-25T05:05:42.802Z",
+    "cycle": 18
   },
   {
     "name": "ATHI HANDAYANI",
@@ -41,11 +41,11 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 45,
+    "stock": 41,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T05:01:33.583Z",
-    "cycle": 14
+    "lastUpdate": "2025-09-25T05:05:45.679Z",
+    "cycle": 15
   },
   {
     "name": "BINA MAKMUR",
@@ -115,9 +115,9 @@
     "name": "MOH SAID",
     "stock": 5,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-09-25T05:03:19.820Z",
-    "cycle": 43
+    "isAlive": false,
+    "lastUpdate": "2025-09-25T05:06:45.154Z",
+    "cycle": 44
   },
   {
     "name": "TITIK ISMIATIN",
@@ -132,32 +132,32 @@
     "stock": 108,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T04:54:30.510Z",
-    "cycle": 38
+    "lastUpdate": "2025-09-25T05:07:31.893Z",
+    "cycle": 39
   },
   {
     "name": "TOKO 2 PUTRI",
     "stock": 150,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T04:54:33.539Z",
-    "cycle": 38
+    "lastUpdate": "2025-09-25T05:08:14.339Z",
+    "cycle": 39
   },
   {
     "name": "TOKO IIN",
-    "stock": 55,
-    "isTokenValid": false,
+    "stock": 50,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T04:54:36.072Z",
-    "cycle": 35
+    "lastUpdate": "2025-09-25T05:08:33.061Z",
+    "cycle": 36
   },
   {
     "name": "TOKO POJOK",
     "stock": 30,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T04:54:37.681Z",
-    "cycle": 30
+    "lastUpdate": "2025-09-25T05:10:02.310Z",
+    "cycle": 31
   },
   {
     "name": "UD RAHMAT",
@@ -332,8 +332,8 @@
     "stock": 29,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T04:54:53.942Z",
-    "cycle": 30
+    "lastUpdate": "2025-09-25T05:11:12.728Z",
+    "cycle": 31
   },
   {
     "name": "BAMBANG HARTONO",
@@ -372,8 +372,8 @@
     "stock": 27,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T04:54:55.584Z",
-    "cycle": 30
+    "lastUpdate": "2025-09-25T05:11:53.844Z",
+    "cycle": 31
   },
   {
     "name": "HADI SUTOYO",
@@ -468,8 +468,8 @@
     "stock": 5,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T04:55:00.523Z",
-    "cycle": 28
+    "lastUpdate": "2025-09-25T05:12:34.916Z",
+    "cycle": 29
   },
   {
     "name": "SUDJIONO",
