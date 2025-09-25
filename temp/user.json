@@ -490,10 +490,10 @@
   {
     "name": "WIKAN K",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T15:30:16.629Z",
-    "cycle": 19
+    "lastUpdate": "2025-09-25T17:37:33.689Z",
+    "cycle": 20
   },
   {
     "name": "TUSOK",
@@ -505,11 +505,11 @@
   },
   {
     "name": "MISRI CICI",
-    "stock": 25,
+    "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T17:26:46.663Z",
-    "cycle": 18
+    "lastUpdate": "2025-09-25T17:37:51.522Z",
+    "cycle": 19
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -548,8 +548,8 @@
     "stock": 42,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T17:27:45.205Z",
-    "cycle": 17
+    "lastUpdate": "2025-09-25T17:38:42.432Z",
+    "cycle": 18
   },
   {
     "name": "IMA",
