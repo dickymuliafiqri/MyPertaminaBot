@@ -260,8 +260,8 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T18:42:46.778Z",
-    "cycle": 17
+    "lastUpdate": "2025-09-25T20:43:15.619Z",
+    "cycle": 18
   },
   {
     "name": "ROSA V",
@@ -274,10 +274,10 @@
   {
     "name": "LUKMAN BS",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T18:43:02.071Z",
-    "cycle": 17
+    "lastUpdate": "2025-09-25T20:43:36.337Z",
+    "cycle": 18
   },
   {
     "name": "BISTON MANURUNG",
