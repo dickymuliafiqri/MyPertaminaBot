@@ -401,11 +401,11 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 16,
+    "stock": 11,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-09-25T19:28:34.038Z",
-    "cycle": 25
+    "isAlive": true,
+    "lastUpdate": "2025-09-25T19:29:43.782Z",
+    "cycle": 26
   },
   {
     "name": "SUPARNI",
@@ -556,24 +556,24 @@
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T17:29:17.774Z",
-    "cycle": 16
+    "lastUpdate": "2025-09-25T19:31:22.306Z",
+    "cycle": 17
   },
   {
     "name": "DARMAWAN P",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 44,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T17:30:00.441Z",
-    "cycle": 16
+    "lastUpdate": "2025-09-25T19:31:39.119Z",
+    "cycle": 17
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 15,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T17:30:42.015Z",
-    "cycle": 16
+    "lastUpdate": "2025-09-25T19:32:56.730Z",
+    "cycle": 17
   },
   {
     "name": "SALMAH",
