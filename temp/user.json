@@ -403,9 +403,9 @@
     "name": "YUSUF ISMAIL",
     "stock": 16,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-09-25T19:26:41.333Z",
-    "cycle": 24
+    "isAlive": false,
+    "lastUpdate": "2025-09-25T19:28:34.038Z",
+    "cycle": 25
   },
   {
     "name": "SUPARNI",
