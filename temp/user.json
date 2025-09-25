@@ -33,11 +33,11 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 35,
-    "isTokenValid": false,
+    "stock": 30,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T21:29:44.182Z",
-    "cycle": 26
+    "lastUpdate": "2025-09-25T21:31:41.697Z",
+    "cycle": 27
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -169,11 +169,11 @@
   },
   {
     "name": "SUPARMAN",
-    "stock": 17,
-    "isTokenValid": false,
+    "stock": 12,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T21:30:25.342Z",
-    "cycle": 24
+    "lastUpdate": "2025-09-25T21:33:02.253Z",
+    "cycle": 25
   },
   {
     "name": "DJAMIAH",
@@ -556,8 +556,8 @@
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T19:31:22.306Z",
-    "cycle": 17
+    "lastUpdate": "2025-09-25T21:34:04.570Z",
+    "cycle": 18
   },
   {
     "name": "DARMAWAN P",
