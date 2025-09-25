@@ -36,8 +36,8 @@
     "stock": 35,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T21:20:56.459Z",
-    "cycle": 24
+    "lastUpdate": "2025-09-25T21:24:18.469Z",
+    "cycle": 25
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -169,11 +169,11 @@
   },
   {
     "name": "SUPARMAN",
-    "stock": 20,
+    "stock": 17,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T21:21:57.643Z",
-    "cycle": 22
+    "lastUpdate": "2025-09-25T21:26:14.341Z",
+    "cycle": 23
   },
   {
     "name": "DJAMIAH",
@@ -386,10 +386,10 @@
   {
     "name": "SRI HIDAYATI",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T19:23:57.429Z",
-    "cycle": 18
+    "lastUpdate": "2025-09-25T21:27:57.737Z",
+    "cycle": 19
   },
   {
     "name": "ONG SWI GIOK",
@@ -538,10 +538,10 @@
   {
     "name": "SUSILO",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T19:25:34.702Z",
-    "cycle": 17
+    "lastUpdate": "2025-09-25T21:28:18.132Z",
+    "cycle": 18
   },
   {
     "name": "HJ. HAERONI",
