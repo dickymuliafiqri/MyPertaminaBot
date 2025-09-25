@@ -529,11 +529,11 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 36,
+    "stock": 31,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-09-25T13:56:01.860Z",
-    "cycle": 28
+    "isAlive": true,
+    "lastUpdate": "2025-09-25T13:56:52.218Z",
+    "cycle": 29
   },
   {
     "name": "SUSILO",
