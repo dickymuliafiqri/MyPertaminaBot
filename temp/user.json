@@ -561,11 +561,11 @@
   },
   {
     "name": "DARMAWAN P",
-    "stock": 29,
+    "stock": 24,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T19:51:31.656Z",
-    "cycle": 21
+    "lastUpdate": "2025-09-25T19:55:50.938Z",
+    "cycle": 22
   },
   {
     "name": "DIYAH UTAMI",
@@ -587,9 +587,9 @@
     "name": "TOKO ANITA",
     "stock": 46,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-09-25T19:53:48.957Z",
-    "cycle": 18
+    "isAlive": false,
+    "lastUpdate": "2025-09-25T19:56:53.303Z",
+    "cycle": 19
   },
   {
     "name": "TK. LUCKY",
