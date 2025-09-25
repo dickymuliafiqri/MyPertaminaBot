@@ -17,11 +17,11 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 4,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T07:12:43.988Z",
-    "cycle": 40
+    "lastUpdate": "2025-09-25T07:16:57.443Z",
+    "cycle": 41
   },
   {
     "name": "ATHI HANDAYANI",
@@ -129,11 +129,11 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 42,
-    "isTokenValid": false,
+    "stock": 37,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T07:14:34.269Z",
-    "cycle": 60
+    "lastUpdate": "2025-09-25T07:17:59.531Z",
+    "cycle": 61
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -153,11 +153,11 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 115,
+    "stock": 110,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T07:14:55.397Z",
-    "cycle": 37
+    "lastUpdate": "2025-09-25T07:18:56.589Z",
+    "cycle": 38
   },
   {
     "name": "UD RAHMAT",
