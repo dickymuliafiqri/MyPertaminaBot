@@ -97,11 +97,11 @@
   },
   {
     "name": "KARSONO",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 65,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T08:33:10.891Z",
-    "cycle": 20
+    "lastUpdate": "2025-09-25T10:33:52.399Z",
+    "cycle": 21
   },
   {
     "name": "LUTFI A.",
