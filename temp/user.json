@@ -347,9 +347,9 @@
     "name": "HJ. ASLAMIYAH",
     "stock": 5,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-09-25T14:49:09.909Z",
-    "cycle": 17
+    "isAlive": false,
+    "lastUpdate": "2025-09-25T14:50:55.391Z",
+    "cycle": 18
   },
   {
     "name": "NADIFATUS SOLEHA",
