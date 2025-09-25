@@ -306,10 +306,10 @@
   {
     "name": "JAMILAH",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T20:47:48.195Z",
-    "cycle": 18
+    "lastUpdate": "2025-09-25T22:56:53.145Z",
+    "cycle": 19
   },
   {
     "name": "YUDA",
