@@ -20,8 +20,8 @@
     "stock": 65,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T05:24:59.281Z",
-    "cycle": 21
+    "lastUpdate": "2025-09-25T05:30:20.036Z",
+    "cycle": 22
   },
   {
     "name": "ATHI HANDAYANI",
@@ -41,11 +41,11 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 26,
+    "stock": 21,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T05:25:59.841Z",
-    "cycle": 18
+    "lastUpdate": "2025-09-25T05:32:28.536Z",
+    "cycle": 19
   },
   {
     "name": "BINA MAKMUR",
@@ -129,19 +129,19 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 108,
+    "stock": 103,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-09-25T05:27:22.523Z",
-    "cycle": 41
+    "isAlive": true,
+    "lastUpdate": "2025-09-25T05:33:24.832Z",
+    "cycle": 42
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 150,
-    "isTokenValid": false,
+    "stock": 145,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T05:28:10.458Z",
-    "cycle": 41
+    "lastUpdate": "2025-09-25T05:34:57.380Z",
+    "cycle": 42
   },
   {
     "name": "TOKO IIN",
