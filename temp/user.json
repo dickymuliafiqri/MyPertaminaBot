@@ -505,11 +505,11 @@
   },
   {
     "name": "MISRI CICI",
-    "stock": 15,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T17:41:06.474Z",
-    "cycle": 20
+    "lastUpdate": "2025-09-25T17:43:24.478Z",
+    "cycle": 21
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -548,8 +548,8 @@
     "stock": 42,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T17:42:41.035Z",
-    "cycle": 19
+    "lastUpdate": "2025-09-25T17:45:04.026Z",
+    "cycle": 20
   },
   {
     "name": "IMA",
