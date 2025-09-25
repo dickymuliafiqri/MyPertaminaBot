@@ -401,11 +401,11 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 21,
-    "isTokenValid": false,
+    "stock": 16,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T19:24:40.093Z",
-    "cycle": 23
+    "lastUpdate": "2025-09-25T19:26:41.333Z",
+    "cycle": 24
   },
   {
     "name": "SUPARNI",
