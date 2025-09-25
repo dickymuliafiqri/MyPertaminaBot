@@ -353,19 +353,19 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 14,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T14:45:59.587Z",
-    "cycle": 15
+    "lastUpdate": "2025-09-25T16:46:54.057Z",
+    "cycle": 16
   },
   {
     "name": "ISTIQOMAH",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T14:46:01.240Z",
-    "cycle": 15
+    "lastUpdate": "2025-09-25T16:48:24.472Z",
+    "cycle": 16
   },
   {
     "name": "SUROSO",
@@ -380,8 +380,8 @@
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T14:46:02.937Z",
-    "cycle": 15
+    "lastUpdate": "2025-09-25T16:48:26.242Z",
+    "cycle": 16
   },
   {
     "name": "SRI HIDAYATI",
@@ -404,8 +404,8 @@
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T14:46:04.614Z",
-    "cycle": 15
+    "lastUpdate": "2025-09-25T16:48:28.001Z",
+    "cycle": 16
   },
   {
     "name": "SUPARNI",
@@ -420,48 +420,48 @@
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T14:46:06.230Z",
-    "cycle": 15
+    "lastUpdate": "2025-09-25T16:48:29.737Z",
+    "cycle": 16
   },
   {
     "name": "YOGA RAJAN",
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T14:46:07.816Z",
-    "cycle": 15
+    "lastUpdate": "2025-09-25T16:48:31.696Z",
+    "cycle": 16
   },
   {
     "name": "HARSININGSIH",
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T14:46:09.732Z",
-    "cycle": 15
+    "lastUpdate": "2025-09-25T16:48:33.499Z",
+    "cycle": 16
   },
   {
     "name": "ARIF FAUZI",
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T14:46:11.442Z",
-    "cycle": 15
+    "lastUpdate": "2025-09-25T16:48:35.326Z",
+    "cycle": 16
   },
   {
     "name": "TOKO SURYATI",
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T14:46:13.068Z",
-    "cycle": 15
+    "lastUpdate": "2025-09-25T16:48:37.102Z",
+    "cycle": 16
   },
   {
     "name": "MOH HAFIF",
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T14:46:14.691Z",
-    "cycle": 15
+    "lastUpdate": "2025-09-25T16:48:38.959Z",
+    "cycle": 16
   },
   {
     "name": "CAHYA HERAWATI",
