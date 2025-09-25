@@ -220,8 +220,8 @@
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T11:10:59.656Z",
-    "cycle": 14
+    "lastUpdate": "2025-09-25T13:12:13.469Z",
+    "cycle": 15
   },
   {
     "name": "JONI H",
@@ -242,10 +242,10 @@
   {
     "name": "TOKO IRAWAN",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T11:11:17.161Z",
-    "cycle": 14
+    "lastUpdate": "2025-09-25T13:12:56.412Z",
+    "cycle": 15
   },
   {
     "name": "TK MUSTAPA",
@@ -388,8 +388,8 @@
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T11:12:39.813Z",
-    "cycle": 14
+    "lastUpdate": "2025-09-25T13:13:40.226Z",
+    "cycle": 15
   },
   {
     "name": "ONG SWI GIOK",
