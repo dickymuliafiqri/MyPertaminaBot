@@ -555,9 +555,9 @@
     "name": "IMA",
     "stock": 9,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-09-25T23:45:50.530Z",
-    "cycle": 25
+    "isAlive": false,
+    "lastUpdate": "2025-09-25T23:47:44.597Z",
+    "cycle": 26
   },
   {
     "name": "DARMAWAN P",
