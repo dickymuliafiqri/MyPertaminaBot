@@ -17,11 +17,11 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 19,
+    "stock": 14,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T06:49:10.232Z",
-    "cycle": 36
+    "lastUpdate": "2025-09-25T06:53:49.032Z",
+    "cycle": 37
   },
   {
     "name": "ATHI HANDAYANI",
@@ -36,8 +36,8 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T04:53:11.748Z",
-    "cycle": 12
+    "lastUpdate": "2025-09-25T06:55:08.800Z",
+    "cycle": 13
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -129,11 +129,11 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 57,
-    "isTokenValid": false,
+    "stock": 52,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T06:50:52.698Z",
-    "cycle": 56
+    "lastUpdate": "2025-09-25T06:55:30.346Z",
+    "cycle": 57
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -148,16 +148,16 @@
     "stock": 2,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T06:51:36.449Z",
-    "cycle": 48
+    "lastUpdate": "2025-09-25T06:56:34.412Z",
+    "cycle": 49
   },
   {
     "name": "TOKO POJOK",
-    "stock": 125,
+    "stock": 120,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T06:51:57.354Z",
-    "cycle": 34
+    "lastUpdate": "2025-09-25T06:56:37.798Z",
+    "cycle": 35
   },
   {
     "name": "UD RAHMAT",
