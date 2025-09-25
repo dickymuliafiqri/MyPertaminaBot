@@ -258,10 +258,10 @@
   {
     "name": "YUNIS WAHYUNI",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T14:40:23.696Z",
-    "cycle": 15
+    "lastUpdate": "2025-09-25T16:41:27.852Z",
+    "cycle": 16
   },
   {
     "name": "ROSA V",
@@ -274,10 +274,10 @@
   {
     "name": "LUKMAN BS",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T14:41:10.370Z",
-    "cycle": 15
+    "lastUpdate": "2025-09-25T16:41:47.001Z",
+    "cycle": 16
   },
   {
     "name": "BISTON MANURUNG",
