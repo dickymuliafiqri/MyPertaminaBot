@@ -131,9 +131,9 @@
     "name": "TK. MAJU",
     "stock": 7,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-09-25T07:57:56.037Z",
-    "cycle": 71
+    "isAlive": true,
+    "lastUpdate": "2025-09-25T07:59:42.144Z",
+    "cycle": 72
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -153,11 +153,11 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 70,
+    "stock": 65,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T07:58:03.350Z",
-    "cycle": 48
+    "lastUpdate": "2025-09-25T08:01:35.457Z",
+    "cycle": 49
   },
   {
     "name": "UD RAHMAT",
