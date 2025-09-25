@@ -513,19 +513,19 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 47,
+    "stock": 42,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-09-25T15:25:30.992Z",
-    "cycle": 17
+    "isAlive": true,
+    "lastUpdate": "2025-09-25T15:27:34.168Z",
+    "cycle": 18
   },
   {
     "name": "BUDI",
-    "stock": 100,
+    "stock": 95,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T15:25:37.812Z",
-    "cycle": 17
+    "lastUpdate": "2025-09-25T15:28:24.524Z",
+    "cycle": 18
   },
   {
     "name": "YULI SORAYA",
