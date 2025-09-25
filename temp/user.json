@@ -33,11 +33,11 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 50,
+    "stock": 45,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T21:12:43.506Z",
-    "cycle": 21
+    "lastUpdate": "2025-09-25T21:16:03.391Z",
+    "cycle": 22
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -171,9 +171,9 @@
     "name": "SUPARMAN",
     "stock": 30,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-09-25T21:13:57.701Z",
-    "cycle": 19
+    "isAlive": false,
+    "lastUpdate": "2025-09-25T21:17:07.816Z",
+    "cycle": 20
   },
   {
     "name": "DJAMIAH",
