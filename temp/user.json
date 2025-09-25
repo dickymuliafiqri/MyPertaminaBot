@@ -505,11 +505,11 @@
   },
   {
     "name": "MISRI CICI",
-    "stock": 35,
+    "stock": 30,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T17:20:39.601Z",
-    "cycle": 16
+    "lastUpdate": "2025-09-25T17:22:16.932Z",
+    "cycle": 17
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -538,18 +538,18 @@
   {
     "name": "SUSILO",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T15:22:35.780Z",
-    "cycle": 15
+    "lastUpdate": "2025-09-25T17:23:33.933Z",
+    "cycle": 16
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 47,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T15:22:37.323Z",
-    "cycle": 15
+    "lastUpdate": "2025-09-25T17:24:50.772Z",
+    "cycle": 16
   },
   {
     "name": "IMA",
