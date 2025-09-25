@@ -497,11 +497,11 @@
   },
   {
     "name": "TUSOK",
-    "stock": 5,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T13:31:51.767Z",
-    "cycle": 25
+    "lastUpdate": "2025-09-25T13:38:55.532Z",
+    "cycle": 26
   },
   {
     "name": "MISRI CICI",
@@ -529,11 +529,11 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 79,
+    "stock": 69,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T13:33:25.846Z",
-    "cycle": 18
+    "lastUpdate": "2025-09-25T13:38:58.916Z",
+    "cycle": 19
   },
   {
     "name": "SUSILO",
