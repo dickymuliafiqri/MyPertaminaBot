@@ -505,11 +505,11 @@
   },
   {
     "name": "MISRI CICI",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 35,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T15:19:47.270Z",
-    "cycle": 15
+    "lastUpdate": "2025-09-25T17:20:39.601Z",
+    "cycle": 16
   },
   {
     "name": "HERDIANA DIYAH S",
