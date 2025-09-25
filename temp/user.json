@@ -386,10 +386,10 @@
   {
     "name": "SRI HIDAYATI",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T21:27:57.737Z",
-    "cycle": 19
+    "lastUpdate": "2025-09-25T23:28:44.811Z",
+    "cycle": 20
   },
   {
     "name": "ONG SWI GIOK",
@@ -538,10 +538,10 @@
   {
     "name": "SUSILO",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T21:28:18.132Z",
-    "cycle": 18
+    "lastUpdate": "2025-09-25T23:29:25.800Z",
+    "cycle": 19
   },
   {
     "name": "HJ. HAERONI",
