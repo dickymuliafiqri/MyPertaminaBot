@@ -362,10 +362,10 @@
   {
     "name": "ISTIQOMAH",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T18:58:58.005Z",
-    "cycle": 17
+    "lastUpdate": "2025-09-25T20:59:52.934Z",
+    "cycle": 18
   },
   {
     "name": "SUROSO",
@@ -380,8 +380,8 @@
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T18:59:50.135Z",
-    "cycle": 17
+    "lastUpdate": "2025-09-25T21:01:03.697Z",
+    "cycle": 18
   },
   {
     "name": "SRI HIDAYATI",
