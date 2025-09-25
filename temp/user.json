@@ -284,16 +284,16 @@
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T16:43:25.259Z",
-    "cycle": 16
+    "lastUpdate": "2025-09-25T18:44:31.656Z",
+    "cycle": 17
   },
   {
     "name": "ROSIDI",
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T16:44:08.184Z",
-    "cycle": 16
+    "lastUpdate": "2025-09-25T18:45:03.496Z",
+    "cycle": 17
   },
   {
     "name": "ALPAN SANYOTO",
@@ -306,10 +306,10 @@
   {
     "name": "JAMILAH",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T16:44:28.395Z",
-    "cycle": 16
+    "lastUpdate": "2025-09-25T18:45:45.926Z",
+    "cycle": 17
   },
   {
     "name": "YUDA",
