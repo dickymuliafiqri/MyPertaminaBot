@@ -172,8 +172,8 @@
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T13:09:30.756Z",
-    "cycle": 15
+    "lastUpdate": "2025-09-25T15:10:24.347Z",
+    "cycle": 16
   },
   {
     "name": "DJAMIAH",
@@ -186,10 +186,10 @@
   {
     "name": "HJ LILIK LAILIYAH",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T13:10:15.340Z",
-    "cycle": 16
+    "lastUpdate": "2025-09-25T15:10:49.033Z",
+    "cycle": 17
   },
   {
     "name": "ERNA PUJIATI",
@@ -202,10 +202,10 @@
   {
     "name": "P. SUK",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T13:10:40.952Z",
-    "cycle": 15
+    "lastUpdate": "2025-09-25T15:11:32.328Z",
+    "cycle": 16
   },
   {
     "name": "H. BAMBANG S",
