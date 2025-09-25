@@ -59,25 +59,25 @@
     "name": "HENDRA KURNIAWAN",
     "stock": 9,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-09-25T02:13:52.807Z",
-    "cycle": 41
+    "isAlive": false,
+    "lastUpdate": "2025-09-25T02:17:33.875Z",
+    "cycle": 42
   },
   {
     "name": "SUCIYONO",
-    "stock": 10,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T02:14:45.987Z",
-    "cycle": 41
+    "lastUpdate": "2025-09-25T02:17:41.066Z",
+    "cycle": 42
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 15,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T02:15:54.166Z",
-    "cycle": 37
+    "lastUpdate": "2025-09-25T02:18:36.237Z",
+    "cycle": 38
   },
   {
     "name": "JAENAL",
@@ -90,10 +90,10 @@
   {
     "name": "JOKO SUWARNO",
     "stock": 15,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T02:04:13.713Z",
-    "cycle": 30
+    "lastUpdate": "2025-09-25T02:20:09.881Z",
+    "cycle": 31
   },
   {
     "name": "KARSONO",
@@ -106,18 +106,18 @@
   {
     "name": "LUTFI A.",
     "stock": 94,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T01:58:44.143Z",
-    "cycle": 29
+    "lastUpdate": "2025-09-25T02:20:52.212Z",
+    "cycle": 30
   },
   {
     "name": "MOH SAID",
     "stock": 30,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T01:59:56.143Z",
-    "cycle": 26
+    "lastUpdate": "2025-09-25T02:21:34.286Z",
+    "cycle": 27
   },
   {
     "name": "TITIK ISMIATIN",
@@ -132,24 +132,24 @@
     "stock": 33,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T00:55:32.946Z",
-    "cycle": 25
+    "lastUpdate": "2025-09-25T02:22:17.276Z",
+    "cycle": 26
   },
   {
     "name": "TOKO 2 PUTRI",
     "stock": 115,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T00:55:40.026Z",
-    "cycle": 25
+    "lastUpdate": "2025-09-25T02:22:59.417Z",
+    "cycle": 26
   },
   {
     "name": "TOKO IIN",
-    "stock": 42,
-    "isTokenValid": false,
+    "stock": 75,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T00:55:45.445Z",
-    "cycle": 25
+    "lastUpdate": "2025-09-25T02:23:19.913Z",
+    "cycle": 26
   },
   {
     "name": "TOKO POJOK",
