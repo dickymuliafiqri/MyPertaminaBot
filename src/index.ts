@@ -245,7 +245,7 @@ async function main() {
         }
       }
 
-      if ((user?.cycle ?? 0) <= 20) {
+      if (((user?.cycle ?? 0) <= 20) || (user?.stock > 0)) {
         // Proceed user
         await sheet.loadCells();
 
