@@ -97,11 +97,11 @@
   },
   {
     "name": "KARSONO",
-    "stock": 55,
+    "stock": 50,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T10:37:07.896Z",
-    "cycle": 23
+    "lastUpdate": "2025-09-25T10:39:23.671Z",
+    "cycle": 24
   },
   {
     "name": "LUTFI A.",
@@ -290,10 +290,10 @@
   {
     "name": "ROSIDI",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T08:38:38.867Z",
-    "cycle": 12
+    "lastUpdate": "2025-09-25T10:40:38.758Z",
+    "cycle": 13
   },
   {
     "name": "ALPAN SANYOTO",
@@ -306,18 +306,18 @@
   {
     "name": "JAMILAH",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T08:39:21.778Z",
-    "cycle": 12
+    "lastUpdate": "2025-09-25T10:40:59.370Z",
+    "cycle": 13
   },
   {
     "name": "YUDA",
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T08:40:04.671Z",
-    "cycle": 12
+    "lastUpdate": "2025-09-25T10:41:01.132Z",
+    "cycle": 13
   },
   {
     "name": "SRI UTAMI",
@@ -338,34 +338,34 @@
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T08:40:25.537Z",
-    "cycle": 15
+    "lastUpdate": "2025-09-25T10:41:02.917Z",
+    "cycle": 16
   },
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T08:40:27.517Z",
-    "cycle": 12
+    "lastUpdate": "2025-09-25T10:41:04.638Z",
+    "cycle": 13
   },
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T08:40:29.275Z",
-    "cycle": 12
+    "lastUpdate": "2025-09-25T10:41:06.382Z",
+    "cycle": 13
   },
   {
     "name": "ISTIQOMAH",
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T08:40:31.236Z",
-    "cycle": 12
+    "lastUpdate": "2025-09-25T10:41:08.127Z",
+    "cycle": 13
   },
   {
     "name": "SUROSO",
@@ -380,8 +380,8 @@
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T08:40:33.115Z",
-    "cycle": 12
+    "lastUpdate": "2025-09-25T10:41:09.833Z",
+    "cycle": 13
   },
   {
     "name": "SRI HIDAYATI",
@@ -404,8 +404,8 @@
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T08:40:35.130Z",
-    "cycle": 12
+    "lastUpdate": "2025-09-25T10:41:11.577Z",
+    "cycle": 13
   },
   {
     "name": "SUPARNI",
@@ -420,48 +420,48 @@
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T08:40:36.956Z",
-    "cycle": 12
+    "lastUpdate": "2025-09-25T10:41:13.297Z",
+    "cycle": 13
   },
   {
     "name": "YOGA RAJAN",
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T08:40:38.690Z",
-    "cycle": 12
+    "lastUpdate": "2025-09-25T10:41:15.020Z",
+    "cycle": 13
   },
   {
     "name": "HARSININGSIH",
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T08:40:40.625Z",
-    "cycle": 12
+    "lastUpdate": "2025-09-25T10:41:16.762Z",
+    "cycle": 13
   },
   {
     "name": "ARIF FAUZI",
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T08:40:42.608Z",
-    "cycle": 12
+    "lastUpdate": "2025-09-25T10:41:18.544Z",
+    "cycle": 13
   },
   {
     "name": "TOKO SURYATI",
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T08:40:44.601Z",
-    "cycle": 12
+    "lastUpdate": "2025-09-25T10:41:20.316Z",
+    "cycle": 13
   },
   {
     "name": "MOH HAFIF",
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T08:40:46.389Z",
-    "cycle": 12
+    "lastUpdate": "2025-09-25T10:41:22.008Z",
+    "cycle": 13
   },
   {
     "name": "CAHYA HERAWATI",
