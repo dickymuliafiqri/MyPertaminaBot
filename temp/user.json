@@ -346,18 +346,18 @@
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T14:51:51.673Z",
-    "cycle": 19
+    "lastUpdate": "2025-09-25T16:54:08.019Z",
+    "cycle": 20
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 4,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T16:51:48.919Z",
-    "cycle": 18
+    "lastUpdate": "2025-09-25T16:54:10.843Z",
+    "cycle": 19
   },
   {
     "name": "ISTIQOMAH",
