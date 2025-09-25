@@ -170,10 +170,10 @@
   {
     "name": "SUPARMAN",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T15:10:24.347Z",
-    "cycle": 16
+    "lastUpdate": "2025-09-25T17:10:51.089Z",
+    "cycle": 17
   },
   {
     "name": "DJAMIAH",
@@ -188,8 +188,8 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T15:10:49.033Z",
-    "cycle": 17
+    "lastUpdate": "2025-09-25T17:11:10.693Z",
+    "cycle": 18
   },
   {
     "name": "ERNA PUJIATI",
