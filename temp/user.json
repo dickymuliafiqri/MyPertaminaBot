@@ -57,11 +57,11 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 4,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T02:30:35.502Z",
-    "cycle": 44
+    "lastUpdate": "2025-09-25T02:35:02.182Z",
+    "cycle": 45
   },
   {
     "name": "SUCIYONO",
@@ -73,11 +73,11 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 5,
-    "isTokenValid": false,
+    "stock": 0,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T02:33:11.965Z",
-    "cycle": 40
+    "lastUpdate": "2025-09-25T02:36:02.312Z",
+    "cycle": 41
   },
   {
     "name": "JAENAL",
@@ -89,11 +89,11 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 5,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-25T02:33:15.699Z",
-    "cycle": 33
+    "lastUpdate": "2025-09-25T02:36:56.127Z",
+    "cycle": 34
   },
   {
     "name": "KARSONO",
