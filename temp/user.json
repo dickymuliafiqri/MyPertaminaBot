@@ -601,11 +601,11 @@
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 13,
+    "stock": 8,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-09-26T04:14:36.152Z",
-    "cycle": 30
+    "isAlive": true,
+    "lastUpdate": "2025-09-26T04:15:26.670Z",
+    "cycle": 31
   },
   {
     "name": "SOEKAMTO",
