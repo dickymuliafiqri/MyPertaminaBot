@@ -153,27 +153,27 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 86,
+    "stock": 83,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T23:42:00.157Z",
-    "cycle": 2
+    "lastUpdate": "2025-09-27T23:44:25.288Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
     "stock": 57,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-09-27T23:42:57.212Z",
-    "cycle": 1
+    "isAlive": false,
+    "lastUpdate": "2025-09-27T23:45:07.227Z",
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T20:48:37.519Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-27T23:45:31.872Z",
+    "cycle": 1
   },
   {
     "name": "DJAMIAH",
@@ -186,26 +186,26 @@
   {
     "name": "HJ LILIK LAILIYAH",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T21:01:06.800Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-27T23:46:12.957Z",
+    "cycle": 1
   },
   {
     "name": "ERNA PUJIATI",
     "stock": 26,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T21:23:42.291Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-27T23:46:26.834Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
-    "stock": 0,
+    "stock": 17,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T21:02:42.032Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-27T23:47:17.617Z",
+    "cycle": 1
   },
   {
     "name": "H. BAMBANG S",
