@@ -12,7 +12,7 @@ export class Pertamina {
   private linkProduct = "https://api-map.my-pertamina.id/general/v2/products";
   private linkPersonal = "https://subsiditepatlpg.mypertamina.id/merchant/app/profile-merchant";
   private linkCheckNIK = "https://api-map.my-pertamina.id/customers/v2/verify-nik?nationalityId=";
-  private linkTransaction = "https://api-map.my-pertamina.id/general/v2/transactions";
+  private linkTransaction = "https://api-map.my-pertamina.id/general/v1/transactions";
 
   private username: string;
   private password: string;
@@ -182,14 +182,14 @@ export class Pertamina {
                             messages.push(`[🟡] Transaction for ${transaction.customerName} canceled!`);
                           }
                         } catch (e: any) {
-                          console.log(`[-] ${e.message}`);
+                          messages.push(`[🔴] Error canceling transaction: ${e.message}`);
                         }
                       }
                     }
                   }
                 }
               } catch (e: any) {
-                console.log(`[-] ${e.message}`);
+                messages.push(`[🔴] Error canceling transaction: ${e.message}`);
               }
             }
           }

@@ -290,11 +290,9 @@ async function main() {
 
         if (user.isTokenValid && user.stock > 0 && user.isAlive) {
           let message: string = "";
-          let cancelingMessage: string = "";
           try {
             errorCount = 0;
             message = await sheetTransaction(sheet, transactionLimit, pertamina, user);
-            cancelingMessage = await pertamina.cancelDoubleTransaction();
           } catch (e: any) {
             console.log(`[-] Error occured: ${e.message}`);
             message += `\n[🔴] Error occured: ${e.message}`;
@@ -305,10 +303,19 @@ async function main() {
             } else if (!message.includes(">")) {
               user.isAlive = false;
             }
+          }
+        }
 
-            if (cancelingMessage) {
-              finalMessage.push(cancelingMessage);
-            }
+        if (user.isTokenValid) {
+          console.log("[+] Canceling duplicated transactions...");
+          let message: string = "";
+          try {
+            message = await pertamina.cancelDoubleTransaction();
+          } catch (e: any) {
+            console.log(`[-] Error occured: ${e.message}`);
+            message += `\n[🔴] Error occured: ${e.message}`;
+          } finally {
+            finalMessage.push(message);
           }
         }
 
