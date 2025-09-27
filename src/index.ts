@@ -315,7 +315,7 @@ async function main() {
             console.log(`[-] Error occured: ${e.message}`);
             message += `\n[🔴] Error occured: ${e.message}`;
           } finally {
-            finalMessage.push(message);
+            if (message) finalMessage.push(message);
           }
         }
 
