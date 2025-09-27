@@ -469,7 +469,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-27T21:53:02.278Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "SUDJIONO",
@@ -477,7 +477,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-27T21:53:18.675Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -485,7 +485,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-27T21:53:34.518Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "WIKAN K",
@@ -493,7 +493,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-27T21:53:50.020Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "TUSOK",
@@ -501,7 +501,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-27T21:54:05.990Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "MISRI CICI",
@@ -509,15 +509,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-27T22:06:40.890Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 97,
+    "stock": 100,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T22:15:44.786Z",
-    "cycle": 2
+    "lastUpdate": "2025-09-27T22:19:31.913Z",
+    "cycle": 3
   },
   {
     "name": "BUDI",
@@ -525,7 +525,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-27T22:08:11.035Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "YULI SORAYA",
@@ -533,7 +533,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-27T22:08:28.100Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "SUSILO",
@@ -541,7 +541,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-27T22:08:44.723Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "HJ. HAERONI",
@@ -549,7 +549,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-27T22:09:01.272Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "IMA",
@@ -557,7 +557,7 @@
     "isTokenValid": false,
     "isAlive": true,
     "lastUpdate": "2025-09-27T22:09:42.275Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "DARMAWAN P",
@@ -565,7 +565,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-27T22:09:55.922Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "DIYAH UTAMI",
@@ -573,55 +573,55 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-27T22:10:12.611Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "SALMAH",
-    "stock": 37,
+    "stock": 40,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T22:16:44.083Z",
-    "cycle": 2
+    "lastUpdate": "2025-09-27T22:20:15.913Z",
+    "cycle": 3
   },
   {
     "name": "TOKO ANITA",
-    "stock": 45,
+    "stock": 48,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T22:17:43.920Z",
-    "cycle": 2
+    "lastUpdate": "2025-09-27T22:21:15.879Z",
+    "cycle": 3
   },
   {
     "name": "TK. LUCKY",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T19:20:33.999Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-27T22:22:30.631Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T19:20:46.355Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-27T22:22:47.165Z",
+    "cycle": 1
   },
   {
     "name": "SOEKAMTO",
     "stock": 69,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T19:26:38.697Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-27T22:23:03.887Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T19:22:12.491Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-27T22:24:16.356Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK-DISABLE",
