@@ -13,6 +13,7 @@ export class Pertamina {
   private linkPersonal = "https://subsiditepatlpg.mypertamina.id/merchant/app/profile-merchant";
   private linkCheckNIK = "https://api-map.my-pertamina.id/customers/v2/verify-nik?nationalityId=";
   private linkTransaction = "https://api-map.my-pertamina.id/general/v1/transactions";
+  private linkTransactionV2 = "https://api-map.my-pertamina.id/general/v2/transactions";
 
   private username: string;
   private password: string;
@@ -320,7 +321,7 @@ export class Pertamina {
       };
 
       try {
-        const req = await got(this.linkTransaction, {
+        const req = await got(this.linkTransactionV2, {
           method: "post",
           body: JSON.stringify(payload),
           ...this.options,
