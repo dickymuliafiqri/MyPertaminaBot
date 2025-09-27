@@ -86,7 +86,7 @@ export class Pertamina {
     await page.locator("#mantine-r1").pressSequentially(this.password);
 
     try {
-      for (let i = 0; i < 3; i++) {
+      for (let i = 0; i < 10; i++) {
         await page.locator("#mantine-r1").press("Enter");
         await sleep(300);
       }
