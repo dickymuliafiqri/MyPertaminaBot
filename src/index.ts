@@ -11,7 +11,6 @@ const bot = new Telegram();
 let finalMessage: string[] = [];
 let niks = Database.getNiksArray();
 let userLimit = 3;
-let loginLimit = 2;
 
 async function sheetTransaction(
   sheet: GoogleSpreadsheetWorksheet,
@@ -258,7 +257,7 @@ async function main() {
         const pertamina = new Pertamina(username, password, token, proxy);
 
         let isTokenValid = await pertamina.checkToken();
-        if (!isTokenValid && loginLimit > 0) {
+        if (!isTokenValid && userLimit > 0) {
           try {
             const newToken = await pertamina.login();
             if (newToken.length > 800) {
@@ -277,7 +276,6 @@ async function main() {
             console.log(`[-] Login Failed: ${e.message}`);
             finalMessage.push(`[🔴] ${sheet.title} Login Failed: ${e.message}`);
           }
-          loginLimit -= 1;
         }
 
         // Save updated stock
