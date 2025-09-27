@@ -4,72 +4,72 @@
     "stock": 77,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T06:00:45.065Z",
-    "cycle": 16
+    "lastUpdate": "2025-09-27T06:05:08.289Z",
+    "cycle": 17
   },
   {
     "name": "AKBAR RISQ",
     "stock": 99,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T06:01:55.046Z",
-    "cycle": 16
+    "lastUpdate": "2025-09-27T06:07:10.756Z",
+    "cycle": 17
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 140,
+    "stock": 135,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T06:03:20.947Z",
-    "cycle": 16
+    "lastUpdate": "2025-09-27T06:09:10.134Z",
+    "cycle": 17
   },
   {
     "name": "ATHI HANDAYANI",
     "stock": 45,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T05:58:55.703Z",
-    "cycle": 9
+    "lastUpdate": "2025-09-27T06:10:57.109Z",
+    "cycle": 10
   },
   {
     "name": "CINDRAWATI",
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T05:29:53.828Z",
-    "cycle": 7
+    "lastUpdate": "2025-09-27T06:11:41.776Z",
+    "cycle": 8
   },
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 50,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T05:30:39.710Z",
-    "cycle": 7
+    "lastUpdate": "2025-09-27T06:12:21.582Z",
+    "cycle": 8
   },
   {
     "name": "BINA MAKMUR",
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T05:31:21.998Z",
-    "cycle": 5
+    "lastUpdate": "2025-09-27T06:13:06.372Z",
+    "cycle": 6
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 160,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T05:32:03.275Z",
-    "cycle": 5
+    "lastUpdate": "2025-09-27T06:13:50.289Z",
+    "cycle": 6
   },
   {
     "name": "SUCIYONO",
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T05:33:13.893Z",
-    "cycle": 2
+    "lastUpdate": "2025-09-27T06:14:34.499Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
