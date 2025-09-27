@@ -173,7 +173,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-27T20:48:37.519Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "DJAMIAH",
@@ -188,24 +188,24 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T17:53:40.863Z",
-    "cycle": 1
+    "lastUpdate": "2025-09-27T21:01:06.800Z",
+    "cycle": 2
   },
   {
     "name": "ERNA PUJIATI",
     "stock": 26,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T18:16:45.351Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-27T21:01:23.007Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T17:57:53.590Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-27T21:02:42.032Z",
+    "cycle": 1
   },
   {
     "name": "H. BAMBANG S",
@@ -220,16 +220,16 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T17:58:10.215Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-27T21:02:58.274Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T17:58:26.545Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-27T21:03:38.765Z",
+    "cycle": 1
   },
   {
     "name": "EVI DIANA SARI",
@@ -244,8 +244,8 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T17:58:43.213Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-27T21:03:52.569Z",
+    "cycle": 1
   },
   {
     "name": "TK MUSTAPA",
@@ -260,40 +260,40 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T17:58:59.559Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-27T21:04:09.112Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T17:59:40.483Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-27T21:04:25.248Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T18:00:19.265Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-27T21:04:41.528Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T18:00:57.165Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-27T21:04:58.763Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T18:01:35.828Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-27T21:05:39.895Z",
+    "cycle": 1
   },
   {
     "name": "ALPAN SANYOTO",
@@ -306,18 +306,18 @@
   {
     "name": "JAMILAH",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T18:01:49.543Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-27T21:06:18.768Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T18:08:13.483Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-27T21:06:57.049Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
@@ -325,7 +325,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-27T18:18:03.003Z",
-    "cycle": 0
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
