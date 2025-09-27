@@ -156,16 +156,16 @@
     "stock": 83,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T23:44:25.288Z",
-    "cycle": 3
+    "lastUpdate": "2025-09-27T23:54:45.069Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
-    "stock": 57,
+    "stock": 54,
     "isTokenValid": true,
-    "isAlive": false,
-    "lastUpdate": "2025-09-27T23:45:07.227Z",
-    "cycle": 2
+    "isAlive": true,
+    "lastUpdate": "2025-09-27T23:55:09.922Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
@@ -173,7 +173,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-27T23:45:31.872Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "DJAMIAH",
@@ -189,23 +189,23 @@
     "isTokenValid": false,
     "isAlive": true,
     "lastUpdate": "2025-09-27T23:46:12.957Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 26,
+    "stock": 23,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T23:46:26.834Z",
-    "cycle": 1
+    "lastUpdate": "2025-09-27T23:55:48.768Z",
+    "cycle": 2
   },
   {
     "name": "P. SUK",
-    "stock": 17,
+    "stock": 14,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T23:47:17.617Z",
-    "cycle": 1
+    "lastUpdate": "2025-09-27T23:56:26.298Z",
+    "cycle": 2
   },
   {
     "name": "H. BAMBANG S",
