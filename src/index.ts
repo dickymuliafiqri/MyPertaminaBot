@@ -11,6 +11,7 @@ const bot = new Telegram();
 let finalMessage: string[] = [];
 let niks = Database.getNiksArray();
 let userLimit = 3;
+let errorCount = 0;
 
 async function sheetTransaction(
   sheet: GoogleSpreadsheetWorksheet,
@@ -28,7 +29,6 @@ async function sheetTransaction(
   let loopLimit = 5;
   let bansosLimit = 5;
   let maxColumnIndex = 0;
-  let errorCount = 0;
 
   let rows = await sheet.getRows();
 
@@ -43,8 +43,7 @@ async function sheetTransaction(
 
   while (loopLimit > 0) {
     for (const row of rows) {
-      if (accountData.stock <= 0) break;
-      if (transactionLimit <= 0) break;
+      if (accountData.stock <= 0 || transactionLimit <= 0 || errorCount >= 5) break;
 
       const rawData = row["_rawData"];
 
@@ -293,6 +292,7 @@ async function main() {
           let message: string = "";
           let cancelingMessage: string = "";
           try {
+            errorCount = 0;
             message = await sheetTransaction(sheet, transactionLimit, pertamina, user);
             cancelingMessage = await pertamina.cancelDoubleTransaction();
           } catch (e: any) {
