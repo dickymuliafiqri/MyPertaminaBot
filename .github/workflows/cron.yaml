@@ -23,8 +23,6 @@ jobs:
           sing-box version
       - name: Install dependencies
         run: |
-          sudo apt update
-          sudo apt install xvfb -y
           bun install
           bunx playwright install
       - name: Edit proxy config

