@@ -5,7 +5,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-27T15:07:48.074Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "AKBAR RISQ",
@@ -13,15 +13,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-27T15:07:51.468Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "ALFIAN DWI A.",
     "stock": 9,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T15:46:53.806Z",
-    "cycle": 3
+    "lastUpdate": "2025-09-27T15:51:25.813Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,7 +29,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-27T15:10:25.405Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "CINDRAWATI",
@@ -37,7 +37,7 @@
     "isTokenValid": false,
     "isAlive": true,
     "lastUpdate": "2025-09-27T15:10:26.922Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -45,47 +45,47 @@
     "isTokenValid": false,
     "isAlive": true,
     "lastUpdate": "2025-09-27T15:10:28.452Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "BINA MAKMUR",
     "stock": 38,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T15:48:00.435Z",
-    "cycle": 3
+    "lastUpdate": "2025-09-27T15:53:26.290Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 120,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T15:49:36.294Z",
-    "cycle": 3
+    "lastUpdate": "2025-09-27T15:55:27.587Z",
+    "cycle": 4
   },
   {
     "name": "SUCIYONO",
-    "stock": 64,
-    "isTokenValid": false,
+    "stock": 59,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T15:22:03.840Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-27T15:55:43.993Z",
+    "cycle": 1
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 46,
-    "isTokenValid": false,
+    "stock": 41,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T15:22:05.580Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-27T15:57:06.191Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
-    "stock": 124,
-    "isTokenValid": false,
+    "stock": 119,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T15:22:07.141Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-27T15:58:32.833Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
