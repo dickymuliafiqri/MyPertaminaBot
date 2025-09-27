@@ -54,7 +54,7 @@ export class Pertamina {
         }),
       },
       headers: {
-        Authorization: bearer,
+        Authorization: this.bearer,
         "Content-Type": "application/json",
       },
     };
@@ -64,8 +64,8 @@ export class Pertamina {
     console.log(`[+] Login using ${this.username}...`);
 
     const browser = await chromium.launch({
-      headless: true,
-      args: ["--proxy-server=127.0.0.1:5353"],
+      headless: false,
+      // args: ["--proxy-server=127.0.0.1:5353"],
     });
     const page = await browser.newPage();
 
