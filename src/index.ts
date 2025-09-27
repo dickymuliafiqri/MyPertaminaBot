@@ -138,14 +138,12 @@ async function sheetTransaction(
               switch (transaction.code) {
                 case 204:
                   if (transaction.message == "Out of stock") {
-                    transactionLimit = 0;
-                    bansosLimit = 0;
+                    errorCount = 5;
                   }
                   break;
                 case 400:
                   if (transaction.message == "Transaksi melebihi stok yang dapat dijual") {
-                    transactionLimit = 0;
-                    bansosLimit = 0;
+                    errorCount = 5;
                   } else {
                     niks.exceeded.data.push(nik);
                     cell.value = "End";
@@ -157,8 +155,7 @@ async function sheetTransaction(
                 case 403:
                 case 429:
                 case 460:
-                  transactionLimit = 0;
-                  bansosLimit = 0;
+                  errorCount = 5;
                   break;
                 default:
                   cell.value = 0;
