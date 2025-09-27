@@ -27,7 +27,7 @@ async function sheetTransaction(
   if (sheetName != "Bansos") message.push(`${sheetName} | ${accountData.stock}`);
 
   let loopLimit = 5;
-  let bansosLimit = 5;
+  let bansosLimit = 3;
   let maxColumnIndex = 0;
 
   let rows = await sheet.getRows();
@@ -224,7 +224,7 @@ async function main() {
     try {
       const sheet = db.doc.sheetsByIndex[i];
       const sheetName = sheet.title;
-      let transactionLimit = 3;
+      let transactionLimit = 2;
 
       if (userLimit <= 0) break;
 
