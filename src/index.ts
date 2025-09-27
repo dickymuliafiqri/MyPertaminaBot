@@ -236,7 +236,7 @@ async function main() {
       // Check user on local temp data
       let user = db.getUserLocalData(sheetName);
 
-      if ((user?.cycle ?? 0) <= 20) {
+      if ((user?.cycle ?? 0) <= 3) {
         // Proceed user
         await sheet.loadCells();
 
