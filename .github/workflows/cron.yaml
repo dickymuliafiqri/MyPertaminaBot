@@ -23,13 +23,15 @@ jobs:
           sing-box version
       - name: Install dependencies
         run: |
+          sudo apt update
+          sudo apt install xvfb -y
           bun install
           bunx playwright install
       - name: Edit proxy config
         run: |
           sed -i "s/PROXY_PASSWORD/${{ secrets.PROXY_PASSWORD }}/" config/singbox.json
       - name: Run bun
-        run: bun start
+        run: xvfb-run -s "-screen 0 1280x800x24" bun start
       - name: Reset git history
         if: ${{ always() }}
         run: |
