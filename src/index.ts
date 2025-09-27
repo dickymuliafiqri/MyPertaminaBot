@@ -257,7 +257,6 @@ async function main() {
               if (isTokenValid) {
                 tokenCell.value = newToken;
                 await sheet.saveUpdatedCells();
-                loginLimit -= 1;
 
                 console.log("[+] Logged In!");
                 finalMessage.push(`[🟡] ${sheet.title} Logged In!`);
@@ -269,6 +268,7 @@ async function main() {
             console.log(`[-] Login Failed: ${e.message}`);
             finalMessage.push(`[🔴] ${sheet.title} Login Failed: ${e.message}`);
           }
+          loginLimit -= 1;
         }
 
         // Save updated stock
