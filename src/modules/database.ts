@@ -55,7 +55,7 @@ export class Database {
     let doReset = true;
 
     for (const user of this.userLocalData) {
-      if (!isNaN(user.cycle) && user.cycle <= 20) {
+      if (!isNaN(user.cycle) && user.cycle <= 20 && user.cycle > 0) {
         doReset = false;
         break;
       }
