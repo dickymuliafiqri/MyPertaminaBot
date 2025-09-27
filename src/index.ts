@@ -235,17 +235,8 @@ async function main() {
 
       // Check user on local temp data
       let user = db.getUserLocalData(sheetName);
-      if (user) {
-        // 120 minutes differences
-        if (Math.abs(new Date(user.lastUpdate).getTime() - new Date().getTime()) < 2 * 60 * 60 * 1000) {
-          if (user.stock <= 0 || user.stock >= 500) {
-            console.log("[-] Stock: " + user.stock);
-            continue;
-          }
-        }
-      }
 
-      if (((user?.cycle ?? 0) <= 20) || (user?.stock > 0)) {
+      if ((user?.cycle ?? 0) <= 20) {
         // Proceed user
         await sheet.loadCells();
 
