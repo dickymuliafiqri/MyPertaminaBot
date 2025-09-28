@@ -349,7 +349,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T01:51:07.147Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -357,31 +357,31 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T01:51:23.863Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 11,
+    "stock": 8,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T02:07:27.196Z",
-    "cycle": 3
+    "lastUpdate": "2025-09-28T02:09:43.002Z",
+    "cycle": 4
   },
   {
     "name": "SUROSO",
-    "stock": 34,
+    "stock": 31,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T02:08:09.822Z",
-    "cycle": 2
+    "lastUpdate": "2025-09-28T02:10:23.693Z",
+    "cycle": 3
   },
   {
     "name": "HADI SUTOYO",
     "stock": 17,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-27T21:44:22.109Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-28T02:11:19.162Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
