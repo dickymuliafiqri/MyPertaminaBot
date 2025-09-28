@@ -381,7 +381,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T07:00:08.410Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "SRI HIDAYATI",
@@ -389,7 +389,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T07:00:26.843Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "ONG SWI GIOK",
@@ -397,15 +397,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T07:00:42.917Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 26,
+    "stock": 23,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T07:06:20.336Z",
-    "cycle": 2
+    "lastUpdate": "2025-09-28T07:12:59.034Z",
+    "cycle": 3
   },
   {
     "name": "SUPARNI",
@@ -413,7 +413,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T07:07:25.319Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "H. JUMAT",
@@ -421,7 +421,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T07:07:44.051Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "YOGA RAJAN",
@@ -429,7 +429,7 @@
     "isTokenValid": false,
     "isAlive": true,
     "lastUpdate": "2025-09-28T07:10:49.598Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "HARSININGSIH",
@@ -437,7 +437,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T07:11:03.824Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "ARIF FAUZI",
@@ -445,23 +445,23 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T07:11:20.783Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 72,
+    "stock": 69,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T07:11:37.897Z",
-    "cycle": 1
+    "lastUpdate": "2025-09-28T07:13:36.508Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
-    "stock": 20,
+    "stock": 17,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T05:21:29.244Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-28T07:14:30.431Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
