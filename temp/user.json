@@ -437,7 +437,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T05:05:22.669Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "ARIF FAUZI",
@@ -445,79 +445,79 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T05:05:41.603Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 78,
+    "stock": 75,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T05:12:09.295Z",
-    "cycle": 3
+    "lastUpdate": "2025-09-28T05:14:04.499Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
-    "stock": 23,
+    "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T05:12:44.366Z",
-    "cycle": 2
+    "lastUpdate": "2025-09-28T05:14:43.453Z",
+    "cycle": 3
   },
   {
     "name": "CAHYA HERAWATI",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T02:28:22.828Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-28T05:15:36.160Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T02:28:36.602Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-28T05:18:40.909Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T02:28:53.148Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-28T05:18:55.662Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T02:29:09.364Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-28T05:19:13.014Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T02:29:25.208Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-28T05:19:29.719Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T02:29:41.031Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-28T05:19:46.183Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 91,
+    "stock": 88,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T02:46:38.119Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-28T05:20:03.699Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
