@@ -296,9 +296,9 @@ async function main() {
           } finally {
             finalMessage.push(message);
             if (message.includes("success")) {
-              userLimit -= 1;
+              // userLimit -= 1;
             } else if (!message.includes(">")) {
-              user.isAlive = false;
+              // user.isAlive = false;
             }
           }
         }
@@ -316,6 +316,7 @@ async function main() {
           }
         }
 
+        userLimit -= 1;
         db.setUserLocalData(user);
       }
 
