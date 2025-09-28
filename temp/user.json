@@ -469,7 +469,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T09:22:50.137Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "SUDJIONO",
@@ -477,71 +477,71 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T09:23:05.687Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T07:18:33.472Z",
-    "cycle": 1
+    "lastUpdate": "2025-09-28T09:32:01.805Z",
+    "cycle": 2
   },
   {
     "name": "WIKAN K",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T07:18:50.855Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-28T09:32:17.040Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T07:19:12.206Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-28T09:32:31.319Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T07:27:48.045Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-28T09:32:46.272Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 70,
+    "stock": 67,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T07:42:15.679Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-28T09:33:01.117Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T07:28:48.354Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-28T09:34:13.996Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T07:29:27.970Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-28T09:34:52.062Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T07:29:40.815Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-28T09:35:30.093Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
@@ -549,7 +549,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T07:29:55.430Z",
-    "cycle": 0
+    "cycle": 1
   },
   {
     "name": "IMA",
