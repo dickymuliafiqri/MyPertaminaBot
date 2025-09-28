@@ -597,7 +597,7 @@
     "isTokenValid": false,
     "isAlive": true,
     "lastUpdate": "2025-09-28T09:45:07.604Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "UD SAMAN HADI",
@@ -605,15 +605,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T09:58:27.632Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "SOEKAMTO",
-    "stock": 39,
+    "stock": 36,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T10:00:22.340Z",
-    "cycle": 2
+    "lastUpdate": "2025-09-28T10:01:48.809Z",
+    "cycle": 3
   },
   {
     "name": "TOKO TIARA",
@@ -621,7 +621,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T09:59:32.059Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "TOKO POJOK-DISABLE",
