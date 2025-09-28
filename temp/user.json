@@ -5,7 +5,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T03:07:48.568Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "AKBAR RISQ",
@@ -13,7 +13,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T03:08:05.734Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "ALFIAN DWI A.",
@@ -21,7 +21,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T03:18:11.747Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,7 +29,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T03:18:29.018Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "CINDRAWATI",
@@ -37,7 +37,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T03:18:45.506Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -45,39 +45,39 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T03:19:01.953Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 30,
+    "stock": 27,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T03:19:19.383Z",
-    "cycle": 1
+    "lastUpdate": "2025-09-28T03:22:47.791Z",
+    "cycle": 2
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 108,
     "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-09-28T03:20:16.342Z",
-    "cycle": 1
+    "isAlive": false,
+    "lastUpdate": "2025-09-28T03:23:29.188Z",
+    "cycle": 2
   },
   {
     "name": "SUCIYONO",
-    "stock": 14,
+    "stock": 11,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T03:21:17.927Z",
-    "cycle": 1
+    "lastUpdate": "2025-09-28T03:23:35.278Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T00:53:12.362Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-28T03:24:26.011Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
