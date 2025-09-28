@@ -149,31 +149,31 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T12:39:09.015Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "TOKO POJOK",
-    "stock": 29,
+    "stock": 26,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T12:39:26.164Z",
-    "cycle": 2
+    "lastUpdate": "2025-09-28T12:40:48.284Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T11:02:36.155Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-28T12:41:40.363Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T11:03:33.551Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-28T12:41:55.268Z",
+    "cycle": 1
   },
   {
     "name": "DJAMIAH",
@@ -188,24 +188,24 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T11:03:48.637Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-28T12:42:09.727Z",
+    "cycle": 1
   },
   {
     "name": "ERNA PUJIATI",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T11:04:02.980Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-28T12:42:49.601Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T11:04:17.481Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-28T12:43:02.034Z",
+    "cycle": 1
   },
   {
     "name": "H. BAMBANG S",
@@ -220,8 +220,8 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T11:04:32.064Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-28T12:43:16.547Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
@@ -229,7 +229,7 @@
     "isTokenValid": false,
     "isAlive": true,
     "lastUpdate": "2025-09-28T11:05:12.010Z",
-    "cycle": 0
+    "cycle": 1
   },
   {
     "name": "EVI DIANA SARI",
