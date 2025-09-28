@@ -309,7 +309,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T20:10:51.979Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "YUDA",
@@ -317,7 +317,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T20:12:03.350Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "SRI UTAMI",
@@ -325,7 +325,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T20:12:19.313Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "ULFA MARIA",
@@ -333,7 +333,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T20:12:34.553Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "BAMBANG HARTONO",
@@ -341,7 +341,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T20:13:46.109Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -349,7 +349,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T20:14:02.842Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -357,7 +357,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T20:14:19.354Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "ISTIQOMAH",
@@ -365,7 +365,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T20:15:23.795Z",
-    "cycle": 7
+    "cycle": 8
   },
   {
     "name": "SUROSO",
@@ -373,7 +373,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T20:15:39.996Z",
-    "cycle": 7
+    "cycle": 8
   },
   {
     "name": "HADI SUTOYO",
@@ -381,7 +381,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T20:15:55.743Z",
-    "cycle": 7
+    "cycle": 8
   },
   {
     "name": "SRI HIDAYATI",
@@ -389,7 +389,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T20:17:12.763Z",
-    "cycle": 5
+    "cycle": 6
   },
   {
     "name": "ONG SWI GIOK",
@@ -397,7 +397,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T20:17:27.846Z",
-    "cycle": 5
+    "cycle": 6
   },
   {
     "name": "YUSUF ISMAIL",
@@ -405,7 +405,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T20:17:42.684Z",
-    "cycle": 5
+    "cycle": 6
   },
   {
     "name": "SUPARNI",
@@ -413,7 +413,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T20:18:52.874Z",
-    "cycle": 4
+    "cycle": 5
   },
   {
     "name": "H. JUMAT",
@@ -421,7 +421,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T20:19:10.141Z",
-    "cycle": 4
+    "cycle": 5
   },
   {
     "name": "YOGA RAJAN",
@@ -429,7 +429,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T20:19:27.288Z",
-    "cycle": 4
+    "cycle": 5
   },
   {
     "name": "HARSININGSIH",
@@ -437,7 +437,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T20:20:36.192Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "ARIF FAUZI",
@@ -445,15 +445,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T20:20:53.856Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 9,
+    "stock": 6,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T20:27:14.893Z",
-    "cycle": 3
+    "lastUpdate": "2025-09-28T20:29:18.777Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
@@ -461,7 +461,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T20:23:25.202Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "CAHYA HERAWATI",
@@ -469,7 +469,7 @@
     "isTokenValid": false,
     "isAlive": true,
     "lastUpdate": "2025-09-28T20:26:29.915Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "SUDJIONO",
@@ -477,7 +477,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T20:28:08.853Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -485,23 +485,23 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T20:28:25.872Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "WIKAN K",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T14:55:55.201Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-28T20:30:11.157Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T14:56:12.113Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-28T20:30:51.619Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
