@@ -230,7 +230,7 @@ async function main() {
 
       // Check user on local temp data
       let user = db.getUserLocalData(sheetName);
-      if (user && (user?.cycle ?? 0) <= 3) {
+      if (user && (user?.cycle ?? 0) <= 10) {
         user.cycle = (user.cycle ?? 0) + 1;
         db.setUserLocalData(user);
 
