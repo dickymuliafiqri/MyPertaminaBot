@@ -377,11 +377,11 @@
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 2,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T05:03:29.971Z",
-    "cycle": 3
+    "lastUpdate": "2025-09-28T05:08:28.649Z",
+    "cycle": 4
   },
   {
     "name": "SRI HIDAYATI",
@@ -389,7 +389,7 @@
     "isTokenValid": false,
     "isAlive": true,
     "lastUpdate": "2025-09-28T04:49:43.901Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "ONG SWI GIOK",
@@ -397,15 +397,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T04:49:57.172Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 38,
+    "stock": 35,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T05:04:13.197Z",
-    "cycle": 2
+    "lastUpdate": "2025-09-28T05:09:24.638Z",
+    "cycle": 3
   },
   {
     "name": "SUPARNI",
@@ -413,7 +413,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T04:51:01.204Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "H. JUMAT",
@@ -421,7 +421,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T04:51:17.217Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "YOGA RAJAN",
@@ -429,7 +429,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T05:05:05.632Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "HARSININGSIH",
@@ -437,7 +437,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T05:05:22.669Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "ARIF FAUZI",
@@ -445,15 +445,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-28T05:05:41.603Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 84,
+    "stock": 81,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-28T05:06:01.181Z",
-    "cycle": 1
+    "lastUpdate": "2025-09-28T05:10:08.445Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
