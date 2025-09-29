@@ -309,7 +309,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-29T10:43:10.922Z",
-    "cycle": 7
+    "cycle": 8
   },
   {
     "name": "YUDA",
@@ -317,7 +317,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-29T10:45:30.003Z",
-    "cycle": 6
+    "cycle": 7
   },
   {
     "name": "SRI UTAMI",
@@ -325,15 +325,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-29T10:47:53.669Z",
-    "cycle": 5
+    "cycle": 6
   },
   {
     "name": "ULFA MARIA",
-    "stock": 31,
+    "stock": 28,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-29T10:56:38.809Z",
-    "cycle": 4
+    "lastUpdate": "2025-09-29T10:59:03.505Z",
+    "cycle": 5
   },
   {
     "name": "BAMBANG HARTONO",
@@ -341,7 +341,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-29T10:53:30.912Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -349,7 +349,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-29T10:55:20.616Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -357,7 +357,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-29T10:55:35.617Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
@@ -365,7 +365,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-29T10:57:53.604Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "SUROSO",
@@ -373,23 +373,23 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-29T10:58:10.417Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "HADI SUTOYO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-29T07:05:44.445Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-29T11:00:06.393Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-29T07:06:50.959Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-29T11:00:21.903Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
