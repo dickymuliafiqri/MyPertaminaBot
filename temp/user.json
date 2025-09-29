@@ -609,11 +609,11 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 9,
+    "stock": 6,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-29T11:58:25.934Z",
-    "cycle": 10
+    "lastUpdate": "2025-09-29T11:59:58.593Z",
+    "cycle": 11
   },
   {
     "name": "TOKO TIARA",
@@ -621,7 +621,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-29T11:41:03.905Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "TOKO POJOK-DISABLE",
