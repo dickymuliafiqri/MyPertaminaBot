@@ -57,27 +57,27 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 31,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-09-30T05:12:30.403Z",
-    "cycle": 10
-  },
-  {
-    "name": "SUCIYONO",
-    "stock": 45,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-09-30T05:13:08.440Z",
-    "cycle": 10
-  },
-  {
-    "name": "SUMBER REJEKI",
     "stock": 28,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-30T05:13:46.520Z",
-    "cycle": 9
+    "lastUpdate": "2025-09-30T05:15:08.092Z",
+    "cycle": 11
+  },
+  {
+    "name": "SUCIYONO",
+    "stock": 42,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2025-09-30T05:16:26.109Z",
+    "cycle": 11
+  },
+  {
+    "name": "SUMBER REJEKI",
+    "stock": 25,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2025-09-30T05:17:52.422Z",
+    "cycle": 10
   },
   {
     "name": "JAENAL",
