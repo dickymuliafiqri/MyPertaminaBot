@@ -5,7 +5,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-30T22:11:11.590Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "AKBAR RISQ",
@@ -13,7 +13,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-30T22:11:28.431Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "ALFIAN DWI A.",
@@ -21,7 +21,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-30T22:11:45.205Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,7 +29,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-30T22:12:51.924Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "CINDRAWATI",
@@ -37,7 +37,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-30T22:13:12.607Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -45,31 +45,31 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-30T22:13:29.514Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "BINA MAKMUR",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-30T21:10:13.505Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-30T22:14:47.485Z",
+    "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-30T21:10:29.652Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-30T22:15:05.159Z",
+    "cycle": 1
   },
   {
     "name": "SUCIYONO",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-09-30T21:10:44.903Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-30T22:15:46.389Z",
+    "cycle": 1
   },
   {
     "name": "SUMBER REJEKI",
