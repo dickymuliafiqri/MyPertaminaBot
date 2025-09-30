@@ -541,7 +541,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-30T12:32:12.212Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "HJ. HAERONI",
@@ -549,7 +549,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-30T12:32:28.716Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "IMA",
@@ -557,7 +557,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-30T12:32:44.777Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "DARMAWAN P",
@@ -565,7 +565,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-30T12:49:19.109Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "DIYAH UTAMI",
@@ -573,7 +573,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-30T12:34:52.980Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "SALMAH",
@@ -581,7 +581,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-30T12:35:10.318Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "TOKO ANITA",
@@ -589,23 +589,23 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-30T12:36:53.366Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "TK. LUCKY",
-    "stock": 4,
+    "stock": 1,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-30T12:53:57.216Z",
-    "cycle": 8
+    "lastUpdate": "2025-09-30T12:56:02.237Z",
+    "cycle": 9
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 32,
+    "stock": 29,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-30T12:54:35.219Z",
-    "cycle": 7
+    "lastUpdate": "2025-09-30T12:56:58.746Z",
+    "cycle": 8
   },
   {
     "name": "SOEKAMTO",
@@ -613,7 +613,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-30T12:52:51.520Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "TOKO TIARA",
@@ -621,7 +621,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-30T12:55:13.651Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "TOKO POJOK-DISABLE",
