@@ -141,23 +141,23 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-30T11:00:11.695Z",
-    "cycle": 6
+    "cycle": 7
   },
   {
     "name": "TOKO IIN",
-    "stock": 17,
+    "stock": 14,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-30T11:09:58.258Z",
-    "cycle": 4
+    "lastUpdate": "2025-09-30T11:11:55.136Z",
+    "cycle": 5
   },
   {
     "name": "TOKO POJOK",
-    "stock": 33,
+    "stock": 30,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-30T11:10:36.387Z",
-    "cycle": 3
+    "lastUpdate": "2025-09-30T11:12:30.903Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
@@ -165,7 +165,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-30T11:09:00.278Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
@@ -173,7 +173,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-09-30T11:10:58.875Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "DJAMIAH",
@@ -186,10 +186,10 @@
   {
     "name": "HJ LILIK LAILIYAH",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-09-30T07:10:46.206Z",
-    "cycle": 0
+    "lastUpdate": "2025-09-30T11:13:22.319Z",
+    "cycle": 1
   },
   {
     "name": "ERNA PUJIATI",
