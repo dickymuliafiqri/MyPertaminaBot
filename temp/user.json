@@ -405,7 +405,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-01T10:56:18.229Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "SUPARNI",
@@ -413,7 +413,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-01T10:56:34.489Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "H. JUMAT",
@@ -421,15 +421,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-01T10:56:50.368Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 34,
+    "stock": 31,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-01T11:23:25.341Z",
-    "cycle": 9
+    "lastUpdate": "2025-10-01T11:26:53.124Z",
+    "cycle": 10
   },
   {
     "name": "HARSININGSIH",
@@ -437,7 +437,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-01T10:59:06.823Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "ARIF FAUZI",
@@ -445,15 +445,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-01T10:59:24.126Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 26,
+    "stock": 23,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-01T11:24:16.968Z",
-    "cycle": 8
+    "lastUpdate": "2025-10-01T11:27:34.416Z",
+    "cycle": 9
   },
   {
     "name": "MOH HAFIF",
@@ -461,7 +461,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-01T11:02:05.253Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "CAHYA HERAWATI",
@@ -469,15 +469,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-01T11:04:37.443Z",
-    "cycle": 7
+    "cycle": 8
   },
   {
     "name": "SUDJIONO",
-    "stock": 12,
+    "stock": 9,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-01T11:25:20.328Z",
-    "cycle": 6
+    "lastUpdate": "2025-10-01T11:28:20.422Z",
+    "cycle": 7
   },
   {
     "name": "SAMSUL ARIFIN",
