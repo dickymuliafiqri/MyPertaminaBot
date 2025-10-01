@@ -452,8 +452,8 @@
     "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-01T11:30:02.244Z",
-    "cycle": 10
+    "lastUpdate": "2025-10-01T11:32:25.298Z",
+    "cycle": 11
   },
   {
     "name": "MOH HAFIF",
@@ -461,7 +461,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-01T11:02:05.253Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "CAHYA HERAWATI",
@@ -469,23 +469,23 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-01T11:04:37.443Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "SUDJIONO",
-    "stock": 6,
+    "stock": 3,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-01T11:30:49.666Z",
-    "cycle": 8
+    "lastUpdate": "2025-10-01T11:32:52.970Z",
+    "cycle": 9
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 0,
+    "stock": 69,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-01T04:18:30.723Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-01T11:33:51.248Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
