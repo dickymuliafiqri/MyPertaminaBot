@@ -521,11 +521,11 @@
   },
   {
     "name": "BUDI",
-    "stock": 28,
+    "stock": 25,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-01T04:57:33.422Z",
-    "cycle": 10
+    "lastUpdate": "2025-10-01T04:59:03.794Z",
+    "cycle": 11
   },
   {
     "name": "YULI SORAYA",
@@ -533,7 +533,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-01T04:32:16.645Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "SUSILO",
@@ -541,7 +541,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-01T04:32:34.513Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "HJ. HAERONI",
@@ -549,7 +549,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-01T04:34:28.016Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "IMA",
@@ -557,7 +557,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-01T04:34:45.467Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "DARMAWAN P",
@@ -565,7 +565,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-01T04:36:50.831Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "DIYAH UTAMI",
@@ -573,7 +573,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-01T04:37:08.430Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "SALMAH",
@@ -581,7 +581,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-01T04:38:59.843Z",
-    "cycle": 7
+    "cycle": 8
   },
   {
     "name": "TOKO ANITA",
@@ -589,7 +589,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-01T04:39:16.492Z",
-    "cycle": 7
+    "cycle": 8
   },
   {
     "name": "TK. LUCKY",
@@ -597,7 +597,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-01T04:41:06.457Z",
-    "cycle": 6
+    "cycle": 7
   },
   {
     "name": "UD SAMAN HADI",
@@ -605,7 +605,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-01T04:41:24.393Z",
-    "cycle": 6
+    "cycle": 7
   },
   {
     "name": "SOEKAMTO",
@@ -613,7 +613,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-01T04:43:25.438Z",
-    "cycle": 5
+    "cycle": 6
   },
   {
     "name": "TOKO TIARA",
@@ -621,7 +621,7 @@
     "isTokenValid": false,
     "isAlive": true,
     "lastUpdate": "2025-10-01T04:44:05.223Z",
-    "cycle": 5
+    "cycle": 6
   },
   {
     "name": "TOKO POJOK-DISABLE",
