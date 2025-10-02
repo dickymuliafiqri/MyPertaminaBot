@@ -165,7 +165,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-02T05:12:58.005Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "SUPARMAN",
@@ -173,7 +173,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-02T05:14:58.734Z",
-    "cycle": 7
+    "cycle": 8
   },
   {
     "name": "DJAMIAH",
@@ -188,8 +188,8 @@
     "stock": 32,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-02T05:28:10.112Z",
-    "cycle": 7
+    "lastUpdate": "2025-10-02T05:29:56.978Z",
+    "cycle": 8
   },
   {
     "name": "ERNA PUJIATI",
@@ -197,7 +197,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-02T05:17:47.714Z",
-    "cycle": 6
+    "cycle": 7
   },
   {
     "name": "P. SUK",
@@ -205,7 +205,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-02T05:20:14.205Z",
-    "cycle": 5
+    "cycle": 6
   },
   {
     "name": "H. BAMBANG S",
@@ -221,7 +221,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-02T05:22:43.965Z",
-    "cycle": 4
+    "cycle": 5
   },
   {
     "name": "JONI H",
@@ -229,7 +229,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-02T05:25:09.887Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "EVI DIANA SARI",
@@ -245,7 +245,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-02T05:27:19.205Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "TK MUSTAPA",
@@ -261,7 +261,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-02T05:28:49.793Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "ROSA V",
@@ -269,23 +269,23 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-02T05:29:05.735Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "LUKMAN BS",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-02T01:43:44.394Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-02T05:30:40.831Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-02T01:44:53.717Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-02T05:30:57.461Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
