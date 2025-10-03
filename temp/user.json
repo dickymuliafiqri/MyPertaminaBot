@@ -161,11 +161,11 @@
   },
   {
     "name": "UD RAHMAT",
-    "stock": 42,
+    "stock": 40,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-03T02:21:37.324Z",
-    "cycle": 6
+    "lastUpdate": "2025-10-03T02:23:55.203Z",
+    "cycle": 7
   },
   {
     "name": "SUPARMAN",
@@ -173,7 +173,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-03T02:16:29.665Z",
-    "cycle": 4
+    "cycle": 5
   },
   {
     "name": "DJAMIAH",
@@ -189,7 +189,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-03T02:18:20.099Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "ERNA PUJIATI",
@@ -197,7 +197,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-03T02:18:38.029Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "P. SUK",
@@ -205,7 +205,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-03T02:20:16.648Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "H. BAMBANG S",
@@ -221,7 +221,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-03T02:20:33.101Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "JONI H",
@@ -229,7 +229,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-03T02:22:25.875Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "EVI DIANA SARI",
@@ -245,7 +245,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-03T02:22:42.414Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "TK MUSTAPA",
@@ -260,16 +260,16 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-02T20:50:46.709Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-03T02:24:47.782Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-02T20:51:03.898Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-03T02:25:02.746Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
