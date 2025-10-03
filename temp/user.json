@@ -245,7 +245,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-03T21:25:22.272Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "TK MUSTAPA",
@@ -261,7 +261,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-03T21:27:47.619Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "ROSA V",
@@ -269,7 +269,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-03T21:29:55.890Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "LUKMAN BS",
@@ -277,7 +277,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-03T21:32:13.629Z",
-    "cycle": 7
+    "cycle": 8
   },
   {
     "name": "BISTON MANURUNG",
@@ -285,7 +285,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-03T21:33:18.021Z",
-    "cycle": 6
+    "cycle": 7
   },
   {
     "name": "ROSIDI",
@@ -293,7 +293,7 @@
     "isTokenValid": false,
     "isAlive": true,
     "lastUpdate": "2025-10-03T21:33:59.211Z",
-    "cycle": 6
+    "cycle": 7
   },
   {
     "name": "ALPAN SANYOTO",
@@ -309,7 +309,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-03T21:34:13.560Z",
-    "cycle": 6
+    "cycle": 7
   },
   {
     "name": "YUDA",
@@ -317,7 +317,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-03T21:43:41.240Z",
-    "cycle": 5
+    "cycle": 6
   },
   {
     "name": "SRI UTAMI",
@@ -325,7 +325,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-03T21:43:57.978Z",
-    "cycle": 5
+    "cycle": 6
   },
   {
     "name": "ULFA MARIA",
@@ -333,7 +333,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-03T21:44:14.501Z",
-    "cycle": 5
+    "cycle": 6
   },
   {
     "name": "BAMBANG HARTONO",
@@ -341,7 +341,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-03T21:45:19.343Z",
-    "cycle": 4
+    "cycle": 5
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -349,7 +349,7 @@
     "isTokenValid": false,
     "isAlive": true,
     "lastUpdate": "2025-10-03T21:46:00.733Z",
-    "cycle": 4
+    "cycle": 5
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -357,15 +357,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-03T21:46:14.558Z",
-    "cycle": 4
+    "cycle": 5
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 21,
+    "stock": 18,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-03T21:59:31.395Z",
-    "cycle": 3
+    "lastUpdate": "2025-10-03T22:01:23.677Z",
+    "cycle": 4
   },
   {
     "name": "SUROSO",
@@ -373,7 +373,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-03T21:56:22.348Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "HADI SUTOYO",
@@ -381,7 +381,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-03T21:56:39.041Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "SRI HIDAYATI",
@@ -389,7 +389,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-03T21:58:21.355Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "ONG SWI GIOK",
@@ -397,7 +397,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-03T21:58:37.649Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "YUSUF ISMAIL",
@@ -405,7 +405,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-03T22:00:17.320Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "SUPARNI",
@@ -413,15 +413,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-03T22:00:32.359Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "H. JUMAT",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-03T20:15:59.429Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-03T22:02:17.374Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
@@ -429,7 +429,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-03T20:17:09.222Z",
-    "cycle": 0
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
