@@ -141,23 +141,23 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-06T09:20:38.922Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "TOKO IIN",
-    "stock": 2,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-06T09:37:21.116Z",
-    "cycle": 8
+    "lastUpdate": "2025-10-06T09:39:33.648Z",
+    "cycle": 9
   },
   {
     "name": "TOKO POJOK",
-    "stock": 23,
+    "stock": 20,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-06T09:38:03.746Z",
-    "cycle": 7
+    "lastUpdate": "2025-10-06T09:40:24.049Z",
+    "cycle": 8
   },
   {
     "name": "UD RAHMAT",
@@ -165,7 +165,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-06T09:24:50.576Z",
-    "cycle": 7
+    "cycle": 8
   },
   {
     "name": "SUPARMAN",
@@ -173,7 +173,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-06T09:26:51.763Z",
-    "cycle": 6
+    "cycle": 7
   },
   {
     "name": "DJAMIAH",
@@ -189,7 +189,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-06T09:29:17.650Z",
-    "cycle": 5
+    "cycle": 6
   },
   {
     "name": "ERNA PUJIATI",
@@ -197,7 +197,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-06T09:31:40.079Z",
-    "cycle": 4
+    "cycle": 5
   },
   {
     "name": "P. SUK",
@@ -205,7 +205,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-06T09:33:57.015Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "H. BAMBANG S",
@@ -221,7 +221,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-06T09:36:10.877Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "JONI H",
@@ -229,7 +229,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-06T09:38:43.611Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "EVI DIANA SARI",
@@ -244,8 +244,8 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-06T07:15:11.879Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-06T09:41:15.730Z",
+    "cycle": 1
   },
   {
     "name": "TK MUSTAPA",
