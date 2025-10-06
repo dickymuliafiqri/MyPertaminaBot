@@ -5,7 +5,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-06T11:37:03.832Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "AKBAR RISQ",
@@ -13,7 +13,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-06T11:37:23.733Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "ALFIAN DWI A.",
@@ -21,7 +21,7 @@
     "isTokenValid": false,
     "isAlive": true,
     "lastUpdate": "2025-10-06T11:40:28.491Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,7 +29,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-06T11:41:31.759Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "CINDRAWATI",
@@ -37,7 +37,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-06T11:41:47.134Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -45,7 +45,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-06T11:42:04.418Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "BINA MAKMUR",
@@ -53,7 +53,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-06T11:50:31.373Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -61,7 +61,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-06T11:44:03.058Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "SUCIYONO",
@@ -69,7 +69,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-06T11:52:26.662Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "SUMBER REJEKI",
@@ -77,7 +77,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-06T11:46:52.707Z",
-    "cycle": 7
+    "cycle": 8
   },
   {
     "name": "JAENAL",
@@ -85,7 +85,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-06T11:51:19.071Z",
-    "cycle": 6
+    "cycle": 7
   },
   {
     "name": "JOKO SUWARNO",
@@ -93,7 +93,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-06T11:53:00.568Z",
-    "cycle": 4
+    "cycle": 5
   },
   {
     "name": "KARSONO",
@@ -101,15 +101,15 @@
     "isTokenValid": false,
     "isAlive": true,
     "lastUpdate": "2025-10-06T11:53:16.294Z",
-    "cycle": 4
+    "cycle": 5
   },
   {
     "name": "LUTFI A.",
-    "stock": 4,
+    "stock": 1,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-06T11:59:52.386Z",
-    "cycle": 3
+    "lastUpdate": "2025-10-06T12:02:38.319Z",
+    "cycle": 4
   },
   {
     "name": "MOH SAID",
@@ -117,7 +117,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-06T11:56:28.866Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "TITIK ISMIATIN",
@@ -125,7 +125,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-06T11:56:48.483Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "TK. MAJU",
@@ -133,7 +133,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-06T11:58:44.756Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -141,7 +141,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-06T11:59:03.003Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "TOKO IIN",
@@ -149,23 +149,23 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-06T12:00:54.062Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "TOKO POJOK",
-    "stock": 11,
+    "stock": 8,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-06T12:01:11.938Z",
-    "cycle": 1
+    "lastUpdate": "2025-10-06T12:03:16.149Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-06T09:24:50.576Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-06T12:04:09.485Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
