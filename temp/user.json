@@ -153,11 +153,11 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 34,
+    "stock": 31,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-07T07:35:52.936Z",
-    "cycle": 8
+    "lastUpdate": "2025-10-07T07:37:35.545Z",
+    "cycle": 9
   },
   {
     "name": "UD RAHMAT",
@@ -165,7 +165,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-07T07:20:47.818Z",
-    "cycle": 7
+    "cycle": 8
   },
   {
     "name": "SUPARMAN",
@@ -173,7 +173,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-07T07:22:13.211Z",
-    "cycle": 6
+    "cycle": 7
   },
   {
     "name": "DJAMIAH",
@@ -189,7 +189,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-07T07:24:19.598Z",
-    "cycle": 5
+    "cycle": 6
   },
   {
     "name": "ERNA PUJIATI",
@@ -197,7 +197,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-07T07:27:02.708Z",
-    "cycle": 4
+    "cycle": 5
   },
   {
     "name": "P. SUK",
@@ -205,7 +205,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-07T07:29:32.259Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "H. BAMBANG S",
@@ -221,7 +221,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-07T07:31:57.639Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "JONI H",
@@ -229,7 +229,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-07T07:36:45.303Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "EVI DIANA SARI",
@@ -244,8 +244,8 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-07T04:03:48.406Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-07T07:38:26.772Z",
+    "cycle": 1
   },
   {
     "name": "TK MUSTAPA",
@@ -260,8 +260,8 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-07T04:04:03.333Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-07T07:38:43.498Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
