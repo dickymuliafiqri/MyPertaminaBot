@@ -473,11 +473,11 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 3,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-08T11:24:10.807Z",
-    "cycle": 10
+    "lastUpdate": "2025-10-08T11:25:47.532Z",
+    "cycle": 11
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -485,23 +485,23 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T11:24:55.594Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "WIKAN K",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-08T08:28:39.737Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-08T11:26:32.976Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
-    "stock": 0,
+    "stock": 22,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-08T08:28:54.327Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-08T11:26:47.942Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
