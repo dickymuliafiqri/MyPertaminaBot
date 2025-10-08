@@ -53,7 +53,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T20:55:02.452Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -61,7 +61,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T20:55:17.776Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "SUCIYONO",
@@ -69,7 +69,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T20:55:33.165Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "SUMBER REJEKI",
@@ -77,7 +77,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T20:56:58.236Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "JAENAL",
@@ -85,7 +85,7 @@
     "isTokenValid": false,
     "isAlive": true,
     "lastUpdate": "2025-10-08T20:57:33.478Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "JOKO SUWARNO",
@@ -93,7 +93,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T20:57:48.335Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "KARSONO",
@@ -101,7 +101,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T21:07:13.791Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "LUTFI A.",
@@ -109,7 +109,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T21:07:30.669Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "MOH SAID",
@@ -117,31 +117,31 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T21:07:46.859Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 65,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-10-08T21:25:16.828Z",
-    "cycle": 7
-  },
-  {
-    "name": "TK. MAJU",
     "stock": 62,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-08T21:26:09.665Z",
-    "cycle": 7
+    "lastUpdate": "2025-10-08T21:28:20.149Z",
+    "cycle": 8
+  },
+  {
+    "name": "TK. MAJU",
+    "stock": 59,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2025-10-08T21:28:56.056Z",
+    "cycle": 8
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 42,
+    "stock": 39,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-08T21:26:59.700Z",
-    "cycle": 7
+    "lastUpdate": "2025-10-08T21:29:31.016Z",
+    "cycle": 8
   },
   {
     "name": "TOKO IIN",
