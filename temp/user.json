@@ -317,7 +317,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:47:02.345Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "SRI UTAMI",
@@ -325,7 +325,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:47:20.065Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "ULFA MARIA",
@@ -333,7 +333,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:47:37.839Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "BAMBANG HARTONO",
@@ -341,7 +341,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:48:54.759Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -349,7 +349,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:49:11.668Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -357,7 +357,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:49:26.348Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "ISTIQOMAH",
@@ -365,7 +365,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:50:37.927Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "SUROSO",
@@ -373,7 +373,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:50:54.825Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "HADI SUTOYO",
@@ -381,7 +381,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:51:11.183Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "SRI HIDAYATI",
@@ -389,7 +389,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:52:15.514Z",
-    "cycle": 7
+    "cycle": 8
   },
   {
     "name": "ONG SWI GIOK",
@@ -397,7 +397,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:52:30.464Z",
-    "cycle": 7
+    "cycle": 8
   },
   {
     "name": "YUSUF ISMAIL",
@@ -405,7 +405,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:52:45.240Z",
-    "cycle": 7
+    "cycle": 8
   },
   {
     "name": "SUPARNI",
@@ -413,7 +413,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:53:54.124Z",
-    "cycle": 6
+    "cycle": 7
   },
   {
     "name": "H. JUMAT",
@@ -421,7 +421,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:54:10.652Z",
-    "cycle": 6
+    "cycle": 7
   },
   {
     "name": "YOGA RAJAN",
@@ -429,7 +429,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:54:26.908Z",
-    "cycle": 6
+    "cycle": 7
   },
   {
     "name": "HARSININGSIH",
@@ -437,7 +437,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:55:30.060Z",
-    "cycle": 5
+    "cycle": 6
   },
   {
     "name": "ARIF FAUZI",
@@ -445,15 +445,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:55:48.131Z",
-    "cycle": 5
+    "cycle": 6
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 30,
+    "stock": 27,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-08T11:05:16.040Z",
-    "cycle": 5
+    "lastUpdate": "2025-10-08T11:07:49.465Z",
+    "cycle": 6
   },
   {
     "name": "MOH HAFIF",
@@ -461,23 +461,23 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:58:20.452Z",
-    "cycle": 4
+    "cycle": 5
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 28,
+    "stock": 25,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-08T11:05:48.884Z",
-    "cycle": 4
+    "lastUpdate": "2025-10-08T11:08:25.310Z",
+    "cycle": 5
   },
   {
     "name": "SUDJIONO",
-    "stock": 21,
+    "stock": 18,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-08T11:06:23.728Z",
-    "cycle": 3
+    "lastUpdate": "2025-10-08T11:09:01.256Z",
+    "cycle": 4
   },
   {
     "name": "SAMSUL ARIFIN",
