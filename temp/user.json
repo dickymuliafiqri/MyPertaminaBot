@@ -29,7 +29,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T08:48:21.200Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "CINDRAWATI",
@@ -37,7 +37,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T08:48:37.388Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -45,7 +45,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T08:48:53.668Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "BINA MAKMUR",
@@ -53,7 +53,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T09:24:36.853Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -61,7 +61,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T09:24:53.835Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "SUCIYONO",
@@ -69,23 +69,23 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T09:30:11.370Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 2,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-08T09:43:50.057Z",
-    "cycle": 8
+    "lastUpdate": "2025-10-08T09:48:12.564Z",
+    "cycle": 9
   },
   {
     "name": "JAENAL",
-    "stock": 22,
+    "stock": 19,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-08T09:44:36.152Z",
-    "cycle": 8
+    "lastUpdate": "2025-10-08T09:48:37.612Z",
+    "cycle": 9
   },
   {
     "name": "JOKO SUWARNO",
@@ -93,15 +93,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T09:40:23.663Z",
-    "cycle": 6
+    "cycle": 7
   },
   {
     "name": "KARSONO",
-    "stock": 4,
+    "stock": 1,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-08T09:45:09.582Z",
-    "cycle": 2
+    "lastUpdate": "2025-10-08T09:49:13.209Z",
+    "cycle": 3
   },
   {
     "name": "LUTFI A.",
