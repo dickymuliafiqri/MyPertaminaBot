@@ -348,24 +348,24 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-08T15:18:34.141Z",
-    "cycle": 10
+    "lastUpdate": "2025-10-08T16:19:46.196Z",
+    "cycle": 11
   },
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-08T15:18:48.967Z",
-    "cycle": 10
+    "lastUpdate": "2025-10-08T16:20:02.292Z",
+    "cycle": 11
   },
   {
     "name": "ISTIQOMAH",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-10-08T15:19:03.824Z",
-    "cycle": 10
+    "lastUpdate": "2025-10-08T16:20:42.636Z",
+    "cycle": 11
   },
   {
     "name": "SUROSO",
