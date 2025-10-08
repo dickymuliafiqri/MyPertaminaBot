@@ -437,7 +437,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:55:30.060Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "ARIF FAUZI",
@@ -445,15 +445,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:55:48.131Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 18,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-08T11:18:41.583Z",
-    "cycle": 10
+    "lastUpdate": "2025-10-08T11:21:04.211Z",
+    "cycle": 11
   },
   {
     "name": "MOH HAFIF",
@@ -461,23 +461,23 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:58:20.452Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 13,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-08T11:19:12.716Z",
-    "cycle": 9
+    "lastUpdate": "2025-10-08T11:21:41.173Z",
+    "cycle": 10
   },
   {
     "name": "SUDJIONO",
-    "stock": 9,
+    "stock": 6,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-08T11:19:43.456Z",
-    "cycle": 8
+    "lastUpdate": "2025-10-08T11:22:18.087Z",
+    "cycle": 9
   },
   {
     "name": "SAMSUL ARIFIN",
