@@ -141,23 +141,23 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:18:11.197Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "TOKO IIN",
-    "stock": 11,
+    "stock": 8,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-08T10:38:11.075Z",
-    "cycle": 9
+    "lastUpdate": "2025-10-08T10:40:28.459Z",
+    "cycle": 10
   },
   {
     "name": "TOKO POJOK",
-    "stock": 19,
+    "stock": 16,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-08T10:38:48.210Z",
-    "cycle": 9
+    "lastUpdate": "2025-10-08T10:41:03.770Z",
+    "cycle": 10
   },
   {
     "name": "UD RAHMAT",
@@ -165,7 +165,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:20:52.346Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "SUPARMAN",
@@ -173,7 +173,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:23:18.226Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "DJAMIAH",
@@ -189,7 +189,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:25:32.943Z",
-    "cycle": 7
+    "cycle": 8
   },
   {
     "name": "ERNA PUJIATI",
@@ -197,7 +197,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:27:49.192Z",
-    "cycle": 6
+    "cycle": 7
   },
   {
     "name": "P. SUK",
@@ -205,7 +205,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:30:08.640Z",
-    "cycle": 5
+    "cycle": 6
   },
   {
     "name": "H. BAMBANG S",
@@ -221,7 +221,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:32:24.950Z",
-    "cycle": 4
+    "cycle": 5
   },
   {
     "name": "JONI H",
@@ -229,7 +229,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:34:34.648Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "EVI DIANA SARI",
@@ -245,7 +245,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:37:18.581Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "TK MUSTAPA",
@@ -261,15 +261,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T10:39:39.593Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "ROSA V",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-08T07:55:57.954Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-08T10:41:50.795Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
