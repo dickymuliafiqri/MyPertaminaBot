@@ -413,7 +413,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T03:58:36.786Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "H. JUMAT",
@@ -421,15 +421,15 @@
     "isTokenValid": false,
     "isAlive": true,
     "lastUpdate": "2025-10-08T03:59:17.472Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "YOGA RAJAN",
     "stock": 1,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-08T04:27:53.690Z",
-    "cycle": 10
+    "lastUpdate": "2025-10-08T04:30:29.118Z",
+    "cycle": 11
   },
   {
     "name": "HARSININGSIH",
@@ -437,7 +437,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T04:09:28.154Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "ARIF FAUZI",
@@ -445,7 +445,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T04:09:44.719Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "TOKO SURYATI",
@@ -453,7 +453,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T04:11:43.684Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "MOH HAFIF",
@@ -461,7 +461,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T04:12:01.463Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "CAHYA HERAWATI",
@@ -469,7 +469,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T04:13:58.526Z",
-    "cycle": 7
+    "cycle": 8
   },
   {
     "name": "SUDJIONO",
@@ -477,7 +477,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T04:14:15.199Z",
-    "cycle": 7
+    "cycle": 8
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -485,23 +485,23 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T04:16:19.646Z",
-    "cycle": 6
+    "cycle": 7
   },
   {
     "name": "WIKAN K",
     "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-08T04:28:28.438Z",
-    "cycle": 6
+    "lastUpdate": "2025-10-08T04:30:57.730Z",
+    "cycle": 7
   },
   {
     "name": "TUSOK",
-    "stock": 10,
+    "stock": 8,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-08T04:29:02.642Z",
-    "cycle": 5
+    "lastUpdate": "2025-10-08T04:31:26.280Z",
+    "cycle": 6
   },
   {
     "name": "MISRI CICI",
