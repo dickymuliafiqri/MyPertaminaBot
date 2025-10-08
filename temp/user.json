@@ -485,7 +485,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T11:24:55.594Z",
-    "cycle": 7
+    "cycle": 8
   },
   {
     "name": "WIKAN K",
@@ -493,15 +493,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T11:26:32.976Z",
-    "cycle": 6
+    "cycle": 7
   },
   {
     "name": "TUSOK",
-    "stock": 10,
+    "stock": 8,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-08T11:36:46.054Z",
-    "cycle": 6
+    "lastUpdate": "2025-10-08T11:39:12.635Z",
+    "cycle": 7
   },
   {
     "name": "MISRI CICI",
@@ -509,7 +509,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T11:28:30.519Z",
-    "cycle": 5
+    "cycle": 6
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -517,15 +517,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T11:28:48.024Z",
-    "cycle": 5
+    "cycle": 6
   },
   {
     "name": "BUDI",
     "stock": 43,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-08T11:37:24.717Z",
-    "cycle": 4
+    "lastUpdate": "2025-10-08T11:40:23.896Z",
+    "cycle": 5
   },
   {
     "name": "YULI SORAYA",
@@ -533,7 +533,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T11:31:15.833Z",
-    "cycle": 4
+    "cycle": 5
   },
   {
     "name": "SUSILO",
@@ -541,7 +541,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T11:33:40.283Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "HJ. HAERONI",
@@ -549,7 +549,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T11:35:55.272Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "IMA",
@@ -557,15 +557,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-08T11:38:18.202Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "DARMAWAN P",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-08T08:33:33.853Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-08T11:40:51.561Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
