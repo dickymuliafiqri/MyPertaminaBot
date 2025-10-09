@@ -281,11 +281,11 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 15,
+    "stock": 9,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-09T00:16:54.904Z",
-    "cycle": 10
+    "lastUpdate": "2025-10-09T00:21:33.335Z",
+    "cycle": 11
   },
   {
     "name": "ROSIDI",
@@ -293,7 +293,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-09T00:01:49.936Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "ALPAN SANYOTO",
@@ -309,7 +309,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-09T00:03:55.794Z",
-    "cycle": 7
+    "cycle": 8
   },
   {
     "name": "YUDA",
@@ -317,7 +317,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-09T00:06:17.983Z",
-    "cycle": 6
+    "cycle": 7
   },
   {
     "name": "SRI UTAMI",
@@ -325,7 +325,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-09T00:08:54.861Z",
-    "cycle": 5
+    "cycle": 6
   },
   {
     "name": "ULFA MARIA",
@@ -333,7 +333,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-09T00:11:09.163Z",
-    "cycle": 4
+    "cycle": 5
   },
   {
     "name": "BAMBANG HARTONO",
@@ -341,15 +341,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-09T00:13:22.989Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 9,
+    "stock": 3,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-09T00:17:31.660Z",
-    "cycle": 2
+    "lastUpdate": "2025-10-09T00:22:09.487Z",
+    "cycle": 3
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -357,7 +357,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-09T00:15:54.182Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
@@ -365,15 +365,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-09T00:18:23.087Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "SUROSO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-08T20:13:34.915Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-09T00:23:02.588Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
