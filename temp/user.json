@@ -525,7 +525,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-10T22:39:15.150Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "YULI SORAYA",
@@ -533,7 +533,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-10T22:41:10.274Z",
-    "cycle": 7
+    "cycle": 8
   },
   {
     "name": "SUSILO",
@@ -541,7 +541,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-10T22:43:04.759Z",
-    "cycle": 6
+    "cycle": 7
   },
   {
     "name": "HJ. HAERONI",
@@ -549,15 +549,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-10T22:43:21.882Z",
-    "cycle": 6
+    "cycle": 7
   },
   {
     "name": "IMA",
     "stock": 9,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-10T22:57:36.360Z",
-    "cycle": 5
+    "lastUpdate": "2025-10-10T22:59:37.156Z",
+    "cycle": 6
   },
   {
     "name": "DARMAWAN P",
@@ -565,7 +565,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-10T22:45:51.008Z",
-    "cycle": 5
+    "cycle": 6
   },
   {
     "name": "DIYAH UTAMI",
@@ -573,7 +573,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-10T22:48:49.356Z",
-    "cycle": 4
+    "cycle": 5
   },
   {
     "name": "SALMAH",
@@ -581,7 +581,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-10T22:51:14.644Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "TOKO ANITA",
@@ -589,7 +589,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-10T22:56:05.229Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "TK. LUCKY",
@@ -597,23 +597,23 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-10T22:58:33.125Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "UD SAMAN HADI",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-10T20:25:21.565Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-10T23:00:20.132Z",
+    "cycle": 1
   },
   {
     "name": "SOEKAMTO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-10T20:25:34.702Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-10T23:00:36.631Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
