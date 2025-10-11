@@ -49,11 +49,11 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 55,
+    "stock": 52,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-11T08:03:20.374Z",
-    "cycle": 10
+    "lastUpdate": "2025-10-11T08:05:17.835Z",
+    "cycle": 11
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -61,7 +61,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-11T08:04:02.399Z",
-    "cycle": 6
+    "cycle": 7
   },
   {
     "name": "SUCIYONO",
