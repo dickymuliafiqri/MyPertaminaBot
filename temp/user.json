@@ -308,24 +308,24 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-12T13:42:24.595Z",
-    "cycle": 10
+    "lastUpdate": "2025-10-12T14:47:27.488Z",
+    "cycle": 11
   },
   {
     "name": "YUDA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-12T13:42:39.462Z",
-    "cycle": 10
+    "lastUpdate": "2025-10-12T14:47:42.973Z",
+    "cycle": 11
   },
   {
     "name": "SRI UTAMI",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-10-12T13:42:53.997Z",
-    "cycle": 10
+    "lastUpdate": "2025-10-12T14:48:22.767Z",
+    "cycle": 11
   },
   {
     "name": "ULFA MARIA",
