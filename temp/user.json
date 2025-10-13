@@ -289,11 +289,11 @@
   },
   {
     "name": "ROSIDI",
-    "stock": 13,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-13T11:11:23.046Z",
-    "cycle": 10
+    "lastUpdate": "2025-10-13T11:13:32.239Z",
+    "cycle": 11
   },
   {
     "name": "ALPAN SANYOTO",
@@ -309,7 +309,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-13T10:49:25.947Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "YUDA",
@@ -317,7 +317,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-13T10:51:57.769Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "SRI UTAMI",
@@ -325,23 +325,23 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-13T10:54:59.612Z",
-    "cycle": 7
+    "cycle": 8
   },
   {
     "name": "ULFA MARIA",
-    "stock": 10,
+    "stock": 7,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-13T11:12:10.687Z",
-    "cycle": 6
+    "lastUpdate": "2025-10-13T11:14:29.702Z",
+    "cycle": 7
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 0,
+    "stock": 45,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-13T07:53:44.198Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-13T11:15:28.378Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
