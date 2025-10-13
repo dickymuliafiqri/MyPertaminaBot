@@ -317,7 +317,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-13T13:35:05.069Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "SRI UTAMI",
@@ -325,7 +325,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-13T13:37:35.607Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "ULFA MARIA",
@@ -333,15 +333,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-13T13:40:23.246Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 3,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-13T13:56:18.092Z",
-    "cycle": 7
+    "lastUpdate": "2025-10-13T13:59:12.121Z",
+    "cycle": 8
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -349,7 +349,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-13T13:45:16.305Z",
-    "cycle": 6
+    "cycle": 7
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -357,7 +357,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-13T13:47:31.079Z",
-    "cycle": 5
+    "cycle": 6
   },
   {
     "name": "ISTIQOMAH",
@@ -365,7 +365,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-13T13:50:14.622Z",
-    "cycle": 4
+    "cycle": 5
   },
   {
     "name": "SUROSO",
@@ -373,7 +373,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-13T13:52:46.270Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "HADI SUTOYO",
@@ -381,7 +381,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-13T13:55:23.163Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "SRI HIDAYATI",
@@ -389,23 +389,23 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-13T13:57:02.249Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 3,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-13T13:57:18.739Z",
-    "cycle": 1
+    "lastUpdate": "2025-10-13T13:59:57.457Z",
+    "cycle": 2
   },
   {
     "name": "YUSUF ISMAIL",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-13T11:30:32.220Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-13T14:00:55.394Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
