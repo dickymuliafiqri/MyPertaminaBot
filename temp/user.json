@@ -221,7 +221,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-13T19:34:28.498Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "JONI H",
@@ -229,7 +229,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-13T19:34:47.105Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "EVI DIANA SARI",
@@ -245,7 +245,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-13T19:35:04.000Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "TK MUSTAPA",
@@ -260,24 +260,24 @@
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-13T18:35:49.791Z",
-    "cycle": 9
+    "lastUpdate": "2025-10-13T19:36:29.391Z",
+    "cycle": 10
   },
   {
     "name": "ROSA V",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-10-13T18:36:06.405Z",
-    "cycle": 9
+    "lastUpdate": "2025-10-13T19:37:09.248Z",
+    "cycle": 10
   },
   {
     "name": "LUKMAN BS",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-13T18:36:23.187Z",
-    "cycle": 9
+    "lastUpdate": "2025-10-13T19:37:21.972Z",
+    "cycle": 10
   },
   {
     "name": "BISTON MANURUNG",
