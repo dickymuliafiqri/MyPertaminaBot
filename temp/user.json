@@ -41,27 +41,27 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 6,
+    "stock": 3,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-14T03:55:27.449Z",
-    "cycle": 10
+    "lastUpdate": "2025-10-14T03:57:04.033Z",
+    "cycle": 11
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 49,
+    "stock": 46,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-14T03:56:09.024Z",
-    "cycle": 10
+    "lastUpdate": "2025-10-14T03:57:44.792Z",
+    "cycle": 11
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 58,
+    "stock": 55,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-13T22:54:02.725Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-14T03:58:43.524Z",
+    "cycle": 1
   },
   {
     "name": "SUCIYONO",
