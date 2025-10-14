@@ -73,11 +73,11 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 11,
+    "stock": 8,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-14T08:20:28.060Z",
-    "cycle": 4
+    "lastUpdate": "2025-10-14T08:23:32.143Z",
+    "cycle": 5
   },
   {
     "name": "JAENAL",
@@ -85,7 +85,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-14T08:21:13.009Z",
-    "cycle": 4
+    "cycle": 5
   },
   {
     "name": "JOKO SUWARNO",
