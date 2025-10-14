@@ -101,31 +101,31 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-14T08:45:12.133Z",
-    "cycle": 5
+    "cycle": 6
   },
   {
     "name": "LUTFI A.",
-    "stock": 30,
+    "stock": 27,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-14T08:45:30.345Z",
-    "cycle": 4
+    "lastUpdate": "2025-10-14T08:47:43.451Z",
+    "cycle": 5
   },
   {
     "name": "MOH SAID",
-    "stock": 3,
-    "isTokenValid": true,
-    "isAlive": true,
-    "lastUpdate": "2025-10-14T08:46:11.180Z",
-    "cycle": 2
-  },
-  {
-    "name": "TITIK ISMIATIN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-14T05:09:39.583Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-14T08:48:30.949Z",
+    "cycle": 3
+  },
+  {
+    "name": "TITIK ISMIATIN",
+    "stock": 2,
+    "isTokenValid": true,
+    "isAlive": true,
+    "lastUpdate": "2025-10-14T08:49:31.409Z",
+    "cycle": 1
   },
   {
     "name": "TK. MAJU",
