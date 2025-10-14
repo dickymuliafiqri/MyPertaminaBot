@@ -513,11 +513,11 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 8,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-14T02:01:05.380Z",
-    "cycle": 10
+    "lastUpdate": "2025-10-14T02:03:05.326Z",
+    "cycle": 11
   },
   {
     "name": "BUDI",
@@ -525,7 +525,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-14T01:39:11.067Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "YULI SORAYA",
@@ -533,7 +533,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-14T01:41:10.065Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "SUSILO",
@@ -541,7 +541,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-14T01:43:39.154Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "HJ. HAERONI",
@@ -549,7 +549,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-14T01:45:57.796Z",
-    "cycle": 7
+    "cycle": 8
   },
   {
     "name": "IMA",
@@ -557,7 +557,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-14T01:48:36.215Z",
-    "cycle": 6
+    "cycle": 7
   },
   {
     "name": "DARMAWAN P",
@@ -565,15 +565,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-14T01:58:35.542Z",
-    "cycle": 5
+    "cycle": 6
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 12,
+    "stock": 9,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-14T02:01:13.712Z",
-    "cycle": 2
+    "lastUpdate": "2025-10-14T02:03:43.050Z",
+    "cycle": 3
   },
   {
     "name": "SALMAH",
@@ -581,15 +581,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-14T02:02:14.846Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "TOKO ANITA",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-13T21:15:31.721Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-14T02:04:35.749Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
