@@ -505,11 +505,11 @@
   },
   {
     "name": "MISRI CICI",
-    "stock": 5,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-15T12:18:00.581Z",
-    "cycle": 2
+    "lastUpdate": "2025-10-15T12:23:00.860Z",
+    "cycle": 3
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -517,15 +517,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-15T12:17:09.699Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "BUDI",
-    "stock": 52,
+    "stock": 46,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-15T12:18:56.042Z",
-    "cycle": 1
+    "lastUpdate": "2025-10-15T12:23:30.275Z",
+    "cycle": 2
   },
   {
     "name": "YULI SORAYA",
@@ -533,15 +533,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-15T12:19:46.908Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "SUSILO",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-15T08:40:26.044Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-15T12:24:26.237Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
