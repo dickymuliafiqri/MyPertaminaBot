@@ -93,7 +93,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-15T13:11:08.425Z",
-    "cycle": 7
+    "cycle": 8
   },
   {
     "name": "KARSONO",
@@ -101,15 +101,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-15T13:11:27.088Z",
-    "cycle": 7
+    "cycle": 8
   },
   {
     "name": "LUTFI A.",
-    "stock": 1,
+    "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-15T13:25:40.674Z",
-    "cycle": 6
+    "lastUpdate": "2025-10-15T13:28:19.241Z",
+    "cycle": 7
   },
   {
     "name": "MOH SAID",
@@ -117,7 +117,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-15T13:13:46.242Z",
-    "cycle": 6
+    "cycle": 7
   },
   {
     "name": "TITIK ISMIATIN",
@@ -125,7 +125,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-15T13:14:05.883Z",
-    "cycle": 6
+    "cycle": 7
   },
   {
     "name": "TK. MAJU",
@@ -133,7 +133,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-15T13:16:02.592Z",
-    "cycle": 5
+    "cycle": 6
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -141,7 +141,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-15T13:16:18.711Z",
-    "cycle": 5
+    "cycle": 6
   },
   {
     "name": "TOKO IIN",
@@ -149,15 +149,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-15T13:23:51.279Z",
-    "cycle": 4
+    "cycle": 5
   },
   {
     "name": "TOKO POJOK",
-    "stock": 8,
+    "stock": 5,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-15T13:26:12.998Z",
-    "cycle": 4
+    "lastUpdate": "2025-10-15T13:28:37.762Z",
+    "cycle": 5
   },
   {
     "name": "UD RAHMAT",
@@ -165,15 +165,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-15T13:27:07.658Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-15T11:06:29.668Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-15T13:29:29.611Z",
+    "cycle": 1
   },
   {
     "name": "DJAMIAH",
