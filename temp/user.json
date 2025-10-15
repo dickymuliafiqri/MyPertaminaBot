@@ -221,15 +221,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-15T02:22:11.352Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "JONI H",
-    "stock": 24,
+    "stock": 21,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-15T02:47:09.929Z",
-    "cycle": 10
+    "lastUpdate": "2025-10-15T02:49:44.419Z",
+    "cycle": 11
   },
   {
     "name": "EVI DIANA SARI",
@@ -245,7 +245,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-15T02:27:41.159Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "TK MUSTAPA",
@@ -261,7 +261,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-15T02:30:21.396Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "ROSA V",
@@ -269,7 +269,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-15T02:33:05.829Z",
-    "cycle": 7
+    "cycle": 8
   },
   {
     "name": "LUKMAN BS",
@@ -277,7 +277,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-15T02:35:40.931Z",
-    "cycle": 6
+    "cycle": 7
   },
   {
     "name": "BISTON MANURUNG",
@@ -285,7 +285,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-15T02:38:00.824Z",
-    "cycle": 5
+    "cycle": 6
   },
   {
     "name": "ROSIDI",
@@ -293,7 +293,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-15T02:40:46.620Z",
-    "cycle": 4
+    "cycle": 5
   },
   {
     "name": "ALPAN SANYOTO",
@@ -305,11 +305,11 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 13,
+    "stock": 10,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-15T02:47:48.514Z",
-    "cycle": 3
+    "lastUpdate": "2025-10-15T02:50:23.789Z",
+    "cycle": 4
   },
   {
     "name": "YUDA",
@@ -317,7 +317,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-15T02:43:46.123Z",
-    "cycle": 3
+    "cycle": 4
   },
   {
     "name": "SRI UTAMI",
@@ -325,7 +325,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-15T02:46:20.797Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "ULFA MARIA",
@@ -333,15 +333,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-15T02:48:42.098Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-14T21:00:42.116Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-15T02:51:18.328Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
