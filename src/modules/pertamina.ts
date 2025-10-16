@@ -80,17 +80,13 @@ export class Pertamina {
     });
 
     await page.goto(this.linkLogin);
-
     await sleep(5000);
-    await page.waitForSelector("#mantine-r0");
-    await page.locator("#mantine-r0").pressSequentially(this.username);
-    await page.locator("#mantine-r1").pressSequentially(this.password);
-    await page.locator("#mantine-r1").press("Enter");
 
-    for (let i = 0; i < 300; i++) {
-      if (message.length > 800) break;
-      await sleep(100);
-    }
+    const userForm = page.getByPlaceholder("Masukkan Nomor Ponsel atau Email");
+    const passForm = page.getByPlaceholder("Masukkan nomor PIN Anda");
+    await userForm.pressSequentially(this.username);
+    await passForm.pressSequentially(this.password);
+    await passForm.press("Enter");
 
     if (this.options.headers) {
       this.options.headers = {
