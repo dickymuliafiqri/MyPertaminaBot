@@ -82,17 +82,27 @@ export class Pertamina {
     await page.goto(this.linkLogin);
     await sleep(5000);
 
-    const userForm = page.getByPlaceholder("Masukkan Nomor Ponsel atau Email");
-    const passForm = page.getByPlaceholder("Masukkan nomor PIN Anda");
-    await userForm.pressSequentially(this.username);
-    await passForm.pressSequentially(this.password);
-    await passForm.press("Enter");
+    try {
+      const userForm = page.getByPlaceholder("Masukkan Nomor Ponsel atau Email");
+      const passForm = page.getByPlaceholder("Masukkan nomor PIN Anda");
+      const loginButton = page.getByRole("button", { name: "MASUK" });
+      await userForm.pressSequentially(this.username);
+      await passForm.pressSequentially(this.password);
+      await loginButton.click();
+    } catch (e) {
+      console.error(e);
+    }
 
     if (this.options.headers) {
       this.options.headers = {
         ...this.options.headers,
         Authorization: message,
       };
+    }
+
+    for (let i = 0; i < 30; i++) {
+      if (message.length > 800) break;
+      await sleep(100);
     }
 
     if (message.length > 800) {
