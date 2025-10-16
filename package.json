@@ -23,6 +23,8 @@
   "dependencies": {
     "@types/got": "^9.6.12",
     "@types/node": "^22.7.4",
+    "@types/pngjs": "^6.0.5",
+    "@u4/opencv4nodejs": "^7.1.2",
     "axios": "^1.7.7",
     "chromium": "^3.0.3",
     "dotenv": "^16.4.5",
@@ -31,7 +33,10 @@
     "got": "^14.4.5",
     "grammy": "^1.30.0",
     "hpagent": "^1.2.0",
+    "pixelmatch": "^7.1.0",
     "playwright": "^1.50.1",
-    "puppeteer": "^24.2.0"
+    "pngjs": "^7.0.0",
+    "puppeteer": "^24.2.0",
+    "sharp": "^0.34.4"
   }
 }

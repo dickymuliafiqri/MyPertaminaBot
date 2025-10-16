@@ -73,35 +73,35 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 79,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-16T07:46:26.044Z",
-    "cycle": 8
+    "lastUpdate": "2025-10-16T14:16:08.757Z",
+    "cycle": 11
   },
   {
     "name": "JAENAL",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 100,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-16T07:46:35.344Z",
-    "cycle": 8
+    "lastUpdate": "2025-10-16T14:17:42.370Z",
+    "cycle": 11
   },
   {
     "name": "JOKO SUWARNO",
     "stock": 0,
     "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-10-16T07:46:44.004Z",
-    "cycle": 8
+    "lastUpdate": "2025-10-16T14:17:55.562Z",
+    "cycle": 11
   },
   {
     "name": "KARSONO",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 70,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-16T04:50:24.952Z",
-    "cycle": 5
+    "lastUpdate": "2025-10-16T14:19:34.941Z",
+    "cycle": 11
   },
   {
     "name": "LUTFI A.",
@@ -109,7 +109,7 @@
     "isTokenValid": false,
     "isAlive": true,
     "lastUpdate": "2025-10-16T04:51:03.608Z",
-    "cycle": 5
+    "cycle": 11
   },
   {
     "name": "MOH SAID",
@@ -117,31 +117,31 @@
     "isTokenValid": false,
     "isAlive": true,
     "lastUpdate": "2025-10-16T04:51:41.884Z",
-    "cycle": 5
+    "cycle": 11
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 67,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-16T05:00:51.672Z",
-    "cycle": 3
+    "lastUpdate": "2025-10-16T17:33:18.127Z",
+    "cycle": 11
   },
   {
     "name": "TK. MAJU",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 74,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-16T05:01:30.596Z",
-    "cycle": 3
+    "lastUpdate": "2025-10-16T17:35:28.583Z",
+    "cycle": 6
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 57,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-16T05:02:09.131Z",
-    "cycle": 3
+    "lastUpdate": "2025-10-16T17:24:19.689Z",
+    "cycle": 5
   },
   {
     "name": "TOKO IIN",

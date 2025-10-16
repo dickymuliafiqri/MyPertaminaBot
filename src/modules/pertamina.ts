@@ -1,16 +1,20 @@
 import got, { GotBodyOptions } from "got";
-import puppeteer from "puppeteer";
 import { HttpsProxyAgent, HttpProxyAgent } from "hpagent";
 import { sleep } from "bun";
 import { chromium, devices } from "playwright";
 import { Telegram } from "./telegram";
+import { writeFileSync } from "fs";
+import comparePixelmatchBuffers from "./image";
+import { dominantColorFromImageBuffer } from "./color";
 
 export class Pertamina {
+  private linkHome = "https://subsiditepatlpg.mypertamina.id/merchant/app";
   private linkTos = "https://subsiditepatlpg.mypertamina.id/merchant/app/onboarding/terms-conditions";
   private linkLogin = "https://subsiditepatlpg.mypertamina.id/merchant-login";
   private linkReport = "https://api-map.my-pertamina.id/general/v1/transactions/report";
   private linkProduct = "https://api-map.my-pertamina.id/general/v2/products";
-  private linkPersonal = "https://subsiditepatlpg.mypertamina.id/merchant/app/profile-merchant";
+  private linkProductUser = "https://api-map.my-pertamina.id/general/products/v1/products/user";
+  private linkPersonal = "https://api-map.my-pertamina.id/general/v1/users/profile";
   private linkCheckNIK = "https://api-map.my-pertamina.id/customers/v2/verify-nik?nationalityId=";
   private linkTransaction = "https://api-map.my-pertamina.id/general/v1/transactions";
   private linkTransactionV2 = "https://api-map.my-pertamina.id/general/v2/transactions";
@@ -18,6 +22,11 @@ export class Pertamina {
   private username: string;
   private password: string;
   private bearer: string;
+  private browser = chromium.launch({
+    headless: false,
+    // args: ["--proxy-server=127.0.0.1:5353"],
+  });
+  private page = this.browser.then(async (res) => await res.newPage());
   private options: GotBodyOptions<string>;
 
   private bot: Telegram;
@@ -57,6 +66,21 @@ export class Pertamina {
       headers: {
         Authorization: this.bearer,
         "Content-Type": "application/json",
+        Host: "api-map.my-pertamina.id",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:143.0) Gecko/20100101 Firefox/143.0",
+        Accept: "application/json, text/plain, */*",
+        "Accept-Language": "en-GB,en;q=0.5",
+        "Accept-Encoding": "gzip, deflate, br, zstd",
+        Origin: "https://subsiditepatlpg.mypertamina.id",
+        Connection: "keep-alive",
+        "Sec-Fetch-Dest": "empty",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Site": "cross-site",
+        TE: "trailers",
+        Referer: "https://subsiditepatlpg.mypertamina.id/",
+        Priority: "u=4",
+        Pragma: "no-cache",
+        "Cache-Control": "no-cache",
       },
     };
   }
@@ -64,11 +88,7 @@ export class Pertamina {
   async login() {
     console.log(`[+] Login using ${this.username}...`);
 
-    const browser = await chromium.launch({
-      headless: false,
-      // args: ["--proxy-server=127.0.0.1:5353"],
-    });
-    const page = await browser.newPage();
+    const page = await this.page;
 
     let message = "";
 
@@ -93,19 +113,19 @@ export class Pertamina {
       console.error(e);
     }
 
-    if (this.options.headers) {
-      this.options.headers = {
-        ...this.options.headers,
-        Authorization: message,
-      };
-    }
-
     for (let i = 0; i < 30; i++) {
       if (message.length > 800) break;
       await sleep(100);
     }
 
     if (message.length > 800) {
+      if (this.options.headers) {
+        this.options.headers = {
+          ...this.options.headers,
+          Authorization: message,
+        };
+      }
+
       if (page.url() == this.linkTos) {
         await page.click("#mantine-r2");
         await page.click("#mantine-r4-body > div:nth-child(3) > div:nth-child(1) > button:nth-child(1)");
@@ -115,21 +135,22 @@ export class Pertamina {
       }
     }
 
-    await browser.close();
     return message;
   }
 
   async checkToken() {
     try {
-      const req = await got(this.linkProduct, {
+      const res = await got(this.linkPersonal, {
         ...this.options,
       });
 
-      if (req.statusCode == 200) {
-        return true;
+      if (res.statusCode == 200) {
+        if (JSON.parse(res.body).success) {
+          return true;
+        }
       }
     } catch (e: any) {
-      console.log(`[-] Token Expired! : ${e.message}`);
+      console.log("[-] Error checking token: " + e.message);
     }
 
     return false;
@@ -211,7 +232,7 @@ export class Pertamina {
 
   async checkStock() {
     try {
-      const req = await got(this.linkProduct, {
+      const req = await got(this.linkProductUser, {
         ...this.options,
       });
 
@@ -238,7 +259,7 @@ export class Pertamina {
 
   async getProduct() {
     try {
-      const req = await got(this.linkProduct, {
+      const req = await got(this.linkProductUser, {
         ...this.options,
       });
 
@@ -282,78 +303,94 @@ export class Pertamina {
         };
       }
 
-      let buyQuantity = this.stockMap[customerType.name];
-      if (customerType.name == "Usaha Mikro" && product.data.stockAvailable < 2)
-        buyQuantity = product.data.stockAvailable;
-
-      if (buyQuantity <= 0) {
-        return {
-          success: false,
-          message: "Out of stock",
-          code: 204,
-        };
-      }
-
-      const payload = {
-        products: [
-          {
-            productId: product.data.productId,
-            quantity: buyQuantity,
-          },
-        ],
-        geoTagging: "",
-        inputNominal: buyQuantity * product.data.price,
-        change: 0,
-        paymentType: "cash",
-        subsidi: {
-          nik: nik,
-          IDValidation: "",
-          familyId: customer.data.familyId,
-          familyIdEncrypted: customer.data.familyIdEncrypted,
-          category: customerType.name,
-          sourceTypeId: customerType.sourceTypeId,
-          nama: customer.data.name,
-          noHandPhoneKPM: customer.data.phoneNumber,
-          channelInject: customer.data.channelInject,
-          pengambilanItemSubsidi: [
-            {
-              item: "ELPIJI",
-              quantitas: buyQuantity,
-              potongan_harga: 0,
-            },
-          ],
-        },
-        token: customer.data.token,
-      };
-
       try {
-        const req = await got(this.linkTransactionV2, {
-          method: "post",
-          body: JSON.stringify(payload),
-          ...this.options,
-        });
+        const page = await this.page;
+        await page.goto(this.linkHome);
 
-        return {
-          ...JSON.parse(req.body),
-          payload: {
-            ...payload,
-          },
-        };
+        await page.getByText("Catat Penjualan").click();
+        await sleep(200);
+        await page.getByPlaceholder("Masukkan 16 digit NIK Pelanggan").pressSequentially(nik);
+        await page.getByRole("button", { name: "LANJUTKAN PENJUALAN" }).click();
+        const minButton = page.getByTestId("actionIcon1");
+        const addButton = page.getByTestId("actionIcon2");
+
+        const quantity = customerType.name == "Usaha Mikro" ? 2 : 1;
+
+        if (customerType.name == "Usaha Mikro") {
+          for (let i = 1; i < quantity; i++) {
+            await addButton.click();
+          }
+        }
+
+        await page.getByRole("button", { name: "CEK PESANAN" }).click();
+        await sleep(200);
+        await page.getByRole("button", { name: "PROSES PENJUALAN" }).click();
+        await sleep(200);
+
+        for (let x = 0; x < 3; x++) {
+          await page.waitForSelector(".rc-slider-captcha-jigsaw-bg");
+          const puzzleCanvas = await page.locator(".rc-slider-captcha-jigsaw-bg").boundingBox();
+          const puzzleBg = (await page.locator(".rc-slider-captcha-jigsaw-bg").getAttribute("src"))?.replace(
+            "data:image/jpeg;base64,",
+            ""
+          );
+          const puzzlePiece = (await page.locator(".rc-slider-captcha-jigsaw-puzzle").getAttribute("src"))?.replace(
+            "data:image/png;base64,",
+            ""
+          );
+          const puzzleDominantColor = (
+            await dominantColorFromImageBuffer(Buffer.from(puzzlePiece!, "base64"), {
+              sampleSize: 120,
+              ignoreBelow: 16,
+              ignoreAbove: 250,
+              ignoreNearGray: true,
+              grayTolerance: 10,
+              topK: 5, // jika butuh palet
+            })
+          ).dominant;
+
+          const puzzleBgBuffer = Buffer.from(puzzleBg!, "base64");
+          const puzzleSlider = await page.locator(".rc-slider-captcha-button").boundingBox();
+
+          if (puzzleSlider) {
+            await page.mouse.move(puzzleSlider?.x, puzzleSlider.y);
+            await page.mouse.down();
+
+            if (puzzleDominantColor.g >= puzzleDominantColor.r && puzzleDominantColor.g >= puzzleDominantColor.b) {
+              const matchLib: number[] = [];
+              for (let i = 0; i < puzzleCanvas?.width!; i += 1) {
+                await page.mouse.move(puzzleSlider.x + i, puzzleSlider.y);
+                const solve = await page.locator(".rc-slider-captcha-jigsaw").screenshot();
+                matchLib.push((await comparePixelmatchBuffers(puzzleBgBuffer, solve)).percent);
+              }
+
+              const lowestMatch = Math.min(...matchLib);
+              await page.mouse.move(puzzleSlider.x + matchLib.indexOf(lowestMatch), puzzleSlider.y);
+            } else {
+              await page.mouse.move(puzzleSlider.x + 10, puzzleSlider.y);
+            }
+
+            await page.mouse.up();
+          }
+
+          await sleep(1000);
+          if (page.url().startsWith("https://subsiditepatlpg.mypertamina.id/merchant/app/sale/struk")) {
+            return {
+              success: true,
+              quantity: quantity,
+              message: "Success",
+              code: 200,
+            };
+          }
+        }
       } catch (e: any) {
-        const code = (e.message as string).match(/\d+/) || [];
+        console.error(e);
         return {
           success: false,
           message: e.message,
-          code: parseInt(code[0] || "500"),
-          payload: {
-            ...payload,
-          },
+          code: 500,
         };
       }
-    } else if (!customer.success) {
-      return customer;
-    } else if (!product.success) {
-      return product;
     }
 
     return {
@@ -361,5 +398,9 @@ export class Pertamina {
       message: "Unknown Error",
       code: 500,
     };
+  }
+
+  async close() {
+    (await this.browser).close();
   }
 }

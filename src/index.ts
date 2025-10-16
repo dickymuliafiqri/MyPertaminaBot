@@ -115,7 +115,7 @@ async function sheetTransaction(
 
             if (transaction.success) {
               console.log(`[+] Transaction success!`);
-              const quantity = transaction.payload.products[0].quantity;
+              const quantity = transaction.quantity!;
               cell.value = quantity;
               accountData.stock -= quantity;
 
@@ -125,7 +125,7 @@ async function sheetTransaction(
 
               // Update NIK Info
               cellNIK.value = nik;
-              cellName.value = transaction.payload.subsidi.nama;
+              // cellName.value = transaction.payload.subsidi.nama;
 
               niks.done.data.push(nik);
               transactionLimit -= 1;
@@ -253,7 +253,7 @@ async function main() {
 
         const pertamina = new Pertamina(username, password, token, proxy);
 
-        let isTokenValid = await pertamina.checkToken();
+        let isTokenValid = false;
         if (!isTokenValid && userLimit > 0) {
           try {
             const newToken = await pertamina.login();
@@ -315,6 +315,8 @@ async function main() {
             if (message) finalMessage.push(message);
           }
         }
+
+        await pertamina.close();
 
         userLimit -= 1;
         db.setUserLocalData(user);
