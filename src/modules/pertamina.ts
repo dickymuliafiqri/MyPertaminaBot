@@ -23,7 +23,7 @@ export class Pertamina {
   private bearer: string;
   private browser = chromium.launch({
     headless: false,
-    args: ["--proxy-server=127.0.0.1:5353"],
+    // args: ["--proxy-server=127.0.0.1:5353"],
   });
   private page = this.browser.then(async (res) => await res.newPage());
   private options: GotBodyOptions<string>;
