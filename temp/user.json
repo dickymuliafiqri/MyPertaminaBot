@@ -66,10 +66,10 @@
   {
     "name": "SUCIYONO",
     "stock": 150,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-10-17T12:46:06.245Z",
-    "cycle": 6
+    "lastUpdate": "2025-10-17T12:51:44.607Z",
+    "cycle": 7
   },
   {
     "name": "SUMBER REJEKI",
