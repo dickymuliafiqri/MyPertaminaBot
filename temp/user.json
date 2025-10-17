@@ -129,11 +129,11 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 131,
-    "isTokenValid": false,
+    "stock": 128,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-17T17:27:46.086Z",
-    "cycle": 8
+    "lastUpdate": "2025-10-17T17:28:54.664Z",
+    "cycle": 9
   },
   {
     "name": "TOKO 2 PUTRI",
