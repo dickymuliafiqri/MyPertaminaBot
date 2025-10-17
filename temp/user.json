@@ -106,10 +106,10 @@
   {
     "name": "LUTFI A.",
     "stock": 173,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-10-17T16:04:42.694Z",
-    "cycle": 9
+    "lastUpdate": "2025-10-17T16:07:00.583Z",
+    "cycle": 10
   },
   {
     "name": "MOH SAID",
