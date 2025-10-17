@@ -290,10 +290,10 @@
   {
     "name": "ROSIDI",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-17T02:58:27.582Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-17T20:58:11.763Z",
+    "cycle": 1
   },
   {
     "name": "ALPAN SANYOTO",
