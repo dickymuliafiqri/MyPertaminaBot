@@ -397,15 +397,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-17T22:36:51.223Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 44,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-17T03:43:20.665Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-17T22:38:02.713Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
