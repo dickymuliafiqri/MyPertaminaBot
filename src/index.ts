@@ -348,5 +348,6 @@ async function main() {
 
     await bot.sendToAdmin("PROGRAM FINISHED!");
     console.log("PROGRAM FINISHED!");
+    process.exit(0);
   }
 })();
