@@ -45,15 +45,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-17T10:05:19.335Z",
-    "cycle": 7
+    "cycle": 8
   },
   {
     "name": "BINA MAKMUR",
     "stock": 190,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-10-17T10:10:47.611Z",
-    "cycle": 1
+    "lastUpdate": "2025-10-17T10:16:08.742Z",
+    "cycle": 2
   },
   {
     "name": "HENDRA KURNIAWAN",
