@@ -1,7 +1,7 @@
 import got, { GotBodyOptions } from "got";
 import { HttpsProxyAgent, HttpProxyAgent } from "hpagent";
 import { sleep } from "bun";
-import { chromium, devices } from "playwright";
+import { chromium } from "playwright";
 import { Telegram } from "./telegram";
 import comparePixelmatchBuffers from "./image";
 import { dominantColorFromImageBuffer } from "./color";
@@ -22,10 +22,11 @@ export class Pertamina {
   private password: string;
   private bearer: string;
   private browser = chromium.launch({
-    headless: false,
+    headless: true,
     // args: ["--proxy-server=127.0.0.1:5353"],
   });
-  private page = this.browser.then(async (res) => await res.newPage());
+  private baseContext = this.browser.then(async (res) => await res.newContext());
+  private page = this.baseContext.then(async (res) => await res.newPage());
   private options: GotBodyOptions<string>;
 
   private bot: Telegram;
@@ -281,7 +282,15 @@ export class Pertamina {
   }
 
   async transaction(nik: string) {
-    const page = await this.page;
+    const trxContext = await (
+      await this.browser
+    ).newContext({
+      proxy: {
+        server: "http://127.0.0.1:5353",
+      },
+      storageState: await (await this.baseContext).storageState(),
+    });
+    const page = await trxContext.newPage();
     const product = await this.getProduct();
     const customer = await this.getCustomer(nik);
 
