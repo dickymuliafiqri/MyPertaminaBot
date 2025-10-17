@@ -161,11 +161,11 @@
   },
   {
     "name": "UD RAHMAT",
-    "stock": 45,
-    "isTokenValid": false,
+    "stock": 42,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-17T02:11:00.798Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-17T19:07:22.510Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
