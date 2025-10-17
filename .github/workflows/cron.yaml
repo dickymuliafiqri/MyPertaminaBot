@@ -12,6 +12,13 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+      - name: Cache Playwright browsers
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: ${{ runner.os }}-playwright-${{ hashFiles('bun.lockb') }}
+          restore-keys: |
+            ${{ runner.os }}-playwright-
       - uses: oven-sh/setup-bun@v2
       - name: Get dotenv
         run: echo ${{ secrets.DOTENV }} | base64 --decode > .env
