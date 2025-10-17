@@ -3,7 +3,6 @@ import { HttpsProxyAgent, HttpProxyAgent } from "hpagent";
 import { sleep } from "bun";
 import { chromium, devices } from "playwright";
 import { Telegram } from "./telegram";
-import { writeFileSync } from "fs";
 import comparePixelmatchBuffers from "./image";
 import { dominantColorFromImageBuffer } from "./color";
 
@@ -42,6 +41,12 @@ export class Pertamina {
     this.bearer = bearer;
 
     this.bot = new Telegram();
+
+    this.page.then((page) => {
+      page.on("console", (msg) => {
+        console.log(msg);
+      });
+    });
 
     this.options = {
       agent: {
@@ -109,8 +114,9 @@ export class Pertamina {
       await userForm.pressSequentially(this.username);
       await passForm.pressSequentially(this.password);
       await loginButton.click();
-    } catch (e) {
+    } catch (e: any) {
       console.error(e);
+      await this.bot.sendPhotoToAdmin(await page.screenshot(), "[-] Error login: " + e.message);
     }
 
     for (let i = 0; i < 30; i++) {
@@ -272,6 +278,7 @@ export class Pertamina {
   }
 
   async transaction(nik: string) {
+    const page = await this.page;
     const product = await this.getProduct();
     const customer = await this.getCustomer(nik);
 
@@ -304,7 +311,6 @@ export class Pertamina {
       }
 
       try {
-        const page = await this.page;
         await page.goto(this.linkHome);
 
         await page.getByText("Catat Penjualan").click();
@@ -334,20 +340,27 @@ export class Pertamina {
             "data:image/jpeg;base64,",
             ""
           );
-          const puzzlePiece = (await page.locator(".rc-slider-captcha-jigsaw-puzzle").getAttribute("src"))?.replace(
-            "data:image/png;base64,",
-            ""
-          );
-          const puzzleDominantColor = (
-            await dominantColorFromImageBuffer(Buffer.from(puzzlePiece!, "base64"), {
-              sampleSize: 120,
-              ignoreBelow: 16,
-              ignoreAbove: 250,
-              ignoreNearGray: true,
-              grayTolerance: 10,
-              topK: 5, // jika butuh palet
-            })
-          ).dominant;
+
+          const puzzlePiece = page.locator(".rc-slider-captcha-jigsaw-puzzle");
+          // const puzzlePieceBuffer = Buffer.from(
+          //   (await puzzlePiece.getAttribute("src"))?.replace("data:image/png;base64,", "")!,
+          //   "base64"
+          // );
+
+          puzzlePiece.evaluate((node) => {
+            node.style.filter = "brightness(0) invert(1) opacity(0.75)";
+          });
+
+          // const puzzleDominantColor = (
+          //   await dominantColorFromImageBuffer(puzzlePieceBuffer, {
+          //     sampleSize: 120,
+          //     ignoreBelow: 16,
+          //     ignoreAbove: 250,
+          //     ignoreNearGray: true,
+          //     grayTolerance: 10,
+          //     topK: 5, // jika butuh palet
+          //   })
+          // ).dominant;
 
           const puzzleBgBuffer = Buffer.from(puzzleBg!, "base64");
           const puzzleSlider = await page.locator(".rc-slider-captcha-button").boundingBox();
@@ -356,20 +369,26 @@ export class Pertamina {
             await page.mouse.move(puzzleSlider?.x, puzzleSlider.y);
             await page.mouse.down();
 
-            if (puzzleDominantColor.g >= puzzleDominantColor.r && puzzleDominantColor.g >= puzzleDominantColor.b) {
-              const matchLib: number[] = [];
-              for (let i = 0; i < puzzleCanvas?.width!; i += 1) {
-                await page.mouse.move(puzzleSlider.x + i, puzzleSlider.y);
-                const solve = await page.locator(".rc-slider-captcha-jigsaw").screenshot();
-                matchLib.push((await comparePixelmatchBuffers(puzzleBgBuffer, solve)).percent);
+            const step = 5;
+            const matchLib: number[] = [];
+            for (let i = 0; i < puzzleCanvas?.width!; i += step) {
+              await page.mouse.move(puzzleSlider.x + i, puzzleSlider.y);
+              const solve = await page.locator(".rc-slider-captcha-jigsaw").screenshot();
+              const matchPercent = (await comparePixelmatchBuffers(puzzleBgBuffer, solve)).percent;
+              const matchLastNum = matchLib.slice(-3);
+
+              console.log(matchPercent);
+              console.log(matchLastNum);
+
+              if (matchLastNum.length == 3 && matchLastNum.every((v) => v == matchPercent)) {
+                break;
               }
 
-              const lowestMatch = Math.min(...matchLib);
-              await page.mouse.move(puzzleSlider.x + matchLib.indexOf(lowestMatch), puzzleSlider.y);
-            } else {
-              await page.mouse.move(puzzleSlider.x + 10, puzzleSlider.y);
+              matchLib.push(matchPercent);
             }
 
+            const highestMatch = Math.max(...matchLib);
+            await page.mouse.move(puzzleSlider.x + matchLib.indexOf(highestMatch) * step, puzzleSlider.y);
             await page.mouse.up();
           }
 
@@ -385,6 +404,7 @@ export class Pertamina {
         }
       } catch (e: any) {
         console.error(e);
+        await this.bot.sendPhotoToAdmin(await page.screenshot(), "[-] Error transaction: " + e.message);
         return {
           success: false,
           message: e.message,

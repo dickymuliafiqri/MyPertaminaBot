@@ -339,7 +339,6 @@ async function main() {
     await bot.sendRawToAdmin(errorMessage);
   } finally {
     // Final process
-    console.log("PROGRAM FINISHED!");
 
     for (const message of finalMessage) {
       await bot.sendToAdmin(message);
@@ -347,5 +346,6 @@ async function main() {
     finalMessage = [];
 
     await bot.sendToAdmin("PROGRAM FINISHED!");
+    console.log("PROGRAM FINISHED!");
   }
 })();
