@@ -37,15 +37,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-17T09:36:08.545Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 50,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-16T04:20:46.708Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-17T09:39:39.671Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
