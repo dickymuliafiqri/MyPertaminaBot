@@ -429,7 +429,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-17T23:37:48.174Z",
-    "cycle": 6
+    "cycle": 7
   },
   {
     "name": "HARSININGSIH",
@@ -437,15 +437,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-17T23:39:01.647Z",
-    "cycle": 5
+    "cycle": 6
   },
   {
     "name": "ARIF FAUZI",
     "stock": 16,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-10-17T23:46:22.570Z",
-    "cycle": 4
+    "lastUpdate": "2025-10-17T23:48:41.706Z",
+    "cycle": 5
   },
   {
     "name": "TOKO SURYATI",
