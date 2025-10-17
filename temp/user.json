@@ -349,7 +349,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-17T21:15:19.734Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -357,15 +357,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-17T21:18:16.697Z",
-    "cycle": 5
+    "cycle": 6
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 18,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-17T21:27:14.074Z",
-    "cycle": 4
+    "lastUpdate": "2025-10-17T21:29:28.916Z",
+    "cycle": 5
   },
   {
     "name": "SUROSO",
