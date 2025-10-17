@@ -381,15 +381,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-17T22:11:57.727Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "SRI HIDAYATI",
     "stock": 26,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-10-17T22:27:38.071Z",
-    "cycle": 7
+    "lastUpdate": "2025-10-17T22:30:00.255Z",
+    "cycle": 8
   },
   {
     "name": "ONG SWI GIOK",
