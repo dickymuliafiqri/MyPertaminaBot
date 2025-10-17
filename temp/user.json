@@ -57,11 +57,11 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 90,
-    "isTokenValid": false,
+    "stock": 80,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-17T11:57:45.244Z",
-    "cycle": 9
+    "lastUpdate": "2025-10-17T11:58:58.804Z",
+    "cycle": 10
   },
   {
     "name": "SUCIYONO",
