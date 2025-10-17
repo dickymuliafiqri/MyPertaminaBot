@@ -22,8 +22,7 @@ export class Pertamina {
   private password: string;
   private bearer: string;
   private browser = chromium.launch({
-    headless: true,
-    args: ["--no-sandbox", "--disable-gpu", "--disable-dev-shm-usage", "--single-process", "--no-zygote"],
+    headless: false,
     // args: ["--proxy-server=127.0.0.1:5353"],
   });
   private baseContext = this.browser.then(async (res) => await res.newContext());
@@ -383,7 +382,7 @@ export class Pertamina {
             await page.mouse.move(puzzleSlider?.x, puzzleSlider.y);
             await page.mouse.down();
 
-            const step = 5;
+            const step = 7;
             const matchLib: number[] = [];
             for (let i = 0; i < puzzleCanvas?.width!; i += step) {
               await page.mouse.move(puzzleSlider.x + i, puzzleSlider.y);
