@@ -10,7 +10,7 @@ export class Pertamina {
   private linkHome = "https://subsiditepatlpg.mypertamina.id/merchant/app";
   private linkTos = "https://subsiditepatlpg.mypertamina.id/merchant/app/onboarding/terms-conditions";
   private linkLogin = "https://subsiditepatlpg.mypertamina.id/merchant-login";
-  private linkReport = "https://api-map.my-pertamina.id/general/v1/transactions/report";
+  private linkReport = "https://api-map.my-pertamina.id/general/v3/transactions/report";
   private linkProduct = "https://api-map.my-pertamina.id/general/v2/products";
   private linkProductUser = "https://api-map.my-pertamina.id/general/products/v1/products/user";
   private linkPersonal = "https://api-map.my-pertamina.id/general/v1/users/profile";
@@ -331,15 +331,23 @@ export class Pertamina {
         await sleep(200);
         await page.getByPlaceholder("Masukkan 16 digit NIK Pelanggan").pressSequentially(nik);
         await page.getByRole("button", { name: "LANJUTKAN PENJUALAN" }).click();
+
+        if (customerType.name != "Rumah Tangga") {
+          await page.getByText(customerType.name).click();
+          await page.getByRole("button", { name: "LANJUTKAN TRANSAKSI" }).click();
+
+          const nextButton = page.getByRole("button", { name: "NANTI SAJA, LANJUT TRANSAKSI" });
+          if (await nextButton.isVisible()) {
+            await nextButton.click();
+          }
+        }
+
+        const quantity = this.stockMap[customerType.name];
+
         const minButton = page.getByTestId("actionIcon1");
         const addButton = page.getByTestId("actionIcon2");
-
-        const quantity = customerType.name == "Usaha Mikro" ? 2 : 1;
-
-        if (customerType.name == "Usaha Mikro") {
-          for (let i = 1; i < quantity; i++) {
-            await addButton.click();
-          }
+        for (let i = 1; i < quantity; i++) {
+          await addButton.click();
         }
 
         await page.getByRole("button", { name: "CEK PESANAN" }).click();
@@ -347,7 +355,7 @@ export class Pertamina {
         await page.getByRole("button", { name: "PROSES PENJUALAN" }).click();
         await sleep(200);
 
-        for (let x = 0; x < 3; x++) {
+        for (let x = 0; x < 5; x++) {
           console.log("Solving captcha: attempt " + (x + 1));
           await page.waitForSelector(".rc-slider-captcha-jigsaw-bg");
           const puzzleCanvas = await page.locator(".rc-slider-captcha-jigsaw-bg").boundingBox();
