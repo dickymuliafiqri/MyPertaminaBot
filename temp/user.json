@@ -25,11 +25,11 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 50,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-16T04:19:30.689Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-17T08:22:36.127Z",
+    "cycle": 1
   },
   {
     "name": "CINDRAWATI",
