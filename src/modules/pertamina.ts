@@ -346,6 +346,7 @@ export class Pertamina {
         await sleep(200);
 
         for (let x = 0; x < 3; x++) {
+          console.log("Solving captcha: attempt " + (x + 1));
           await page.waitForSelector(".rc-slider-captcha-jigsaw-bg");
           const puzzleCanvas = await page.locator(".rc-slider-captcha-jigsaw-bg").boundingBox();
           const puzzleBg = (await page.locator(".rc-slider-captcha-jigsaw-bg").getAttribute("src"))?.replace(
@@ -389,8 +390,8 @@ export class Pertamina {
               const matchPercent = (await comparePixelmatchBuffers(puzzleBgBuffer, solve)).percent;
               const matchLastNum = matchLib.slice(-3);
 
-              console.log(matchPercent);
-              console.log(matchLastNum);
+              // console.log(matchPercent);
+              // console.log(matchLastNum);
 
               if (matchLastNum.length == 3 && matchLastNum.every((v) => v == matchPercent)) {
                 break;
@@ -404,14 +405,16 @@ export class Pertamina {
             await page.mouse.up();
           }
 
-          await sleep(1000);
-          if (page.url().startsWith("https://subsiditepatlpg.mypertamina.id/merchant/app/sale/struk")) {
-            return {
-              success: true,
-              quantity: quantity,
-              message: "Success",
-              code: 200,
-            };
+          for (let y = 0; y < 30; y++) {
+            await sleep(100);
+            if (page.url().startsWith("https://subsiditepatlpg.mypertamina.id/merchant/app/sale/struk")) {
+              return {
+                success: true,
+                quantity: quantity,
+                message: "Success",
+                code: 200,
+              };
+            }
           }
         }
       } catch (e: any) {
