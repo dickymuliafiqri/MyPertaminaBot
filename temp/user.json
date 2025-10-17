@@ -81,11 +81,11 @@
   },
   {
     "name": "JAENAL",
-    "stock": 197,
-    "isTokenValid": false,
+    "stock": 194,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-17T14:20:39.125Z",
-    "cycle": 2
+    "lastUpdate": "2025-10-17T14:21:59.151Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
