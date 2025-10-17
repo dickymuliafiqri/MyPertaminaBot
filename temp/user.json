@@ -29,15 +29,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-17T08:49:45.571Z",
-    "cycle": 6
+    "cycle": 7
   },
   {
     "name": "CINDRAWATI",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 50,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-16T04:20:08.566Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-17T08:54:54.172Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
