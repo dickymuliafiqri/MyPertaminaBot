@@ -23,6 +23,7 @@ export class Pertamina {
   private bearer: string;
   private browser = chromium.launch({
     headless: true,
+    args: ["--no-sandbox", "--disable-gpu", "--disable-dev-shm-usage", "--single-process", "--no-zygote"],
     // args: ["--proxy-server=127.0.0.1:5353"],
   });
   private baseContext = this.browser.then(async (res) => await res.newContext());

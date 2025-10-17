@@ -4,6 +4,7 @@ import { Pertamina } from "./modules/pertamina";
 import { Telegram } from "./modules/telegram";
 import { config as loadEnv } from "dotenv";
 import { getProxyList } from "./modules/helper";
+import { sleep } from "bun";
 
 // Initialize
 loadEnv();
@@ -317,9 +318,9 @@ async function main() {
         }
 
         await pertamina.close();
-
         userLimit -= 1;
         db.setUserLocalData(user);
+        await sleep(5000);
       }
 
       console.log(`[+] Done proceeding ${sheetName} sheet!`);
