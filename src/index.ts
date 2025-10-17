@@ -11,7 +11,7 @@ loadEnv();
 const bot = new Telegram();
 let finalMessage: string[] = [];
 let niks = Database.getNiksArray();
-let userLimit = 3;
+let userLimit = 1;
 let errorCount = 0;
 
 async function sheetTransaction(
