@@ -28,7 +28,7 @@ async function sheetTransaction(
   if (sheetName != "Bansos") message.push(`${sheetName} | ${accountData.stock}`);
 
   let loopLimit = 5;
-  let bansosLimit = 3;
+  let bansosLimit = 10;
   let maxColumnIndex = 0;
 
   let rows = await sheet.getRows();

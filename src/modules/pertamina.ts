@@ -1,7 +1,7 @@
 import got, { GotBodyOptions } from "got";
 import { HttpsProxyAgent, HttpProxyAgent } from "hpagent";
 import { sleep } from "bun";
-import { chromium } from "playwright";
+import { BrowserContext, chromium, Page } from "playwright";
 import { Telegram } from "./telegram";
 import comparePixelmatchBuffers from "./image";
 import { dominantColorFromImageBuffer } from "./color";
@@ -25,8 +25,8 @@ export class Pertamina {
     headless: false,
     // args: ["--proxy-server=127.0.0.1:5353"],
   });
-  private baseContext = this.browser.then(async (res) => await res.newContext());
-  private page = this.baseContext.then(async (res) => await res.newPage());
+  private baseContext: Promise<BrowserContext>;
+  private page: Promise<Page>;
   private options: GotBodyOptions<string>;
 
   private bot: Telegram;
@@ -41,7 +41,8 @@ export class Pertamina {
     this.password = password;
     this.bearer = bearer;
 
-    this.bot = new Telegram();
+    this.baseContext = this.browser.then(async (res) => await res.newContext());
+    this.page = this.baseContext.then(async (res) => await res.newPage());
 
     this.page.then((page) => {
       page.on("console", (msg) => {
@@ -49,6 +50,7 @@ export class Pertamina {
       });
     });
 
+    this.bot = new Telegram();
     this.options = {
       agent: {
         http: new HttpProxyAgent({
@@ -382,7 +384,7 @@ export class Pertamina {
             await page.mouse.move(puzzleSlider?.x, puzzleSlider.y);
             await page.mouse.down();
 
-            const step = 7;
+            const step = 10;
             const matchLib: number[] = [];
             for (let i = 0; i < puzzleCanvas?.width!; i += step) {
               await page.mouse.move(puzzleSlider.x + i, puzzleSlider.y);
@@ -391,7 +393,6 @@ export class Pertamina {
               const matchLastNum = matchLib.slice(-3);
 
               // console.log(matchPercent);
-              // console.log(matchLastNum);
 
               if (matchLastNum.length == 3 && matchLastNum.every((v) => v == matchPercent)) {
                 break;
@@ -420,11 +421,9 @@ export class Pertamina {
       } catch (e: any) {
         console.error(e);
         await this.bot.sendPhotoToAdmin(await page.screenshot(), "[-] Error transaction: " + e.message);
-        return {
-          success: false,
-          message: e.message,
-          code: 500,
-        };
+      } finally {
+        await page.close();
+        await trxContext.close();
       }
     }
 
