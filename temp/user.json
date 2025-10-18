@@ -501,7 +501,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-18T17:08:54.382Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "MISRI CICI",
@@ -509,15 +509,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-18T17:11:01.177Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 9,
-    "isTokenValid": false,
+    "stock": 6,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-18T17:29:18.534Z",
-    "cycle": 7
+    "lastUpdate": "2025-10-18T17:30:25.075Z",
+    "cycle": 8
   },
   {
     "name": "BUDI",
