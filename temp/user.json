@@ -1,11 +1,11 @@
 [
   {
     "name": "ABDUL WAFI",
-    "stock": 94,
-    "isTokenValid": false,
+    "stock": 91,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-18T05:40:06.135Z",
-    "cycle": 10
+    "lastUpdate": "2025-10-18T05:41:13.125Z",
+    "cycle": 11
   },
   {
     "name": "AKBAR RISQ",
