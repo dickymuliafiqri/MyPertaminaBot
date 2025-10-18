@@ -49,11 +49,11 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 188,
-    "isTokenValid": false,
+    "stock": 185,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-18T08:54:37.404Z",
-    "cycle": 7
+    "lastUpdate": "2025-10-18T08:55:35.218Z",
+    "cycle": 8
   },
   {
     "name": "HENDRA KURNIAWAN",
