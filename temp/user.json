@@ -597,15 +597,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-18T04:22:51.460Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 47,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-16T02:48:06.965Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-18T04:24:09.912Z",
+    "cycle": 1
   },
   {
     "name": "SOEKAMTO",
