@@ -458,10 +458,10 @@
   {
     "name": "MOH HAFIF",
     "stock": 15,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-10-18T01:05:29.636Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-18T16:48:06.026Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
