@@ -541,7 +541,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-18T02:43:07.462Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "HJ. HAERONI",
@@ -549,15 +549,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-18T02:44:21.984Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "IMA",
     "stock": 8,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-10-18T03:04:09.639Z",
-    "cycle": 7
+    "lastUpdate": "2025-10-18T03:06:39.345Z",
+    "cycle": 8
   },
   {
     "name": "DARMAWAN P",
