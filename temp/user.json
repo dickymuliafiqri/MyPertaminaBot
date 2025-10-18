@@ -594,10 +594,10 @@
   {
     "name": "TK. LUCKY",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-16T02:47:28.427Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-18T04:22:51.460Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
