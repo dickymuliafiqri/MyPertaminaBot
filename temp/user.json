@@ -90,10 +90,10 @@
   {
     "name": "JOKO SUWARNO",
     "stock": 169,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-10-18T11:08:21.214Z",
-    "cycle": 8
+    "lastUpdate": "2025-10-18T11:10:59.351Z",
+    "cycle": 9
   },
   {
     "name": "KARSONO",
