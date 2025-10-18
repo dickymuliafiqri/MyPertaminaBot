@@ -105,11 +105,11 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 267,
-    "isTokenValid": false,
+    "stock": 264,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-18T11:43:59.400Z",
-    "cycle": 2
+    "lastUpdate": "2025-10-18T11:44:58.713Z",
+    "cycle": 3
   },
   {
     "name": "MOH SAID",
