@@ -121,11 +121,11 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 175,
-    "isTokenValid": false,
+    "stock": 172,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-18T12:54:45.036Z",
-    "cycle": 10
+    "lastUpdate": "2025-10-18T12:55:54.160Z",
+    "cycle": 11
   },
   {
     "name": "TK. MAJU",
