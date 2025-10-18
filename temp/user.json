@@ -405,7 +405,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-18T16:03:51.544Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "SUPARNI",
@@ -413,15 +413,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-18T16:05:19.368Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "H. JUMAT",
-    "stock": 12,
+    "stock": 9,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-18T16:06:25.587Z",
-    "cycle": 1
+    "lastUpdate": "2025-10-18T16:09:19.166Z",
+    "cycle": 2
   },
   {
     "name": "YOGA RAJAN",
