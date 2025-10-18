@@ -43,14 +43,23 @@ export interface CompareResult {
 export async function comparePixelmatchBuffers(
   bufA: Buffer | Uint8Array,
   bufB: Buffer | Uint8Array,
-  opts: CompareOptions = {}
+  opts: CompareOptions = {},
 ): Promise<CompareResult> {
-  const { width, height, threshold = 0.1, includeAA = true, returnDiff = false, fit = "cover" } = opts;
+  const {
+    width,
+    height,
+    threshold = 0.1,
+    includeAA = true,
+    returnDiff = false,
+    fit = "cover",
+  } = opts;
 
   // Baca metadata A untuk fallback ukuran target
   const aMeta = await sharp(bufA).metadata();
   if (!aMeta.width || !aMeta.height) {
-    throw new Error("Gambar A tidak memiliki metadata width/height yang valid.");
+    throw new Error(
+      "Gambar A tidak memiliki metadata width/height yang valid.",
+    );
   }
   const targetW = width ?? aMeta.width;
   const targetH = height ?? aMeta.height;
@@ -59,14 +68,21 @@ export async function comparePixelmatchBuffers(
   const toRGBA = async (
     input: Buffer | Uint8Array,
     w: number,
-    h: number
+    h: number,
   ): Promise<{ data: Uint8Array; w: number; h: number }> => {
     const pipeline = sharp(input).resize(w, h, { fit });
-    const { data, info } = await pipeline.removeAlpha().ensureAlpha().raw().toBuffer({ resolveWithObject: true });
+    const { data, info } = await pipeline
+      .removeAlpha()
+      .ensureAlpha()
+      .raw()
+      .toBuffer({ resolveWithObject: true });
     return { data, w: info.width, h: info.height };
   };
 
-  const [A, B] = await Promise.all([toRGBA(bufA, targetW, targetH), toRGBA(bufB, targetW, targetH)]);
+  const [A, B] = await Promise.all([
+    toRGBA(bufA, targetW, targetH),
+    toRGBA(bufB, targetW, targetH),
+  ]);
 
   const outPNG = returnDiff ? new PNG({ width: A.w, height: A.h }) : null;
 
@@ -76,7 +92,7 @@ export async function comparePixelmatchBuffers(
     outPNG ? (outPNG.data as unknown as Buffer) : undefined,
     A.w,
     A.h,
-    { threshold, includeAA }
+    { threshold, includeAA },
   );
 
   const total = A.w * A.h;

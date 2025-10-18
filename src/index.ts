@@ -18,14 +18,15 @@ async function sheetTransaction(
   sheet: GoogleSpreadsheetWorksheet,
   transactionLimit: number,
   pertamina: Pertamina,
-  accountData: UserLocalData
+  accountData: UserLocalData,
 ): Promise<string> {
   const sheetName = sheet.title;
   const message: string[] = [];
   const nowDate = new Date().getDate();
 
   console.log(`\n[+] Making transaction for ${sheetName} sheet...`);
-  if (sheetName != "Bansos") message.push(`${sheetName} | ${accountData.stock}`);
+  if (sheetName != "Bansos")
+    message.push(`${sheetName} | ${accountData.stock}`);
 
   let loopLimit = 5;
   let bansosLimit = 3;
@@ -44,7 +45,8 @@ async function sheetTransaction(
 
   while (loopLimit > 0) {
     for (const row of rows) {
-      if (accountData.stock <= 0 || transactionLimit <= 0 || errorCount >= 5) break;
+      if (accountData.stock <= 0 || transactionLimit <= 0 || errorCount >= 5)
+        break;
 
       const rawData = row["_rawData"];
 
@@ -52,7 +54,9 @@ async function sheetTransaction(
         if (loopLimit == 1) {
           console.log(`[+] Sheet has reached max column, clearing...`);
           await sheet.clear(`C1:Z${rows.length + 1}`);
-          message.push(`[🟡] Max column reached!, sheet ${sheetName} has been cleared!`);
+          message.push(
+            `[🟡] Max column reached!, sheet ${sheetName} has been cleared!`,
+          );
         }
 
         break;
@@ -63,14 +67,16 @@ async function sheetTransaction(
           const name = rawData[1];
 
           const nik = parseInt(rawData[0].replaceAll(" ", ""), 10).toString();
-          const cellA1Notation = (rawData.length + 1 + 9).toString(36).toUpperCase() + row["_rowNumber"];
+          const cellA1Notation =
+            (rawData.length + 1 + 9).toString(36).toUpperCase() +
+            row["_rowNumber"];
           const sheetA1Notation = `${sheetName}:${cellA1Notation}`;
           const cell = sheet.getCell(row["_rowNumber"] - 1, rawData.length);
           const cellNIK = sheet.getCell(row["_rowNumber"] - 1, 0);
           const cellName = sheet.getCell(row["_rowNumber"] - 1, 1);
 
           const transactionRecord = rawData.filter(
-            (t: string) => parseInt(t, 10) <= 3 && parseInt(t, 10) > 0
+            (t: string) => parseInt(t, 10) <= 3 && parseInt(t, 10) > 0,
           ) as string[];
 
           // Bansos first
@@ -79,7 +85,14 @@ async function sheetTransaction(
             const bansosDB = new Database();
             await bansosDB.doc.loadInfo();
 
-            message.push(await sheetTransaction(bansosDB.doc.sheetsByTitle["Bansos"], 1, pertamina, accountData));
+            message.push(
+              await sheetTransaction(
+                bansosDB.doc.sheetsByTitle["Bansos"],
+                1,
+                pertamina,
+                accountData,
+              ),
+            );
             bansosLimit -= 1;
           }
 
@@ -104,7 +117,10 @@ async function sheetTransaction(
             continue;
           }
 
-          if (niks.exceeded.data.includes(nik) || transactionRecord.length > 5) {
+          if (
+            niks.exceeded.data.includes(nik) ||
+            transactionRecord.length > 5
+          ) {
             console.log(`[-] Exceeded NIK Process Detected!`);
             cell.value = "End";
             continue;
@@ -121,7 +137,7 @@ async function sheetTransaction(
               accountData.stock -= quantity;
 
               message.push(
-                `[🟢] ${sheetName} > Transaction success > ${sheetA1Notation} > ${quantity}/${accountData.stock}`
+                `[🟢] ${sheetName} > Transaction success > ${sheetA1Notation} > ${quantity}/${accountData.stock}`,
               );
 
               // Update NIK Info
@@ -133,7 +149,7 @@ async function sheetTransaction(
             } else {
               console.log(`[-] Error: ${transaction}`);
               message.push(
-                `[🔴] ${sheetName} > Error ${transaction.code}: ${transaction.message} > ${nik} > ${sheetA1Notation}`
+                `[🔴] ${sheetName} > Error ${transaction.code}: ${transaction.message} > ${nik} > ${sheetA1Notation}`,
               );
 
               switch (transaction.code) {
@@ -143,7 +159,10 @@ async function sheetTransaction(
                   }
                   break;
                 case 400:
-                  if (transaction.message == "Transaksi melebihi stok yang dapat dijual") {
+                  if (
+                    transaction.message ==
+                    "Transaksi melebihi stok yang dapat dijual"
+                  ) {
                     errorCount = 5;
                   } else {
                     niks.exceeded.data.push(nik);
@@ -182,12 +201,15 @@ async function sheetTransaction(
   }
 
   if (
-    (transactionLimit > 0 && (accountData.lastUpdate.getDate() != nowDate || sheetName == "Bansos")) ||
+    (transactionLimit > 0 &&
+      (accountData.lastUpdate.getDate() != nowDate || sheetName == "Bansos")) ||
     (accountData.lastUpdate.getDate() != nowDate && nowDate == 1)
   ) {
     console.log(`[+] Transaction limit not reached, clearing sheet...`);
     await sheet.clear(`C1:Z${rows.length + 1}`);
-    message.push(`[🟡] Transaction limit not reached, sheet ${sheetName} has been cleared!`);
+    message.push(
+      `[🟡] Transaction limit not reached, sheet ${sheetName} has been cleared!`,
+    );
 
     if (sheetName != "Bansos") userLimit += 1;
   }
@@ -236,7 +258,10 @@ async function main() {
         db.setUserLocalData(user);
 
         // 60 minutes differences
-        if (Math.abs(new Date(user.lastUpdate).getTime() - new Date().getTime()) < 60 * 60 * 1000) {
+        if (
+          Math.abs(new Date(user.lastUpdate).getTime() - new Date().getTime()) <
+          60 * 60 * 1000
+        ) {
           if (user.stock <= 0 || user.stock >= 500) {
             console.log("[-] Stock: " + user.stock);
             continue;
@@ -290,7 +315,12 @@ async function main() {
           let message: string = "";
           try {
             errorCount = 0;
-            message = await sheetTransaction(sheet, transactionLimit, pertamina, user);
+            message = await sheetTransaction(
+              sheet,
+              transactionLimit,
+              pertamina,
+              user,
+            );
           } catch (e: any) {
             console.log(`[-] Error occured: ${e.message}`);
             message += `\n[🔴] Error occured: ${e.message}`;

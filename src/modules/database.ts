@@ -22,14 +22,16 @@ export interface NIKsLocalData {
 }
 
 export class Database {
-  private userLocalData: UserLocalData[] = JSON.parse(readFileSync("./temp/user.json").toString());
+  private userLocalData: UserLocalData[] = JSON.parse(
+    readFileSync("./temp/user.json").toString(),
+  );
   doc: GoogleSpreadsheet = new GoogleSpreadsheet(
     process.env.SHEET_ID as string,
     new JWT({
       email: process.env.DATABASE_EMAIL as string,
       key: process.env.DATABASE_KEY as string,
       scopes: ["https://www.googleapis.com/auth/spreadsheets"],
-    })
+    }),
   );
 
   getUserLocalData(name: string) {
@@ -48,7 +50,10 @@ export class Database {
       this.userLocalData.push(user);
     }
 
-    writeFileSync("./temp/user.json", JSON.stringify(this.userLocalData, null, "  "));
+    writeFileSync(
+      "./temp/user.json",
+      JSON.stringify(this.userLocalData, null, "  "),
+    );
   }
 
   resetUserCycleSafe() {
@@ -72,7 +77,9 @@ export class Database {
   }
 
   static getNiksArray(): NIKsLocalData {
-    return JSON.parse(readFileSync("./temp/niks.json").toString()) as NIKsLocalData;
+    return JSON.parse(
+      readFileSync("./temp/niks.json").toString(),
+    ) as NIKsLocalData;
   }
 
   static setNiksArray(niks: NIKsLocalData) {

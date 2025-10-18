@@ -22,16 +22,25 @@ interface DominantResult {
 }
 
 const toHex = (n: number) => n.toString(16).padStart(2, "0");
-const rgbToHex = (r: number, g: number, b: number) => `#${toHex(r)}${toHex(g)}${toHex(b)}`;
+const rgbToHex = (r: number, g: number, b: number) =>
+  `#${toHex(r)}${toHex(g)}${toHex(b)}`;
 
 // Kuantisasi 5-bit per kanal (32×32×32 bucket) — stabil & cepat
-const bucketKey = (r: number, g: number, b: number) => ((r >> 3) << 10) | ((g >> 3) << 5) | (b >> 3);
+const bucketKey = (r: number, g: number, b: number) =>
+  ((r >> 3) << 10) | ((g >> 3) << 5) | (b >> 3);
 const bucketCenter = (v5: number) => (v5 << 3) | 0b0011;
 
 /** Hitung warna dominan dari buffer gambar (PNG/JPEG/WebP, dll.) */
 export async function dominantColorFromImageBuffer(
   imageBuf: Buffer | Uint8Array,
-  { sampleSize = 120, ignoreBelow, ignoreAbove, ignoreNearGray = false, grayTolerance = 10, topK }: DominantOptions = {}
+  {
+    sampleSize = 120,
+    ignoreBelow,
+    ignoreAbove,
+    ignoreNearGray = false,
+    grayTolerance = 10,
+    topK,
+  }: DominantOptions = {},
 ): Promise<DominantResult> {
   const { data } = await sharp(imageBuf)
     .resize(sampleSize, sampleSize, { fit: "inside", withoutEnlargement: true })
@@ -48,9 +57,26 @@ export async function dominantColorFromImageBuffer(
       g = data[i + 1],
       b = data[i + 2];
 
-    if (ignoreBelow !== undefined && r < ignoreBelow && g < ignoreBelow && b < ignoreBelow) continue;
-    if (ignoreAbove !== undefined && r > ignoreAbove && g > ignoreAbove && b > ignoreAbove) continue;
-    if (ignoreNearGray && Math.abs(r - g) < grayTolerance && Math.abs(g - b) < grayTolerance) continue;
+    if (
+      ignoreBelow !== undefined &&
+      r < ignoreBelow &&
+      g < ignoreBelow &&
+      b < ignoreBelow
+    )
+      continue;
+    if (
+      ignoreAbove !== undefined &&
+      r > ignoreAbove &&
+      g > ignoreAbove &&
+      b > ignoreAbove
+    )
+      continue;
+    if (
+      ignoreNearGray &&
+      Math.abs(r - g) < grayTolerance &&
+      Math.abs(g - b) < grayTolerance
+    )
+      continue;
 
     const key = bucketKey(r, g, b);
     counts.set(key, (counts.get(key) ?? 0) + 1);
@@ -60,7 +86,10 @@ export async function dominantColorFromImageBuffer(
   if (total === 0 || counts.size === 0) {
     // fallback rata-rata sederhana (jarang terjadi)
     const avg = await averageColor(imageBuf);
-    return { dominant: { ...avg, hex: rgbToHex(avg.r, avg.g, avg.b) }, totalCount: 0 };
+    return {
+      dominant: { ...avg, hex: rgbToHex(avg.r, avg.g, avg.b) },
+      totalCount: 0,
+    };
   }
 
   // Ambil bucket terpadat
@@ -83,7 +112,9 @@ export async function dominantColorFromImageBuffer(
 
   let top: DominantResult["top"];
   if (topK && topK > 1) {
-    const sorted = [...counts.entries()].sort((a, b) => b[1] - a[1]).slice(0, topK);
+    const sorted = [...counts.entries()]
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, topK);
     top = sorted.map(([k, c]) => {
       const r5 = (k >> 10) & 31,
         g5 = (k >> 5) & 31,
@@ -91,7 +122,10 @@ export async function dominantColorFromImageBuffer(
       const rr = bucketCenter(r5),
         gg = bucketCenter(g5),
         bb = bucketCenter(b5);
-      return { color: { r: rr, g: gg, b: bb, hex: rgbToHex(rr, gg, bb) }, count: c };
+      return {
+        color: { r: rr, g: gg, b: bb, hex: rgbToHex(rr, gg, bb) },
+        count: c,
+      };
     });
   }
 
