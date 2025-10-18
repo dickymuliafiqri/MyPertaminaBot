@@ -469,15 +469,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-18T01:08:05.571Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "SUDJIONO",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 27,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-16T01:14:51.058Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-18T01:09:14.247Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
