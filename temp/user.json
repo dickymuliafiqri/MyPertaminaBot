@@ -413,7 +413,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-18T16:05:19.368Z",
-    "cycle": 6
+    "cycle": 7
   },
   {
     "name": "H. JUMAT",
@@ -421,15 +421,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-18T16:16:09.921Z",
-    "cycle": 5
+    "cycle": 6
   },
   {
     "name": "YOGA RAJAN",
     "stock": 0,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-10-17T23:37:48.174Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-18T16:18:43.356Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
