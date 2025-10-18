@@ -541,15 +541,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-18T02:43:07.462Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "HJ. HAERONI",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-16T02:02:27.306Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-18T02:44:21.984Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
