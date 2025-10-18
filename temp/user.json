@@ -565,15 +565,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-18T03:15:21.432Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "DIYAH UTAMI",
     "stock": 0,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-16T02:16:28.184Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-18T03:16:32.807Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
