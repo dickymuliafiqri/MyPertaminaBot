@@ -525,7 +525,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-18T17:37:28.172Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "YULI SORAYA",
@@ -533,15 +533,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-18T17:45:34.584Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "SUSILO",
     "stock": 3,
-    "isTokenValid": true,
+    "isTokenValid": false,
     "isAlive": true,
-    "lastUpdate": "2025-10-18T17:58:37.302Z",
-    "cycle": 5
+    "lastUpdate": "2025-10-18T18:01:02.462Z",
+    "cycle": 6
   },
   {
     "name": "HJ. HAERONI",
