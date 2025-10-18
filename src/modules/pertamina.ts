@@ -478,7 +478,7 @@ export class Pertamina {
             await page.mouse.up();
           }
 
-          for (let y = 0; y < 30; y++) {
+          for (let y = 0; y < 50; y++) {
             await sleep(100);
             if (
               page
