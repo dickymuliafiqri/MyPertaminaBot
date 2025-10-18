@@ -565,7 +565,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-18T03:15:21.432Z",
-    "cycle": 2
+    "cycle": 3
   },
   {
     "name": "DIYAH UTAMI",
@@ -573,15 +573,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-18T03:16:32.807Z",
-    "cycle": 1
+    "cycle": 2
   },
   {
     "name": "SALMAH",
-    "stock": 0,
-    "isTokenValid": false,
+    "stock": 37,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-16T02:17:06.451Z",
-    "cycle": 0
+    "lastUpdate": "2025-10-18T03:17:50.692Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
