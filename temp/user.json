@@ -533,15 +533,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-18T17:45:34.584Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "SUSILO",
     "stock": 3,
-    "isTokenValid": false,
+    "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-18T18:01:02.462Z",
-    "cycle": 6
+    "lastUpdate": "2025-10-18T18:02:00.404Z",
+    "cycle": 7
   },
   {
     "name": "HJ. HAERONI",
