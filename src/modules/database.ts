@@ -61,7 +61,7 @@ export class Database {
 
     for (const user of this.userLocalData) {
       if (!user.name.endsWith("DISABLE")) {
-        if (!isNaN(user.cycle) && user.cycle <= 10) {
+        if (!isNaN(user.cycle) && user.cycle <= 10 && user.stock > 0) {
           doReset = false;
           break;
         }
