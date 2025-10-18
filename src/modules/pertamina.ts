@@ -377,7 +377,7 @@ export class Pertamina {
           .pressSequentially(nik);
         await page.getByRole("button", { name: "LANJUTKAN PENJUALAN" }).click();
 
-        if (customerType.name != "Rumah Tangga") {
+        if (customer.data.customerTypes.length > 1) {
           await page.getByText(customerType.name).click();
           await page
             .getByRole("button", { name: "LANJUTKAN TRANSAKSI" })
