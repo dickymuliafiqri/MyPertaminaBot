@@ -557,7 +557,7 @@
     "isTokenValid": false,
     "isAlive": true,
     "lastUpdate": "2025-10-18T18:06:33.606Z",
-    "cycle": 10
+    "cycle": 11
   },
   {
     "name": "DARMAWAN P",
@@ -565,7 +565,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-18T18:07:26.603Z",
-    "cycle": 9
+    "cycle": 10
   },
   {
     "name": "DIYAH UTAMI",
@@ -573,7 +573,7 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-18T18:08:27.577Z",
-    "cycle": 8
+    "cycle": 9
   },
   {
     "name": "SALMAH",
@@ -581,15 +581,15 @@
     "isTokenValid": true,
     "isAlive": true,
     "lastUpdate": "2025-10-18T18:20:23.273Z",
-    "cycle": 7
+    "cycle": 8
   },
   {
     "name": "TOKO ANITA",
-    "stock": 18,
+    "stock": 15,
     "isTokenValid": true,
     "isAlive": true,
-    "lastUpdate": "2025-10-18T18:21:59.716Z",
-    "cycle": 1
+    "lastUpdate": "2025-10-18T18:24:21.776Z",
+    "cycle": 2
   },
   {
     "name": "TK. LUCKY",
